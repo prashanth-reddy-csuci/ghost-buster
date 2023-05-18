@@ -26,6 +26,7 @@ if __name__ == "__main__":
     if not os.path.exists("gpt/logprobs"):
         os.mkdir("gpt/logprobs")
 
+    print("Generating Articles...")
     for idx in tqdm.tqdm(range(num_docs)):
         if os.path.exists(f"gpt/{idx}.txt"):
             continue
@@ -48,3 +49,15 @@ if __name__ == "__main__":
         reply = response["choices"][0]["message"]["content"].strip()
         with open(f"gpt/{idx}.txt", "w") as f:
             f.write(f"{prompt}\n{reply}")
+
+    print("Writing logprobs...")
+    for idx in tqdm.tqdm(range(num_docs)):
+        if os.path.exists(f"gpt/logprobs/{idx}.txt"):
+            continue
+
+        with open(f"gpt/{idx}.txt") as f:
+            file = f.read().strip()
+            doc = file[file.index("\n") + 1:].strip()
+
+        write_logprobs(doc, f"gpt/logprobs/{idx}-davinci.txt", "davinci")
+        write_logprobs(doc, f"gpt/logprobs/{idx}-ada.txt", "ada")
