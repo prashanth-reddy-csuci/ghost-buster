@@ -1,4 +1,3 @@
-Online Service Providers Cautious of Internet Society's Plan to Expand Address Names
 The Internet Society's recent announcement to expand the Internet's address book system has raised concerns among online service providers. The plan, referred to as the New Generic Top-Level Domain Program, will allow individuals and companies to register domain names that use words and phrases that are not part of the existing domain system.
 The current domain system uses 22 generic top-level domains like .com, .org, and .net, which are used to classify different types of websites. However, the new program will add hundreds of new domains, including .bank, .hotel, .book, and .sucks, among others.
 While some have welcomed the new program as an opportunity to create targeted communities or promote their brand, others are cautious about the potential consequences of the expansion.

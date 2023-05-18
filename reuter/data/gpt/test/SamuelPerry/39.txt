@@ -1,4 +1,3 @@
-Intel challenges network equipment market with aggressively priced products
 Intel, the American multinational corporation, is challenging the networking equipment market with its aggressively priced products. The company announced new products, including Intel Atom® Processor C3000 and Intel Xeon® Processor D-2100, which promise to deliver high-performance features at compelling costs.
 The move by Intel comes as the market for network equipment continues to grow at an unprecedented rate. According to a recent report by Grand View Research, the global networking equipment market size is expected to reach $94.24 billion by 2025, growing at a CAGR of 7.6% from 2019 to 2025.
 With its new range of products, Intel is aiming to grab a share of this burgeoning market by challenging the likes of Cisco, Juniper Networks, and Arista Networks, who have been dominating the market for years.

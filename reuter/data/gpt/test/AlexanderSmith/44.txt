@@ -1,4 +1,3 @@
-NatWest Markets senior management unaware of interest rate options pricing problem until days before losses made public
 NatWest Markets, the investment banking arm of the Royal Bank of Scotland (RBS), suffered a loss of £193m due to a pricing problem in its interest rate options portfolios in the first quarter of 2019. NatWest Markets senior management was reportedly unaware of the problem until days before the losses were made public.
 The pricing problem was apparently caused by a lack of data input validation checks and a lack of control in the pricing of options. As a result, the market risk profile of the options portfolios was significantly misstated.
 According to reports, NatWest Markets had been aware of these problems for months, but senior management was only informed of the issue shortly before the losses were made public. This raises questions over how the bank is being run and whether or not it has adequate risk management systems in place.

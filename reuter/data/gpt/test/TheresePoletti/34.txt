@@ -1,4 +1,3 @@
-Citrix Systems Inc. Shares Plummet as Microsoft Develops Competing Software
 Citrix Systems Inc., the leading provider of virtualization, networking, and cloud computing technologies, has suffered a great blow as Microsoft Corporation is developing its own software to compete with Citrix Workspace.
 The news sent shares of Citrix Systems plummeting shortly after the announcement was made. The stock was down more than 20% at the opening bell, dropping to its lowest point in six months.
 Microsoft’s new software, dubbed Windows Virtual Desktop, will offer virtual desktops and remote desktop services to enterprise customers. This will be integrated with the Microsoft Azure cloud platform and Office 365, giving users a seamless experience across all devices and operating systems. 

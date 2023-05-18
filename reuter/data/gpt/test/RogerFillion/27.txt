@@ -1,4 +1,3 @@
-Regulators Auction Off Slice of Spectrum for Wireless Internet and Local Phone Networks
 In a milestone event for the wireless industry, regulators have auctioned off a slice of spectrum for wireless Internet and local phone networks. The auction, which was held recently, saw intense bidding from major players in the industry, signaling fierce competition and interest in the new spectrum.
 The slice of spectrum, known as the C-band, covers a range of frequencies between 3.7 GHz and 4.2 GHz. It is considered to be a highly valuable and sought-after spectrum since it is capable of carrying large amounts of data over long distances.
 The Federal Communications Commission (FCC) conducted the auction, which was open to all qualified bidders. The FCC raised over $81 billion from the auction, which surpassed its initial estimates of around $47 billion. This makes it one of the largest spectrum auctions in history, and the largest auction of mid-band spectrum.

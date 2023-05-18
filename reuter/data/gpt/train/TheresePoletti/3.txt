@@ -1,4 +1,3 @@
-Netscape Unveils Low-Cost Software for Corporate Networks, Embraces Microsoft in Market Battle
 Netscape Communications Corp. revealed a low-cost version of its software for corporate networks on Monday to help the company compete in a crowded market with rival Microsoft Corp.
 The new software, called Netscape SuiteSpot 3.0, bundles several applications designed to help businesses manage email, Internet access and corporate intranets. Netscape SuiteSpot 3.0 is priced at $1,295 per server, the lowest price point for the company's software for corporate networks.
 Netscape's move comes as it faces increasing pressure from market leader Microsoft. According to the latest figures from International Data Corp., Microsoft held a commanding lead in the corporate server software market with 40 percent market share in 1997, while Netscape had only 8 percent.

@@ -1,4 +1,3 @@
-New device turns personal computer into an ATM for dispensing electronic cash
 A new device has been developed that can turn a personal computer into an ATM for dispensing electronic cash. This innovative device is set to revolutionize the way we access our money, making withdrawing electronic cash more convenient and secure than ever before.
 The device, called the "eCash Dispenser", has been developed by a team of engineers and software developers based in Silicon Valley. It is designed to work with any personal computer or laptop, and can be easily installed and set up by anyone with basic computer skills.
 What makes the eCash Dispenser unique is its ability to securely dispense electronic cash directly to its users. This means that users will no longer have to go to an ATM or a bank branch to withdraw their electronic cash, saving them time and money.
