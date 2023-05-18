@@ -1,0 +1,14 @@
+Microsoft set to report modest earnings growth despite tough comparisons and sales slowdown
+Despite challenging macroeconomic conditions and a slowdown in sales of its core products, Microsoft is set to report modest earnings growth for the quarter ending June 30, 2021, due to strong demand for cloud services and productivity tools.
+Analysts expect the tech giant to report earnings of $1.91 per share on revenue of $44.1 billion, up 4% and 16% respectively from the same period last year when the pandemic drove a surge in demand for its products.
+However, the comparison is tougher this year as the company benefited from a one-time gain of $450 million in the year-ago period related to the closure of its Physical Stores.
+Microsoft's flagship product, Windows, faced headwinds due to a global shortage of semiconductors and slower PC sales in China, the world's largest market.
+This was partially offset by strong demand for its cloud services, Azure and Dynamics 365, as more businesses moved their operations to the cloud to enable remote work and digital transformation.
+In the previous quarter, Microsoft's Intelligent Cloud segment, which includes Azure and server products, grew 23% year-over-year to $14.6 billion, while Productivity and Business Processes, which includes Office 365 and LinkedIn, rose 15% to $13.6 billion.
+Meanwhile, its More Personal Computing segment, which includes Windows, Surface, and gaming, saw revenue decline 2% to $12.9 billion due to lower Windows licensing revenue.
+Despite the sales slowdown, Microsoft has been investing heavily in expanding its cloud business, which is expected to be a key driver of revenue growth in the future.
+In recent years, the company has been expanding its cloud infrastructure, launching new data centers and services, and acquiring cloud-focused companies such as GitHub and Nuance Communications.
+In April, Microsoft announced its largest acquisition yet, buying speech recognition firm Nuance Communications for $16 billion to bolster its healthcare cloud offerings.
+The company's aggressive push into the cloud and its ability to capitalize on the growing trend of remote work and digital transformation have helped it weather the pandemic and emerge stronger.
+As businesses continue to prioritize digital transformation in the post-pandemic world, Microsoft's cloud business is expected to remain a key driver of earnings growth.
+Despite the challenges posed by the pandemic and the sluggish sales of its core products, Microsoft's diversified revenue streams and strong position in the cloud market are expected to help it deliver modest earnings growth in the current quarter and beyond.
