@@ -18,7 +18,7 @@ def filter_split(split):
                 doc = doc[len(headline):].strip()
                 with open(f"gpt/{split}/{author}/{i}.txt", "w") as f:
                     f.write(doc)
-            
+
             if doc[0] == ".":
                 doc = doc[1:].strip()
                 with open(f"gpt/{split}/{author}/{i}.txt", "w") as f:
