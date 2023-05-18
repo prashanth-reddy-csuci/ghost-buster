@@ -1,4 +1,3 @@
-.
 The world of financial news is set to see a new entrant, as M.A.I.D, the financial data and analytics provider, is set to launch a screen-based real-time news service to rival the likes of Reuters and Bloomberg.
 The new service, scheduled to go live in the second quarter of this year, will offer a vast array of news, market analysis and data across a range of asset classes including equities, fixed income, currencies and commodities.
 M.A.I.D's real-time news service will be available to all subscribers of the company's flagship data terminals as well as on the company's web-based platform. The move comes as the company seeks to expand its service offering and leverage its extensive data sets and analytics capabilities.

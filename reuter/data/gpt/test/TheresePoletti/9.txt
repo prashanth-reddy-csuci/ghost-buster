@@ -1,4 +1,3 @@
-.
 IBM has reported its fourth-quarter earnings that exceeded Wall Street's expectations, thanks to a boost in its service business and software sales. The company's revenue for the quarter came in at $20.358 billion, beating the analysts' consensus estimate of $20.697 billion, according to Refinitiv data.
 The tech giant's earnings per share were $2.07, which were down by 66 cents from the same quarter in the previous year. However, this still exceeded the estimated $1.82 earnings per share. The company's net income for the quarter was $1.36 billion, compared to $3.67 billion in the same period last year.
 IBM's services business witnessed a 2% increase in revenue to $6.93 billion, mainly due to its growth in cloud-hosting deals. The company has been shifting its focus more towards cloud computing and artificial intelligence in recent years to enhance its service offerings and maintain a competitive edge.
