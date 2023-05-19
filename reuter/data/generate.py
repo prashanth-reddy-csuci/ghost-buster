@@ -91,6 +91,6 @@ if __name__ == "__main__":
     # Generate articles
     print("Generating Train Articles")
     generate_gpt_articles(split="train", verbose=True)
-    
+
     print("Generating Test Articles")
     generate_gpt_articles(split="test", verbose=True)
