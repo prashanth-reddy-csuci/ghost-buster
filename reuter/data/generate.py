@@ -80,6 +80,30 @@ def generate_gpt_articles(split, verbose=False):
                 f.write(article)
 
 
+def generate_gpt_logprobs(split, verbose=False):
+    """
+    Generate logprobs for train/test split of GPT articles.
+    """
+    global authors
+    authors = tqdm.tqdm(authors) if verbose else authors
+
+    for author in authors:
+        for i in range(50):
+            # If the document already exists, skip it
+            if os.path.exists(f"gpt/{split}/{author}/logprobs/{i}-ada.txt"):
+                continue
+
+            with open(f"gpt/{split}/{author}/{i}.txt") as f:
+                text = f.read().strip()
+
+            write_logprobs(
+                text, f"gpt/{split}/{author}/logprobs/{i}-davinci.txt", "davinci"
+            )
+            write_logprobs(
+                text, f"gpt/{split}/{author}/logprobs/{i}-ada.txt", "ada"
+            )
+
+
 if __name__ == "__main__":
     # Create folders (if not present already)
     for author in authors:
@@ -94,3 +118,7 @@ if __name__ == "__main__":
 
     print("Generating Test Articles")
     generate_gpt_articles(split="test", verbose=True)
+
+    print("Generating logprobs")
+    generate_gpt_logprobs(split="train", verbose=True)
+    generate_gpt_logprobs(split="test", verbose=True)
