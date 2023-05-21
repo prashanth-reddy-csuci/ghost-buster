@@ -4,7 +4,7 @@ import time
 import openai
 import math
 
-from utils import write_logprobs
+from utils.write_logprobs import write_logprobs
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -90,18 +90,18 @@ def generate_gpt_logprobs(split, verbose=False):
     for author in authors:
         for i in range(50):
             # If the document already exists, skip it
-            if os.path.exists(f"gpt/{split}/{author}/logprobs/{i}-ada.txt"):
-                continue
-
             with open(f"gpt/{split}/{author}/{i}.txt") as f:
                 text = f.read().strip()
 
-            write_logprobs(
-                text, f"gpt/{split}/{author}/logprobs/{i}-davinci.txt", "davinci"
-            )
-            write_logprobs(
-                text, f"gpt/{split}/{author}/logprobs/{i}-ada.txt", "ada"
-            )
+            if not os.path.exists(f"gpt/{split}/{author}/logprobs/{i}-ada.txt"):
+                write_logprobs(
+                    text, f"gpt/{split}/{author}/logprobs/{i}-ada.txt", "ada"
+                )
+
+            if not os.path.exists(f"gpt/{split}/{author}/logprobs/{i}-davinci.txt"):
+                write_logprobs(
+                    text, f"gpt/{split}/{author}/logprobs/{i}-davinci.txt", "davinci"
+                )
 
 
 if __name__ == "__main__":

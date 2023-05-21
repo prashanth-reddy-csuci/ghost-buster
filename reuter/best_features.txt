@@ -1,0 +1,4 @@
+trigram-logprobs v-> ada-logprobs s-avg
+davinci-logprobs s-var
+davinci-logprobs v-mul ada-logprobs s-var
+ada-logprobs s-avg
