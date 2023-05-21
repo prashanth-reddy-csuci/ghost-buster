@@ -1,0 +1,4 @@
+The tree data model is used in computer science for things like file systems and search algorithms. Trees are also used in modelling chemical structures and biological systems.
+This coursework will investigate tree models as applied to binary search and also look at the procedure for inserting data into such a tree. This coursework will result in a better understanding of how to model a problem based on the tree model.
+The In this case, where a binary tree will be used, the degree is 2.
+An algorithm is to be devised to The following datasets will be involved:

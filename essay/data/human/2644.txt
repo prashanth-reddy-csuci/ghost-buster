@@ -1,0 +1,19 @@
+To look at the effects three different acids have on the freezing point of water. Through experiment the depression of water's freezing point will be studied and the results used to calculate the Van't Hoff factor for each acid and therefore the degree of dissociation of each acid.
+A colligative property is one that depends only upon the concentration of a solute and not upon its nature. The colligative properties of electrolyte solutions are more complicated than those of non-electrolytes because the solute dissociates into free ions and because the ions in the solution are then subject to strong interactions. However colligative properties can be used to give a rough indication of the number of particles present in a solution, and hence the extent of dissociation of an electrolyte in solution.
+The depression of a freezing point is one example of a colligative property. The depression, When defined in this way In the case of an electrolyte which dissociates into i particles when it dissolves, Hence:
+k For water, k
+i is the Van't Hoff factor. It is 1 for non-electrolytes and 2 for strong 1:1 electrolytes like NaCl which are fully dissociated into two ions. For a weak acid HA, with a degree of dissociation
+For a solution of a monoprotic weak acid of concentration c and degree of dissociation Different equations apply for polyprotic acids.
+Strictly colligative properties depend on the molality (moles of solute per kg of solvent) rather than the concentration or molarity (moles of solute per dm Molality is independent of temperature and pressure whereas concentration is not, so k The value k
+R is the gas constant, 8.314 J K
+T
+M is the molar mass of the solvent in kg mol
+150cm The flasks were shaken frequently until the temperature of each solution was below 3 Just enough of one chilled solution was added to each flask to cover the surface of the ice.
+Each ice solution mixture was stirred thoroughly. After 5 minutes the calibration of a -20 to +20 x 0.1 The thermometer was then transferred to the Dewar flask containing the ethanoic acid-ice mixture. The mixture was stirred and the temperature recorded once the reading had steadied, with the thermometer in the middle and not the bottom of the ice. Three 5cm The three samples were set aside and later titrated against 0.3M sodium hydroxide from a 50cm
+This operation was repeated for each of the other acids.
+Exact concentration of 0.3M NaOH: 0.29765 mol dm
+Reading of thermometer in melting ice: 0.10
+Results for each acid:
+Mean Volume delivered = 19.63
+Mean Volume delivered = 17.50
+Mean Volume delivered = 37.20 (3rd titration anomalous so not included in mean)

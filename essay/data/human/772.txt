@@ -1,0 +1,24 @@
+George Green published his Described by Green's advocate, Edward Bromhead as 'dead born' It was only in January 1845, nearly four years after Green's death that William Thomson (later Lord Kelvin) obtained a copy and, amazed by it contents, brought it to the attention of the leading French mathematicians of the time. Almost two hundred years on, Green's results are still frequently used by mathematicians and physicists alike; not only in electrical engineering, but also in a diverse range of modern applications from the theory of quantum electrodynamics to the study of the Mandelbrot set
+The
+Green began his He denoted by
+He then defined a function
+His opening claim, based on a result from Laplace's
+which he abridged to
+Green's next step was to consider the same function for a point He showed that in this case Green then used this equation to demonstrate that in a perfectly conducting body all of the 'electric fluid' is carried to the surface. In other words, that It was in presenting this result that Green coined the term 'potential function' - a particularly intuitive name for a function that describes the forces impelling and repelling particles (in this case 'of electricity') in a given system - the introduction of which Gray describes as Green's 'deepest insight'
+This demonstration was immediately followed by a theorem:
+This theorem is now known as Green's theorem and was one of Green's most significant accomplishments (along with what are now called Green's functions; introduced later in the Essentially it relates the properties of the two functions inside the body with those on the surface.
+Green began his proof by considering the triple integral
+for which integration by parts gave
+where
+He then observed that, since
+and analogous substitutions for the other limits, giving rise to the expression
+Green also noted that the integrals with respect to
+Finally, by noting that inverting the roles of
+equation
+completing the proof of his theorem.
+Green's One of the most significant is Green's modest education. Green was born in 1793 the son of a baker. At the age of eight he was sent to Robert Goodacre's Academy in Nottingham.
+Challis describes Goodacre as an enthusiastic science teacher However Green only remained at the academy for four terms at which point he returned to work at his father's bakery. He was to receive no further teaching until his move to Cambridge in 1833, five years after the publication of his
+In 1807, when Green was fourteen, his father built a windmill at Sneinton, then a village about a mile from Nottingham. He left the bakery to help operate the mill and it is likely that this is where he would have spent calmer days studying mathematics. However, it is not known how Green came acquainted with the advanced mathematics he appeared to be studying - there were still no public libraries at this point. One theory is that Green may have known John Toplis, a Cambridge graduate in mathematics living in Nottingham and an avid promoter of French mathematics;
+The opening of Bromley House (later the Nottingham Subscription Library) in 1816 was undoubtedly a tremendous boost to Green's resources. Green joined the library in 1823 and there he would have had access to a modest collection of textbooks and scientific journals. These journals would have included abstracts from papers published in foreign journals and hence would have given Green access to some of the new Mathematics being developed abroad.
+Green's essay was also strikingly original. British mathematicians were still relying on Newtonian methods. Their research centred around traditional concepts such as mechanics, optics, astronomy and planetary motion. Green's calculus, on the other hand, was very analytical - reflecting a sound understanding of methods recently developed in France by the likes of Laplace and Poisson - and his examples were based on the new physics of the time: electricity and magnetism, 'the most interesting of physical sciences'
+It could perhaps be argued that Green's methods were not always particularly rigorous and the notions of 'electric fluid' and 'particles of electricity' he used seem somewhat vague compared to our modern terminology of charge and electrons. However his ideas were particularly original and expressed with exceptional clarity. Most striking of all however, is the longevity if his results. The fact that mathematicians and physicist are forever finding new applications for Green's techniques is evidence of just how flexible and powerful they really are.

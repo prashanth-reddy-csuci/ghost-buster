@@ -1,0 +1,17 @@
+Biologists use various types of microscopes to see and study cells. The two key concepts in microscopy are
+ E.g.
+ An image of a cell is formed when light (in a light microscope) or electrons (in an electron microscope), are focused. Particles or membranes in cells can be seen as separate objects if they are further apart than half the wavelength of light of the beam of electrons used.
+N.B. the main difference is that magnification is the ability of the lens to enlarge the image of an object.
+ 1) in 1609.
+In the 17 2). He could make clear description of microbes within a drop of water.
+ For light the limit is 0.18
+- Refraction occurs when light travels from one medium into another.
+- The oil reduces the amount of light refraction when passing through the slide and specimen.
+- The light refracts again as it leaves the glass of the slide and enters the air.
+- Refraction repeats when light travels from the immersion oil into lens. Light is refracted inwards
+- Eventually, more diffraction is collected by the lens.
+- The more diffraction orders (image information) collected to form the resultant image, the higher the resolution the lens possess.
+N.B. This technique refers to the use of oil
+As the The higher the N.A. of a lens the better its resolving power and the brighter the image it can produce.
+Substage illumination (Light source) - light of   Since blue has the shortest wavelength of visible light in the electromagnetic spectrum.
+A shorter wavelength of illumination is needed to improve the resolving power of an microscope, which can be achieved using This is because resolution of an image is limited by the wavelength of radiation used to view the sample. Electrons are fired and radiated in the form electrons beam. A much greater resolution can be achieved at about 0.5nm.

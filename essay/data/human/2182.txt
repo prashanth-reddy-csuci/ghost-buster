@@ -1,0 +1,25 @@
+Surface tension shows the forces of attraction between liquid (or solid) which hold molecules together. For the determination of surface tension of liquid, Jaeger's method and Cambridge surface tension balance will be used in this experiments. Further more, the surface activity of a liquid will be determined by comparing with water.
+There are several methods for measuring surface tension:
+In this experiments, we use Jaeger's method and Cambridge method.
+Taken from page 174 from the course book
+After the experiments were carried out properly according to the steps described above, the experiment results and findings are discussed as follows:
+Surface tension is the force coursed by the attraction between the surface molecules and the inner molecules of a liquid. The surface molecules of a liquid are pulled toward the center of a mass of liquid by the inner molecules, causing the surface area of the liquid pulls itself as small as possible. The energy needed to break through the surface of a liquid or disrupt a drop is the surface tension of the liquid.
+Water has a greater surface tension than most other common liquids. So we say that water has a very high surface tension value. In addition, 'liquids which has a very high surface tension value also have high latent heat values.'
+'compounds that reduce the surface tension of a liquid are said to be surface active'
+taken from the top of page 170
+as we mentioned above, water has a very high surface tension value, so:
+If the surface tension value of the liquid < surface tension of water
+This liquid is surface
+If the surface tension value of the liquid > surface tension of water
+This liquid is surface
+Form the tables6.3 shows on page 171. When the temperature is 20 degree:
+To compare my results with literature values, the values we got are somehow all lower than the literature values. That is because of the temperature.(explain later)
+What's more, although we do everything carefully, there still be some errors. As the second part (determine whether those solid are surface active).
+As we realized, the surface tension of sugar is 55 dyne/cm, and is surface inactive.
+In other case, the surface tension of water is 56 dyne/cm, which means the value of sugar is less than water, it should be active.
+However, we did not notice the temperature change during the experiment.
+The fact is:
+(
+So, while we measure sugar, the surrounding temperature was increase, so the value we get of sugar is lower than expect. (might be sunshine go through the window at that time.)
+This point also appeared in the other components (liquid and solid) during the experiments.
+In the experiments described above, we recognize the method of measuring surface tension by Jaeger's method and the surface properties of several liquids. Further more, we also determine the surface activity of some components by comparing the value with water. In the laboratory, we realize the temperature is an effecter of surface tension, which means the surface tension changes gradually as the temperature vary.

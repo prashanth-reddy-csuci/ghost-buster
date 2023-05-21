@@ -1,0 +1,33 @@
+The system equations, given that the initial conditions are zero, are
+These system equations may be written in matrix form as follows:
+Note that
+Hence
+The stiffness factor is given by
+Hence
+Using partial fractions:
+Comparing left and right hand sides, there are no
+Substituting then taking the inverse Laplace transform gives:
+As the system in question is a two-compartment model with exponential decay,
+Factoring out the smallest component gives:
+If Taking logs gives:
+Plotting log The plot below was created using the following MatLab code:
+The y-intercept is at -18.29 so
+The gradient can be found from two data points:
+Again, assuming Taking logs gives:
+Plotting log The plot below was created using the following MatLab code:
+A linear best-fit approximation was used to obtain values of the y-intercept and gradient as follows:
+The y-intercept is at -19.426 so
+The gradient is simply 9.135 10
+In order to use the Nelder-Meade Simplex algorithm, a column vector of the values was set up and then the algorithm was iterated until a best fit was obtained. The values are (10
+Substituting the values obtained here back into the exponential equation gives:
+Laplace transforming the equation from question 5 above gives:
+From the question paper, Substituting these values into the equation obtained in section 4 and comparing to the above equation gives:
+By comparison, Substituting these values gives:
+There is also an alternative if the values of are substituted the other way around:
+By comparison, Substituting these values gives:
+Hence the possible solution sets are:
+The two sum of exponential curves obtained in questions 4 and 5 are as follows:
+Obtained by substituting values of
+These equations were plotted in MatLab using the following code:
+data1 is the plot of the model generated theoretically in question 4; data2 is the plot of the model generated using the Nelder-Meade simplex algorithm in question 5. Both models provide a reasonable match to most of the data, however the difference between the two methods can be seen below:
+The magnitude of the difference spikes initially very early on, however it rapidly drops and then increases more gradually over time. This suggests that the models diverge over time; assuming the trend continues, this means that eventually one model is likely to provide a far better fit to the data than the other. In this case, it appears that, while data1 gives a smoother fit, data2 takes account of the detailed experimental data and therefore initially fits the data very well. However, as data2 takes account only of the provided experimental values whereas data1 uses the average values over time, it is likely that data1 would provide a much better fit after a significant period of time.

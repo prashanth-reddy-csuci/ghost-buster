@@ -1,0 +1,5 @@
+Trypsin is a major protease or proteolytic enzyme - endopeptidase in the duodenum of the human alimentary canal. It catalyses protein digestion and results in peptides.
+Does
+In this practical, TI is extracted from defatted soyabean meal and incubated under standard conditions (standard - without TI, heated and unheated TI) therefore used to determine
+TIA shows the amount (mg) of pure trypsin inhibited per gram of sample. The
+The anomalous inhibition percentage of heated samples is due to high anomalous HSaB absorbance value = 0.095). However, TIAs are more reliable in this case to show that heated samples have a lower TIA value than unheated ones. Despite it is expected to be much lower than 49.3mg/g sample because of the denatured and inactivated TI, thus no inhibition, unless, there is another protein inhibitor: "there are two types of these (protein) inhibitors (Kunitz trypsin inhibitor and bowman-birk inhibitor)" in soyabeans

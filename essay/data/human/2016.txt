@@ -1,0 +1,30 @@
+Vinegar is formed by aerobic bacteria oxidizing grain alcohol to acetic acid and water. More generally, vinegar can be defined as a solution composed of acetic acid (HC2H3O2), water, and, perhaps, other substances.
+The objective of this experiment is to measure the total acid concentration in given samples of vinegar.
+The method used to measure the total acidity of the vinegar being studied is an analytical
+chemistry technique called an acid-base titration. A titration mixes two solutions which contain reactants for a known chemical reaction under conditions such that:
+a) The point at which both reactants have been completely consumed by the known reaction can be detected (end point)
+b) The amount of one reactant can be calculated from the known concentration of reactant in a standard solution, the volume of standard solution used, and the balanced known chemical equation.
+For an acid-base titration, the known chemical reaction in general is:
+and for the titration of the vinegar in this experiment the following specific reaction will be used to calculate the acetic acid content of the vinegar sample:
+Sodium hydroxide will be the standard reactant solution for this titration, and acetic acid the calculated unknown reactant.
+The end point in this experiment will be detected with an acid/base indicator. An
+acid / base indicator is a colored substance with two or more different colors depending on the value of the pH of the solution. Indicators are also very weak acids or bases and react with added acid or base if no other base or acid is present in a solution. Phenolphthalein is the indicator used in this experiment, and phenolphthalein is colorless in acid and neutral solutions but is red in basic solutions. The phenolphthalein will change color with the addition of a single drop of sodium hydroxide if no other acid (acetic acid for this experiment) is present in the phenolphthalein-sodium hydroxide solution.
+We first needed to prepare and standardize the NaOH solution via titration with a primary acid standard, potassium hydrogen phthalate (KHP) 0.1M using as a colour indicator phenolphthalein.
+We then had to titrate with our standardized base to determine the total acid content of our vinegar samples and express the results as acetic acid (%m/v).
+ We also titrated 25 ml of the diluted sample instead of 20 ml.
+Using a pH paper, we had to determine the approximate pH values of the original undiluted samples of vinegar.
+Finally, we had to add a few drops of barium chloride solution to separate aliquots of the original undiluted vinegar samples in test tubes and record our observations.
+We had to do the same procedure as above, adding silver nitrate solution this time.
+For the calculation of the
+Titration:
+For the
+1st Sample:
+But the sample was diluted by 4x.
+So in order to find the % w/v we should multiply w% by 4 times.
+2nd Sample:
+But the sample was diluted by 4x.
+So in order to find the % w/v we should multiply w% by 4 times.
+3rd Sample:
+But the sample was diluted by 4x.
+So in order to find the % w/v we should multiply w% by 4 times.
+Where:

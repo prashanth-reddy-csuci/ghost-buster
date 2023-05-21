@@ -1,0 +1,15 @@
+To develop practical, efficient and flexible routes to 1,2-diamines using the four membered diazetidine ring as a building block.
+To develop efficient methods for the synthesis of
+To use asymmetric lithiation/electrophilic substitution reactions of
+To investigate the cycloaddition of
+Diazetidine There have been several reports on the synthesis of related compounds.
+Firl and Sommer have reported the reaction of dimethyl azodicarboxylate and phenyl vinyl sulphide to give a mixture of the [2+2] and [2+4] cycloadducts (scheme 1). Reductive removal of the SPh group could be affected by Bu
+The nitrogens in Enantioselective deprotonation with Reductive cleavage of the N-N bond should provide enantiomerically enriched 1,2-diamines (scheme 2).
+The [2+2] cycloaddition is thought to proceed via a dipolar intermediate,
+More recently Miao and Xu have reported on the synthesis of chiral 3-substituted 1,2-diazetidines via an intermolecular cyclisation,
+This cyclisation is shown to be general to a range of carbamate protecting groups and alkyl substituents at the 3- position. Should this method work for substrates unsubstituted at the 3 position it will provide a more efficient route to our target 1,2-diazetidine.
+Another approach to diazetidine has been explored in the conformationally locked system Although our interests are in the formation of rather less substituted diazetidines, a photochemical approach will be explored in addition to the standard ionic chemistry.
+The common techniques employed by the organic chemist will be used in this project. Reaction monitoring will be done primarily by thin layer chromatography and
+Column chromatography on silica gel is expected to be the primary method of purification. Recrystallisation will be used where necessary. Thought will be given also to more time efficient techniques such as elution through exchange columns or other specific methods to separate the desired product.
+Due to the thermal lability of This will bring new experience of these techniques.
+Product characterisation will be done by Where proof of purity is required CHN analysis or

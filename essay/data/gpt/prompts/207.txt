@@ -1,0 +1,1 @@
+What is cryptography and how has it evolved over time to shape modern e-commerce? Explain the difference between private-key cryptography and public-key cryptography and why public-key cryptography is regarded as more secure. Provide a brief history of the development of public-key cryptography and explain how it works mathematically.

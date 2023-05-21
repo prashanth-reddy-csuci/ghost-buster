@@ -1,0 +1,38 @@
+The aim of the experiment was to determine the total acidity of vinegar. The titration in the experiment involved standardisation of NaOH. This was because NaOH was hygroscopic and absorbed carbon dioxide so could not be used as a primary standard. NaOH was standardised against potassium hydrogen phthalate.
+For details of both methods see practical schedule. No alterations were made to the method.
+Preparation of standard sodium hydroxide solution.
+Three titre within
+Determination of the total acidity of vinegar
+pH values of the 3 samples of vinegar
+Results of diluted vinegar sample tested with:-
+Standard of NaOH
+Potassium hydrogen phthalate
+But 27.95 ml NaOH
+So NaOH is weaker by
+Then 1 litre of 1M NaOH
+But 0.089 NaOH, so 1 litre of 0.089M NaOH
+1 litre of 0.089M NaOH
+For sample 1 the titre was 53.7 ml
+0.2868 g came from 25ml of the diluted sample (total volume of 100ml) so 25ml of undiluted sample has
+Undiluted sample has
+Therefore in 100ml
+For sample 2 the titre was 28.35 ml
+0.1514 g came from 25ml of the diluted sample (total volume of 100ml) so 25ml of undiluted sample has
+Undiluted sample has
+Therefore in 100ml
+For sample 3 the titre was 80.35 ml
+0.4291 g came from 25ml of the diluted sample (total volume of 100ml) so 25ml of undiluted sample has
+Undiluted sample has
+Therefore in 100ml
+The results for the total acidity showed that all the vinegar samples varied in acidity. Sample 3 had the strongest acidity at 6.87%, and then sample 1 with 4.59% and sample was the weakest with only 2.42% acetic acid. Vinegar samples 1 and 3 would meet the legal standard because for both fermented and artificial products the minimum amount of acetic acid is 4% m/V. Sample 2 did not meet the legal standard as it contained only 2.42% m/V acetic acid.
+The pH of the three vinegar sample ranged from pH 1.0 - 3.0. Sample 3 had the lowest pH of 1.0. This sample was also the gave a positive creamy white precipitate with silver nitrate solution. This suggested that the sample may have been contaminated with a mineral acid.
+Mineral acids, i.e H
+i.e. HCl
+(This reaction is reversible but the forward reaction is favourable.)
+However, organic acids, i.e. CH
+i.e. CH
+(Also a reversible reaction but the backward reaction is favoured.)
+Since the pH = -log [H+], mineral acids have a low pH between 1-2, whereas organic acids have a higher pH between pH 3-4. Sample 3 therefore was contaminated with a mineral acid, HCl as the test for chloride ions is silver nitrate and it was positive.
+The effect of relatively large amounts of phenolphthalein indicator on the results obtained would be change volume of solution so titration value would be slightly inaccurate. It may also be because indicators are either weak acids or alkali so you are changing the concentration of the vinegar.
+If the vinegar were more strongly coloured the end point may be determined by using a pH meter?
+Sources of error The main sources of error were in determining the end point of the titration. It was very difficult to get the exact end point because the colour change happened very quickly, in just one drop

@@ -1,0 +1,55 @@
+If a tensile force (F) is applied to an atom in a crystal, then the spacing between the atoms (a) in that row of the crystal will be increased (x). The restoring force acting between the atoms, will be proportional to this increase (F = k x). In a simple cubic structure, there will be a
+Stress, is the force per unit area on the crystal, and strain is the ratio of the increase in separation to the initial separation. So the ratio of stress to strain can be expressed as:
+(More complicated crystal structures require more complicated expressions)
+This ratio of stress to strain is known as an Elastic modulus.
+The Elastic modulus of a solid is "the ratio of the stress applied to a body to the strain produced"
+The application of forces in different ways to a material can produce different types of stress and strain, and each of these has a corresponding elastic modulus.
+The application of a 'tensile force', which is perpendicular to the cross-section of a body, acts to 'stretch' the body. In this case, the 'tensile stress' is the ratio of the tensile force (F) to the cross-sectional area (A), and the 'tensile strain' is given by the ratio of the extension of the body ( Using these definitions with equation 1.1 we can define the 'Young's modulus' (E) as
+Similarly, the application of a 'torsional force', parallel to the cross-sectional area of the body, which acts to 'twist' the body. The 'torsional stress' is then the ratio of the tangential force (F) to the area (A) on which it acts, while the 'torsional strain' is given by the angle of deformation (
+If a force is applied momentarily, the effect will propagate down the body in the form of a wave pulse. From equations 1.2 and 1.3 we can see that the force is related to the elastic modulus of the material, and so appears in the wave equation describing a longitudinal wave travelling through a thin solid
+Where Making the velocity of the wave (c):
+When dealing with a cylindrical rod however, the body is not thin, and so the wave equation becomes much more complex.
+A similar process follows for the shear modulus, where waves also propagate along the body when a momentary torsional force is applied.
+When these 'elastic' wave pulses travel along a cylindrical rod, length (L), they are reflected back when they reach the end. If a continuous wave were applied, an 'excited state' could be set up along the rod at particular frequencies.
+If such a continuous wave is set up using a torsional vibration, the velocity of the wave is given by
+And from simple wave mechanics, it can be shown that the frequency (f) at which the oscillations will produce resonances is:
+The frequencies at which resonances would be set up along the rod are clearly dependent on the Shear modulus.
+Combining equations 1.6 and 1.7 produces this equation relating the Shear modulus to the resonant frequencies
+Where f
+The plotting of f
+A similar theory applies to 'bending' oscillations, for calculating Young's modulus. However this time the velocity of the wave is not solely dependent on E and The equation for this is
+This time the frequency does not scale with n, but rather n Plotting a graph of n against the square root of the frequency will produce a straight line graph with equation:
+Young's modulus can now be calculated either from the gradient (A) of the graph, or the y-intercept (B):
+For isotropic materials (a material whose physical properties are independent of direction
+This can also be expressed in terms of the Shear and Young's moduli in the form
+And so an estimate of the Poisson ratio can be calculated from the Shear and Young's moduli calculated earlier.
+Two V-blocks were used to support a cylindrical bar, with soft padding under the bar so as to have as little effect on the vibration of the bar as possible.
+The end of the bar contained a coil, and is placed between the two poles of a permanent magnet, as centrally as possible, to maximise the strength and uniformity of the field.
+The two ends of the coil were connected to an alternating current (A.C.) supply, the frequency of which could be varied using an 'oscillator'.
+For measuring the bending modes, bars with coils wrapped around the radius of the bar were used. For the torsional modes, the bars had coils parallel to their length.
+On the other end of the rod, a gramophone pickup was rested. In order to maximise the sensitivity of the pickup, it was placed as close to the end as possible, and as central to the rod as possible, so that the motion was perpendicular to the pickup's arm. The signal from the pickup was amplified and then fed into the y-axis an oscilloscope.
+The three materials being investigated were Aluminium, Copper and Corundum (Al Note these are all isotropic materials.
+To measure the frequencies at which resonances occurred, the oscillator supply frequency was increased until the oscilloscope connected to the gramophone pickup showed a resonance had been reached. Resonances were determined by the increase in amplitude of the vibrations from the normal vibrations.
+Measurements were made across the range of frequencies from 1kHz to 25kHz. This was a large enough range to obtain around four or five resonances, which allows the plotting of a reasonable graph. Measuring at higher frequencies resulted in the amplitude of the resonances being too low to distinguish from the general oscillations.
+Errors in the values measured for frequency were estimated from the precision of the read-out display for the oscillator.
+The amplitude was also recorded at each resonant frequency, to aid in the determination of proper resonances from intermediate ones, during the data analysis. These measurements were taken from the y-axis on the oscilloscope. Errors were not applicable, as these readings were not being used in the actual calculations.
+Both the torsional and bending bars for each metal were then measured. The radius was measured with a micrometer, and the length measured using a ruler.
+The errors in these values were estimated according to the accuracy of the device, giving
+Values of the density of the various materials were sourced from Kaye & Laby The error quoted on the value for density in this book, were negligibly small for the purposes of this experiment.
+The raw results were analysed through the comparison of amplitudes, and the plotting of preliminary graphs.
+The 'proper' resonances have higher amplitudes relative to any 'intermediate' resonances, and the first couple of proper resonances have significantly higher amplitudes.
+Plotting graphs of frequency against mode for torsional measurements, and frequency against (2n + 1) for bending measurements, should produce a straight lines passing through the origin. Having identified the first resonances, subsequent resonances can be found by matching them to this line.
+Using these two methods, the intermediate resonances were distinguished from the proper resonances and removed before the calculations were made.
+Here is a summary of the results calculated, compared to the reference values from Kaye and Laby
+The values for the Shear modulus agree well for aluminium, and reasonably well for copper. However the value for Corundum bears no relation to the actual value at all. The values for Young's modulus, are all in complete disagreement with the values form Kaye and Laby.
+The values for the Poisson ratio are in total disagreement with the reference values, and in fact are negative, which cannot be true. This is as the values calculated are derived from the values for the Shear modulus and Young's modulus calculated, and these values are clearly inaccurate. Until more accurate values of these moduli can be calculated, it is not possible to find a meaningful estimate of the Poisson ratio.
+Ignoring the first two results, every value calculated here seems to differ significantly from the actual value for the materials. All of the values are half or less of their actual value, and so this suggest that a systematic error is responsible.
+Looking at the equation 1.12, used to calculate Young's modulus, we can see that the 'main input value' into this equation is the gradient of the graph. This value is then raised to the power four. This is a very large power to raise by, and any small deviation in the gradient would have a large effect on the value of Young's modulus calculated.
+Inputting the reference value of Young's modulus for Aluminium into equation 1.12, and working backwards gives that the ideal gradient would be approx 16.1. Compared with the gradient from the graph produced of 15.1 this is not the enormous difference seen in the final calculated values. It seems it does not take much of an error in the gradient to cause significant problems in the final solution.
+For the Shear modulus, however, the value of the gradient is only squared, and so the calculations are less sensitive, allowing the values for Aluminium and Copper to agree reasonably with the expected values.
+The value for corundum is still significantly out. This could be explained if too many intermediate resonances were included in the results. This would make the gradient shallower, and so reduce the value of G calculated.
+From the results above it is clear that even for the best result (Shear modulus of Aluminium) the errors have been severely underestimated. The graphs (figures 3 and 4) show that the error bars are no where near large enough to encompass the linear trends, and so the error estimates in the frequency are probably the source of this underestimate.
+The error in frequency was estimated according to the precision of the oscillator read-out, however this does not well represent the uncertainty in the frequency at which the resonance occurs. In the experiment, the resonance was present over a small range of frequencies around the point measured, and it would be more realistic to have estimated the error based on the width of this range.
+The calculation of Young's modulus could be improved in two ways. Firstly, taking significantly more values for resonant frequencies, over a much larger range of frequencies, would significantly reduce the error in the linear trend from which the gradient was taken. In order to achieve this, the experiment would have to be much more sensitive to the small changes in amplitude required to observe resonances at higher frequencies.
+Improvements could also be made by more accurately determining the exact frequencies at which the bar is resonating. This could be done by using a more precise oscillator, where the frequency is know to a higher accuracy, and can be varied more finely.
+Improving the values for the Shear modulus could be made in the same way. The more precise measurements would help reduced the amount by which the values differ from the expected ones. While taking values over a greater range, would enable a more accurate measurement to be taken for corundum, assuming the lack of proper resonances was the cause of the discrepancy observed.

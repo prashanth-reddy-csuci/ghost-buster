@@ -1,0 +1,13 @@
+The quality of an interaction design is determined by the combination of three factors: Time, Accuracy and Pleasure.
+The new central Heating Programmer designed takes these factors into consideration before re-designing, which will help in improving the learning about the device for the user.
+Using a Temperature Knob gives the user easy and quick idea of its use. This reduces the time the user might take in understanding things with which he might not be very familiar, using things or devices which the user is familiar reduces the time it takes in learning about the device working.
+The use of LED button for different setting makes it easy for the user as the flashing of the LED gives the user indication of his progress and placing the panel close to each other because of their link makes it easier for the user to handle and it reduces the short term memory load.
+The use of signs around the buttons reduces the perceptual learning time, which is the time it takes for the user to learn the pattern to be used as signature for the elementary figure.
+The sound effect produced in the model when the user does the changes and user pressed the run programme button gives the user the indication of the eventual success.
+In the new designed model the The Yellow LED provided above the setting buttons provides the user with feedback when one of the setting buttons pressed.
+The cancel button introduced in the new model offers
+The design also covers the As for example the use of tap and the holiday picture near the button give the user quick idea of its use at the first glance. And the use of colored LED gives an eye-catching signal to users progress.
+The
+The
+The
+ Before re-designing the model I took into consideration the different level of users for the programmer. Designer must understand who the user will be and what task they will do .In the Heating Programmer System the user is supposed to be people of all age groups above 18.This idea helped to hide few minute information to give on the system, without the idea of the user the designer is always uncertain about many issues.

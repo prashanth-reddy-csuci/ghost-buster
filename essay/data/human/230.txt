@@ -1,0 +1,7 @@
+Stem and Leaf Plots to show how ascorbate affects the sample survival time in days for each cancer type.
+Key for each plot:
+Stem and Leaf Plots are a square root transformation of the data. Truncation of the values of the square roots has been used.
+Stem is in 10's, Leaf is in 1's.
+Units are split: . denotes values from 0-4, * denotes values from 5-9.
+The coach can use the rough equation that y=0.605x - 2.036 where y= 100m time and x= 200m time. Obviously this equation can also be used to find the 200m time from the 100m time by re-arranging to x= (y+2.036)/0.605
+There is a positive correlation. As the length of time it takes to run 200m increases, the length of time it takes to run 100m increases.

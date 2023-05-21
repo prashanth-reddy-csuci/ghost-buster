@@ -1,0 +1,1 @@
+What is the course graining technique and how does it work in lipid bilayer modelling? How does it improve the accuracy and fidelity of results compared to previous simulations? What are the different stages of vesicle formation observed in the simulations and how does the course grained model agree with experiment?

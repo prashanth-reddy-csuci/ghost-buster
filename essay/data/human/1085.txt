@@ -1,0 +1,24 @@
+We begin with Amp
+Set as the integration path a circle, with radius r, centred on the wire and in a plane perpendicular to the plane of the wire, with 1.1).
+At each point, Also, splitting So we only need to consider
+Now we can apply Eqn. 1.1 around this closed path:
+Re-arranging this, we obtain an expression for the magnitude of the magnetic field around the wire:
+Amp The current is flowing in this direction, so the actual current is positive, and so 1.2. The direction of positive integration is clockwise, parallel to 1.2.
+The Biot-Savart Law is
+We set up the problem as shown in Fig. 2.1. From this, we see that The right-hand rule for the vector product Furthermore, all contributions to the magnetic field from all elements
+So now we can use Eqn. 2.1 to find the field 2.1.
+So we have
+i.e.
+However, notice that from Fig. 2.1,
+and
+So from Eqn. 2.2 we have that
+So
+Again, notice that from
+we get
+So substituting this into Eqn. 2.3 gives
+So
+When the length of the wire, Also, when
+Hence, from Eqn. 2.4, we have that
+The situation is axially symmetric about the y-axis, so
+Hence, at all points on a circle of radius
+which is the same result as that obtained when the problem is analysed with Amp

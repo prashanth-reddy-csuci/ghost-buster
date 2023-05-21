@@ -1,0 +1,19 @@
+In this report a first order plus deadtime system is analysed under different parameters and control methods.
+In section 2.1 analogue control is considered. The effects of system frequency and controller gain on system stability are analysed. A
+Discrete control is considered in 2.2. A proportional controller with zero-order hold is designed. Using values obtained in 2.1, the final value of this system is calculated using the Z-transform final value theorem. Comparisons are drawn with its analogue counterpart.
+In part 2.3 Ziegler Nichols design values are used to design a It is discretised using backward differencing and a Dahlin controller is designed; comparisons are drawn between the two.
+In section 3 controllers discussed previously are simulated using the 'Sampled Data System'. Performance and characteristics are compared and examined.
+Conclusions drawn are as follows;
+Overshoot, oscillations and a large settling time are characteristics of the proportional only controller.
+The
+The Dahlin controller removes the oscillations seen in the
+University No.
+First order plus dead time process with Laplace transfer function;
+Where steady state gain
+Overshoot, oscillations, steady state error and a large settling time are characteristics of the proportional only controller.
+The
+The Dahlin controller removes the oscillations seen in the
+At a steady state gain
+At a steady state gain
+A Ziegler Nichols tuned discrete PID controller with design parameters
+Using the Dahlin control method the discrete PID controller will have a transfer function;

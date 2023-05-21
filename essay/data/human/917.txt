@@ -1,0 +1,16 @@
+The title I propose for my third year project (CS 310) is Secure Transaction Main-Frame. The software system will support interoperable machine-to-machine interaction over a network, providing transaction service to online merchants with fraud detection capabilities and desktop application to view and analyse the transactions.
+In today's increasingly electronic society and with rapid advances of electronic commerce on the Internet, the use of credit card for purchase has become convenient and necessary.
+The growing number of credit card transactions provides more opportunities or thieves to steal customer details and subsequent commit fraud. When bank lose money because of credit card fraud, cardholder pays for all that loss through higher fees and reduced benefits.
+Payment processing in the online world is similar to payment processing in the offline or "brick and mortar" world, with few exceptions. In the online world, the store and the transactions are virtual. This means the card is not present at the transaction and the transaction information is submitted and processed via the merchant store network.
+The payment processing can be divided into two parts:
+Settlement Phase
+The Second phase is the settlement process during which money is transferred from the customer's account to the merchant's account.
+In designing of this project many features would be dependent on each other. In order to achieve all successfully the project would be divided into different phases.
+The Phase I would involve designing the database and the fraud detection engine. The fraud detection model would be based on the database structure the way tables would be structured. The next part would involve designing the web-service, which would securely communicate to the database. The web-service would be designed to provide basic test over the client side before communicating with the database.
+The last part of Phase I would be involved creating an ASP.NET Web Application. This web application would serve as the payment page where the users would be directed from the customer's site and on entering the information the data would travel from Web Application to the Web-Service over the secure channel.
+The Phase II would involve designing the desktop application. The Desktop application will be designed in order to help the merchant's employee to view various activities and results of transactions. The Application would also act as a virtual machine giving user the functionality to take payments over the phone and enter customer information.
+The Phase III would involve applying the security over the application. Windows 2000 Server would be used as the certificate issuing authority and data would travel from one part to another in an encrypted format.
+The Phase IV would involves testing and deployment of the project.
+Please see the separate chart included.
+The application will be implemented using .NET Technology. This was chosen due to many reasons such platform independence and easy integration of application with the systems. The language used for developing both Web-Service and Desktop Application is VB.NET. SQL Server 2000 would support the application.
+The Security issue of the application will be dealt by using Windows 2000 Server as the Certificate Issuing Authority (https).

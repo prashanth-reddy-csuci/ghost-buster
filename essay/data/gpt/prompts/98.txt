@@ -1,0 +1,1 @@
+What are the key questions to consider when designing a new system, and how can the design technique of isolating those questions through brainstorming be effective? Provide an example using the design of a National Air Traffic Control System and the creation of an initial sketch for an engine design.

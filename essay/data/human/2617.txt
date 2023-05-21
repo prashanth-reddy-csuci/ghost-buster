@@ -1,0 +1,23 @@
+As part of the module CY3A2 System Identification we are required to create an ARX (AutoRegressive eXogenous) based recursive least squares program (using a template which has already been provided) to identify and work on a model.
+The General definition of a dynamical system is accepted as the following:
+with input signal {u(t)} , output signal as {y(t)} and where v(t) is some disturbance . (q
+Equation (1) can be expressed as a linear regression
+where ,
+Hence the simplest ARX model can be written as
+Without going into too much detail the formulae involved here in order to make the Recursive Least Square algorithm work can be summarized in four equations below where our objective is to get the estimated value of
+The RLS algorithm can be modified for tracking time varying parameters . One approach is the RLS algorithm with a forgetting factor .
+In this a term This means that as n increases , the measurements obtained previously are discounted . Older data has less effect on the coefficient estimation and hence forgotten.
+Hence (9) is modified so that
+In our given case we have to modify crib.m As required by our Assignment instructions we have to choose a stable second order system as our model. In other words
+Here
+A suitable stable second order model utilized for this purpose is
+This part relates to a hear operated master/slave telerobot . We are provided with two sets of data each with step responses (from a 60mm step input) with different conditions of K The input in the following cases will be u=60*ones(size(y)) . There are two sets of data sets we have been provided on which we have to do four tests each and comment on the results . In addition to plotting the coefficients and y and yhat , we are also required to plot a z transform and find the location of the a coefficients on a unit circle . If they ('a' coefficients ) all lie in the circle the given model is stable .
+There are a total of eight experiments in this part four each for the two different sets of data . They specify dimensions of
+Upgrade the basic RLS algorithm to either include instrument variable or a moving average noise model based on Pseudo Linear Regression , or both . Illustrate these by comparing results with those obtained in B.
+From equation (4)
+In other words if the disturbance is described as a moving average of a white noise sequence e(t) .
+Then the resultant model is
+also known as ARMAX model (AutoRegressive Moving Average and eXogenous variable)
+The model which I am going to demonstrate here (for the sake of simplicity and to keep in check the length of this report) is the one where n Reasons for this being that these give the best way to compare the two different approaches we have covered .Hence our model can be summarized as
+The last observed value of Hence the only value of c we get here is -0.4698 . Not only does ARMAX add an moving average error term it also further reduced the difference between y and yhat (from the corresponding ARX based model)in this case and is therefore a better model for prediction . This is also stable as all the values of a lie in the unit circle .
+The last observed value of Hence the only value of c we get here is -0.2233 . Not only does ARMAX add an moving average error term it also further reduced the difference between y and yhat (from the corresponding ARX based model)in this case and is therefore a better model for prediction . This is also stable as all the values of a lie in the unit circle .

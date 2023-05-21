@@ -1,0 +1,14 @@
+From visualising different composite materials, it it possible to identify their characteristics and manufacturing techniques.
+Through the use of XRD, it is seen that two substances within a biocomposite do not "fuse" together, but maintain their individual crystalline structures. The qualities from both products combine to make the biocomposite. Therefore, desirable properties can be achieved by mixing products together like this.
+The OM use has shown that methods used during manufacture can be identified by grain analysis.
+It was identified that the Brass sample had been strengthened from heat treatment and fast cooling, whereas the steel was identified as malleable, having been heat treated and slowly cooled.
+From the SEM images, it could be seen that HAP on it's own was brittle, and the PE was flexible. Combined they supported each other to form a strong, stiff biocomposite.
+The purpose of this laboratory session is to gain an understanding of both materials preparation, and instrumentation for analysis of various degrees of accuracy. In the duration of which, a knowledge of certain microstructures will be gained.
+Initially, we must produce a specimen using a hot press machine, so that we can use X-Ray Diffraction analysis on it.
+The first image is one supplied in Introduction to Materials Science for Engineers, sixth edition, James F. Shackleford.
+The second image is a modern SEM machine found at
+From visualising different composite materials, it it possible to identify their characteristics and manufacturing techniques.
+Through the use of XRD, it is seen that two substances within a biocomposite do not "fuse" together, but maintain their individual crystalline structures. The qualities from both products combine to make the biocomposite. Therefore, desirable properties can be achieved by mixing products together like this.
+The OM use has shown that methods used during manufacture can be identified by grain analysis.
+It was identified that the Brass sample had been strengthened from heat treatment and fast cooling, whereas the steel was identified as malleable, having been heat treated and slowly cooled.
+From the SEM images, it could be seen that HAP on it's own was brittle, and the PE was flexible. Combined they supported each other to form a strong, stiff biocomposite.

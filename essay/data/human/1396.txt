@@ -1,0 +1,20 @@
+My work involves the synthesis of sugar functionalised polymers. These are made from aldose monomers such as 5-benzyl-5-
+Reaction monitoring and indeed the first stage in product characterisation is done by Thin Layer Chromatography (TLC). Any new material formed in a reaction will have a specific R TLC will show any major by-products of the reaction and their relative polarity, in essence, how 'pure' the intended reaction product is. The method is inexpensive and provides results quickly.
+Many of the reactions conducted require extractions with several solvents to isolate the product. When the reaction is novel, TLC and If TLC shows a clear partition, and the simple proton spectra allow us to identify the species expected in each solvent, whether it be starting material, product, or by-product, this is normally sufficient and efforts are concentrated on purification of the product.
+The desired product is usually purified by column chromatography. TLC is used initially to determine the species' progress through the column, and then Proton spectra with automatic moisture suppressant treatment are useful at this stage as removal of solvent from these monomers is difficult due to their amphiphilic nature [1].
+Exact assignment of spectral peaks in the In order to characterise species such as these, the tetra-acetate derivative This spreads the pyranoid ring proton resonances over a greater range (3.0 - 5.8 ppm).
+The Their size provides evidence for the trans-diaxial conformation of protons found only in the pyranose ring form. The 10 Hz is indicative of the
+ For example, C-5 of the barbiturate holds no protons but it resonates at ca. 58 ppm, characteristic of the 5,5-disubstituted barbiturate [2].
+A great amount of previous work has established NMR spectroscopy as the primary tool for product characterisation in this field [1-5].
+The lactosyl derivative of The apparently high yielding reaction showed only the intended product by NMR. This example highlights the inability of NMR to detect non-protic impurities and the care that must be taken when interpreting spectra.
+Next, low resolution EI Mass Spectra (MS) are taken of the products. After confirming the mass of the molecular ion, we can assess if the fragmentation pattern is as predicted. For example, Mass spectroscopy as a standalone method has limitations too: a mixture of unreacted barbituric acid NMR would however be able to differentiate between the samples as the two methyl groups in the unreacted acid are equivalent whereas in So only in conjunction with NMR data can this technique be used to elucidate structure.
+Elemental analysis (EA), in this work specifically CHN analysis, is a good indicator of purity of a sample with a known structure. Unfortunately, compounds such as
+Measurement of melting point can be another measure of purity. Melting points for species similar to The additional problem of the ability of
+For publication in the leading journals in this field, In the near future, and after thorough drying, CHN analysis will be carried out on Also, given that the tetra-acetate derivative
+In summary, NMR is the primary tool used for product characterisation, with MS and EA providing supplementary information. Infra-red Spectroscopy is not used due to the complexity of the spectra obtained.
+References
+(1) Wulff, G.; Clarkson, G. Chem.
+(2) Bojarski, J.T.; Mokrosz, J.L. Adv. Heterocycl. Chem.
+(3) Wulff, G.; Clarkson, G.
+(4) Martinez, M.B.; Mata, F.Z.; Ruiz, A.M.; Perez, J.A.G.
+(5) Kim, S.-H.; Hoshiba, T.; Akaike, T. J. Biomed. Mater. Res.

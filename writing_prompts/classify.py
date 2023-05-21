@@ -34,10 +34,10 @@ model.fit(X[train_indices], y[train_indices])
 
 
 # Print accuracy
-print(f"Accuracy: {accuracy_score(y[train_indices], model.predict(X[train_indices]))}")
+print(f"Accuracy: {accuracy_score(y[test_indices], model.predict(X[test_indices]))}")
 
 # Print f1 score
-print(f"F1 Score: {f1_score(y[train_indices], model.predict(X[train_indices]))}")
+print(f"F1 Score: {f1_score(y[test_indices], model.predict(X[test_indices]))}")
 
 # Print AUROC
-print(f"AUROC: {roc_auc_score(y[train_indices], model.predict_proba(X[train_indices])[:, 1])}")
+print(f"AUROC: {roc_auc_score(y[test_indices], model.predict_proba(X[test_indices])[:, 1])}")

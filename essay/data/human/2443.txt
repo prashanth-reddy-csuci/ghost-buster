@@ -1,0 +1,19 @@
+As shown on the attached datasheet of example 5, the mean range of first set of 20 samples According to the equation:
+As calculated above, the According to the equation:
+Based on a Shewehart control chart for means, the action limits= According to the attached datasheet, So,
+Based on the mean value of the first set of 20 samples, action limits and warning limits, a Shewhart control chart for means is plotted as below, including all 40 samples.
+As mentioned in the first question, the mean range of first set of 20 samples As n=4, so D Consequently,
+All the standard deviation values for each individual sample have been worked out on the attached spreadsheet. Referring to that, the standard deviation average value of the first set of 20 samples is found to be 7.26. According to the equation on P When n=4, B Consequently, UAL=2.266
+Referring to the individual standard deviation values of all 40 samples shown on the datasheet and the action limits calculated above, a Shewhart control chart is plotted as below:
+In order to find out and describe what might happen in the factory, a couple of tests set up by ISO8258 will be applied to the Means chart above. Therefore, this means-chart is divided into 6 zones, which are zone A (between UAL and UWL), zone B (between UWL and line 1), zone C (between line 1 and the mean); zone C (between the mean and line2), zone B (between line 2 and LWL), zone A (between LWL and LAL).
+Based on the assumption that the point 21 is the start of the day, two of the most common tests (Test1 and Test 5) can be taken on the process starting from point 21. Referring to the ISO8258, Test 1 is: Test 5 is:
+As shown on this means control chart, starting from point 21, point 22, 23 24 are in a row with both point 22 and 24 are in Zone A (i.e. beyond a warning line). This matches test-5 standard. Additionally, point 26 jumps beyond the Zone A (i.e. beyond the action line). This again matches test-1 standard. Based on the two test results, which are very rare to happen in the normal process, thereby, it could be assumed that something has significantly changed in the production process Probably the machinery of the food packaging line has been adjusted in the way that more products were put into the package, consequently the weight of packed products increased at a great extent.
+As seen on the Shewhart control means chart above and discussed in Q(d), the point 24 is actually the first point to meet the standardized test (i.e. test 5). Consequently, it can be estimated that point 24 is the start point to signal the change of the process.
+Referring to the datasheet attached, the new mean of the changed process is calculated starting from the sample 24 to sample 40. So, the new mean is estimated to be 313.9559
+As found on the datasheet, the mean range of the samples from 24 to 40 is calculated to be around 10.12, so referring to the equation Then, So the new standard deviation of the changed process is estimated to be 4.92.
+As the mean value of the first 20 samples is 297.2875, the set of data for the Process mean of 300g, LSL of 265 and USL of 335 is chosen for calculation of C Referring to the equation that is
+As X=297.2875, then C
+As both C However, comparing the C Yet, the process as a whole is quite capable.
+As calculated in Q(e), the new mean and new standard deviation of the changed process are 313.9559 and 4.92 respectively.
+According to the equation applied in Q(f) and using the same values for LSL and USL, C
+As both C However, comparing the C Consequently, it seems that the process has much more risk to produce the products over the USL than to produce the products over the LSL. This kind of situation is not beneficial to the business, regarding to the extra products put into the packages.

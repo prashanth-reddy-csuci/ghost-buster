@@ -1,0 +1,32 @@
+The mini micro project was the way to put into the practice what we learned in our module. The project which was given to us was the Speaking clock.
+The speaking clock is the project that uses most of the concepts that we have learned in our module COMPUTER STRUCTURE AND ORGRANISATIONS. The project was an intense task to complete, as it used most of the concepts of the Digital Input and Output. The purpose of this project was to learn how to control hardware devices through software. The main objective of the project was to develop a system that produced the most acceptable spoken time when the key is pressed. The program was written in C language. In the time given of 4 labs we were able to complete the project and also tried to add few functions that enhanced the speaking of the clock.
+The objective of the project "SPEAKING CLOCK" was to develop a system that produces the most acceptable spoken time when a key is pressed on the terminal. The time would be spoken by using a combination of allophones to create a string for the sound.
+As we already had the knowledge as how most of the VIA register works, it was not very difficult for both of us to understand as how to go about in the speaking clock project. The software labs done earlier helped both of us as where to implement different things in the project .We were able to clear most of your concepts in the digital input and output topic while doing the project. This particular project required software programming only. The project comprised the use of SWET and a speaker. After the completion of the code, it was loaded on to the SWET, which was connected to the speaker and then executed. Before doing this project we didn't had any idea of the C Language but still with the help of lab assistants we were able to complete our project within the 4 provided labs.
+In this segment, we have presented details of the working of every section of our final code.
+Implementing the task was challenging and a lot of thought had to be put into the program of how the system will all function together once all the method had been implemented. After compiling and re-compiling the program to fix errors, the program seemed to work as expected. We minimised the risk of causing error in the program by implementing the code so that methods didn't get overloaded.
+Although we still needed to carry out rigorous testing to see if there were any faults with the program, we were satisfied with the system at this stage.
+System Requirement
+You should be able to input the initial time in hours minutes and seconds HH:MM:SS.
+Outcome
+The time can be set at via the keyboard at the start of the program on the terminal window. We found that you can enter invalid time on the terminal. This caused the programme to stop working.
+This problem can be resolved in future by having a condition in the program that only lets you input the time in a certain format.
+System Requirement
+Acceptable spoken time must be heard when a key is pressed on the terminal.
+Outcome
+When you press the enter key the time is spoken at the current time. The time was recited at moderate speed by the loud speaker. The time was heard clearly.
+System Requirement
+The time should increment like a digital clock and it should be shown on the terminal.
+Outcome
+The time was updated on the terminal window every second. Because we used the 'free running' mode Timer 1, it produces a continuous series of evenly spaced interrupts that is ideal for accurate time. Also because the frequency is not affected by the variations in the processor interrupts, it's still able to keep track of the time when you press a key on the keyboard to get the time. Although we had to use an estimate for the Timer 1 it was still accurate to 1 sec. An improvement with the accuracy of the time can be made here if we used an oscilloscope to find the number of clock cycles per second.
+There could be an optional continuous spoken time, which would speak every minute or hour.
+A stopwatch could be implemented to time how long people have been working at the terminal.
+There could be a feature that can also take account of the date. This can be used to implement the transition from summer to wintertime.
+A reminder system can be implanted to remind people of important events like meetings. This implementation can be done by taking the time input from the user when it wants the reminder to be set. When the program is running and the program encounter that time by the use of if statement then other function can be called which produces a different sound which can say anything as the requirements.
+The time zones around the world could be implemented to show the time in different countries. This implementation can be achieved by making one more variable that takes the input from the user as with respect to the current which countries time it want the clock to speak by giving choose of different countries. Then by checking that input the value from the current time can be added or subtracted and then the value to be sent to the other function.
+The need of a speaking clock
+The system can be used to help people of all ages. A speaking clock can help primary school children to tell the time. When they press the 'enter' key on the keyboard the time will be spoken and this will help children how to tell the time and help them with recognising numbers. The blind would benefit greatly by this because at least they can now keep track of the time without having to rely on other people.
+We managed to complete the project within the time given and achieved to design the system to the specification. Good time management skills enabled us to complete the project on time.
+We were able to solve problems encountered during the implementation of speaking clock because we made sure that we tested parts of the code rigorously.
+We learned a lot from the outcome of the project and how powerful software is in controlling hardware devices.
+Writing the report has also given us greater knowledge of the VIA and how I/O devices operate.
+Working as a team we have learned a lot from each other and the experience gained will help us to work in teams in the future better.

@@ -1,0 +1,25 @@
+The purpose of this experiment is to explore the relationship between the forms of Newton's 2nd Law appropriate to linear motion and to rotational motion, explore the physical behaviour of 2nd moment of mass and to develop understanding of the nature of experimental error and the analysis of experiment data. The moment of inertia of the three discs is to be determined by experiments and compared with one obtained from a theoretical relationship.
+The method used is by measuring the time for a weight to fall a distance when attach to a moment arm that is attached to a disc.
+The moment of inertia of the three discs is Comparing the results with those derived from the theoretical relationship it is found to be consistent with a maximum percentage of error of 7%.
+It is found that the Newton's 2nd law does hold for rotational motion. The 2nd moment of mass of an object is proportional to the mass and radius of the object. Finally a reasonable amount of care should be taken when making assumptions to simplify the experiment.
+The purpose of this experiment is to explore the relationship between the forms of Newton's 2nd Law appropriate to linear motion and to rotational motion, explore the physical behaviour of 2nd moment of mass and to develop understanding of the nature of experimental error and the analysis of experiment data. At the end of the experiment, the moments of inertia of the three disc is determined and compared with the values derive using the theoretical relationship. An estimate of the precision and accuracy of the measurements will be made as well.
+According to Foundation of Engineering, Holtzapple Reece (2003) torque is a twisting force, which is determined by position vector
+When force is applied at right angle to the radius
+Newton's second law states that Force
+Substituting equation a in to b,
+On the other hand
+Based on the constant linear acceleration formula
+Where
+In this experiment the weight always start from
+Substituting equation 3 into 2
+Rotational analogy of the
+Where
+Substituting equation 1 and 4 into 5 and rearranging will give
+Equation 6 is a formula that relates the rotational analogy of Newton's 2nd law with linear motion.
+In this experiment the variables are as follow
+Please refer to appendix 1 for more detail on the theory and assumptions made in this experiment.
+Based on the results observed from the experiment the following conclusions can be drawn.
+Newton 2nd law does hold for rotational motion. The rotational analogy of the law is Whereby
+This conclusion is based on the finding that
+Second moment of mass of an object is proportional to the mass and radius of the object. The heavier and the larger the radius, the higher the value of the 2nd moment of mass will be.
+Assumption made during the experiment will significantly affect the results obtained. Therefore reasonable care should be taken to assure that those assumption made is justifiable and will not introduce a huge error to the experiment.

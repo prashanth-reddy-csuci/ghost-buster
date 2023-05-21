@@ -1,0 +1,1 @@
+"How does ascorbate affect the survival time in days for different types of cancer? Use stem and leaf plots to display your data and be sure to include a key. Additionally, explain what a stem and leaf plot is and discuss the equation for positive correlation between running times."

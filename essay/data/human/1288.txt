@@ -1,0 +1,35 @@
+The overall Harcourt - Essen reaction is:
+with a proposed mechanism of bimolecular steps:
+The differential rate equation is then:
+The slow, rate determining step was investigated by measuring the rate of loss of hydrogen peroxide, this being proportional to d[H Any iodine formed was reconverted to iodide by addition of thiosulphate (see method):
+Therefore [I-] was kept approximately constant and pseudo-first order kinetics could be assumed:
+The integrated rate equation for such a first order reaction is:
+Plotting the natural logarithm of the initial [H2O2] divided by [H2O2] at each time interval, against time would yield a straight line of gradient k'. Knowing the amount of I- used, k can be found.
+By repeating the experiment at various temperatures, the Arrhenius parameters of the Harcourt-Essen reaction can be determined:
+k = A exp(-E/RT) where E is the activation energy, A the pre-exponential constant, R the gas constant and T the temperature in Kelvin. Linearising:
+Therefore a plot of lnk (for each temperature) against 1/T enables calculation of A and E.
+4 different runs of the experiment were carried out sequentially using:
+Solutions were kept in thermostatted water baths for 15 mins for temperature equilibration and mixed vigorously and continuously. 10 drops starch indicator were added to each mixture.
+H Sodium thiosulphate (1.5cm When the starch indicator turned green/blue, the time was noted and 0.5cm This was repeated until 9cm The reaction flask was kept to one side for later use.
+ The immediate addition of thiosulphate reduced the iodine back to I- rendering the solution colourless again until more H Thus the cumulative volume of thiosulphate was inversely proportional to the concentration of H
+By the time all 4 runs had been completed (~2hrs) reaction flask 1 was assumed to have gone to completion and reaction flask 3 (left standing for 1.25 hours) was heated in a 45
+Reaction flasks 1 & 2 were simultaneously titrated with sodium thiosulphate in 0.5cm The final thiosulphate titre volume was proportional to the initial concentration of peroxide: [H
+Therefore, H S
+Therefore mol. H
+In the table below: A is equivalent to [H
+c is equivalent to [H
+For a plot of c
+Looking closely at the above graph, the relationship between c
+Plotting ln(A/c) against 1/time:
+There is a clear linear correlation corresponding to first order kinetics w.r.t peroxide. Similarly for the runs 2,3 and 4:
+The gradient of each graph gives k', the pseudo-first order rate constant where k'=k[I-]
+k is calculated in the table below.
+Run 2 has half the concentration of iodide as Run 1;both at the same temperature, and k' is almost half, within limits of experimental error. This is consistent with a directly proportional relationship between rate and iodide concentration and so the reaction is also 1
+Runs 3 and 4, at higher temperatures, show faster rates. The empirical rule of an approximate doubling of rate for every 10
+The following table sets out the data needed to calculate Arrhenius parameters:
+Gradient of regression line = -E/R where R=8.31451 JK
+Intercept of regression line = lnA
+During all 4 runs, the concentration of iodide can be assumed to be constant due to the regular addition of thiosulphate, so reducing the iodine formed back to iodide. Therefore, assuming the rate determining step involves no other species than H
+Runs 1 and 2 (half the iodide concentration, half the pseudo-first order rate constant) showed the reaction to be 1 The mechanism discussed in the introduction is a valid proposal.
+The difficulty in determining the initial concentration of peroxide will have been a significant source of error for the actual [H Reaction flask 1 had been left to stand for 2 hours, and flask 3 for 1.25 hours as well as being heated for 20mins. It was assumed all the peroxide had been used up by then. However, during this 'infinite time' titration, even after periods as long as 20mins, the blue colour would reappear; due to time limits in the laboratory, there had to be a cut-off point. This would not affect the values of the calculated rate constant since the gradient of ln(A/c) against time will have been the same.
+The linear regression equation used for calculating the Arrhenius parameters was based on 3 measurements. For a more precise and accurate determination of the collision frequency factor A, and activation energy E, the experiment would need to be repeated at many more temperatures. This would allow for statistically meaningful confidence intervals to be measured for each parameter.

@@ -1,0 +1,28 @@
+The aim of these laboratories is to provide an introduction to some of the features of a Xilinx ISE and Spartan-3 FPGA board as well as to get familiar with VHDL codes to help write Xilinx ISE program on Spartan 3FPGA board. The codes and comments are written and programmed in Xilinx ISE 8.2i which provided the environment required to program the board.
+The device used in the laboratory XC3S1000 is of the family Spartan 3.
+The following is the table showing the summary of the device XC3S1000 FPGA in a 256 ball thin Grid Array:
+With reference from the handouts the main objectives of lab5 and lab6 was to carry out the following:
+The hardware elements featured in the laboratories were: Spartan 3 board, Digilent JTAG Cable, XC3S1000 device, USB cable to power the board.
+Firstly I connected Spartan 3 board to a PC and powered up board using the USB cable, followed by connecting the Digilent JTAG cable. Digilent JTAG cable is used to transfer data on to the board from the computer. I followed the tutorial given in the laboratory sheet for ANDGATE to study and understand the procedure and working of the software. I also followed the quick tutorial provided in the laboratory to make a 4 bit counter.
+After, the completion of the program I downloaded the program on the board and observed the results, which were as expected. I tried to relate the pins associated with each buttons, switches, LEDS, and 7 segment LEDS using the appendix A of the laboratory sheet.
+To make a Dflipflop program I firstly, made a note of the input and outputs needed for the program as CLK- clock input, D- D input, Q- Output. As explained earlier in theory section learned about the working of Dflipflop. I followed the method similar to the laboratory sheet provided to create and run the program.
+To make a counter from 0-9 on one of the four 7segment LED I used the method described in the theory to workout the codes and followed the instructions similar to those given in laboratory sheet to create and run the program.
+The following steps found in the laboratory sheet under section 3.2.4 were followed to assign pins for all the programs:
+The simulation result of the ANDGATE is shown below:
+It can be observed from the graph that c is only high when both a and b are high. Hence, it shows that the logic of c<=a and b; works. When the program was loaded on the board it showed that the LD0 was ON only when both a and b were pressed together. When pressed alternatively or not pressed at all showed no result on LD0.
+The simulation result of the counter is shown below:
+It can be observed from the above graph that Count output for a 4 bit binary up/down counter. It can be observed that when DIRECTION input is high, the output count is incremented on the rising edge of the CLOCK input. But, when DIRECTION is set low, the output count is decremented on the rising edge of the CLOCK input.
+When the program was loaded on the board it showed all LEDs off. When SW7 was down position and each time BTN0 was pressed the LEDs showed a sequence of output showing the down count. But when the SW7 was in up position and BTN 0 was pressed it showed sequence of output showing the up count. Hence, it worked as required.
+The simulation output of the DFLIPFLOP is as shown below:
+Every time when the CLK input experiences a rising edge, the output Q stores the state of the input D. However, until the CLK input goes for another rising edge, the output remains unchanged regardless of the D input. It can be noted here that the initial red line on the Q waveform represents an ambiguous condition, as the output has not been set yet.
+When the program was loaded on the board, LD0 was OFF. When SW0 was moved to the up position, there was still no change on the LD0 until SW1 was then moved to the up position. Once this happened, LD0 turned ON. After this, moving SW0 between the 2 states did not affect the output. However, when SW0 was in the down position, and SW1 was moved from down to up, LD0 turned OFF. Hence, the result was as expected and showed the working of Dflipflop.
+The simulation output of 7 segment display count 0-9:
+The above graph shows that when CLK input is rising high, the output LED changes. It showed numbers from 0-9 every time when CLK input is rising high, it counted from 0-9 When it reached 9 it counted again from 0. The ENABLE output shows the correct output, as only one of the signals shows a low logic level.
+When the program was loaded on the board the LED displayed 0 on only one 7 segment LED. Now, every time BTN0 was pressed it showed 0-9 and when it reached 9 it started counting from 0. Hence, it worked as required.
+The programs showed the required output on the simulation graphs and also performed as required when loaded on the board.
+The DFLIPFLOP worked as required as it did the following:
+When SW1 was high and SW0 was low the LD0 was OFF
+When SW1 was low SW0 was high the LD0 was OFF
+When SW1 was high and SW0 was high LD0 was ON, until once again SW1 was high but SW0 was low.
+The 7 segment LED used to display count 0-9 worked as required as it did the following:
+It displayed 0 to start with but everytime BTN0 was pressed it displayed 0-9 on just one 7 segment LED. And when the count reached 9 and BTN0 pressed again it counted again from 0-9.

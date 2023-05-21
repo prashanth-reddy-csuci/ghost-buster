@@ -1,0 +1,3 @@
+I have carried out a usability test of a way-finding system for the Armstrong Siddeley building at Coventry University. The test has been carried out on the initial interface of the website which is still under construction.
+To identify the way-finding tasks that are useful for the "MIS Staff/Room Localizator" I did a research among my family and friends and asked them what information they will find useful in searching the way to a room or staff member in a building.
+From all the answers I managed to create the list of 5 tasks which appeared most often.

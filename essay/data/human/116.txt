@@ -1,0 +1,58 @@
+The performance of a domestic solar collector water heating system is assessed using the Monthly averaged meteorological data, including the clearness index, global irradiation and temperatures, is provided for the location (London). Using the given system parameters, the fraction of the required heating load, It was found that the system performance varied from providing only 4% of the required heating in winter months, to 68% in summer. Comparison with typical electric and gas systems showed a 35% and 23% reduction in the yearly cost of energy is achievable by incorporation of a solar collector. Low costs of energy (electricity or gas) however mean that absolute fiscal savings may not be significant enough to provide fast payback on a potentially high-cost system.
+The system being considered is a domestic hot water system located in London (51.47 An 8m This then passes through a heat exchanger, heating water in the building's hot water system. An auxiliary heater ensures the required water temperature is achieved when the performance of the collector is reduced. The system contains a 300 litre store. It is assumed that 350 litres of hot water (60degC) are required each day.
+The f-chart method will be used to assess the performance of the system over a year, and an estimate will be made of the cost savings over an equivalent electric and gas system.
+The For liquid systems, this is given by;
+where These are given by;
+where;
+The method is valid for;
+The monthly average optical efficiency of the collector,
+where
+The monthly heat load can be found using;
+where
+Correction factors must be applied to account for storage capacity and the absence of an air heat exchanger from the system, respectively;
+which is valid for
+where
+The expressions required to calculate a number of the above parameters will follow.
+The declination, Its value determines the trajectory of the sun through the day, which varies throughout the year;
+where 23.45 is the angle of the earth's tilt, and An average day number will be taken for each month, e.g., January
+The sunset angle for the month can now be found using;
+The apparent sunset angle for an inclined collector surface is given by;
+where This is different to equation (1.2) since during the summer, late sunsets (early sunrises) will be shielded from view by the inclination of the collector. During the winter however the actual sunrise will occur earlier than that in equation (1.3) and so the minimum of the two angles must be taken;
+Values of irradiation have been provided for a horizontal surface and need to be changed to correspond to those for an inclined surface. For beam radiation this can be done by using the ratio of beam radiation on a tilted surface (
+where Cancelling
+The diffuse radiation component can be expressed as a fraction of global radiation incident on a horizontal surface;
+where
+The global irradiation on a surface can be expressed as the sum of the beam, diffuse and albedo (surface reflection) components;
+It is convenient to develop equation (1.1) to give the global irradiation on a tilted surface as a fraction of that the horizontal;
+where The global radiation on the tilted plane,
+The performance of a collector system is reduced by the use of a heat exchanger which elevates the temperature of the collector, increasing heat losses.
+where The expression
+The adjusted heat removal factor,
+The system has the following properties;
+For the month in question (Table 1);
+Find ratio of global radiation on tilted surface to that on horizontal
+Thus the monthly average global irradiation on the titled surface is
+De Winter heat exchanger factor
+which gives
+Check that this is valid (equation (1.5)): This is within the required range.
+Calculate dimensionless parameters X and Y
+The correction factors must now be applied.
+Storage correction;
+Check that this is valid- store size/standard store size = This is a valid store size for the method to be applied.
+Hot water only correction;
+Thus the corrected value of
+For Thus,
+System water heating fraction, fm
+Substituting
+i.e., 6% of the domestic water heating requirement can be provided for by the system during January.
+This is equates to
+Comparison with electric system
+Consider an electric water heating system with an overall heating efficiency of 95%.
+Off-peak electricity usage costs 2.7p per kWh. To provide January's water heating requirement (2634MJ = 732kWh) it would therefore cost;
+Now consider the system with a solar collector (the electric system is the auxiliary heater.) The solar system contributes 161MJ (44.7kWh) which equates to a This is small, but one must take into account the poor performance of the solar system during the winter. A similar comparison will later be made for a gas-fired system.
+The heating fraction, The full calculations are shown in appendix A1. A summary of the results is given in Table 2 and Figure 2. As expected the system performance is highest during the summer (68%), but very poor during the winter months (as low as 4%). This is intrinsically problematic since heating requirements are greater during the winter than summer.
+Table 3 shows the potential yearly cost savings achievable by incorporation of a solar collector system with an electric or gas-fired system. For the electric system, an overall heating efficiency of 95% is assumed, with electricity costing 3.3p per kWh.
+Considering that a solar collector system is likely to cost in the region of thousands of pounds to install, savings of less than This problem is mainly the result of the current low costs of non-renewable energy.
+Solar collector water heating system is able to provide as much as 68% of the required heating load in the summer, but this falls to around only 4% in the winter months.
+Comparison with electric and gas-fired systems shows yearly energy costs are reduced by 34% and 23% respectively.
+Low costs of energy (electricity or gas) however mean that absolute fiscal savings may not be significant enough to provide fast payback on potentially high system costs.

@@ -1,0 +1,4 @@
+The plate shown in the diagram below has the following properties:
+The plate above deforms such that the analysis is small displacement and linear elastic.
+By removing the loads from the plate in part 2 (as shown in the diagram below) the natural frequencies of the restrained plate can be calculated by eigenvalue analysis, using two different methods, one using the consistent mass matrix and the other using the lumped mass matrix.
+Where the density of the plate

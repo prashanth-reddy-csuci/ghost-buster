@@ -1,0 +1,1 @@
+What is the relationship between field extensions, irreducible polynomials, and minimum polynomials? How does the Eisenstein irreducibility criterion play a role in determining the irreducibility of polynomials? How does Theorem 2.17 help in understanding the properties of constructible points?

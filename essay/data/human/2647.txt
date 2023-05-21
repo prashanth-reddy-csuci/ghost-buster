@@ -1,0 +1,10 @@
+To study the results of titration's with a sparingly soluble salt, and to investigate the effect of differing electrolytes.
+The equilibrium established between a saturated solution of a slightly soluble salt in contact with excess solid is a heterogeneous one. The product of the concentrations of the cation (M+) and anion (M-) in a saturated solution of a slightly soluble electrolyte is constant at a given temperature (solubility product).
+The relationship between the solubility (molar concentration) and the solubility product (Ks) depends on the charge type of the electrolyte (MX, MX2). Different electrolytes can have differing effects upon solubility; for example an electrolyte that already contains concentrations of the salt cations/anions will lesson the solubility of the respective salt.
+The common ion effect reduces the salt solubility but the solubility product remains unchanged (salting out).
+The addition of "inert" ions increases solubility of a sparingly soluble compound (salting in), this is due to ionic interactions and the effect is calculated via the activity coefficients for each ion.
+For solutions below 0.01M it is fair to dis-regard ionic interactions however more concentrated solutions or were inert salts are present this is not a reasonable assumption.
+Values of activity coefficients are independent of the electrolyte at ionic concentrations below 0.1M, above this concentration values differ.
+The true thermodynamic solubility product, Ks
+In this experiment, the slightly soluble salt is Potassium Periodate. Three saturated solutions are also prepared, one being in pure water, another in a solution containing NaNO3 and our final being in a solution also containing KNO3. The concentration of IO4- in each saturated solution is obtained by converting IO4- to I2 (reduction by acidified I-) followed by titration of the I2 with standard Sodium Thiosulfate.
+Our results demonstrate the common-ion, "salting out" effect, this can be seen in solution C, KNO3, The Solubility of KIO4 is greatly decreased, and therefore as seen above the concentrations of the cation and anion are greatly decreased and hence the values of Ks and Ks

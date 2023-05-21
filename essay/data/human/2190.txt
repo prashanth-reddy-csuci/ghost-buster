@@ -1,0 +1,18 @@
+This acid-base titration is carried out between a strong base NaOH and a monoprotic acid (C The aims are to:
+0.1M C
+the solid was transferred and dissolved in about 100cm
+use a glass stirring rod to break up larger crystals
+the solution was transferred and made up to a 250cm
+the flask was inverted (with the thumb on the stopper) several times to ensure the solution is well mixed
+NaOH Note the
+20cm
+A few drops (2-3) phenolphthalein indicator were added and with a white tile placed beneath the flask
+A Note the
+Titration was repeated until 2 accurate values (
+The 1
+According to the methodology and apparatus used, there are both a fairly high degree of accuracy (with difference of results within
+The main source of error is probably the personal judgement (with naked eyes) of end point, which is when the solution in the conical flask changes colour from colourless to the first permanent pale pink as the flask is swirled. It is always difficult to be able to control the run down of NaOH. It usually ends up with varied pale pink densities. On the other hand, it is much more accurate also to measure the absorbance of solution using a photospectrometer at an appropriate wavelength. It is expected that the higher the absorbance value the higher the pink intensity, thus a positive correlation.
+C It can be readily made up as a standard solution, the primary standard. It has a relatively high molar mass, thus to reduce weighing error, which has also been reduced by using an accurate four-decimal-place electronic scale in weighing. However, the low water solubility of C This can be improved by using powder C
+It is good to have rinsed the weighing boat, stirring rod and the funnel after each transfer, and then the washings were added to the flask. Ideally, the number of transfers should be kept at minimum. The more the transfers of the substances, the more the errors caused. Thus the validity of the results is affected. Accurate equipment is used e.g. 250cm
+It is preferred to vortex the solution of C It is important to keep the consistency: either to add two or three drops of indicator in every titration. A new dry conical flask should be used for each titration, to avoid incompletely cleaned and dry ones, thus to affect the results. It is crucial to keep the burette straight, parallel to the clamp stand and perpendicular to the bench, when reading the burette volumes.
+The titration is carried out reasonably successfully so that NaOH concentration is calculated as 1.314M (see p.3). The practical has also helped to familiarise with C The experimental techniques (see

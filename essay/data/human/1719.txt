@@ -1,0 +1,16 @@
+The purpose of this report is to determine the most effective method for analysing mechanisms. Three methods are critically evaluated by applying relevant analytical theory where necessary to build up a complete mechanism solution consisting of kinematic and Force data. The results are compared and the most suitable method chosen for use within the company.
+The aim of this report is to evaluate various methods used in the analysis of mechanisms, with the intension of employing the use of the most suitable method within the company.
+The primary requirement is to cut production cost by reducing the amount of work sub-contacted to other companies. To this end the chosen method of analysis will be used by the design engineers of the company to complete calculations regarding velocity, acceleration and force analysis for the mechanisms.
+The chosen analytical method should therefore meet the following requirements:
+The methods that will be evaluated in this report are:
+In order to effectively evaluate each method for analyzing mechanisms a simple four bar mechanism has been chosen, shown in Figure 1.1. For each method a detailed analysis will be done of the mechanism and the results compared from the other methods.
+Before discussing what methods were used to analyse the various methods it is necessary to highlight some of the equations that will be used.
+This section is not intended to cover how the equations are derived, this can be seen either in the Appendices at the end of the report or in the reference sources where indicated.
+This section displays the results found using all three methods, with a comparison of the results section in Table 4.1.
+Having critically examined each method for the purpose of mechanism analysis it is the conclusion of this report that the most suitable method is the Excel spread sheet. Provided that the spread sheet is constructed correctly, thoroughly tested and proved to be correct, this is a very effective method.
+This method meets all the requirements specified from the out set which were:
+Good accuracy
+Easy to use
+Minimal training requirements - The spread sheet requires little previous engineering knowledge of mechanisms and only very minimal training in the use of Excel itself
+Cost effective - Most companies own the software as part of Microsoft office, however it can be purchased as a separate module for a small initial cost. No further charges would be necessary
+Quick mechanism analysis - Only the mechanism configuration needs to be entered into the configuration sheet in the workbook, from which a full and in-depth mechanism analysis is produced, all collected in the summary sheet of the workbook

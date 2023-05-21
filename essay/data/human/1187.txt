@@ -1,0 +1,27 @@
+The main objective of this assignment is to analyze the transition between turbulent and laminar flow in water. This was achieved by measuring the pressure drop, flow rate and temperature of water flowing through various cylindrical pipes. The pipes used had the following diameters; 4mm smooth, 15mm rough and 17mm smooth.
+The values obtained were computated using the amfield fluid friction software, which derived the Reynolds number and friction factor.
+The Reynolds number and friction factor increased with the velocity of flow, more energy was lost at higher velocities.
+Conclusions were:
+A rough pipe will have a high friction factor (around 0.5);
+A smooth pipe will give a basic skin friction (friction factor of around 0.2);
+A pipe with a 4mm diameter will show the turbulent to laminar transition at low velocities (at velocities of below 1m/s the Reynolds number is less than 4000);
+Fluid viscosity is significantly effected by the temperature;
+Head loss decreases with velocity.
+From the experiment it was concluded:
+A rough pipe will have a high friction factor;
+A smooth pipe will give a basic skin friction;
+A pipe with a 4mm diameter will show the turbulent to laminar transition at low velocities;
+Fluid viscosity is significantly effected by the temperature;
+Head loss decreases with velocity.
+Here are some pictures of the pipe rig used. On the left is the rig itself and on the right is the valve used to determine the velocity at which the water entered the pipe.
+Computation software used - Armfield Fluid Friction
+For method see appendix - lab handout
+For result tables and graphs see appendices
+The results collected were limited by many factors. Further work is needed to study the turbulent-laminar transition. Pipes with diameters of less than 4mm should be studied to get a detailed view of this transition. Another limitation was the velocity at which the water entered the system; the valve gave a limit on the maximum speed. The pipes should be tested again at higher velocities to see how the head loss responds.
+From these results it can be concluded:
+A rough pipe will have a high friction factor (around 0.5);
+A smooth pipe will give a basic skin friction (friction factor of around 0.2);
+A pipe with a 4mm diameter will show the turbulent to laminar transition at low velocities (at velocities of below 1m/s the Reynolds number is less than 4000);
+Fluid viscosity is significantly effected by the temperature;
+Head loss decreases with velocity.
+Although it seems that head loss and velocity are directly proportional it would be impossible to draw this as a conclusion without further research.

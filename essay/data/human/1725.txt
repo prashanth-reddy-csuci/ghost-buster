@@ -1,0 +1,15 @@
+It is possible to gain a detailed understanding of an engines performance by studying its cylinder pressure vs. crank angle data. From this data may engine parameters can be monitored including:
+Using high speed data acquisition systems with pressure transducers mounted inside the cylinder head it is possible to closely monitor the pressure inside the cylinder during combustion.
+This report details the testing and analysis of data obtained using this system on a Rover K16 engine.
+To use pressure crank angle data to investigate the combustion process in a Rover K16 engine.
+The engines operation was controlled via the CADET control system. The engine was operated under the conditions shown in Table 3.1. The AVL Indimeter was used to log pressure variation in the cylinder during the combustion process.
+For each operating condition, the following parameters were recorded.
+All data and relevant plots can be found in Appendix 2, below is a sample of some of the results obtained from testing.
+Crank Angle
+Using cylinder pressure against crank angle data it is possible to examine the performance of an engine. From just these simple measurements a detailed understanding of the engines characteristics can be achieved.
+Mathematical models of the combustion process can be produced using the Weibe function, which have been shown to closely match those found using the Rassweiler & Withrow method.
+This Weibe function is able to make accurate predictions of the Mfb of a particular engine design enabling the engineer to design engine parameters to meet specific combustion requirements ensuring more efficient and powerful engines.
+A deeper understanding of some of the practical limitations of the SI engine design has been gained. The significance of ignition timing on the engines performance has been discussed, looking at the on-set of "knock" in the engine and its prevention.
+Successful modern engine designs have to balance many variable parameters in order to attain high power output & efficiency whilst meeting the increasingly stringent emission regulations.
+A detailed analysis of the Rover K16 engine has been produced using data obtained from engine tests using the CADET and AVL Indimeter systems.
+Performance data for the engine has been produced and accompanies this report.

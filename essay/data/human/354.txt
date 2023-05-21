@@ -1,0 +1,28 @@
+Patterning of the vertebrate limb involves the formation of three axis, D-V, Pr-D and A-P to produce complete and correct morphology. Initially a limb bud is induced via Wnt and Fgf signalling, with fore- verses hindlimb identity proposed as specified by The AER is positioned at the dorsoventral boundary as a consequence of Signalling from dorsally expressed The ZPA appears to mediate A-P patterning of the digits via expression of Due to evolutionary conservation, the mouse and chick examples discussed here may be applied broadly to all vertebrates, with the possibility of homologous genes performing comparable functions.
+Pattern formation is defined as the "set of processes by which embryonic cells form ordered spatial arrangements of differentiated tissues." Patterning of the limb involves the formation of three axes, the proximal-distal axis (Pr-D) from close to far from the body, the anterior-posterior (A-P) axis from thumb to little finger, and the dorsal-ventral axis (D-V), from knuckle to palm. Correct patterning leads complete formation of the proximal stylopod, the intermediate zeugopod, and the distal autopod.
+The vertebrate limb is not essential to embryonic survival, so grafting experiments can be performed to understand its patterning. Classical experiments have shown that the limb does not develop when certain cells are removed, and that a limb will form when groups of cells are transplanted to an alternative location.
+Classical experiments also identified several important signalling centres involved in the patterning of the vertebrate limb, seen in figure 2. If the AER is removed, distal limb development stops, Transplantation of the ZPA to the anterior of another limb bud causes mirror-image digit duplications, When the ectoderm of the limb bud is rotated 180 This essay shall consider the how these signalling centres set up their corresponding axes and interact with each other to bring about the patterning of the vertebrate limb.
+The induction of the limb begins with formation of the limb bud, where lateral plate mesoderm (LPM) proliferates to form a circular bulge. Fgf8 was first implicated as a chick limb inducer.  Fgf8 soaked beads induce a limb-like structure when inserted into the LPM of the inter-limb region,
+ It is initially widely expressed in the segmental plate, IM and LPM, but its expression is restricted to the LPM at stage 14 of chick development. Therefore No
+Together this produces a model where Fgf-8 from the IM restricts
+Expression of When
+Some Wnt proteins, such as Wnt3a, have been shown to function via the activation of the intracellular mediator
+As discussed above, it is proposed that Fgf10 induces Figure 7 summarises limb bud induction in a proposed model.
+ This demonstrates In
+Misexpression of dominant negative This is also supported by the fact that their expression is first detected in the prospective limb mesenchyme prior to overt limb outgrowth.
+In chick embryos leg grafts expressing A recent study by Takeuchi When
+The AER is situated at the dorsoventral limb boundary, Rodriguez-Esteban
+It appears that Dorsal misexpression of ectodermal gene
+As seen in figure 7, Fgf10 in the LPM is proposed to induce expression of  As shown in figure 6, It therefore appears
+The signals that regulate dorsal-ventral identity are derived from the ectoderm.  Ventrally restricted expression of genes such as
+ In the absence of surrounding ectoderm, dorsal
+We have seen that
+The progress zone is a region of proliferation of undifferentiated cells. It is thought that the AER regulates outgrowth through maintaining the undifferentiated and proliferative state of cells in the PZ.
+Application of Fgf4 soaked beads to chick limb buds with the AER removed results in stimulation of limb bud outgrowth and almost normal proximodistal pattern and limb length, although with some abnormalities in shape, compared to truncation in the controls.
+Fgf signals are transduced via Fgf receptors (Fgfr). Xu
+ Conditional inactivation of Overall it appears that both
+Early experiments found that the A-P axis involved ZPA, as seen in figure 13. Ectopic
+  Since the
+ As reviewed by Niswander, The transcription factor
+The ZPA requires a signal from the AER for establishment and maintenance of
+The D-V, Pr-D and A-P patterning systems are highly interlinked, with grey areas in understanding that may be clarified with future experimentation. The progress zone model of progressive Pr-D specification for example, has recently been challenged by an alternative model based on early specification of Pr-D fates in the limb bud. The chick and mice models discussed in the essay may be related to the limb patterning in other vertebrates, due to high levels of evolutionary conservation. Parallels have also often been drawn with Overall the patterning of the vertebrate limb is produced by complex and interacting signalling cascades, which set up the axes that are essential in producing complete and correct morphology.

@@ -1,0 +1,19 @@
+This document provides an in-depth approach to the technical details of aspects discussed in the Summary Report. As such, this document is heavily referred to in the Summary Report.
+The Technical Report comprises three broad chapters for the electronics, mechanical and software elements of the project.
+The technical aims of the electronics team are:
+To use a microcontroller with a built-in large amount of RAM (Random Access Memory) and UART (Universal Asynchronous serial Receiver and Transmitter) rather than a PLD and separate RAM IC
+Initialise Maxim MAX6952 LED Driver IC's (hereafter referred to as 'LED Driver ICs' when scoreboard is powered up
+Store the ASCII bytes received in an address in memory specified by a character location byte received in the same transmission
+Read the character data from memory and send the character data by generating SPI (Serial Peripheral Interface) compatible data signals and sending them in an order appropriate to the wiring scheme of the scoreboard
+The above is to be repeated for the Satellite Scoreboards but must also provide motor control functionality
+Implement a wireless communications link between the Main Scoreboard and the Master Scorer PC with the option for a serial cable back-up
+To implement these aims, the following objectives were laid out:
+Test LED Driver PCBs (Printed Circuit Boards) for functionality with Maxim's test software which uses a PC parallel port to generate SPI compatible signals.
+Determine how many LED Driver PCBs are functional and order replacements for faulty ones as soon as possible.
+Investigate differences between controlling the LED Driver PCBs in a daisy-chain and controlling them in parallel by individually controlling their CS (Chip Select) lines
+Obtain a microcontroller and development board kit and write test programs in C to understand operation of built-in features such as a UART and automatic SPI signal generation
+Control one driver and four LED Modules from the microcontroller development board before scaling up
+Design and prototype the additional electronics to drive all 56 LED Driver PCBs in the Main Scoreboard under one system whilst modifying the microcontroller program to do so
+Design and manufacture PCBs for the additional electronics to interface between the microcontroller and the LED Driver PCBs
+Implement similar circuits for the Satellite Scoreboards taking account of the reduced complexity and motor control element
+This section aims to give further technical details regarding the structural analysis of the satellite scoreboard as well as details on the specifics of the material selection and its subsequent tooling.

@@ -1,0 +1,39 @@
+Aimil Pharmaceuticals is one of the leading herbal medicines manufacturing company in India. The firm manufactures various kinds of herbal medicines distributed in northern region of India. The firm is mainly based in New Delhi, Capital city of India with few plant and offices in regions outside New Delhi.
+At their New Delhi plant, the firm manufactures large amount of medicines everyday. The medicines are manufactured by combining various herbs, which are being collected from various sources from in and outside New Delhi. In this assignment, we shall try to simulate one of their manufacturing plants based in New Delhi and solve some of the issues concerning the efficiency of the plant.
+Each plant site manufactures medicine for certain regions of India. The plant based in New Delhi, mainly covers areas around Delhi. The plant operates from 8am till 6pm every day, 7 days a week. In order to manufacture the medicines, raw material which are the herbs are needed. The company have contacts with four different vendors who provide all the herbs. The herbs collected from one vendor are only used for making one kind of medicine.
+The lorries leave the plant at 8am in the morning to collect the herbs from four different vendors located on nearly equal distance from the plant. The plant has 20 different Lorries of different sizes used in bringing all the raw materials required. The Lorries leave the plant site at 8am to collect the herbs in the following manner:
+1. Five Grey Coloured Lorries go to Vendor I and do two runs a day to that Vendor plant to collect the herbs, they leave the plant site second.
+2. Five Blue Coloured Lorries go to Vendor II and do two runs a day to that Vendor plant to collect the herbs; they leave the plant site third.
+3. Five Black Coloured Lorries go to Vendor III and do two runs a day to that Vendor plant to collect the herbs, they leave the plant site fourth.
+4. Five Brown Coloured Lorries go to Vendor IV and do three runs a day to that Vendor plant to collect the herbs; they leave the plant site first.
+The size of Grey, Blue and Black Lorries are same 9,000 kg where as the size of Brown Lorries are 14,000 kg.
+All the Lorries leaves through the exit gates, where they have to stop and get a clearance form from security
+When the Lorries arrive after their visit, they must stop at the Entrance Gate and driver have to provide the signed documents by the Vendor which are kept for record purposes. The next stage involves proceeding to the weighbridge area only if it is available else they have to wait in the queue designed to wait before moving onto weighbridge. If no spaces are available the lorry has to wait at the Entrance.
+After the weighing process is finished the lorry moves to the next point that is the stock check-in area. At present, there are three stock check-in-area points present, whose duty is to check all the material. The Lorries can take any one of three available points to get the goods checked. If no point is free, then the lorry has to wait in a queue for the check-in-area.
+After receiving the satisfactory check letter, the final stage is the off-loading stage. There are three off-loading bays designed to transfer all the material in quickest possible way. The lorry proceeds to one of the three offloading bays. If no bay is vacant they lorry have to wait in the queue.
+After off-loading all the material, the lorries either leave again for the next trip (They would leave through the exit gates and if its busy they would have to wait in a queue) or if its their list trip they move to final point which is the washing Zone. If the washing Zone is busy they would have to wait in Queue until they get any free available point. After washing the lorries are parked in the parking Zone.
+The layout of the plant is in such a way that it allows up to maximum of 10 lorries in a queue except the queue for the entrance which could usually have any number of lorries because its outside the plant area.
+The biggest congestion is seen during the timing around 10:30 am at the weighbridge zone and check-in points.
+The management has plans to add some extra check-in points and some offloading points in order to enable all lorries to finish their work by 4:30 pm. Under current operation the lorries usually finish by about 5:30 pm.
+The motivation to do this project came from personally worked in the firm as Software Development trainee and knowing the problem they were facing at their north Delhi plant.
+ 17
+Ranjeet NagarNew Delhi-110008
+India
+Website:
+The objective is to determine the number of check-in points and off-loading points required so that all lorries finish their tasks by 5pm. The maximum number of check-in and off-loading points allowed is 5. ( All aspects of the model were continuously refined (including objectives). The report presents the final version of the model.)
+The main report is 14 pages with 10 pages of appendices.
+The lorries arrive full.
+Lorries are never refused at Entry or Exit points.
+The check-in of the material is always satisfactory.
+Every operation point has only one dedicated worker.
+The capacity of the queue is more than the actual number of lorries plant have.
+There are no breakdowns of the equipments or lorries.
+Data obtained on time it takes to travel to respective vendor and back to the plant are sufficiently accurate for the problem.
+Data obtained on time to perform the operations at the plant are sufficiently accurate for the problem.
+Travel time from Parking Zone to Exit Zone and Off-loading Zone to Exit Zone are equal.
+Operation of only one day is being modelled in this project because the amount of work, vendors, and pattern of work does not change on day-by-day basis.
+The breaks taken by the staff member is not modelled in this project. In real life scenario the staff takes a break when their work centres are usually waiting for operation.
+Travel time vary very little, so fixed values are being used to represent travel times between various activities.
+Empirical Data are presented in the Appendix, page 20.
+ The analytical distributions for each operations processes times where chosen by analysing the Distribution Viewer of Stat::Fit was used to calculate mean and SD.
+Verification and validation of model has been important part of this problem. Verification has been performed continuously in the model in order to obtain accurate model. In most cases comparing the computer model results with the conceptual model does it.

@@ -1,0 +1,13 @@
+This experiment covered some of the growth kinetics, for which the growth curve of As a result, the Lag Phase began from 0 min to 10 min, the Acceleration Phase began from 10 min to 20 min, then there was 90 min (20 min - 110 min) Exponential Growth Phase, after which the growth began to slow down (Retardation Phase) and finally entered the (Stationary Phase) at about 140 minutes. The specific growth rate "
+The growth of bacteria is a result of many changes in the cell, including the change of the size, and the proportion of cellular components. Therefore, it is easy to measure only one or two parameters rather than all the changes as a measurement of the growth. Under simple conditions, the growth curve of a single bacterial culture shows several phases:
+ Though no growth is detectable using changes in absorbance as the measure, the cell is highly active with the proportions of cellular components changing.
+ This results from the fact that not all cells begin to grow at the same time.
+ A plot of log of the absorbance against time is now linear, which in turn can be used to find out the growth rate using the equation:
+The aim of the experiment was to follow the growth curve of
+The experimental procedure and materials were used followed the instruction of the lab manual. For the viable count part, the initial bacterial count were carried out with 10 While, the final viable count of
+As shown in figure 1 on the semi-log graph paper, there is a very short Lag phase for the first 10 minutes, and then the acceleration phase begins. This lasts until about 20 mins when the maximum growth rate (Exponential Phase) is reached. This lasts until 110 minute, where it began to slow down (Retardation Phase) and finally entered the (Stationary Phase) at about 140 minutes. The Death Phase was not determined on this figure. All "Phases" are labeled on the graph. The curve of the Exponential Phase was straight, though some point lay outside this best straight line of fit.
+The specific growth rate "
+As a result "
+The culture doubling time "t
+As a result "
+The result of the viable count is not included in this report.

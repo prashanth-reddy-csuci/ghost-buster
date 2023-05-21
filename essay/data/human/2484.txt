@@ -1,0 +1,26 @@
+See code
+ The solution is zero as expected.
+ This showed the square wave as expected.
+Test C:
+If
+where D is the total distance travelled and N is the number of time steps, then
+If the x domain is 1m with 40 grid points and the velocity u is 1ms The solution completed one cycle at 400 and 800 time steps as expected.
+ When u was 2ms
+ The program returns no values as expected (it shouldn't work for a negative number of grid points!).
+ This again shouldn't affect the direction travelled or the distance travelled per time step. The solution propagates 'forward' as expected.
+See graph 1
+ This is expected because the numerical phase speed is always underestimated compared to the real speed for the CTCS scheme. The more time steps the model is run for, the more the numerical solution 'lags behind' the theoretical solution (this can observed in the results from runs for 50, 100 and 200 time steps).
+ These are due to the computational mode of the numerical solution, introduced through truncation and round-off errors at each time step and because the CTCS scheme is designed to conserve . The amplitude of these oscillations increases for increasing time step as expected. The oscillations are also lagging behind the initial function, as numerical speed is dependant on wave number. Therefore, different Fourier components of the solution travel at different speeds, so waves with a shorter wavelength (i.e. the computational mode) travel more slowly. This is known as a diffusion error.
+The numerical solution is unphysical if represents the concentration of a dye as it has some negative values in the oscillation following the initial function (i.e. you can't have a negative concentration)
+This error could cause problems for any physical quantity in a climate model. For example modelling a temperature field, or the concentration of a green house gas such as CO Simply underestimating either of these would prove bad for a climate model, as well as the model proving unphysical if they went negative.
+The numerical solution to the CTCS scheme is unstable if the courant number is less than 1. The courant number is the fraction of a grid point travelled in one time step: If Therefore the numerical solution is oscillating and unstable (amplitudes had increased to ~50000 by 50 time steps).
+See graphs
+If the smooth initial function was split into it's Fourier components, it is only made of a few sine waves of relatively long wavelength compared to the grid size. However, a square wave is made of a large amount of Fourier terms, many of which have a small wavelength. As numerical speed is dependant on wave number, these move more slowly than the long wavelengths. Therefore there are many more slow moving oscillations for the square wave than for the smooth function.
+See graphs
+The errors are principally associated with the computational mode as the solution begins to oscillate in sign with time step. This is because of the - 1
+The 1 The equation also shows that the computational mode also propagates in the opposite direction to the function. However, as the two graphs are only 1 time step apart, movement is hard to distinguish. The solution needs to conserve (mass), so there is also a wave formed upstream due to the negative in the computational mode.
+The function was expected to move as before, but with its amplitude would be reduced exponentially with increasing time (i.e. the solution was being damped). The theoretical solution looks like
+For small timescales, the numerical solution follows the theoretical solution closely. However, as the time approaches 0.5 seconds (200 time steps), the amplitude of the numerical oscillation increases compared to the theoretical solution and short wave oscillations are seen. See extra graph for clarity.
+Oscillations can be seen because the amplitude of the computational mode has increased to greater than the physical mode. The physical mode is decreasing with time, but the computational mode is increasing with time. 200 time steps (or 0.5s) is approximately the time it takes for the amplitude of the computational mode to be of the same order of magnitude as the physical mode.
+You could make the scheme implicit (i.e. put in For example
+I'm not sure if this would model the same thing though.

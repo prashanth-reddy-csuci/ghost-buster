@@ -1,0 +1,27 @@
+Before PC based test systems engines were road tested to obtain performance parameters. This was slow, expensive and proved difficult to gather data at required engine parameters. This report looks into how modern PC based test systems are used to determine engine performance.
+The engine under investigation in this report is the Rover 1.4 litre K16 engine.
+The K series Rover engine is a popular design and is used in Rover, Lotus & Caterham cars. There are various sizes and types of engine within the K series groups including 8 & 16 valve variants, named K8 or K16 respectively. Engine sizes vary from 1.1 litre to 2.5 litre V6.
+The Rover K16 engine is one of many automobile engines that obtain high fuel efficiency by the use of lean burn.
+Operating a lean mixture allows added power to be gained from the engine whilst maintaining low fuel consumption values. Pulkrabek explains how higher power is obtained in his book 'Engineering Fundamentals of the Internal Combustion Engine', "by running a lean mixture flame speed is slow, and combustion lasts well past Top Dead Centre (TDC). This keeps the pressure high well into the power stroke, which produces greater power output".
+The main aims of this report are:
+To explore the CADET's capabilities as a PC base engine test system.
+Use the CADET system to investigate the operating characteristics of a Rover K16 engine.
+Produce power and torque curves for the Rover K16 engine
+Produce a performance map for the Rover K16 engine
+Power is the rate at which work is done and is defined as:
+Torque is a "measure of an engines ability to do work" A more useful relative engine performance measure is to divide the work per cycle by the cylinder volume displacement per cycle. This parameter is called Break Mean Effective Pressure (BMEP) and is measured in units of force per unit area.
+Most good engine designs obtain very similar BMEP values, which allow direct comparison between different engine sizes.
+Rearranging Reference source not found. and assuming appropriate value for BMEP the value of Torque or power at a specified speed can be estimated given the engines displacement.
+Brake Specific Fuel Consumption (bsfc) is defined as:
+Typical values for a normally aspirated Spark Ignition (SI) engine are between
+850-1050 KPa. With maximum torque at 3000 rev/min
+Two tests were carried out for this report, Full throttle test, which produced power/torque vs engine speed characteristics and engine performance which produced an engine performance map.
+The Wide Open Throttle (WOT) test consisted of programming the CADET system with the engine test stages. The program listing the stage types and engine test program can be seen in Appendix 1. A detailed description of the CADET systems stage types can be found in the software manual for the CADET Engine Test System
+The load applied to the engine was used to control the engine speed. For each specified engine speed the engine torque and power were recorded and can be seen in Table 1
+To obtain the performance map of the Rover K16 engine the following parameters are monitored:
+Rearranging Reference source not found. torque values can be estimated for given BMEP values. For a BMEP of 2 bar the torque produced is:
+At specified torque values the parameters listed above were measured, and can be seen in Table 2.
+From these results the bsfc can be calculated using Reference source not found. , the results of which can be seen in Table 3. From Table 3 it is possible to produce a performance map which shows contours of constant bsfc on a graph of bmep against engine speed.
+This report has provided an insight into how a PC based control system can be used to gather engine performance data. The data collected by the CADET system for the Rover K16 engine gives a detailed insight into the engines performance characteristics.
+The results have shown that the K16 Rover engine has been designed to be most efficient when operating around its mid-rev range. This improves the engines drivability and fuel economy.
+It has been discussed how technology advancements, such as variable valve timing and electronic engine management systems have allowed engines to produce greater power and obtain higher fuel efficiency whilst meeting current EU emission regulations.

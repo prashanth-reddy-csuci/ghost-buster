@@ -1,0 +1,8 @@
+There are variety ways to determine protein and DNA properties for biological samples with modern techniques. This laboratory used absorbance and BCA method to determine concentration of protein solution, circular dichrosim (CD) for protein secondary structure determination, and fluorescence spectroscopy to find the DNA and ligand equilibrium binding constant.
+The principle behind the absorbance method is based on the relation
+where
+BCA method is based on the principle of linear relation between the absorbance and the protein solution. The unknown protein concentration is determined by comparing the absorbance value with the standard solution.
+If the structure is not symmetric, CD spectroscopy can measure the differences in the absorbance of left-handed polarized light versus the right-hand polarized light. CD spectroscopy can be applied to determine protein secondary structure in far-UV region (190-260nm).
+Fluorescence occurs when a molecule absorbs a high-energy photon, and re-emits it as a lower-energy photon with a longer wavelength. Fluorescence is more sensitive than absorbance, and it is sensitive to environment, too. Fluorescence signal is proportional to concentration of a particular fluorophore in a given environment, so it can be used to determine
+Where
+In this laboratory, we determined the protein concentration with two methods - absorbance and BCA method, with consistent but slightly different results. CD spectroscopy can determine the protein secondary structure by telling the percent of Fluorescence spectra is measured to determine the binding constant for DNA and Ru at different concentration.

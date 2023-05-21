@@ -1,0 +1,24 @@
+Usually DNA exists as a double helix with two polymers held by hydrogen bonds between the bases on each strand. However, the double stranded DNA helices would separate into single stranded components if heated up gradually. This transition is measured by the absorbance of a DNA sample as a function of temperature. The following is the diagram showing the relevant properties of the DNA melting curve versus temperature.
+Figure 1 shows the plot of the DNA absorbance as the temperature goes up. The absorbance curve keeps constant at the beginning, from 20 to 60 degree centigrade (
+From the data given, we can find that the maximum absorbance is 1.2498, and the minimum one is 0.9933. Thus, the estimated This value corresponds to
+Figure 2 is plot of the derivative of the absorbance curve with respect to the temperature versus the temperature. The peak occurs at the temperature of approximately 66
+Using the first 15 data points, we can find a straight line that approximates the temperature dependence of the unmelted DNA absorbance (see figure 3). The equation of this baseline worked out turns out to be:
+The final absorbance on the melting curve plot is 1.2498.
+Let Then,
+is a function of temperature.
+We transform the centigrade temperature
+since the absolute temperature The plot of
+The midpoint of That is,
+Figure 5 is the plot of the derivative of
+From figure 5, we can see that the absolute temperature of the maximum of the derivative curve is
+Thus, Van't Hoff transition enthalpy of the transition can be determined by the following formula:
+where B' = - 4.38 cal K
+So,
+According to the previous steps, we have found three Thus, we take the mean of these three, and
+The entropy change of the transition can be determined by using
+So,
+Gibbs free energy of the transition is determined by
+Figure 6 can show the linear relationship between the change of Gibbs free energy and the absolute temperature:
+From the figure, we can see that the Gibbs free energy would be zero if the temperature is taken at the value The absolute value of Gibbs free energy decrease as the temperature increase from the beginning to From the absolute magnitude of Gibbs free energy, we can see that it is high in the system of double stranded DNA and a bit lower when all double stranded become single stranded.
+Then van't Hoff transition enthalpy of the transition is -402460 J/mol, which is the maximum amount of thermal energy derivable to a thermodynamic process of DNA melting when the pressure is held constant.
+The change of entropy is -1183.2 J K This is a measure of the amount of energy that cannot be sued to do work in this double stranded and single stranded DNA system.

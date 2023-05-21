@@ -1,0 +1,57 @@
+This report details the design and calibration of a measuring system intended to quantify forces applied to a cantilever beam. Strain gauges bonded to a prefabricated cantilever rig provided the initial signal via a Balance Potentiometer. This was used to calibrate the apparatus so that a reading of zero could be read when no force was applied. This change in resistance was input into a Wheatstone bridge circuit, converting a change in resistance into a change in voltage, and a non-inverting operational amplifier chosen to increase the signal. A signal gain of 1001 resulted, and sufficient noise was visible on the oscilloscope that a capacitor was selected to create a simple low-pass filter. The potentiometer was again calibrated such that the unloaded reading was still zero. The cantilever was loaded at the end with set masses, and with the aid of digital voltmeters, oscilloscopes and ADC (Analogue to Digital Converters) the apparatus was calibrated to allow forces to be derived from the output signal.
+The cantilever rig below was connected to a Wheatstone bridge (illustrated below the rig), to convert the change in resistance of the strain gauges, into a change in voltage that could be visualised on an oscilloscope or voltmeter. The cantilever was sequentially loaded with incremental masses, and the sensitivity extrapolated as 11.4 VN
+A non-inverting operational amplifier with gain 1001 was connected to boost the signal generated. The noise levels of the system however were unacceptable, and hence a capacitor was fitted across the feedback resistor.
+The completed system was connected up to an analogue-to-digital converter, and input into a computer package. The output was then visualised and analysed to determine the resonant frequency and time required to settle from oscillation of the cantilever.
+Strain is given by Stress, divided by Youngs Modulus,
+and stress is given by
+when
+Substituting the following values,
+into
+Therefore
+so
+As
+This equation gives the strain in terms of the force, F that is applied to the end of the cantilevered beam.
+The maximum loading force that the system could allow can be estimated using:
+and assuming the maximum moment possible,
+then
+and as
+Wheatstone bridge circuits are commonly used to convert the resistance change in Strain Gauges into an output voltage. By considering the top and bottom parts of the bridge as individual voltage dividers we get:
+From this, the output voltage V
+or
+This last equation suggests that
+if
+When such a condition is met, it becomes much easier to measure the small changes in output voltage, The configuration of bridge circuit used contained two active gauges. One placed in bridge arm 1, and the other in arm 2. In this configuration, upon application of a load, the gauge on the top surface will be subject to a tensile strain, whilst the gauge on the bottom surface will be subject to a compressive strain. Once the bridge has been balanced, a force applied to the cantilever would change the gauges to:
+and the bridge output becomes,
+As
+then the previous equation can be rewritten
+This configuration of a bridge circuit utilising two active gauges gives a linear relationship between the change in output voltage and the change in resistance of the Strain Gauges. The sensitivity of a bridge with two active gauges is double that with only one active gauge.
+Substituting in values for the resistance and input voltage to the bridge we get:
+A non-inverting operational amplifier with a gain of approximately 1000 can be achieved using:
+where
+so
+Two values that would conform to this equation would be,
+This in fact gives a gain of 1001 (Figure 1 and 2). A simple low-pass filter can be included to reduce the noise levels that this configuration exhibits. To incorporate a simple low-pass filter across the feedback resistor, R
+then
+The sensitivity of the system can be calculated from Graph 1. Sensitivity is given by the gradient of the line of best fit. This can be taken from the equation of the line given by excel:
+as 11.428 VN The linear range for voltage can be estimated by entering the estimated maximum allowable force into the equation above,
+This can only be estimated because the system does not have the ability to be loaded to a point where non-linearity can begin to be recognised.
+A simple rig with steel ruler clamped at one end as cantilever beam, with strain gauges bonded to each side of the ruler. The signal from the strain gauges passes through a balance potentiometer, which allowed for correct calibration of the apparatus at a later time. The following dimensions were recorded from the rig:
+The ruler was made out of Stainless steel and accordingly, the Young Modulus of the ruler was 210 GPa. These measurements and the Young Modulus were used to calculate the Strain in relation to the load on the end of the cantilever beam in terms of the force, F. Further calculations estimated the maximum loading allowed by the apparatus.
+A Wheatstone bridge was used to convert the change in resistance output by the strain gauges into a change in voltage that could be measured on a Voltmeter. The conditions required to balance the bridge were derived (see theory), and accordingly the voltage potentiometer was adjusted to calibrate the output voltage to zero volts. The relationship between the bridge output and the relative resistance change of the strain gauge was also derived (in the theory section).
+An operational amplifier was selected to increase the voltage output from the bridge to a larger value that could be read to greater sensitivity using a voltmeter or oscilloscope. A non-inverting amplifier was chosen for this task as a result of its higher impedance. This would help the integration of a low-pass filter. The values for the resistors were chosen to give a gain of 1000 and using a breadboard, the amplifier was connected up to the bridge. Considerable noise was apparent when the output was viewed using an oscilloscope. Adding a capacitor across the feedback resistor of the amplifier configured a simple low-pass filter. The value of the capacitor was chosen such that RC = 0.1 sec. Once the capacitor was in place, the noise produced was visibly reduced.
+Washers were loaded upon a nylon screw bonded vertically to the tip of the cantilevered beam once the rig had been properly balanced. Each washer had a mass of 0.25 g, and after each washer was loaded, the system output was recorded from the voltmeter, and a table drawn. A graph was plotted of the system output against loading force, and a linear fitting made. The linear range was determined by inputting the maximum force into the expression relating force and voltage. The sensitivity was calculated as 11.428 VN
+The outputs from the amplifier were plugged into an analogue-to-digital card that was in turn connected to a PC and driven by Labview software. This allowed the output to be plotted against time for the following situations:
+The unloaded runs illustrate only the level of noise present within the system. Holding the cantilever flush with the base unit, and releasing concurrently with commencing the collection of data achieved the loaded runs. Data was collected for a period such that the system had time to stabilise before the run stopped.
+The equation relating the strain in the strain gauges in terms of the loading force is:
+Every parameter has a linear relationship with the strain, except t, the thickness of the beam. Therefore to achieve a significant difference in the strain, a change of thickness would give the best results as it shares an exponential relationship with the strain.
+The maximum loading allowed by this system was estimated as 2.89 N.
+The two resistors chosen to construct the non-inverting amplifier were:
+This gives a gain of 1001. Placing a capacitor across the feedback resistor of value 100nF then completed the low-pass filter. The noise levels observed on the oscilloscope subsequently fell noticeably.
+A table of system outputs output with increasing loading forces is shown in Appendix 1. A graph of this data set, plotting System Output, N, against Loading Force, N, is included in Appendix 2. A linear fitting of the data has been included with a good fit, R = 0.9997. The sensitivity could then be estimated at 11.428 VN As the rig did not allow sufficient loading to recognise non-linearity, linearity was assumed up to the maximum allowable force, corresponding with a maximum voltage of about 33 Volts.
+From the graphs plotted using Labview, whilst the rig was connected to the analogue-to-digital converter card, the resonant frequency and the time required for the system to stabilise were interpreted.
+As one period as read from the graph takes 49 ms, the resonant frequency can be taken as,
+The time to stabilise was estimated at approximately 2000 ms.
+Variation upon the dimensions of the beam, and so resistance of the strain gauges with temperature, can be modelled by,
+As changes in temperatures are minimal, error is negligible.
+When loaded in small increments, the sensitivity of the system was calculated at 11.428 VN This was because the rig did not allow loading anywhere near the estimated maximum allowable load of 2.89 N. Therefore linearity was assumed to continue up till V The ability to apply greater loading forces would allow the true limit to be determined more accurately. To improve the sensitivity of the system, the simplest and most effective solution would be to decrease the thickness of the beam, as this has an exponential effect upon the strain. All other parameters in the system have a linear relationship with strain so any change would not result in such a significant resultant change.
+The rig once connected to the analogue-to-digital converter produced graphs that enabled the resonant frequency to be determined as 20.4 Hz. The time required for the system to settle once oscillated is approximately 2 seconds. The integration of a simple low-pass filter significantly reduces noise, as can be seen between Graph 2 and Graph 3.

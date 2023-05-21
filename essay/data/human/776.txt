@@ -1,0 +1,11 @@
+This report is aimed to design a torque sensor measurement system. This would include from selection of strain gauges i.e.  This measurement system Torque is measured on the shaft by a An accurate torque measurement system must be
+ For example, torsion is the strain experienced by a length of wire when a twisting force is applied to one end while the other end is fixed. It can be measured by observing how much an object twists due to a given torque. When a cylindrical object one unit long is twisted at one end, and the other end is held fixed, the amount the ends of the cylinder rotate relative to each other is a measure of the torsion.
+ The measurement is expressed as the tangent of the change in angle between lines that were initially perpendicular. It is often known as angle distortion and represented by It can be found by
+.
+ The shear modulus is often represented by letter G. It can be defined as follows:
+General torsion equation is given by:
+ To measure torque, the kind of transducer needed is a torque sensor.
+In general, a given measurement system can be divided into From design point of view, it would be more efficient to concentrate design one element at one time without worrying about the others. The element flow chart is shown below
+ It usually involves converting mechanical output from sensing element to an electrical signal.
+ Display units from a pointer-scale indicator (analogue) to computer (analogue/digital) all belong to this family.
+This design covers all the basic requirements needed in a torque measurement system. It is believed that this circuit can improve by using a Wheatstone Bridge constant current circuit as using constant current in a Wheatstone Bridge circuit

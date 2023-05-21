@@ -1,0 +1,36 @@
+It is thought that water masses in the oceans are transported around the World only by the currents driven by the wind. This is, however, not the case. Waves produced at the ocean's surface also help to transport water masses. The effect of waves on the transport of water masses is comparatively subtle. However, sometimes the wave driven component can be as large as that of the wave driven component. The average effect of the wave driven component of transport is referred to as Stokes drift and the following project will investigate certain aspects of Stokes drift, in particular characteristics such as wave amplitude and phase speed.
+A body of water can move three dimensionally (i.e. in the
+When a body of water is transported by a velocity field,
+The velocity field, These components are the wind driven component and the wave driven component which is periodic in space and time. The velocity field is given by:
+Where The velocity field due to the waves is
+The above equations cannot be solved analytically, therefore the motion of a body of water needs to be solved using a computer program. The computer program used will be MATLAB.
+An explicit scheme will be used to solve the equations. This is also known Euler forward time-stepping scheme. Using the two stated equations stated previously and the explicit scheme, the following equation was derived. It calculates the next value of
+It is proposed that a body of water is released from
+ The equation is integrated from
+The following is the MATLAB computer code created to solve the previous equation with the previously stated parameters:
+This MATLAB computer program was executed and the following graph (Figure 1) is a plot of the
+The line on this graph represents the drift velocity, One would expect that the wind driven component However, it is clear to see from Figure 1 that the actual drift of the body of water is greater than the drift expected from the wind driven component Therefore, this difference must arise from the velocity field due to the waves,
+To find the magnitude of The value of
+1.041382 is the value of the velocity field with parameters that are stated beforehand. Since the wind driven component equals 1.0, then Therefore
+This now tells us that the magnitude of Stokes drift is equal to 0.041382.
+The computer program is then run again, but with the phase speed,
+The following graph (Figure 2) is the outcome:
+It can be seen that Figure 1 is very similar to Figure 2, however, when This change in The gradient of the line in Figure 2 is calculated in the same way as it was for the line in Figure 1. Once again, the value of
+A value of 0.950002 was calculated. This now tells us that The value of Stokes drift is therefore This tells us that by setting the phase speed to zero, Stokes drift becomes negative. Although the value of Stokes drift is negative, the magnitude is 0.049998 but in the opposite direction to the wind velocity.
+In the previous example, the amplitude of the wave field, The following experiment will vary The value of The integration interval will also be increased up to It should also be noted that the phase speed, Table 1 represents the findings:
+The following graph (Figure 3) is representation of the MATLAB code when
+It is clear to see in Figure 3 that when Therefore the d However, when
+It is evident so see now, that the affect of This tells us that Stokes drift increases in magnitude (but in the opposite direction to the wind) as the wave driven component increases. This means that the waves restrict the transport of water if the phase speed is set to zero.
+By plotting a graph (Figure 5) of Stokes drift against the wave driven component,
+It is obvious to see that as the wave field increases, Stokes drift decreases. According to Figure 5, this change is not linear; as
+A theory exists for Stokes drift. It states that for small amplitudes of the wave field,
+In other words:
+In the computer model stated previously, this theory can be proved. For example, when
+This theory approximates a value of 0.99875. The computer model calculated a value of 0.998583. Therefore it is clear to see that this difference is very small and that the theory holds up. However, when the amplitude of For example, when
+A value of 0.595 was approximated, whereas the computer model calculated a value of 0.4341838. This proves that the theory only holds for small values of
+The velocity field,
+Therefore If the phase speed, If d If d This shows that the gradient of the velocity field is dependant on the phase speed. If the phase speed is zero, the gradient will decrease therefore Stokes drift becomes negative.
+Referring back to Figure 5, as Physically this tells us that when Stokes drift is negative, it acts in such a way to pull the body of water back in the opposite direction of the wind field and that when Stokes drift is more negative, this effect is greater. This means that the transport of water by the motion of waves is restricted by the larger values of The opposite is also true. When Stokes drift is positive, the waves actually help to push the body of water along, increasing the net transport of water. However, as previously discussed, for this to be the case, the phase speed must be above zero.
+For waves to play a role in the transport of water, Stokes drift has to be positive. For this to be the case, the amplitude of the wave field,
+It should also be noted that if over a certain time period, if Stoke drift is negative more than it is positive, the total drift will be less than the drift of the wind field alone. The opposite is true in that if Stokes drift is more positive than it is negative, then the total drift will be greater than the drift of the wind field alone.
+For efficient transport of water,

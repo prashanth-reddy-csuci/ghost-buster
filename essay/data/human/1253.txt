@@ -1,0 +1,34 @@
+The main aim of this project was to design a circuit model for lasers based on the single mode laser rate equations given. The simplified laser equations used to describe lasers using the photon and carrier densities and the input current. Some of the parameters of the equations had to be calculated based on theory. Using this parameters and the given parameters the paper based circuit mode was built using RC filters. Computer based stimulation using multisim was than carried out for further investigation and to compare the theory based results to stimulated based results. Also note of all the changes were made for the change in circuit design in computer stimulation compared to paper based circuit.
+For further development using simulation, the following steps were followed:
+For obtaining the graph of (f):
+The stimulation used voltages to represent current variables; for example, the drive current was entered using a voltage source of the appropriate type and a magnitude of the appropriate size in mV.
+In the new circuit designed in multisim, the major difference was that there were 3 adders and one multiplier used. Here, as the adder block allowed the input and output gains to be entered into them, so that there was no need for separate gain blocks. The adder A1 had 3 input ports and one output. The port B was connected to ground, Port A had the output gain of K For some reasons the K The output of adder1 went in the input of the multiplier and adder A3, after going through a virtual diode. As shown in figure1
+The multiplier had 2 inputs, K The output of the multiplier was the input of the port A of Adder A3 and A4. For adder A4 port A had the gain of -1, port B was connected to ground and port C had the pulse input voltage source which actually represented the drive current I in mA. Hence, the output of the adder A4 was actually For adder A3, port C had the input of the multiplier and output gain of The output of the adder A3 actually represented
+The circuit was built in multisim taking in mind of some points. As from the calculations of paper design it can be noted that But, For simplicity the value of R
+After the circuit was built, it was double checked for any fault.
+The pulse source used had been defined the following characteristics as shown in figure2.This change in characteristics of the pulse source was done to observe lasing and to get the stimulation going.
+Transient analysis was performed to observe the graph of the input current, the carrier and photon densities. The maximum time-step was forced to be no more than 10 As shown in figure3 the properties of the transient analysis were changed.
+The graph obtained showed the required characteristics.
+For obtaining the graph of (g)
+The pulse source characteristics were changed so that it had zero level that was negligible and one level above threshold, 20mA to observe the turn on delay before there is significant photon output.
+In order to look at the graph more accurately, for transient analysis initial conditions were "set to zero", for parameters, start time =0 and end time =3e
+Transient analysis was performed and the graph was obtained with the turn on delay and compared to the calculated one in paper design part(c). The graph obtained is shown in Figure(f)
+The pulse source zero level was now increased to 9mA and during transient analysis initial conditions were changed to "Automatically determine initial conditions", but the parameters were kept the same. (as shown in figure3)
+Transient analysis was performed and the graph was obtained with the turn on delay and compared to the calculated one in paper design part(c).
+For obtaining the graph of (h)
+The pulse voltage used earlier was changed to triangular wave form which sweep from zero to some value substantially above threshold. This change was made by changing the characteristics as shown in figure1 and 2
+Transient analysis was than performed, which the characteristics Initial conditions were "Automatically determine initial conditions" and the parameters were start time= 0 and end time =3e
+The graph obtained showed the input current, normalised photon output, normalised carrier output.
+The graph data was than exported to excel using this function
+on the toolbar of transient analysis
+The graph of input current against photon output was obtained which showed that the threshold is approximately 10mA
+For obtaining graph of (i)
+AC voltage source (set to 20mA) was placed instead of pulse voltage (as shown in figure6)
+An AC sweep was performed having the characteristics: Start frequency: 100MHz, Stop frequency:10GHz, Sweep type: linear, Number of points 1000, Vertical scale Linear( as shown in figure7)
+The graph obtained showed the position of the resonance which was than measured with the calculations in part (d) of the paper design
+The results obtained are as shown in the following table:
+Hence,
+Each of these equations represents a simple low pass RC circuit whose input is either f (x, y)1 or f (x, y)2 , producing output y or x.
+Hence, for all the graphs the photon output and carrier output obtained is actually normalized photon output y and normalized carrier density x.
+The stimulation has used voltages to represent current variables; hence on all the graphs the voltage source represents the input current.
+In Appendix 3 graph showing the input current, photon and carrier density, the photon output increases at threshold, as in semiconductors; the photon output is generated by injecting a large number of carriers into the active region of the device, bringing the carrier density within that region from below to above lasing threshold. When the carrier density exceeds that value, the ensuing stimulated emission results in the generation of a large number of photons. However, carriers are depleted as a result of stimulated emission faster than they are injected. So the carrier density eventually falls back to below lasing threshold, which results in the termination of photon output. If carrier injection has not ceased during this period, then the carrier density in the active region can increase once more and the process will repeat itself.

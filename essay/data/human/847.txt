@@ -1,0 +1,12 @@
+This investigation was to assess the usefulness of mathematical models to calculate deflection due to bending and torsion behaviour. This used models derived from simple linear elastic theory, including judgements of the approximations involved. These models were then compared against experimental data obtained in the years of 1995 and 1998.
+The bending data was collected from a rig consisting of a simply supported beam, and a sliding mass. The torsion behaviour was collected from a rig comprising a cantilevered hollow shaft.
+The models proved to be inaccurate and could not supply sufficient modelling of the deformations.
+This investigation assesses the usefulness of mathematical models to calculate deflection due to bending and torsion behaviour. This used models derived from simple linear elastic theory, including judgements of the approximations involved. These models were then compared against experimental data obtained in the years of 1995 and 1998.
+The bending data was collected from a rig consisting of a simply supported beam, and a sliding mass. The torsion behaviour was collected from a rig comprising a cantilevered hollow shaft.
+Two separate rigs were used for the bending and for the torsion experiments. A simply supported beam with a knife edge support at either end, a sliding adjustable mass, and sliding displacement gauge were used:
+The mass slider was placed at specific distances from 'A' along the beam. The displacement gauge was also placed at specific distances from 'A' for each of the positions of the mass slider. The masses were used for each of the following combinations:
+The masses used were 0.5 and 1.0 Kg. The displacement was then recorded for each of the above combinations.
+The results of the simply supported beam are displayed in Table 1, whilst the cantilevered beam results are displayed in Tables 2 and 3.
+The models proved to be so inaccurate that estimations could not be made rendering the models useless.
+The mathematical models proved useless, and estimations could not be made. The second set of results taken from the cantilevered beam is plotted in Graph 1, and shows a good linear relationship. Errors in the results are great.
+The deformation of simply supported beams, and of cantilevered hollow shafts depends upon many variables. This proved difficult when devising mathematical models. The models proved too difficult, the behaviour of the deformations backed up the theory of linear deformation. Variables include the geometry of the beam, the material and many more dimensions.

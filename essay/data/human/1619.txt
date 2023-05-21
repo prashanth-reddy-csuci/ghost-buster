@@ -1,0 +1,2 @@
+In this part, we will explain how dirsync is working, adding some part of source code, then we will see how and where the modification will be inserted.
+Analyse and understand an existing code is very interested because we can see how other programmer find solution for a problem, and it's often improving. We have to understand very well how the program works before to modify it. Before to start the modification, we have to think about the new structure, new program architecture etc... and when everything is clear, we can begin to modify the program.

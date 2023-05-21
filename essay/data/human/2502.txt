@@ -1,0 +1,6 @@
+E = Encryption Public Key (20000000089)
+N = A very large integer (34618195959169)
+M = Plaintext: "The security of an encryption system is as strong because most people rather eat liver than do mathematics!"
+C = Ciphertext
+D = Decryption Private Key (4771730348713)
+Write C++ or Java programme to implement the RSA encryption and decryption using the above given parameters. You must demonstrate that your programme works! Hint: You may use a text-numeric converter of your choice to convert the plaintext into numbers.

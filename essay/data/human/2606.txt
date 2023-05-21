@@ -1,0 +1,31 @@
+The apparatus used in the experiment included;
+Before the IOP (Intensive Observation Period) began, the two thermometers mounted at the same height were calibrated by taking a number of simultaneous readings, from this, a systematic offset was calculated. One of the thermometers was then placed at a height of 2.0m with the other one remaining at a height of 0.2m. After waiting at least 3 minutes for the effect of thermometer lag, the IOP began.
+During this period ( The tendency for any of the anemometers to stop rotating or stalling and changes in weather conditions was also noted.
+At the end of the IOP, the total number of counts was recorded, along with the total elapsed time.
+Date of Experiment: 23/06/06
+(Mast 1 was used in the experiment.)
+The mean wind speed, U is given by;
+Since the anemometers are accurate to within
+Therefore,
+Accuracy of U is
+Therefore,
+Accuracy of U is
+Therefore,
+Accuracy of U is
+Therefore,
+Accuracy of U is
+Therefore,
+Accuracy of U is
+Therefore,
+Accuracy of U is
+Therefore,
+Accuracy of U is
+Therefore,
+By plotting a graph of U against ln(z), a logarithmic profile of the wind can be obtained.
+A graph has been constructed showing U against ln(z). A straight line of best fit has been fitted.
+It can be seen that when studying the graph of Therefore the measurements taken do fit the logarithmic wind profile law. It appears that the two middle values are inaccurate and the other values are more accurate. However, when all these values for each anemometer are compared with how often each anemometer stalled, it becomes clear that the middle values would be more accurate as these anemometers stalled less frequently, and that all the other points are in fact out of line with the middle two values as these points represent anemometers that stalled frequently during the IOP. This means that if the anemometers stalled less frequently, the line of best fit would be somewhat higher than it is on the graph.
+It appears that the scatter of measurements about the log-profile are not that significantly larger, except the middle two values, than what might be expected due to measurement error, especially considering that all of the anemometers stalled at least twice during the IOP.
+A value for z This is 0.237cm and represents the roughness length for the grass length in the Atmospheric Observatory. The
+The observed lapse rate was 1.26 K per 1.8 m near the surface, which equates to 700 K per km. The DALR is approximately 10 K per km, therefore the observed lapse rate near the surface was much greater than the DALR.
+During the analysis of this experiment, it was assumed that K However, during the IOP, non-neutral conditions were experienced where a strong temperature gradient was found near the surface. This was due to eddies of warm air existing near the surface and not mixing with the cooler air above. This was enhanced by the light wind conditions.
+The eddy correlation method estimated a value of 40.00 Wm The value estimated by the profile method is approximately half the value estimated by the eddy correlation method. Since H is inversely proportion to r This is what was found during the IOP.

@@ -1,0 +1,35 @@
+This report investigates the effects of cyclic loading on plain Aluminium Alloy beams. Different preloading factors, and stress concentrations are analysed and comparisons made against results obtained though practical testing.
+The aim of this report is to investigate the behaviour of materials under fatigue and post yield conditions.
+The main aims are:
+To be able to predict Yield and Limit moments of a beam subjected to monotonic loading
+To be able to predict the residual stress and strain profiles generated in plain beams when subjected to a bending moments greater than its yield moment
+To be able to predict the maximum bending moment that can be applied to a plain beam and beam with stress concentration in for a given fatigue life
+Determine the effects on fatigue life of pre-loading beyond yield point on plain beams
+Compare fatigue lives of plain beams with and without residual stresses
+Comment on the deformation of the surfaces of the beams at failure
+Compare predicted value against those obtained through practical testing
+The main objectives of this investigation are:
+To predict Yield and Limit moments of a beam subjected to monotonic loading, and to compare the predictions by practical testing
+To predict the residual stress and strain profiles generated in plain beams when subjected to a bending moment 30% above its yield moment
+Predict the maximum bending moment that can be applied to a plain beam and a beam with a hole to survive 10
+Determine the effects on fatigue life of plain beams pre-loaded beyond yield point
+Compare fatigue lives of plain beams with and without residual stresses
+Comment on the deformation of the surfaces of the beams at failure
+Fatigue is defined as "the progressive, localised, and permanent structural damage that occurs when a material is subjected to cyclic or fluctuating strains at nominal stresses that have maximum values less than (often much less than) the static yield strength of the material. The resulting stress may be below the ultimate tensile stress, or even the yield stress of the material, yet still cause catastrophic failure"
+The main factor attributed to machine failure is fatigue, a famous example of fatigue causing catastrophic failure was on the De Havilland Comet which was the worlds first commercial jet airliner, built by the De Havilland company in the 1950's. During the mid 50's several Comets crashed killing many passengers with no clear cause as to why. Investigation on the wreckages revealed that metal fatigue was the cause of failure which led to explosive decompression. The design flaw was traced down to the sharp corners of the aircrafts windows which acted as stress raisers.
+There were two different types of beam tested for this report, a plain rectangular beam shown in Figure 5.1, and a beam with a hole through the centre shown in Figure 5.2.
+The material for both beams was Aluminium alloy 6082-T6, a ductile material possessing isotropic properties.
+"Aluminium alloy 6082 is a medium strength alloy with excellent corrosion resistance. It has the highest strength of the 6000 series alloys. The addition of a large amount of manganese controls the grain structure which in turn results in a stronger alloy"
+Alloy 6082 is known for its good structural strength, typical applications include
+The T6 designation refers to the materials heat treatment, where the solution is heat treated and artificially aged.
+The properties of the material can be seen in Table 5.1, a complete description of the material can be found in Appendix 1, data from the Cambridge material selector
+This section contains the results of the FE Analysis and Practical testing.
+This report has investigated the effects of loading beams both plain and with stress concentrators present past its yield point. The effects of post yield loading on fatigue life has been predicted using fatigue theory with comparisons made with results obtained through practical testing.
+It has been show how post yield loading and unloading sets up a state of residual stress/strain in a component, which causes the component to become deformed but also has shown to improve a components fatigue life under certain loading conditions.
+The process of how fatigue is initiated has been discussed, common failures starting at a defect on the component surface, although in some cases due to a defect within the material structure.
+In both situations crack propagation is caused by a defect acting as a stress concentrator, crack propagation rate being dependant on the tensile stresses the component is subjected to during operation.
+Fatigue failure only occurs in components subjected to tensile loads, thus by producing residual compressive stresses in a component through varying processes it is possible to increase a components fatigue life. The tensile loads that the component is subjected to must first over come the residual compressive stresses.
+Fatigue failure can occur for a component operating well within its physical material limits, therefore there is a requirement that a suitable method for predicting a components fatigue properties be used.
+S-N curves derived from testing of many specimens provides the most accurate way of predicting a materials fatigue properties, although the use of equations derived from common S-N curves can be used when an S-N curve is unavailable for a given material.
+Predicted fatigue life using either method provides an accurate indication of a components life, allowing estimations of maximum allowable stresses for a components required life cycle.
+The best method to guard against fatigue failure is to ensure that the component is subjected to only compressive stresses.

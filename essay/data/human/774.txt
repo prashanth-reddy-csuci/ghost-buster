@@ -1,0 +1,9 @@
+Dear Student,
+We live at an exciting time in the development of real analysis. Over the past ten years Cauchy has done a great deal to formalise the fundamental concepts that our techniques and theories rely upon. I refer in particular to the lecture notes ( These notes contain definitions for limits, real functions, infinitesimals, and convergence that are more rigorous than ever before.
+There remains however some uncertainty around the key concept of continuity. Even Cauchy himself appears to treat continuity with inconsistency. His definition for continuity is stated on pages 34-35 of
+In English, In particular, the following function satisfies his definition for each
+Later, on pages 131-132, he states the following theorem,
+In English, when the terms of a series are functions in the same variable But this certainly doesn't hold true for our example f Indeed, for this theorem, Cauchy appears to assume a somewhat stronger definition of continuity, and hence convergence than he himself has has stated.
+There has also been much progress on making calculus more rigorous. Again, Cauchy has been at the forefront of this effort, and his
+It has, until recently, been believed that every function can be expanded as a Taylor series. Indeed Lagrange's attempt to set up a rigorous framework for calculus through his The derivatives of In Cauchy has instead chosen to define the derivative of a function, where it exists, as a limit.
+Due to the likes of Amp Over the next few years we are likely to find that the rules of differential calculus we have come to take for granted do not lend themselves well to some of the more unusual functions that Abel and others have begun to consider - functions that were either disregarded, or simply slipped the attention of Fourier and Lagrange.
