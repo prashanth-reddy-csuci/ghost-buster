@@ -5,7 +5,7 @@ import torch
 
 from utils.score import k_fold_score
 from utils.featurize import normalize
-from writing_prompts.data.utils import generate_dataset
+from writing_prompts.data.load import generate_dataset
 torch.random.manual_seed(0)
 
 

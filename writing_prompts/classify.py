@@ -3,6 +3,7 @@ import dill as pickle
 import tqdm
 
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import f1_score, accuracy_score, roc_auc_score
 from utils.featurize import normalize, t_featurize
 
 INPUT_FILE = "symbolic_data"
@@ -30,4 +31,13 @@ y = np.array([1, 0] * 1000)
 print(f"Data Shape: {X.shape}")
 model = LogisticRegression(C=10, penalty='l2', max_iter=1000)
 model.fit(X[train_indices], y[train_indices])
-print(f"Test Data Score: {model.score(X[test_indices], y[test_indices])}")
+
+
+# Print accuracy
+print(f"Accuracy: {accuracy_score(y[train_indices], model.predict(X[train_indices]))}")
+
+# Print f1 score
+print(f"F1 Score: {f1_score(y[train_indices], model.predict(X[train_indices]))}")
+
+# Print AUROC
+print(f"AUROC: {roc_auc_score(y[train_indices], model.predict_proba(X[train_indices])[:, 1])}")

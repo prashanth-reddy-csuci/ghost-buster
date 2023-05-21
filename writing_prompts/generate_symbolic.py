@@ -1,5 +1,5 @@
 from utils.symbolic import generate_symbolic_data
-from writing_prompts.data.utils import generate_dataset
+from writing_prompts.data.load import generate_dataset
 
 generate_symbolic_data(
     generate_dataset,
