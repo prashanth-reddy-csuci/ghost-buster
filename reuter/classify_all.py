@@ -32,7 +32,7 @@ assert sum(train_labels) == len(
 print("Generating test data")
 t_test_data = generate_dataset(t_featurize, "test")
 
-davinci_logprobs, ada_logprobs, trigram_logprobs = get_all_logprobs(
+davinci_logprobs, ada_logprobs, trigram_logprobs, unigram_logprobs = get_all_logprobs(
     lambda featurize: generate_dataset(featurize, "test"))
 
 print("Loading logprobs into memory")
@@ -40,7 +40,8 @@ print("Loading logprobs into memory")
 vector_map = {
     "davinci-logprobs": lambda file: davinci_logprobs[file],
     "ada-logprobs": lambda file: ada_logprobs[file],
-    "trigram-logprobs": lambda file: trigram_logprobs[file]
+    "trigram-logprobs": lambda file: trigram_logprobs[file],
+    "unigram-logprobs": lambda file: unigram_logprobs[file]
 }
 
 

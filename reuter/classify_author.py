@@ -35,7 +35,7 @@ def get_exp_featurize(vector_map):
 
 
 def get_split(author, split):
-    davinci_logprobs, ada_logprobs, trigram_logprobs = get_all_logprobs(
+    davinci_logprobs, ada_logprobs, trigram_logprobs, unigram_logprobs = get_all_logprobs(
         lambda featurize: generate_dataset(featurize, split, author=author),
         tokenizer=tokenizer, trigram=trigram,
         verbose=False
@@ -43,7 +43,8 @@ def get_split(author, split):
     vector_map = {
         "davinci-logprobs": lambda file: davinci_logprobs[file],
         "ada-logprobs": lambda file: ada_logprobs[file],
-        "trigram-logprobs": lambda file: trigram_logprobs[file]
+        "trigram-logprobs": lambda file: trigram_logprobs[file],
+        "unigram-logprobs": lambda file: unigram_logprobs[file]
     }
     data = normalize(
         np.concatenate(
