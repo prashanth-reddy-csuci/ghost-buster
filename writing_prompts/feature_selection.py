@@ -3,9 +3,9 @@ import dill as pickle
 import tqdm
 import torch
 
-from sklearn.linear_model import LogisticRegression
+from utils.score import k_fold_score
 from utils.featurize import normalize
-from torch.utils.data import random_split
+from writing_prompts.data.utils import generate_dataset
 torch.random.manual_seed(0)
 
 
@@ -27,22 +27,8 @@ def get_data(*exp):
     )
 
 
-def k_fold_score(X, k=8):
-    k = 8
-    k_split = random_split(indices, [len(indices) // k] * k)
-
-    score_sum = 0
-    for i in range(k):
-        train = np.concatenate([np.array(k_split[j])
-                               for j in range(k) if i != j])
-        model = LogisticRegression(C=10, penalty='l2', max_iter=1000)
-        model.fit(X[train], labels[train])
-        score_sum += model.score(X[k_split[i]], labels[k_split[i]])
-
-    return round(score_sum / k, 3)
-
-
-labels = np.array([1, 0] * 1000)
+labels = generate_dataset(lambda file: 1 if "gpt" in file else 0)
+assert sum(labels) == len(labels) // 2
 
 val_exp = list(exp_to_data.keys())
 curr = 0
@@ -53,7 +39,7 @@ while val_exp:
     best_score, best_exp = -1, ""
 
     for exp in tqdm.tqdm(val_exp):
-        score = k_fold_score(get_data(*best_features, exp), k=5)
+        score = k_fold_score(get_data(*best_features, exp), labels, k=5, indices=indices)
 
         if score > best_score:
             best_score = score
