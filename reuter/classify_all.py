@@ -3,6 +3,7 @@ import dill as pickle
 import tqdm
 
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import f1_score, accuracy_score, roc_auc_score
 from utils.featurize import normalize, t_featurize
 from reuter.data.load import generate_dataset
 
@@ -72,4 +73,8 @@ test_labels = generate_dataset(lambda file: 1 if "gpt" in file else 0, "test")
 print(f"Data Shape: {train_data.shape}")
 model = LogisticRegression(C=10, penalty='l2', max_iter=1000)
 model.fit(train_data, train_labels)
-print(f"Test Data Score: {model.score(test_data, test_labels)}")
+
+# Print accuracy, F1, and AUC
+print(f"Accuracy: {accuracy_score(test_labels, model.predict(test_data))}")
+print(f"F1 Score: {f1_score(test_labels, model.predict(test_data))}")
+print(f"AUROC: {roc_auc_score(test_labels, model.predict_proba(test_data)[:, 1])}")
