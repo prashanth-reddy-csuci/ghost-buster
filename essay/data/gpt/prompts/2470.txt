@@ -1,0 +1,1 @@
+What are the differences between monocrystalline and amorphous photovoltaic cells and how do they perform in a proposed design in Reading? How does shading affect the energy output of the system and what solutions can be implemented? Also, what are the strengths and weaknesses of PVSyst and RETScreen programs for simulating and analyzing photovoltaic systems?

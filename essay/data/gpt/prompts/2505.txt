@@ -1,0 +1,1 @@
+What usability issues were found with the current way-finding system for Armstrong Siddeley building and how was a prototype redesign created to address these issues?

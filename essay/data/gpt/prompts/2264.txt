@@ -1,0 +1,1 @@
+Describe the steps involved in creating a geometry and mesh for a simulation of flow over a vehicle, including defining regions, setting mesh spacing, and producing inflated layers. How is the problem solved using CFX-Pre and CFX-Post?

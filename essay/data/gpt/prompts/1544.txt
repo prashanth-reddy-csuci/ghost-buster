@@ -1,0 +1,1 @@
+What are the steps involved in creating a program that allows a user to place an order and how can these steps be refined and improved?

@@ -1,0 +1,1 @@
+What is the travelling sales person's problem and how can we calculate the number of possible permutations for the journey? What is the shortest path for a given set of cities and how can algorithms be used to find the shortest possible circuits? Why is solving NP Complete problems such as the TSP important in real-world applications?

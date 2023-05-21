@@ -1,0 +1,1 @@
+What modifications can be made to the basic RLS algorithm to include an instrument variable or a moving average noise model based on Pseudo Linear Regression, and how do the results compare with the basic ARX-based model?

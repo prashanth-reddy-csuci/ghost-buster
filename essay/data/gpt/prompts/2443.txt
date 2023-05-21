@@ -1,0 +1,1 @@
+What changes may have occurred in the production process of a food packaging line, based on the results of tests conducted on a Shewhart control chart for means? How can the new mean and standard deviation of the changed process be calculated and what is the level of risk for producing products over the upper specification limit?

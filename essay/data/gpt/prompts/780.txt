@@ -1,0 +1,1 @@
+What is a cantilever system and how can the low-level force involved be measured using strain gauges and beam-type load cells? Discuss the amplification of signals, transmission of data to analogue and digital displaying devices, and the influence of cantilever dimensions on system sensitivity.

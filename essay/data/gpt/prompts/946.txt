@@ -1,0 +1,1 @@
+What were the specifications, design, implementation, and testing of software written to control a buggy and allow it to follow an optically marked track, and how did the system perform?

@@ -1,0 +1,1 @@
+What is the Flying Brain and what is its significance in civil and military applications? What is the novel method used to maintain balance in UAVs and how does it work? How can a microcontroller be used to control the UAV and what challenges are involved in using a camera sensor to track the level of the UAV? How can the control algorithm be optimized using genetic algorithms?

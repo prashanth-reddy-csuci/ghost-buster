@@ -1,0 +1,1 @@
+What is the regression model that was formulated to determine the variables that affect exam performance in the first year module Quantitative Techniques? What were the significant variables included in the final model, and how did their inclusion affect the R-squared value? Furthermore, what functional form was determined to be optimal for the model?

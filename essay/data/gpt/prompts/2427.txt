@@ -1,0 +1,1 @@
+What was the design and implementation process of an anemometer on an FPGA using Xilinx ISE software and what were the necessary scan test patterns included? What potential faults could occur if the circuit was to be mass produced and how could they be addressed?

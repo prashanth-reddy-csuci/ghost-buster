@@ -1,0 +1,1 @@
+Describe the process of creating a complex animation using SVG, including how static elements are created and assembled, how each element is defined and grouped, and how animation is added to produce the final product.

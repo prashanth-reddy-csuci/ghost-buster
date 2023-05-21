@@ -1,0 +1,1 @@
+What are the advantages and disadvantages of using Computer Aided Design (CAD) in the design process, specifically in relation to the Formula One car rear wing design? How can CAD be optimally used to comply with the FIA regulations while also producing optimal performance? What are some key considerations when analyzing fluid flow using CAD for this design problem?

@@ -1,0 +1,1 @@
+What are the advantages and disadvantages of using pneumatics instead of electrical actuators, and how do pneumatic circuits link with real-life applications in automated devices? Additionally, why is the quality of air supplied to the system important? Provide examples and supporting evidence from your laboratory experience and research.

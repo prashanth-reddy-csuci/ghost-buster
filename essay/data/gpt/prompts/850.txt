@@ -1,0 +1,1 @@
+Design a system for measuring the torque applied to a hollow steel shaft using strain gauges and a Wheatstone bridge circuit. Consider the effects of temperature changes, axial/bending forces, and provide calibration and data presentation methods. Develop equations and a complete system diagram for the proposed design.

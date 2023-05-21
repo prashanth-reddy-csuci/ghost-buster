@@ -1,0 +1,1 @@
+What is the focus of this project, how is the robot constructed, and how is it programmed? What is the method of data transmission used? How is the robot able to navigate around obstacles and what modification could be made to improve its functionality? Why is Surface Mount Technology (SMT) a good method for designing a robot?

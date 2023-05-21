@@ -1,0 +1,1 @@
+What was the purpose of the assignment and what steps were taken in designing and constructing the Wheatstone Deflection Bridge and amplifier system to measure and analyze the change in output under loading? What were the findings and how did noise reduction via a low pass filter impact accuracy? Provide a detailed description of the bridge and amplifier setup.

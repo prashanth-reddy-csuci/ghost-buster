@@ -1,0 +1,1 @@
+What was the objective of this laboratory and what did the writer learn about controlling the M16C microcontroller and manipulating the output ports to display information on the seven segment LED displays?

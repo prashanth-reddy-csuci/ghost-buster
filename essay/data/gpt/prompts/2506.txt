@@ -1,0 +1,1 @@
+What is RSA and how does it relate to public-key cryptography? Explain the difference between encryption and decryption and the two types of cryptographic systems. What is a one-way function and how is it used in public-key cryptography? Discuss the security of the RSA algorithm and how it is based on factorisation of large composite numbers.

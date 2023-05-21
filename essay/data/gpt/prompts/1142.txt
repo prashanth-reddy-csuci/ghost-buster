@@ -1,0 +1,1 @@
+What was the significance of Dirichlet's paper on Fourier series convergence, and what were the conditions that a function had to meet for its Fourier series to converge?

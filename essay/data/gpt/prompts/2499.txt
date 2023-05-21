@@ -1,0 +1,1 @@
+How does public key infrastructure (PKI) work in ensuring the security of wireless networks and data exchange? Specifically, how does public key cryptography (PKC) and its most commonly used algorithm, RSA, protect the privacy and integrity of digital signatures and transactions?

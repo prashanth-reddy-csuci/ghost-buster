@@ -1,0 +1,1 @@
+What is the main objective of the lab? How was the tyre data obtained and what was measured? What models were used to analyze the data and what were the results? What type of model would be best suited for estimating lateral and longitudinal forces in a practical situation and why?

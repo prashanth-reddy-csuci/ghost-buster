@@ -1,0 +1,1 @@
+What indicators of development were used to investigate the relationship between Gross Domestic Product and military expenditure as a percentage of GDP in 50 random countries in the year 2002, and what conclusions were drawn from the analysis using the World Development Indicators and statistical features of Excel?

@@ -1,0 +1,1 @@
+What is the tensile test and how is it used to obtain various values and properties of a material? Explain the two main regions of behavior that can occur during tensile loading and show how stress-strain curves can demonstrate ductility, strength, and stiffness. Describe the experiment's results and the calculations that were used, while acknowledging any potential errors.

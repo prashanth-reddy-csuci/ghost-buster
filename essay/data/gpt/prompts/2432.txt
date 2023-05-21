@@ -1,0 +1,1 @@
+What factors influence the choice of modulation and coding schemes when designing a communications system, and how are these schemes tested and compared?

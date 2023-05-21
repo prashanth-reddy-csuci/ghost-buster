@@ -1,0 +1,1 @@
+What is the aim of the program written to discover whether the atomic structure of melt-spun amorphous Dy7Ni3 could be modelled by a random atomic packing, and how was the program based on the Metropolis Monte Carlo method used to achieve this aim?

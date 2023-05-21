@@ -1,0 +1,1 @@
+What is heuristic evaluation and how does it work? Why is it important to involve multiple evaluators in the process? What are some general and category-specific heuristics that evaluators use to identify usability problems? How do evaluators provide their results and what are some limitations of the heuristic evaluation method?

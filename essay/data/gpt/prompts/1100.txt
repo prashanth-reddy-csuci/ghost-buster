@@ -1,0 +1,1 @@
+What factors contribute to the conductivity of a material, and how do they relate to resistivity? How can measurements of resistivity over a range of temperatures be used to select the best material for a particular task?

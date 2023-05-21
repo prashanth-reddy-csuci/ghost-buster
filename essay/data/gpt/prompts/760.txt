@@ -1,0 +1,1 @@
+What factors need to be considered when designing a low-cost barcode reader system for a sales counter, and how can such a system best meet the requirements of a store or shop in terms of customer efficiency, low cost, and customer satisfaction?

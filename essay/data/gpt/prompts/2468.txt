@@ -1,0 +1,1 @@
+What is a ballast controller and how does it stabilize the operation of a generator? How does the ballast controller regulate voltage and efficiency under varying load? In what scenarios would an induction machine micro-hydro scheme with a ballast control system be effective and what are some possible uses for excess power?

@@ -1,0 +1,1 @@
+What are the strengths and weaknesses of linear and non-linear models used to analyze the data obtained from road tyre characteristics? How does MATLAB aid in this analysis? What conclusions can be drawn about the mechanics of a tyre?

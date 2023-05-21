@@ -1,0 +1,1 @@
+What was the brief for Introductory Programming Practical 8 and how did the author go about designing and developing a program to meet the criteria? Discuss the implementation of the Euclidean Algorithm and how the program handles user input errors. Finally, evaluate the program's success in meeting the criteria specified in the task section.

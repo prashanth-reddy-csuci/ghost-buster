@@ -1,0 +1,1 @@
+What modifications were added to the program and how was the synchronisation process altered to account for distant machines? Provide an example of the general instruction sending process and outline the steps taken to compile and execute the program. Finally, give an example of a test case where the source and destination directories are both located on the local machine.

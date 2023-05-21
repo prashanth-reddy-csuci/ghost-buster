@@ -1,0 +1,1 @@
+What technologies and concepts were used to develop a "school scientific" application that computes matrices multiplication and solves linear equations using both sequential and parallel algorithms? How were these algorithms translated and computed using C and MPI, and what were the results obtained from the benchmarking analysis?

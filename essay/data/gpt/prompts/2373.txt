@@ -1,0 +1,1 @@
+What are the three most effective techniques for finding the root of a simple function? Describe each technique and explain why the Newton-Raphson method is considered the most accurate. Provide graphs and examples to support your answer.

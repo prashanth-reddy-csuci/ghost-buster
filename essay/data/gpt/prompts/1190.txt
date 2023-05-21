@@ -1,0 +1,1 @@
+What design variables affect the payback time of a cross-flow heat exchanger, and what is the optimum design for achieving the most desirable payback time? How do the performance and cost trade-offs of different fan models and fin types impact the design process? What recommendations are there for further investigation of heat exchanger optimization?

@@ -1,0 +1,1 @@
+What is the smart home system and how can it benefit elderly people? What are the two main sensors used and why was an intensive system chosen over an extensive system? How does the processing unit use the data from the sensors to make decisions and what are the three sections of the software module?

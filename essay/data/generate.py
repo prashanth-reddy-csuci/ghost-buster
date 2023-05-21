@@ -32,7 +32,7 @@ if __name__ == "__main__":
         if file == "logprobs":
             continue
 
-        if os.path.exists(f"gpt/{idx}.txt"):
+        if os.path.exists(f"gpt/{idx}.txt") or not os.path.exists(f"human/{idx}.txt"):
             continue
 
         with open(f"human/{idx}.txt") as f:
@@ -68,19 +68,19 @@ if __name__ == "__main__":
         with open(f"gpt/{idx}.txt", "w") as f:
             f.write(f"{reply}")
 
-    print("Generating logprobs for GPT...")
-    for idx, file in enumerate(tqdm.tqdm(os.listdir("gpt"))):
-        if file == "logprobs" or file == "prompts":
-            continue
+    # print("Generating logprobs for GPT...")
+    # for idx, file in enumerate(tqdm.tqdm(os.listdir("gpt"))):
+    #     if file == "logprobs" or file == "prompts":
+    #         continue
 
-        with open(f"gpt/{idx}.txt") as f:
-            doc = f.read().strip()
+    #     with open(f"gpt/{idx}.txt") as f:
+    #         doc = f.read().strip()
 
-        if not os.path.exists(f"gpt/logprobs/{idx}-davinci.txt"):
-            write_logprobs(doc, f"gpt/logprobs/{idx}-davinci.txt", "davinci")
+    #     if not os.path.exists(f"gpt/logprobs/{idx}-davinci.txt"):
+    #         write_logprobs(doc, f"gpt/logprobs/{idx}-davinci.txt", "davinci")
 
-        if not os.path.exists(f"gpt/logprobs/{idx}-ada.txt"):
-            write_logprobs(doc, f"gpt/logprobs/{idx}-ada.txt", "ada")
+    #     if not os.path.exists(f"gpt/logprobs/{idx}-ada.txt"):
+    #         write_logprobs(doc, f"gpt/logprobs/{idx}-ada.txt", "ada")
 
     # Do the same for human
     print("Generating logprobs for human...")
@@ -88,7 +88,7 @@ if __name__ == "__main__":
         if file == "logprobs":
             continue
 
-        with open(f"human/{idx}.txt") as f:
+        with open(f"human/{idx}.txt", "r") as f:
             doc = f.read().strip()
 
         if not os.path.exists(f"human/logprobs/{idx}-davinci.txt"):

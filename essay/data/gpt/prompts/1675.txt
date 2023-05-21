@@ -1,0 +1,1 @@
+What are some potential issues and improvements that could be made to a program designed to calculate the grade of a student based on three input marks?

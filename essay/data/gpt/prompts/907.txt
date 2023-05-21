@@ -1,0 +1,1 @@
+What is the aim of the report and what system is being modelled and simulated using MATLAB and SIMULINK? How does the report study the behaviour of the car as it travels over a pothole and what specific aspects of the car model are being considered?

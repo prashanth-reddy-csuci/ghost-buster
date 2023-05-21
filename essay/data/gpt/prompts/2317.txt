@@ -1,0 +1,1 @@
+What is turbulence and why is it important to define the term before looking at possible solutions for it? How did the discovery of Navier-Stokes equations impact the study of fluid dynamics? What are some current research focuses on turbulence, and how can the Reynolds number aid in understanding turbulence?

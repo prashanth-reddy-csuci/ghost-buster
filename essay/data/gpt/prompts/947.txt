@@ -1,0 +1,1 @@
+What factors influenced the decision to run design and implementation in parallel for part two of the project, and how was the team's effort and schedule redistribution managed accordingly?

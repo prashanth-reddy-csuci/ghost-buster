@@ -1,0 +1,1 @@
+What is the difference between the two sum of exponential models generated theoretically and using the Nelder-Meade simplex algorithm, and how do they fit the provided experimental data over time?

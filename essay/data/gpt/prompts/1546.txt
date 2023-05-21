@@ -1,0 +1,1 @@
+Write an essay explaining the necessary steps to refine a program for a company that needs to keep track of their computer equipment.

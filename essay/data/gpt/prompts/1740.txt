@@ -1,0 +1,1 @@
+What are the risks associated with buying a package for sub system 2 in a software development project and how can these risks be mitigated?

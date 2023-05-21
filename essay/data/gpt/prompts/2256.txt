@@ -1,0 +1,1 @@
+What are the two methods implemented in C++ for establishing blocks-world management in AI development, and what AI concepts are applied in this practical AI planning project? What are some challenges faced in combining the search method into the blocks world management programming?
