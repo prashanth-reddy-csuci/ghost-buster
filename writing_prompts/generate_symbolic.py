@@ -1,4 +1,4 @@
-from utils.generate import generate_symbolic_data
+from utils.symbolic import generate_symbolic_data
 from writing_prompts.data.utils import generate_dataset
 
 generate_symbolic_data(
