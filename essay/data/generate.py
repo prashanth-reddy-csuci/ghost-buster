@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
     print("Generating logprobs for GPT...")
     for idx, file in enumerate(tqdm.tqdm(os.listdir("gpt"))):
-        if file == "logprobs" or file == "prompts" or not os.path.exists(f"gpt/{idx}.txt"):
+        if not os.path.exists(f"gpt/{idx}.txt"):
             continue
 
         with open(f"gpt/{idx}.txt") as f:
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     # Do the same for human
     print("Generating logprobs for human...")
     for idx, file in enumerate(tqdm.tqdm(os.listdir("human"))):
-        if file == "logprobs" or not os.path.exists(f"human/{idx}.txt"):
+        if not os.path.exists(f"human/{idx}.txt"):
             continue
 
         with open(f"human/{idx}.txt", "r") as f:
