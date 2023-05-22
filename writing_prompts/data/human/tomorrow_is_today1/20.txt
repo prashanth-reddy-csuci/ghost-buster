@@ -1,0 +1,1 @@
+Any magic performed directly on the body is likely to have side effects which cannot be accurately predicted and tend to be harmful.

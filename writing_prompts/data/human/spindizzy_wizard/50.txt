@@ -1,0 +1,5 @@
+Strongly suggest you get Reddit app for your phone.  Using browser is not recommended.  Browser implementation on phones miss a lot of capabilities.  Web sites never work quite the way you expect on phones unless the devs have wizard blood in their veins.  Very rare.
+
+Also suggest using markdown mode in Reddit app because you have a better chance of getting the formatting you expect.
+
+Fancy editor mode would be nice, but I've never had anything but grief using it.

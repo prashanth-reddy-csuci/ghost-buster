@@ -1,0 +1,43 @@
+\[Part 2/2\]
+
+Julia wished one of them had been trained as a physicist. All the time dilation specialists were back up at the base. She and Tarquin were generalist pilots. Valued and expensive, but if necessary expendable, which is why they'd been sent on this mission. A physicist might have made more sense of the computer output. Still, they both had PhDs of their own.
+
+Tarquin's mission computer had a full record of her own craft coming down to the surface. That was not unexpected as he had been aiming to hit the same spot. The unusual bit is that it had two copies of the record. The original from three months before the start of his own mission, and the second recorded by the ship's sensors a half hour ago when she landed.
+
+Julia looked up from the display. "So, it's a time loop, right?"
+
+"Dr. Kim would say that a time loop is impossible."
+
+"Well, Dr. Kim would be excited that she happens to be wrong about that."
+
+"So does this mean there is hope for us?"
+
+Julia looked over the data recording her own ship's landing. Tarquin's computer had timed it down to the microsecond. "We have one good datapoint. Obviously the time when my ship came down as viewed from here must match up in some way with the time when I came down viewed from up there."
+
+"How can that be possible. The planet wouldn't have even been in the same place compared to a week ago."
+
+"Not compared to a week ago. To six hundred thousand years ago." Julia brought up an orbital diagram of the system on the display and typed furiously for several minutes. She smiled and turned to Tarquin.
+
+"What am I looking at?"
+
+"Well, the position of the planet when my ship came down matches the position it was in when my ship came down. Oh- that makes no sense. I mean, the planet was in the same spot in its orbit. Not every orbit is exactly the same due to orbital precession. But the two points your computer recorded were exactly the same. It only happens every couple thousand orbits."
+
+"So all we have to do is wait until we hit the same spot in the orbit again and we can get out of here? That happens every- what- couple of days? How much fuel do you have? I was supposed to have enough to get back out of here, but things didn't go as planned."
+
+"I think I have three hundred kilos." Tarquin shook his head. That wasn't enough.
+
+Julia smiled hopefully. "Well, we'll just tell them to send down some more."
+
+"The radio won't get through. With the time dilation it isn't strong enough."
+
+"One radio isn't strong enough. But ten might be." She was still smiling.
+
+In the end it took sixteen. Both of their ship radios, bursting out the same message for less than a second every two days, synchronized at the exact same orbital position. The message had to be short; their Gigahertz microwave transmissions became kilohertz radio waves by the time they got to base. "SEND FUEL" was all they could do.
+
+After the eighth transmission a fuel depot landed on their doorstep. They transferred it and strapped into Tarquin's craft.
+
+Julia took the co-pilot seat. "You ready to light this candle?"
+
+Tarquin smiled as he flipped the switch. "Hell yes. I'm owed two million years of back pay."
+
+\[More at r/c_avery_m\]

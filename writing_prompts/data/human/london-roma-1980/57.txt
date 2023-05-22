@@ -1,0 +1,71 @@
+HART-2: "There's some papers that were jarred loose from a key office desk, but I recognize the structure and symbols.  I'm taking a closer look."
+
+HART-1: "Be careful.  There may still be Empire cops in the area."
+
+HART-2: "Look, I know we like to be helpful, but you don't have to tell me about my world."
+
+HART-1: "Right.  Sorry.  Anyway... let me know what you got."
+
+HART-2: "Roger.  Going silent.  Out."
+
+*Hart-1 sits at the lab table, looking over at the surveillance screen.  He sees -- but cannot hear -- Stone-2 in the lab, barking out orders and showing papers to scientists.  They exchange salutes before beginning to collect items and head out the door.  Hart-1 sighs to himself.*
+
+HART-1: "How will I ever explain there's a chance of an act of war from another dimension?"
+
+*After a few minutes of silence, the radio crackles again.*
+
+HART-1: "Come in, Hart.  Come in."
+
+HART-2: "Yeah, I've escaped the Embassy with the papers.  But there's no doubt they've been seen by the Empire."
+
+HART-1: "What are they?"
+
+HART-2: "It's the worst-case scenario.  UFA plans for a dimension hopper.  Likely determined alongside Eastasian scientists."
+
+HART-1: "Eastasia?  I thought the UFA was at war with Eastasia."
+
+HART-2: "Depends on who you ask.  Anyway... the point is that we have almost everything we need to build it, and I'm certain you have all the materials too.  The science is pretty tricky, but fortunately I understand it and so should you.  We have a transfax in our HQ -- I'll send them along."
+
+HART-1: "Roger.  I await instructions."
+
+HART-2: "And whatever you do, don't leave them laying about.  Stone cannot know that you have them -- she has to think you're isolated."
+
+HART-1: "Understood.  Over and out."
+
+*The radio fell silent.  Stone-1 entered the lab.*
+
+STONE-1: "I heard my name."
+
+HART-1: "You heard her name.  Listen, we have to keep up the fog of war here.  Anything we receive from my alternate self is confidential, top secret, security level 10.  Only you and I are to look at them, and away from surveillance cameras.  Our security depends on our relative primitivity."
+
+STONE-1: "What are we getting?"
+
+HART-1: "If I understand him correctly, a potential way to send them home.  But we're not talking to them until I see the plans."
+
+STONE-1: "Makes sense.  No false hope."
+
+*Meanwhile, Couple-1 return from their walk.*
+
+ANDY-1: "Do you think your other self is doing better?"
+
+CRYSTAL-1: "I hope so.  It's been a lot to take."
+
+ANDY-1: "I know... I guess we can try our best, but her mind's with her family.  As I guess ours would be."
+
+*Crystal-1 goes to unlock the front door, only to hear the familiar sound of a key falling out on the other side.*
+
+CRYSTAL-1: "I do wish they'd stop doing that."
+
+ANDY-1: "There better be only one of us behind that door."
+
+*Crystal-1 unlocks and the couple enter.  There's no sign of Couple 2 at first, but the guest room door is closed.  Crystal-1 peers in.*
+
+ANDY-1: "They in there?"
+
+CRYSTAL-1: "Yeah..."
+
+ANDY-1: "Just them?"
+
+CRYSTAL-1: "Yes."
+
+ANDY-1: "Good... let's give them time and figure out how we can make life easier for our visitors."

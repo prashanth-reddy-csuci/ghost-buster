@@ -1,0 +1,13 @@
+Hey, the spacing looks good to me, as does the grammar for the most part. 
+
+A couple of small tips:
+
+1) The dialogue tag is part of the sentence, so it should be:
+
+> “I saw right through you too,” it replied.
+
+When the text outside the dialogue isn't a tag (perhaps it's a separate action or something) then it remains a separate sentence.
+
+2) Try to avoid repeating the same word close together, particularly long and unusual words. For example, in your second paragraph, you use the word "auditorium" a fair few times and it starts to stick out a little.
+
+I thought the way you told this story was really interesting. I liked the interspersing of the speech in italics with the action. And I think you did a good job building that slightly unsettling feeling that not all is well.

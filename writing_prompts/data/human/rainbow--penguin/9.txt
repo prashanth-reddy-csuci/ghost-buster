@@ -1,0 +1,3 @@
+Hey, it looks like reddit ate your formatting (at least on desktop, I think it shows up fine on mobile).
+
+If you remove the indent at the start of each section, it should look fine and be much more readable. At the moment, you have to scroll for each line.

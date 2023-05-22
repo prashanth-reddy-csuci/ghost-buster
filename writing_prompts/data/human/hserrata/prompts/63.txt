@@ -1,0 +1,1 @@
+As a boneheaded cost cutting measure, companies have fully automated the hiring process and laid off human HR. There was a bug in the system and you received an email to apply to a job that doesn’t exist. You got the job and are now employed as (null).

@@ -1,0 +1,1 @@
+The Mana cost associated with casting a Necromancy spell scales exponentially depending on the target's Mass, Size, and Magic potential, among other factors. The energy required to reinvigorate a Dragon or Lich candidate is astronomical compared to reviving something like a humble insect.

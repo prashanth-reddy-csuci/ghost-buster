@@ -1,0 +1,9 @@
+Honestly I don't even know if there are common but non-standard dialogue formats. (Are there?) What came to mind was probably more useful if two characters were to be using some kind of messaging, where you might have something like:
+
+> A: foo bar!
+
+> B: baz?
+
+> A: quux
+
+Thoughts?

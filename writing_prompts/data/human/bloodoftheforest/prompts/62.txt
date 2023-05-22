@@ -1,0 +1,1 @@
+In an effort to identify different species, you create a device that can scan an animal and tell you its DNA. You decide to test it on your cat. Delighted it even works, you look at the screen. "0% Cat"

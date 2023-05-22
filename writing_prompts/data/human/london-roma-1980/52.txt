@@ -1,0 +1,73 @@
+*Back in the lab, the radio crackles.*
+
+HART-2: "Come in, Alt-Bohr.  Come in, please."
+
+HART-1: "Alt-Bohr reporting, Commander Hart.  Over."
+
+HART-2: "I've heard word that Stone is headed for your gate!"
+
+HART-1: "Well, yeah... we're trying to trap her here."
+
+HART-2: "Wait, what?  Why would you do that?"
+
+HART-1: "We are looking to begin hostage negotiations.  Do me a favor... the couple from your world has given me the location of their children.  We want you to check on them and make sure they are safe."
+
+HART-2: "...what is your plan, anyway?"
+
+HART-1: "To take advantage of the fact that our gate is one-way and must be held open.  It means that they have to bring someone partway into our world in order to return the wanted couple.  Whomever does so will regret their decision."
+
+HART-2: "...that MIGHT work.  I worry, though, that they will be violent in their capture."
+
+HART-1: "Don't be.  She swore on the name of her Leader that she would seek amnesty if we came quietly."
+
+HART-2: "...and you're not just doing that?  You seem risk-averse to me."
+
+HART-1: "...honestly... I wanted to remain just a scientist.  I didn't think that the actions of another nation, or in this case another planet, were anything I could affect.  But while I doubt you care one way or another about a singular fugitive from justice and his family, just know that in our world, I am helping a friend."
+
+HART-2: "Okay... that's certainly good.  I just worry you may be making a mistake.  You're not trained, and this strategy of yours could result in all deals being cancelled.  Stone is vicious.  You may find all of you dragged into my world, and I would not like that."
+
+HART-1: "This is why I'm asking you to check on their family.  It is vital that we have something to hope for."
+
+HART-2: "Roger that.  When this is over, I need to know how it went.  Let me give you the channel for this call."
+
+HART-1: "Good."
+
+*Meanwhile:*
+
+ANDY-2: "I feel like a dead man walking."
+
+CRYSTAL-2: "She promised that you wouldn't die!  That's what we were told!"
+
+ANDY-2: "Do you trust her?"
+
+CRYSTAL-2: "Yes!  Has she steered us wrong before?  She's been on our side!"
+
+ANDY-2: "No, the other one.  The government.  Do you trust the government?"
+
+CRYSTAL-2: "We've survived a plague and a nuclear war thanks to them."
+
+ANDY-2: "Yeah yeah, and Mussolini made the trains run on time.  You can get a long of things done if you're a dictator."
+
+CRYSTAL-2: "Please don't do this!  I want to know we have a chance!"
+
+ANDY-2: "...so do I."
+
+*They go to the waiting room with the first couple.*
+
+ANDY-1: "...you ever dream it would be like this?"
+
+ANDY-2: "I feel like I'm the Twilight Zone."
+
+CRYSTAL-1: "It's okay, right?  We got a plan."
+
+CRYSTAL-2: "Yeah!  That's what I'm telling him!  We have a plan!"
+
+ANDY-1: "Is there a [Mike Tyson](https://en.wikipedia.org/wiki/Mike_Tyson) in your world?"
+
+CRYSTAL-2: "Should I know him?"
+
+ANDY-2: "I do.  He's an American sports guy.  One of the best pro fighters of our childhood."
+
+ANDY-1: "Everyone has a plan..."
+
+ANDY-2: "...until they get hit in the mouth."

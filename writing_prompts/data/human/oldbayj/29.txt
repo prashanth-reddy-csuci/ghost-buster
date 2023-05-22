@@ -1,0 +1,8 @@
+#Welcome to the Poetry Corner!
+- Use top-level comments for poems based on the the theme. (Low-effort poems 
+  will be removed)
+
+- If you have questions or suggestions for future themes, or just want to chat 
+  about the feature, use this stickied comment.
+
+**Good words!**
