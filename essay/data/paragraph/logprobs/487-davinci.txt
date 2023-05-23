@@ -1,0 +1,7 @@
+Based 8.54895
+Ġon 0.24160014
+Ġthe 0.9231963
+Ġconstant 10.238657
+Ġlinear 9.098268
+Ġacceleration 2.8252
+Ġformula 3.4758875

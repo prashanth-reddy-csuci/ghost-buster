@@ -1,0 +1,1 @@
+where J is the polar second moment of area of the shaft section and r the radius of the shaft. For a hollow circular shaft J = (d Thus the maximum shear stress is:

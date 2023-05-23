@@ -1,0 +1,1 @@
+It can be seen from the above diagram how the strain gauges will be set up. We already know that when strain gauges are put under a strain that their resistance changes. Thus, we need a circuit that will convert a change in resistance into an output voltage. A circuit commonly used for this purpose is a Wheatstone bridge circuit. (Shown below)

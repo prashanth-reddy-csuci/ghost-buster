@@ -1,0 +1,1 @@
+The aim of the experiment was to quantitatively assay the activity of alkaline phosphotase under different conditions in order to study the effects of temperature, pH and product inhibition on the enzyme. The kinetic properties of the enzyme were also determined with the aim of calculating the Michaelis constant and the order of reaction.

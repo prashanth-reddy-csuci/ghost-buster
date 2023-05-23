@@ -1,0 +1,1 @@
+Nick Mills runs a small hydroelectric scheme in a Welsh valley. His present set-up uses a turgo turbine which drives a 230v AC output alternator. The voltage is stepped up to 400v AC to limit current losses along the 650m route up to the house, where it is stepped down again to 230v AC.

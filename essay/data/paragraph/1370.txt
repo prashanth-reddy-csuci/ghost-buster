@@ -1,0 +1,1 @@
+Lets look therefore at a typical example. A tram may weigh 30 tonnes, that's 30 000kg, and carry 150 passengers with an average weight of 80kg (12 tonnes in total). The tram could have an average speed of 50km/h, or 14m/s. Acceleration will be no more than 1.4m/s Therefore

@@ -1,0 +1,1 @@
+These data were subjected to a repeated measures analysis of variance test which revealed that the means differed significantly, F(2,58) = 73.95, p<0.05.

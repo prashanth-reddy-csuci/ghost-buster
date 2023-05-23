@@ -1,0 +1,1 @@
+Figure 1 clearly illustrates the significant positive correlation between these two variables. There is a large amount of scatter on the graph, which is to be expected given that the number of observations (N = 95) is relatively small, with the relationship one of association rather than causation. It is nonetheless possible to detect the overall trend in the data.

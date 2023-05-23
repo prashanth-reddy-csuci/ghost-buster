@@ -1,0 +1,1 @@
+The voltage will have to be steps up from 230V to 400V, with the loss inefficiency estimated at 5-7%.

@@ -1,0 +1,1 @@
+1.The moment of inertia of the three discs obtained from the experiments is consistent with that from the theoretical relationships.   2.The maximum percentage of error in the experiment is 7%.   3.The 2nd moment of mass of an object is proportional to its mass and the radius.

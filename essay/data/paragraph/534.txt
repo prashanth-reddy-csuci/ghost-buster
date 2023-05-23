@@ -1,0 +1,1 @@
+Obtaining data to show the growth kinetics of an organism can provide important information that can be used to identify the processes occurring within a culture at any given time. By using the obtained data to plot a growth curve the replication cycle of an organism can be split into phases, hence allowing further study and understanding of the processes involved.

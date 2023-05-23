@@ -1,0 +1,1 @@
+The method used is by measuring the time for a weight to fall a distance when attach to a moment arm that is attached to a disc.

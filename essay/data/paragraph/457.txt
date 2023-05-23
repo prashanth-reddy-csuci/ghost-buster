@@ -1,0 +1,1 @@
+In conclusion the rough mapping of gene order along the E. coli chromosome can be determined qualitatively by physically interrupting mating pairs of a donor and recipient E. coli strain at certain intervals and noting growth levels after plating on selective media. This highlights the basic concepts and methods of conjugation and recombination in bacteria.

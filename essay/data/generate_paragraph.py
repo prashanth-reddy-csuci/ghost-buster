@@ -31,7 +31,7 @@ def openai_backoff(**kwargs):
 if __name__ == "__main__":
     np.random.seed(0)
 
-    for file_idx in tqdm.tqdm(range(200)):
+    for file_idx in tqdm.tqdm(range(100)):
         if os.path.exists(f"paragraph/{file_idx}.txt"):
             continue
 
@@ -96,3 +96,15 @@ if __name__ == "__main__":
 
         with open(f"paragraph/labels/{file_idx}-prob.txt", "w") as f:
             f.write(str(p))
+
+    for file_idx in tqdm.tqdm(range(1446)):
+        with open(f"paragraph/{file_idx}.txt") as f:
+            doc = f.read().strip()
+
+        if not os.path.exists(f"paragraph/logprobs/{file_idx}-davinci.txt"):
+            write_logprobs(
+                doc, f"paragraph/logprobs/{file_idx}-davinci.txt", "davinci")
+
+        if not os.path.exists(f"paragraph/logprobs/{file_idx}-ada.txt"):
+            write_logprobs(
+                doc, f"paragraph/logprobs/{file_idx}-ada.txt", "ada")

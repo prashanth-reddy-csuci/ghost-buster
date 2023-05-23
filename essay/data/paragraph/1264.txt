@@ -1,0 +1,1 @@
+(where T is torque, I is inertia and angular acceleration - 'a' from the diagram)

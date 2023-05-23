@@ -1,0 +1,1 @@
+(where v is velocity and is angular speed)

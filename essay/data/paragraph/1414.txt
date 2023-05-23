@@ -1,0 +1,1 @@
+The pipeline will be able to draw more of flow at a given river flow rate if it was replaced with 6-inch pipe.

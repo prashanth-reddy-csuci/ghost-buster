@@ -1,0 +1,1 @@
+The diagram shows a view of a simple carburettor as on the one I examined. Only major difference in the lack of float chamber to control fuel pressure as it would not work in all orientations.

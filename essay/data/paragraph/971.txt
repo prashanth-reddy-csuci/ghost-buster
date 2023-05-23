@@ -1,0 +1,1 @@
+So when the element was stretched, its length increased, its cross-sectional area decreased, and there was also a change in its resistivity. The result was that the resistance of the element changes.

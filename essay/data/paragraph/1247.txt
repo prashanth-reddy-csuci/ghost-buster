@@ -1,0 +1,1 @@
+The objective of this exercise is to find, by experimental means, the moments of inertia of three steel discs. These values will be compared to those found using a known theoretical relationship. Estimates of errors incurred (by simplifications or otherwise) shall be made and their effects described and accounted for.

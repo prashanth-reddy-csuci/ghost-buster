@@ -1,0 +1,1 @@
+The static water pressure is 3.83 bar (pressure at the turbine) The maximum flow rate of the turbine is 3m3/sec.

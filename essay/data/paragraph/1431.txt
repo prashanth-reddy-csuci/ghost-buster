@@ -1,0 +1,1 @@
+One way to maximise the accumulation of ROCs would be to implement a dump load system into the mains, so that under low or no-load conditions, the power available in the turbine is fed into an immersion heater for the house heating and hot water systems.

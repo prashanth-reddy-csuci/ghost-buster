@@ -1,0 +1,1 @@
+It is found that the Newton's 2nd law does hold for rotational motion. The 2nd moment of mass of an object is proportional to the mass and radius of the object. Finally a reasonable amount of care should be taken when making assumptions to simplify the experiment.

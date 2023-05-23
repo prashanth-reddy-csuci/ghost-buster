@@ -1,0 +1,1 @@
+The graph below shows the varying concentrations of product, pNP, as the pH changes. This shows a clear increase in concentration as the pH increases to start with up until pH 9.5 where the graph peaks and then falls away again as the pH continues to increase. The graph is fairly symmetrical around the peak.
