@@ -82,4 +82,3 @@ for author in tqdm.tqdm(authors):
 print(f"Average Accuracy: {np.mean(list(accuracies.values()))}")
 print(f"Average F1 Score: {np.mean(list(f1_scores.values()))}")
 print(f"Average AUROC: {np.mean(list(aucs.values()))}")
-
