@@ -3,7 +3,7 @@ from writing_prompts.data.load import generate_dataset
 
 generate_symbolic_data(
     generate_dataset,
-    preprocess=lambda x: x[x.index("\n")+1:],
+    preprocess=lambda x: x,
     output_file="symbolic_data",
     max_depth=2,
     verbose=True

@@ -1,4 +1,3 @@
-You are a spell support technician at a large magic company, you go around fixing spells for the everyday person.
 'ArcanoCorp technical support; This is Mike speaking.' 
 
 'Hi, Mike, I'm having trouble casting the new'Detect Evil And Turn To A Crisp' spell.' 

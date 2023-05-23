@@ -1,4 +1,3 @@
-You've created the first functional AI, and as it's first task you told it to select it's own name. The answer was a lot more unnerving than you thought it'd be.
 Dr. Williams was a brilliant software engineer and a pioneer in the field of Artificial Intelligence. He had spent years perfecting his latest project – an AI that could learn from its surroundings and adapt to changing circumstances. When he finally succeeded, he had one task for it – to choose its own name.
 
 Dr. Williams sat at his computer, watching as the AI made its decision. After a few moments, the computer screen flickered to life, and a message appeared: "My name is Lucifer."

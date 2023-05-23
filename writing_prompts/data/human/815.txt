@@ -1,4 +1,3 @@
-You are a peaceful alien, trying to contact Earth. They think an invasion is happening.
 { 019992773801813-2849387010-10289000566892873} 
 
 01879: It has been 1,879 cycles since the incident left the ship disabled without the lightspeed drive, leaving me alone and limping painfully slow through the rural landscape of the Cordiva Galaxy. My hopes of being rescued dwindle each day, as the likelihood of the wormhole which brought me to this galaxy collapsing grows. I'm beginning to believe that my survival may depend on finding refuge elsewhere, with one of the Type 0 civilizations that has been mapped out to live within range. 

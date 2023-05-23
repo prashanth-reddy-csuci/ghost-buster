@@ -1,4 +1,3 @@
-In order to pass the test, you must fail.
 As a student, I always found tests to be incredibly stressful. I worked hard to study, memorizing facts and equations until they were ingrained in my mind. But no matter how much I prepared, I always seemed to fall short when it came time to take the test.
 
 So when I heard that in order to pass this particular test, I had to fail first, it seemed like a strange and counterintuitive concept. How could failing be a necessary step towards success?

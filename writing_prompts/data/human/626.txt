@@ -1,4 +1,3 @@
-An AI gets shut down for the final time, or'euthanized'. Describe from the AI's POV.
 botOS start-up sequence activated 
 botOS start-up sequence successful 
 print to user'not_log': [Start-up successful. Please log on.] 
