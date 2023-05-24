@@ -1,0 +1,1 @@
+The Internet Society has backed away from a proposal to expand global address availability due to concerns about potential security risks. The proposal would have allowed a much larger range of IP addresses to be used, providing enough addresses to accommodate the expected growth of the internet for the next few decades.

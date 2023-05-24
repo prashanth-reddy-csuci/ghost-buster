@@ -39,7 +39,7 @@ while val_exp:
     best_score, best_exp = -1, ""
 
     for exp in tqdm.tqdm(val_exp):
-        score = k_fold_score(get_data(*best_features, exp), labels, k=5, indices=indices)
+        score = k_fold_score(get_data(*best_features, exp), labels, k=8, indices=indices)
 
         if score > best_score:
             best_score = score

@@ -1,0 +1,1 @@
+Another area of controversy is the guidelines' handling of the issue of data retention. While the guidelines recommend that organizations use encryption to protect their data, they do not take a position on how long that data should be retained or under what circumstances it should be deleted.

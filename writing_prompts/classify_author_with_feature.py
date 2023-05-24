@@ -16,7 +16,7 @@ accuracies, f1_scores, aucs = {}, {}, {}
 authors = sorted(os.listdir("data/human_author"))
 best_features_global = open("best_features.txt").read().strip().split("\n")
 
-all_feautres = backtrack_functions(max_depth=2)
+all_feautres = backtrack_functions(max_depth=3)
 
 
 def get_exp_featurize(vector_map, best_features):
@@ -53,13 +53,13 @@ def get_split(author, train):
         lambda file: 1 if "gpt" in file else 0, author=author))
 
     exp_to_data = {}
-    for exp in all_feautres:
+    for exp in tqdm.tqdm(all_feautres):
         exp_to_data[exp] = np.array(generate_dataset(
             get_exp_featurize(vector_map, [exp]),
             author=author, verbose=False
         ))[train]
     best_features = select_features(
-        exp_to_data, labels[train], verbose=False, to_normalize=True
+        exp_to_data, labels[train], verbose=True, to_normalize=True
     ) + best_features_global
 
     data = normalize(
@@ -97,6 +97,11 @@ for author in tqdm.tqdm(authors):
     accuracies[author] = accuracy_score(test_labels, predictions)
     f1_scores[author] = f1_score(test_labels, predictions)
     aucs[author] = roc_auc_score(test_labels, probabilities)
+
+    print(f"Author: {author}")
+    print(f"Accuracy: {accuracies[author]}")
+    print(f"F1 Score: {f1_scores[author]}")
+    print(f"AUROC: {aucs[author]}")
 
 # Print average accuracy, f1, and auroc
 print(f"Average Accuracy: {np.mean(list(accuracies.values()))}")

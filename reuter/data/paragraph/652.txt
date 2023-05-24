@@ -1,0 +1,1 @@
+Encryption is the use of software to encode and decode information.

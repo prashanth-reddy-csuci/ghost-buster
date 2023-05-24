@@ -1,0 +1,1 @@
+The new rules will also increase the threshold for when a company must obtain a license to export encryption technology. Under the current regulations, a license is required for exports of technology with a key length of 56 bits or greater. The new rules will raise that threshold to 80 bits, which should lessen the regulatory burden on companies.

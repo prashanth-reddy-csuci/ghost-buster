@@ -1,0 +1,1 @@
+Since its founding in the late 1960s, the Internet has relied on a system of numerical addresses for routing messages between computing machines. But in recent years, as the Internet has become popular among everyday users, addresses have come to denote a sites actual name.

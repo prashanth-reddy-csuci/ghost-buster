@@ -16,6 +16,6 @@ def generate_dataset(featurize, verbose=False):
 generate_symbolic_data(
     generate_dataset,
     output_file="symbolic_data",
-    max_depth=2,
+    max_depth=3,
     verbose=True
 )

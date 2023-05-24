@@ -1,0 +1,1 @@
+Using a system called Secure Electronic Delivery, mail senders can transmit an encrypted message attached to a password-protected letter. The recipient then must type in the password in order to decrypt the message. A code issued by the Post Office will also ensure that the document hasn't been altered during delivery.
