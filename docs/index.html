@@ -1,11 +1,23 @@
-<!--Just a simple HTML file that only says "Coming Soon!"-->
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Coming Soon!</title>
+  <meta charset="UTF-8">
+  <title>AI Classification</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Coming Soon!</h1>
+  <header>
+    <h1>AI Classification</h1>
+    <p>Enter a document to classify if it's AI-generated or not.</p>
+  </header>
+  <main>
+    <form id="classification-form">
+      <label for="document-input">Enter Document:</label>
+      <textarea id="document-input" rows="10" cols="50" required></textarea>
+      <button type="submit">Classify</button>
+    </form>
+    <div id="result" class="hidden"></div>
+  </main>
+  <script src="script.js"></script>
 </body>
 </html>
