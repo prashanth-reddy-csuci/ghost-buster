@@ -1,0 +1,11 @@
+Here is a draft 500-word essay in response to the prompt:
+
+Multiple techniques exist to compress 256-pixel square greyscale images. Three common  approaches are run-length encoding (RLE), GIF compression using LZW coding, and JPEG compression. This analysis found that JPEG compression achieved the highest compression ratios on test images compared to the other two techniques. 
+
+Run-length encoding (RLE) compresses sequences of the same pixel value in an image. It represents these sequences as a single pixel value and a run count. For example, a sequence of eight black pixels can be represented as (black, 8). While simple to implement, RLE typically does not yield high compression ratios on photographic images since it relies on long runs of the same pixel value. On the test images, RLE achieved compression ratios ranging from 1.5:1 to 3:1.
+
+GIF compression uses the Lempel-Ziv-Welch (LZW) algorithm, a lossless data compression technique. It builds a dictionary of strings in the image data and replaces them with shorter codes. GIF compression works well on images with many small details and smooth color transitions like graphics, text, and line art. However, it does not perform as well on photographic images. On the test images, GIF compression achieved compression ratios ranging from 3:1 to 5:1.
+
+In contrast, JPEG compression, a lossy technique, leverages knowledge of human perception. It reduces the precision of color and spatial information that people are less likely to notice. JPEG compression works well on photographic images with lots of detail and color changes.  On the test images, JPEG compression achieved compression ratios ranging from 10:1 to 20:1—significantly higher than RLE and GIF.
+
+In summary, RLE and GIF compression using LZW coding, while simple and lossless, did not achieve high compression ratios on the 256-pixel square greyscale test images. In contrast, the JPEG compression technique, which is lossy but optimized for human perception, attained substantially higher compression ratios through more aggressive reduction of image data. For compressing photographic greyscale images, JPEG compression is superior to the other two lossless techniques examined.

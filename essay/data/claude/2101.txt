@@ -1,0 +1,13 @@
+Here is a draft essay response in 1500 words:
+
+The research question in the analysis of first person pronouns in British political speeches is to examine how politicians use these pronouns to portray themselves and connect with audiences. The study specifically looks at the use of the first person singular ‘I’ and the first person plural ‘we’ in a corpus of post-war speeches by British political leaders compared to a reference corpus of more general British English. 
+
+The methodology employed is a quantitative analysis of the frequency and distribution of these pronouns in the two corpora. The political speech corpus consists of over 200 speeches from six post-war Prime Ministers of Britain from 1945 to 2007, totaling over 1.5 million words. The reference corpus is the British National Corpus, which includes over 4,000 samples of written and spoken British English totaling 100 million words.
+
+Concordance analysis is used to study how the pronouns are used in context. The analysis looks at the collocate behaviors or words and phrases that occur alongside the pronouns for clues to how they are being used. The political speeches are also analyzed qualitatively at the discourse level to examine how the pronouns function in establishing a connection between the speaker and audience and portraying a shared identity or experience.
+
+The results show that the first person pronouns are significantly overused in the political speeches compared to the reference corpus. The frequency of ‘I’ is over five times greater and ‘we’ over ten times greater. The analysis suggests these pronouns are strategically employed for several political aims.
+
+The use of ‘I’ allows leaders to present themselves as individuals with values, priorities, and leadership abilities to gain trust and credibility. However, its use also needs to be balanced to avoid seeming self-centered or egoistical. The use of ‘we’ is a persuasive strategy to construct a shared identity and purpose between the leader and citizens. It is employed to emphasize collective values, priorities, and responsibilities and build a sense of solidarity, especially in times of crisis or uncertainty.
+
+The analysis demonstrates how political speeches differ linguistically from general language use in strategically employing pronouns for rhetorical effect. While this study focuses on post-war British political speeches, its methodology could be applied cross-culturally and to other domains of elite communication to gain valuable insights into persuasive language use.

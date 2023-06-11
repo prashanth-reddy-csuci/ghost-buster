@@ -1,0 +1,15 @@
+Here is a draft 750-word essay in response to the prompt:
+
+The aim of this assignment is to design the most cost-effective waste heat recovery system by determining the optimal size of the heat exchanger, fin geometry, and overall system configuration. To achieve this aim, I would undergo the following process:
+
+First, I would determine the amount of waste heat available for recovery in the system. This will depend on factors like the temperature of the waste heat stream, the mass flow rate of the stream, and the specific heat of the stream. With this information, the total amount of recoverable energy in the waste heat stream can be calculated.
+
+Second, I would determine the amount of recovered energy that can be used in the system. This will depend on the temperatures required in the process where the recovered energy will be used. The difference between the waste heat stream temperature and the required process temperature will drive how much of the energy can be recovered and utilized. The greater the temperature difference, the more energy can be transferred to the process stream. 
+
+Third, I would then evaluate different heat exchanger designs and sizes to determine which is the most cost-effective at recovering the required amount of energy. Heat exchanger designs like shell and tube heat exchangers or plate and frame heat exchangers would need to be considered. Sizing the heat exchanger involves optimizing the surface area, heat transfer coefficients, flow rates, and temperature differences to maximize heat transfer for minimal cost. Increasing the surface area and heat transfer coefficients improves heat transfer but also increases costs. The optimal balance must be found.
+
+Next, for the selected heat exchanger type and size, I would evaluate different fin geometries to further improve heat transfer for little additional cost. Fins provide more surface area to facilitate the transfer of heat from the waste heat stream to the process stream. The fin geometry that provides the greatest heat transfer for the lowest cost increase should be selected.
+
+Finally, I would evaluate different system configurations, for example using multiple heat exchangers in series, to determine if heat recovery can be further improved without significantly impacting costs. The system configuration that provides the highest amount of waste heat recovery for the lowest overall cost would be the most cost-effective system design.  
+
+In summary, the most cost-effective waste heat recovery system design will depend on optimizing the heat exchanger size, fin geometry, and system configuration to maximize the amount of waste heat recovered for the least cost. Conducting an in-depth analysis of the waste heat stream, process requirements, heat exchanger options, fin geometries, and system configurations will yield the optimal, most cost-effective design.

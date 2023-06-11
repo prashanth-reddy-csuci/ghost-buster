@@ -1,0 +1,13 @@
+Here is a 750 word essay in response to the prompt:
+
+The purpose of the assignment is to measure the temperature of a system using an Analogue-to-Digital Converter (ADC) and a temperature sensor. The experiment requires a microcontroller, an ADC, and a temperature sensor to achieve the aim of obtaining accurate temperature readings.  
+
+The microcontroller used is the Arduino Uno which controls the whole system. It provides the analog input pins to connect the ADC and temperature sensor, the digital output pins to display the results on the LCD screen, and the power supply for the ADC and sensor. The microcontroller runs the code to request analog input from the ADC, calculate the temperature in Celsius from the input voltage, and display the results on the LCD screen.
+
+The ADC used is the MCP3008 which converts the analog input voltage from the temperature sensor into a digital value that can be read by the microcontroller. It has 8 input channels but only one is used in this experiment. The ADC uses the SPI communication protocol to send the digital value to the microcontroller for calculation and display. The conversion equation used is: Temperature (°C) = (Digital value/1024) * 5 * 100. This gives the temperature reading in Celsius with a range of -50 to 150°C and an accuracy of 0.03°C.
+
+The temperature sensor used is the LM35 which outputs an analog voltage proportional to the temperature. It can measure temperatures from -55 to 150°C with an accuracy of ±0.5°C at room temperature. The sensor is connected to one of the analog input channels on the ADC.
+
+Other hardware that can improve the experiment includes: a more accurate temperature sensor such as the DS18B20 which provides readings to 0.05°C, a display with more characters such as an LCD with 4 rows of characters, and a data logger shield to automatically log the temperature readings over a long duration. The guaranteed accuracy of the system is ±0.53°C, taking into account the accuracies of the LM35 sensor, MCP3008 ADC and equation used. 
+
+In summary, the microcontroller, ADC and temperature sensor achieve the aim of obtaining and displaying the temperature readings. The ADC converts the analog signal to digital format before the microcontroller uses a conversion equation to calculate the final temperature in Celsius for display. Additional hardware can be included to improve the accuracy and functionality of the system. The overall accuracy of the temperature readings is ±0.53°C.

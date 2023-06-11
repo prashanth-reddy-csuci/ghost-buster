@@ -1,0 +1,13 @@
+Here is a 756 word essay in response to the prompt:
+
+The objective of financial statements is to provide information about a company's financial performance and position to a wide range of investors and stakeholders. They contain key metrics that can be analyzed to determine a company's economic health and make better investment decisions. 
+
+Valuation models, like the discounted cash flow model, allow investors to evaluate the usefulness of accounting practices in financial statements. These models convert future cash flows into a present value, which aids in determining a firm's intrinsic value and whether it is over or undervalued. If accounting practices do not accurately reflect a company's financial reality, its valuation and stock price may be misleading.
+
+There are several challenges in financial statement analysis that must be addressed. Comparability between companies can be difficult due to differences in accounting standards and policies. Investors must understand these differences to make fair comparisons. Reliance on historical costs rather than fair value can also be misleading, especially when there are significant changes in asset values. This challenge can be addressed by providing additional information on fair value accounting.
+
+Management bias is another challenge, as managers may manipulate financial statements to mislead investors for their own gain. Independent audits can help address this, but investors must also conduct their own due diligence. Fraudulent activity, such as that seen in Enron, can still occur, though increased transparency and stricter regulations have made this less likely.
+
+The traditional accounting model relies on historical costs and is not well-suited for intangible assets like intellectual property that make up a growing proportion of corporate value today. Accounting standards must be updated to provide information on these harder-to-value assets, through practices such as fair value accounting.
+
+In conclusion, while financial statements aim to provide an objective measure of a company's financials, there are some challenges that investors must consider to make the most informed decisions. With an understanding of accounting standards, a skeptical and analytical mindset, and tools such as valuation models, investors can overcome these challenges and determine whether a company's reporting reflects its true financial position and potential for future growth. Updating certain traditional accounting practices may also be necessary to keep up with the changing nature of today's companies and provide the most useful information to investors.

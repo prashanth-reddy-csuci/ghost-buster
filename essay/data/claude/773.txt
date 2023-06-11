@@ -1,0 +1,15 @@
+Here is a 750 word essay in response to the prompt:
+
+There are several factors that would need to be considered in developing an effective computer model of a University library system:
+
+1. Determine the key metrics or performance indicators that the model aims to optimize. For a library system, this could include maximizing book circulation, minimizing wait times to retrieve requested books, optimizing the use of available shelf space, and minimizing the costs to operate the library. These metrics would need to be quantified and weighted based on their importance to determine an overall measure of system performance.
+
+2. Gather data on the inputs and constraints in the current library system. This would include data on the library's book collection including subjects, popularity, and physical dimensions; data on students and faculty including areas of study, reading interests, and historical book borrowing patterns; data on the library's facilities and staff including building size, shelf space, number of employees, and operating hours. These data would establish the parameters and constraints within which the computer model must operate. 
+
+3. Develop algorithms to simulate the key processes in the library system, including the acquisition of new books, the shelving and storage of books, the browsing and borrowing of books by students and faculty, the retrieval of requested books, and the return of borrowed books. The algorithms would need to incorporate the constraints identified in the data gathering phase, including limited shelf space, restricted operating hours, and availability of library staff.
+
+4. Test and calibrate the model by comparing its outputs under various conditions to the performance of the actual library system. The model's algorithms and parameters would then be adjusted to ensure its accuracy and reliability in predicting the performance of changes to the system.   
+
+5. Use the model to evaluate various strategies for improving the performance of the library system. This could include changing the mix of subjects and books in the collection, expanding operating hours and staff, reconfiguring the library's floor plan and shelf layout, or introducing new technologies like an automated book sorting and retrieval system. The model can help determine the optimal strategy that maximizes benefits while keeping costs and inefficiencies at a minimum.
+
+In summary, the key factors in developing a useful computer model of a University library system are: establishing clear performance metrics; gathering data on the current system and its constraints; developing algorithms that accurately simulate the system's key processes; calibrating and testing the model against actual performance; and using the model to evaluate strategies for improving and optimizing the operation of the library. With these steps, a model could determine a balanced strategy that enhances both system performance and efficiency.

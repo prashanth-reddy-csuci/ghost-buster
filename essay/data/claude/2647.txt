@@ -1,0 +1,11 @@
+Here is a 500-word essay response to the prompt:
+
+The common-ion effect refers to the decrease in solubility of an ionic compound when a solution already contains an ion common to this compound. Specifically, when an ion same as the cation or anion of a slightly soluble salt is added to the solution as an electrolyte, it decreases the solubility of the salt. This occurs because the common ions from the electrolyte and the added ionic compound compete for bonding with the oppositely charged ions. 
+
+To demonstrate the common-ion effect, we can observe the solubility of potassium periodate (KIO4) in water and solutions containing various electrolytes. Potassium periodate is a sparingly soluble salt with low solubility in water. When dissolved in pure water, it dissociates into potassium (K+) and periodate (IO4-) ions. However, when dissolved in a solution already containing potassium or periodate ions, its solubility decreases.
+
+For example, when potassium periodate is added to a 0.1 M potassium chloride (KCl) solution, its solubility decreases significantly. This is because the potassium ions from KCl saturate the solution, limiting the amount of K+ available to dissolve the added KIO4. The excess K+ ions compete with the periodate ions, decreasing the solubility equilibrium of KIO4 according to Le Chatelier's principle. 
+
+On the other hand, when potassium periodate is added to a 0.1 M sodium chloride (NaCl) solution, its solubility is slightly higher than in pure water. This is because NaCl dissociates into Na+ and Cl- ions, neither of which interferes with the dissociation of KIO4. The Na+ and Cl- ions do not compete with K+ and IO4- for solubility, so the solubility equilibrium of KIO4 remains largely unchanged.
+
+In summary, the common-ion effect reduces the solubility of an ionic compound when its cation or anion is already present at a high concentration in the solution. By adding electrolytes containing common ions, we can manipulate the solubility of sparingly soluble salts and observe how their solubility equilibrium shifts to counteract the change based on Le Chatelier's principle. The example with potassium periodate demonstrates how its solubility varies in solutions containing different common ions.

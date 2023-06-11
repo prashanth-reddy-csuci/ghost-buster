@@ -1,0 +1,13 @@
+Here is a 493 word essay in response to the prompt:
+
+The shape of pixels used to represent an image has a significant effect on the image's appearance at low resolution. When an image is displayed at a low resolution, there are fewer pixels to convey details and shapes in the image. The pixel itself takes on more significance in determining how shapes and edges are rendered.  
+
+Square pixels are the most common shape used to display digital images. With square pixels, images at low resolution can appear blocky, with hard edges and abrupt transitions between color blocks. The straight edges and corners of squares do not gracefully capture curves and diagonals. This can make objects and shapes in the image appear unnatural.
+
+Alternative pixel shapes have been explored to improve image appearance at low resolution. Hexagonal pixels, for example, have been investigated as a way to achieve a smoother image appearance at low resolution compared to square pixels. The six sides of a hexagon allow for more gradual transitions between pixels, with fewer hard edges. This can make curved and diagonal lines in an image appear more natural.
+
+An exploratory study investigated the effect of pixel shape on low resolution images using the OpenGL graphics software library. Two types of pixel grids were rendered: a square grid and a hexagonal grid. The same photographic image was mapped onto both grids at multiple resolutions, from 16x16 up to 256x256 pixels. At each resolution, the appearance of the image was evaluated to determine how well shapes and edges were represented.
+
+The results showed that at lower resolutions, the hexagonal pixel grid produced images that were perceived as smoother, with shapes that appeared more natural compared to the square pixel grid. Curved lines and diagonals were rendered more gracefully with the hexagonal pixels. However, at higher resolutions, the differences between the pixel grids became less significant, as the higher density of pixels allowed for more fine-grained details either way.  
+
+In summary, pixel shape has a substantial impact on image appearance at low resolutions. Non-square pixel shapes, like hexagons, may produce images that appear smoother and more natural compared to square pixels. However, at higher resolutions, pixel shape matters less as there are enough pixels to represent images with high fidelity regardless of shape. Alternative pixel shapes could thus be most useful for improving image display on low-resolution devices where pixel density is a limiting factor.

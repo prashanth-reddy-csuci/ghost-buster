@@ -1,0 +1,15 @@
+Here is a draft 1500 word essay in response to the prompt:
+
+The potential function is a scalar function used to represent the potential energy of a charged particle in an electric field. It is denoted by V and has units of joules per coulomb. The potential function depends on the positions of charges generating the electric field. The gradient of the potential function at any point gives the electric field strength and direction at that point. 
+
+The Laplacian of the potential function is the mathematical operator that represents the divergence of the electric field. It is given by the formula ∇2V. The Laplacian measures the change in potential at a given point relative to the surrounding points. It indicates the excess charge density at that point. The Laplacian can be either positive, negative or zero. A positive value indicates an excess of positive charge, a negative value indicates an excess of negative charge, and a zero value indicates charge neutrality.
+
+Green's theorem relates the integral of the potential function over a region to the integral of its normal derivative over the boundary. It states that the circulation of a vector field along a simple closed curve is equal to the flux of the curl of that vector field through any surface bounded by that curve. Green's theorem is useful for calculating potentials and field strengths for regions with varying charge distributions.
+
+The charge density at any point on a surface is proportional to the strength of the electric field normal to that surface at that point. The charge density formula is ρ = ε0∇V, where ε0 is the permittivity of free space. The charge density depends on how much the potential changes in the direction perpendicular to the surface. Higher charge densities lead to higher forces exerted on that region of the surface.
+
+Within a perfect conductor, the electric field is zero throughout the volume. However, charges move freely at the surface of the conductor. An example potential function is V = 0 for points inside the conductor and V = constant for points on the surface of the conductor. The constant value depends on any external electric field and how much charge has been induced on the outer surface.
+
+The reciprocity theorem states that the potential at point A due to a charge at point B is equal to the potential at point B due to the same charge at point A. In other words, the role of source and observer can be interchanged without affecting the potential. The reciprocity theorem is a consequence of the scalar property of the potential function. It holds for any charge distribution and is useful for simplifying calculations involving multiple charges.
+
+For a body with charges distributed in its interior, the potential both inside and outside the body depends on the charge density at each point. The potential is determined by solving the Poisson equation with boundary conditions specified by any surface charge density. The potential function both outside and inside the body depends on the total charge contained within.

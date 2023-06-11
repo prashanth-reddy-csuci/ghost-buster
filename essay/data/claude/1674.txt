@@ -1,0 +1,38 @@
+Here is a 250 word essay response to the prompt:
+
+To calculate the cost of an order from an array of records with 3 items, you would follow these steps:
+
+1. Define the array of records, which contains 3 items: name, quantity, and price. For example:
+[ 
+{name: "Apples", quantity: 2, price: 1.20},
+{name: "Bananas", quantity: 6, price: 2.50}, 
+{name: "Oranges", quantity: 4, price: 1.80}
+]
+
+2. Initialize a total cost variable to 0. This will keep a running total of the cost of the order.
+
+3. Loop through each record in the array. On each iteration of the loop: 
+
+- Access the quantity and price fields for the current record. 
+- Multiply quantity and price to get the cost for that particular item. 
+- Add the cost for that item to the total cost variable.
+
+4. Once the loop has iterated over each record in the array, the total cost variable will contain the final cost of the entire order.
+
+5. Print or return the total cost.
+
+In code, it would look something like this:
+
+let order = [/* array of records */] 
+let totalCost = 0
+
+for (let i = 0; i < order.length; i++) {
+  let quantity = order[i].quantity
+  let price = order[i].price
+  let itemCost = quantity * price
+  totalCost += itemCost 
+}
+
+print(totalCost) // Prints total cost of entire order
+
+So in summary, you loop through the records, calculate the cost for each item by multiplying quantity and price, and add each item's cost to a running total cost variable. Once you've iterated the entire array, the total cost variable contains the final cost of the full order.

@@ -1,0 +1,15 @@
+Here is a 1000 word essay in response to the prompt:
+
+Enzymes are biological catalysts that regulate the speed of chemical reactions in living organisms. Their activity is influenced by several factors including pH, temperature, presence of cofactors, and inhibitors. These properties were investigated in an experiment using the enzyme alkaline phosphatase.  
+
+Alkaline phosphatase acts on para-nitrophenyl phosphate (pNPP) to produce para-nitrophenol (pNP) and phosphate. The rate of this reaction depends on the pH, with maximum activity at the optimal pH around 9-10 for alkaline phosphatase. At this pH, the enzyme's active site is properly configured to bind with the substrate. Activity declines at more acidic or basic pHs as the enzyme structure is denatured, limiting its ability to catalyze the reaction.
+
+Temperature also impacts enzyme activity according to the kinetic energy it provides to molecules. As temperature increases, molecules move more rapidly, causing more collisions between enzymes and substrates which speeds up the reaction. However, very high temperatures will eventually denature the enzyme by disrupting its 3D structure. The maximum activity of alkaline phosphatase is around 37°C, the normal body temperature.
+
+Enzymes often require cofactors to function properly, and their activity is reduced without these cofactors present. The cofactor for alkaline phosphatase is zinc, and removing zinc from the reaction leads to loss of enzyme activity. Non-competitive inhibitors also decrease activity by binding to sites other than the active site, altering the enzyme's shape and function. Phosphate acts as a non-competitive inhibitor for alkaline phosphatase by binding to the enzyme and reducing pNP production in a concentration-dependent manner.
+
+The kinetics of this enzyme-mediated reaction can be described using the Michaelis-Menten model. The Michaelis constant Km represents the concentration of substrate at which the reaction rate is half its maximum velocity. For alkaline phosphatase, the Km was determined to be 0.25 mM pNPP, indicating the affinity of the enzyme for this substrate.  
+
+The rate of pNP formation over time followed a curve that slowed over time, demonstrating a decline in enzyme activity. This is because the reaction is irreversible, producing an end product (phosphate) that builds up over time and acts as a non-competitive inhibitor, reducing the enzyme's activity. The rate of pNP production was directly proportional to the concentration of pNPP, showing that the reaction is first order with respect to the substrate. 
+
+In summary, the activity of alkaline phosphatase is maximized around pH 9 and 37°C but is reduced under non-optimal conditions that distort the enzyme's shape. Cofactors like zinc are required, while excess phosphate and non-competitive inhibitors will decrease its activity over time. The kinetic parameters of this enzyme can be determined using the Michaelis-Menten model. By understanding what impacts enzyme activity, we can gain insight into the complex reactions that regulate biological systems.

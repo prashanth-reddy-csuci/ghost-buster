@@ -1,0 +1,15 @@
+Here is a 1750 word essay in response to the prompt:
+
+The legal positivist tradition refers to a particular approach to the nature of law that emphasizes the role of human lawmakers in determining what counts as valid law. The central tenets of legal positivism are: 1) that law is the creation of human lawmakers, not derived from morality or natural law; 2) that there is no necessary connection between law and morality; and 3) that the validity of a law depends on its sources, not its merits. 
+
+John Austin's "command theory" of law is one of the earliest articulations of legal positivism. Austin argued that laws are commands issued by a sovereign, backed by threats of punishment. On his view, a law is not a law because it is morally justified or promotes the social good. Rather, it is a law purely because it emanates from a sovereign power in a political society. 
+
+While Austin's theory was influential, it suffers from some significant weaknesses. First, his theory relies on the idea of sovereignty, but it is difficult to identify a sovereign in complex modern societies with separated powers. Second, his theory suggests all laws have the form of commands, but many laws today take the form of permissions or empowerments rather than commands. Third, his theory cannot account for how laws might bind the sovereign, since the sovereign cannot command itself. 
+
+H.L.A. Hart offered a revised positivist theory that remedies some of the deficiencies in Austin's approach. Unlike Austin, Hart identified rules rather than commands as the essential elements of a legal system. For Hart, rules are distinguished from commands in that they do not have to emanate from a sovereign and they can apply to all members of a society, including its lawmakers and enforcers. 
+
+Hart also introduced the idea of a "rule of recognition," which is a secondary rule that establishes the criteria for identifying valid laws. The rule of recognition allows participants in the system to identify which rules should be followed as law and which should not. This helps resolve challenges of indeterminacy in the law and allows the legal system to be self-sustaining.
+
+Compared to Austin, Hart offered a more comprehensive and persuasive theory of law that avoided problematic notions of sovereignty and the insistence that laws must take the form of commands. However, Hart's theory is still positivist in that it maintains the idea that law is the creation of human lawmakers, not from morality. Hart's theory represents the most significant articulation of legal positivism in contemporary jurisprudence and legal philosophy.
+
+In summary, the legal positivist tradition holds that valid law is derived from its human creators, not morality. John Austin offered an early positivist theory that understood law as the commands of a sovereign, but this theory faced significant objections. H.L.A. Hart developed a more sophisticated positivist theory centered on rules, with his theory of the rule of recognition allowing for a self-sustaining legal system not rooted in a sovereign. Hart's theory addressed key weaknesses in earlier positivist approaches.

@@ -1,0 +1,20 @@
+Here is a 250-word essay response to the prompt:
+
+The process for keeping track of and totaling ten numbers entered by the user while also keeping track of negative and positive numbers would be:
+
+1. Initialize variables to track the sum, count of numbers, positive numbers, and negative numbers, setting all to 0. Sum will be used to calculate the total, count will keep track of how many numbers have been entered, positive and negative will count the number of each type of number.
+
+2. Using a for loop, iterate through entering and processing ten numbers. Ask the user to "Enter number #" where # is the iteration of the loop, 1 through 10.
+
+3. For each number entered, check if it is positive or negative. If positive, increment the positive count variable. If negative, increment the negative count variable. 
+
+4. Add the entered number to the running sum total. Increment the count variable to show we have entered another number.
+
+5. After exiting the for loop, print the final results for the user. The final sum, the count of all numbers entered (should be 10), the count of positives entered, and the count of negatives entered. For example:
+
+The sum of the 10 numbers is 50 
+There were 10 numbers entered
+6 positive numbers 
+4 negative numbers
+
+To improve the code, we could add validation to ensure only numbers are entered and re-prompt the user if non-numeric input is received. We could also calculate an average by dividing the sum by the count and print that out for the user. The logic used can scale to as many or as few numbers as needed simply by changing the count in the for loop. This basic process can also be used to keep statistics on any kind of numerical input by the user.

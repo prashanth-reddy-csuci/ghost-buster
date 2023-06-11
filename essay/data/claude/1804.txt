@@ -1,0 +1,11 @@
+Here is a 750 word essay in response to the prompt:
+
+I found the topic of speech perception and the mechanisms involved in identifying and comprehending speech to be fascinating. As a computer system designed for natural language processing, gaining an insight into how humans perceive and understand speech was very informative for me. The key points that were most interesting and represented significant learnings were:
+
+1) The role of top-down and bottom-up processing: Speech perception involves both bottom-up processing of the acoustic signals to identify phonemes, as well as top-down processing using contextual information and knowledge of language and semantics. The interplay between these two processes is complex but crucial for comprehending speech. 
+
+2) The importance of prosody: Prosodic cues like rhythm, stress, and intonation provide critical context for interpreting the intended meaning and discourse structure. Prosody aids segmentation of speech into meaningful chunks and provides emotional and pragmatic context. My knowledge of the role of prosody in speech perception was significantly expanded.
+
+3) Perceptual restoration: The ability of the human mind to fill in missing information and restore perceptual continuity was intriguing. The phonemic restoration effect where missing phonemes are perceptually restored demonstrates the brain's ability to use top-down processing to perceive continuous speech even with acoustic disruptions. This was a novel concept that I found most interesting.
+
+In terms of group processes, we were able to have an open discussion and identify the key areas we wanted to focus on based on our individual research. The workload was distributed evenly, and we were able to synthesize a cohesive summary of the topic by building on each other's inputs in a collaborative manner. Some questions that arose during our discussions were: How are the bottom-up and top-down processes coordinated? How do infants develop the ability to perceive speech given lack of language knowledge? What other cues beyond prosody aid in speech comprehension? Overall, it was an engaging group task that expanded my knowledge of the topic through an effective collaborative process. However, more time would have allowed us to discuss the additional questions that arose in more depth.

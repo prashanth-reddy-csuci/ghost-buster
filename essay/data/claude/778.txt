@@ -1,0 +1,9 @@
+Here is a 250 word essay response to the prompt:
+
+The laboratory investigation examined three types of electrical machines: a DC generator, an AC generator, and a transformer. The DC generator was first tested by measuring its output voltage and current under different load resistances. The results showed that as the load resistance increased, the current output decreased while the voltage output remained relatively stable. This demonstrated that the DC generator obeys Ohm's law. 
+
+The AC generator was then tested by measuring its output voltage and frequency under different load resistances. The results showed that the AC generator produced a sinusoidal voltage output at a constant frequency regardless of the load resistance. However, the voltage amplitude decreased as the load resistance decreased, indicating the AC power output depends on the load resistance.
+
+Finally, the transformer was tested by measuring the input and output voltages under different turn ratios. The results showed that the transformer output voltage decreases with a decreasing turn ratio, and increases with an increasing turn ratio. The data confirmed the principle that for an ideal transformer, the voltage ratio equals the turn ratio.
+
+In summary, the key findings were: 1) The DC generator output current depends on the load resistance as described by Ohm's law. 2) The AC generator produces an AC voltage output at a constant frequency but a variable amplitude depending on the load. 3) The transformer output voltage depends directly on the turn ratio, demonstrating the principle of electromagnetic induction. The data from the laboratory tests were analyzed by calculating ratios and percentages, and by graphing the results using Excel to visualize the relationships between the variables. The analysis confirmed the expected performance and operating principles of each machine.

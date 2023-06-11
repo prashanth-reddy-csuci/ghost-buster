@@ -1,0 +1,11 @@
+Here is a 238 word essay in response to the prompt:
+
+There are several key differences in performance between a Petters ACI 7.2 bhp single cylinder diesel engine running on standard diesel fuel and Rape Methyl Ester (RME) biodiesel fuel. 
+
+Firstly, the biodiesel fuel has a higher viscosity than regular diesel, so it does not flow as easily. This can lead to issues with cold starts, as the higher viscosity makes it more difficult for the fuel to circulate initially. The biodiesel also has a higher gel point, meaning it solidifies at a higher temperature. This can also cause issues in cold weather. To combat this, biodiesel blends often have kerosene or other additives to lower the viscosity and gel point.
+
+Secondly, biodiesel has a slightly lower energy density than regular diesel, so the engine may experience a small drop in power, efficiency, and fuel economy. The biodiesel produces around 5-10% less energy per gallon. However, the cetane rating, which determines how easily the fuel ignites, is actually higher for biodiesel. This can slightly improve engine performance.
+
+Finally, biodiesel is more chemically reactive and can break down and oxidize more quickly than petroleum diesel. This means it has a shorter shelf life and can produce gums, sediments, and other byproducts that clog filters and fuel lines. Regular diesel has additives to prevent gums and sediments, but biodiesel may require additional stabilizing additives to prevent breakdown during long-term storage.
+
+In summary, while biodiesel has environmental benefits over regular diesel, there are some disadvantages in cold temperature performance, energy density, and chemical stability that lead to differences in engine power, efficiency, and reliability. With proper fuel blends and additives, however, biodiesel can still perform adequately in many diesel engines.

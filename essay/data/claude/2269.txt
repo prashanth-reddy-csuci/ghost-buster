@@ -1,0 +1,13 @@
+Here is a draft 1000 word essay in response to the prompt:
+
+The drive shaft is a critical component in any vehicle transmission system, transferring power from the engine to the wheels. It has traditionally been made of steel, but recent advancements in composite materials offer an opportunity to reduce weight and improve performance. Six commonly used composite materials for drive shafts include carbon fiber, fiberglass, aluminium, titanium, Kevlar, and hybrid variations.
+
+Carbon fiber offers an optimal solution for drive shafts due to its high strength-to-weight ratio and durability. A carbon fiber drive shaft can reduce weight by up to 60-70% compared to steel. The high stiffness of carbon fiber also minimizes shaft deflection and vibrations. However, carbon fiber is the most expensive composite material and manufacturing processes can be complex. 
+
+Fiberglass is a lower cost alternative to carbon fiber, with a 30-50% weight reduction compared to steel. However, fiberglass has lower strength and stiffness so may not offer the full performance benefits of carbon fiber. Aluminium also provides a lighter option than steel with a 30-40% weight savings. Aluminium is more affordable than carbon fiber but experiences greater deflection and corrosion.
+
+Titanium drive shafts offer a high strength-to-weight ratio for a 30-50% weight reduction. Titanium also has excellent corrosion resistance. However, titanium is more expensive and denser than aluminium. Kevlar is a lightweight but inexpensive composite material for drive shafts with a 20-40% weight savings. However, Kevlar has lower strength and durability compared to other composites.
+
+Hybrid composite drive shafts, such as carbon fiber reinforced plastic wrapped around a steel core, aim to provide balanced benefits. The composite overwrap reduces weight by up to 30% while the steel core maintains strength and minimizes cost. The overall result is a lighter, stiffer drive shaft with high power capacity at a lower cost than an all-composite solution.
+
+In conclusion, while steel has been the traditional standard for drive shafts, composite materials offer substantial weight savings and performance benefits. For the optimal lightweight and high-performance design, carbon fiber is the premier composite for drive shafts. However, cost and manufacturing challenges may steer some applications toward more affordable composite solutions like fiberglass, aluminium or hybrid variations. When factors like cost, weight, and durability are considered, a well-designed composite drive shaft can far surpass a steel equivalent.

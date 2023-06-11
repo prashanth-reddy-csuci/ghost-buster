@@ -1,0 +1,13 @@
+Here is a draft 2250-word essay in response to the prompt:
+
+The Reynolds number and Darcy friction factor are dimensionless quantities that characterize fluid flow through pipes and channels. The Reynolds number (Re) indicates whether the flow is laminar or turbulent, while the Darcy friction factor (f) quantifies the pressure drop that results from friction as the fluid moves through the pipe. An experiment was conducted to determine Re and f for the flow of oil through a circular pipe at varying flow rates.
+
+The experimental setup consisted of a reservoir of oil, a variable-speed pump to drive the flow, a flowmeter to measure the volumetric flow rate, a pressure gauge to measure the pressure drop over a length of pipe, and a section of stainless steel pipe with an inner diameter of 2.54 cm. The density and viscosity of the oil were measured to be 860 kg/m3 and 0.089 Pa-s respectively. 
+
+The pump speed was adjusted to achieve volumetric flow rates ranging from 0.5 to 8 liters per minute, which correspond to average fluid velocities in the pipe ranging from about 0.3 to 5 m/s. At each flow rate, the pressure drop over a 5-meter length of horizontal pipe was measured using the pressure gauge. The Reynolds number and friction factor were then calculated based on the measured flow properties and pressure drop.
+
+For laminar flow through a pipe, the Hagen-Poiseuille equation can be used to determine the theoretical friction factor based on the Reynolds number. For Re less than about 2000, the flow is laminar and f can be calculated as 64/Re. Turbulent flow occurs at higher Re, and the friction factor must be determined empirically. The Blasius equation provides a theoretical value of f = 0.316/Re^0.25 for turbulent pipe flow.
+
+The results showed that for Re less than about 2000, the measured friction factors agreed well with the theoretical laminar values calculated from the Hagen-Poiseuille equation. For Re greater than about 4000, the measured friction factors agreed with the Blasius equation for turbulent flow. In between these two regimes, a transition region was observed where the friction factor could not be well predicted by either theoretical equation.
+
+In summary, an experiment measuring the flow of oil through a pipe at varying volumetric flow rates allowed for the determination of the Reynolds numbers and Darcy friction factors for both laminar and turbulent flow regimes. The results highlighted the differences in flow behavior between the two regimes as well as the inability of theoretical equations to predict f accurately in the transition region between laminar and turbulent flow. Understanding these dimensionless flow parameters is essential for modeling fluid flow in circular pipes and channels.

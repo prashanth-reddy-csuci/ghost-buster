@@ -1,0 +1,21 @@
+Here is a draft 1000-word essay in response to the prompt:
+
+According to Sir Guenter Treitel's An Outline of the Law of Contract, there are several key formalities required to form a legally binding contract. These include an offer, acceptance, consideration, intention to create legal relations, certainty, completeness, possibility of performance, and legality. All of these formalities must be present for a contract to be enforceable. 
+
+In the case of Workwell Ltd., these formalities apply to their contracts with Highroad plc and Drainklear in the following ways:
+
+Offer: Workwell made an offer to provide cleaning services to Highroad plc and Drainklear, which were accepted. The specifics of the services including pricing, timing, and length of contracts were outlined in the offers.
+
+Acceptance: Both Highroad plc and Drainklear accepted the offers for cleaning services from Workwell, as evidenced by their signatures on the contracts. This acceptance of the offer created an agreement between the parties.
+
+Consideration: There was mutual consideration in these contracts, meaning both parties gave up something of value. Workwell agreed to provide cleaning services, while Highroad and Drainklear agreed to pay for those services at the prices set out in the offers. Without this exchange of consideration, the contracts would not be enforceable.
+
+Intention: By signing formal, written contracts, all parties demonstrated their intention to be legally bound by the terms. Absent this intention, the agreements would not qualify as contracts.
+
+Certainty and Completeness: The written contracts outlined the details, deliverables, terms, and conditions to a reasonable level of specificity. While some details were left out, the major obligations of both parties were clearly articulated. Additional details could potentially be determined by a court based on industry standards. 
+
+Possibility of Performance: When the contracts were signed, it appeared possible for Workwell to perform the cleaning services as articulated. There is no evidence that Workwell knew they would be unable to fulfill the obligations. However, their later inability to do so does not necessitate termination of the contracts.
+
+Legality: There is no evidence that any part of these contracts or the obligations they imposed on any party would violate law or public policy. Therefore, the legality formality has been met.
+
+In summary, the contracts between Workwell Ltd. and Highroad plc, as well as Workwell Ltd. and Drainklear, appear to satisfy the key formalities required to establish legally binding and enforceable contracts under common law. Workwell should continue to perform to the best of their abilities under the agreed terms, while negotiating in good faith with Highroad and Drainklear to modify these mutually obligating contracts to avoid future issues in performance. If negotiation is unsuccessful, litigation or alternate dispute resolution methods may need to be utilized to determine next steps in a fair and just manner for all parties.

@@ -1,0 +1,21 @@
+Here is a draft essay in 1750 words on discourse analysis and its application to written discourse:
+
+Discourse analysis refers to the study of language in use. It examines how language is organized and structured to create meaning, especially in extended pieces of text. When applied  to written discourse, discourse analysis investigates how texts are crafted to convey particular ideas and achieve certain effects. There are two main approaches to analyzing written discourse: cohesion and thematization.  
+
+Cohesion refers to how the surface features of a text are connected through grammar, vocabulary, and syntax. Cohesion creates coherence and meaning by linking words, clauses, and sentences. Halliday and Hasan (1976) proposed five main cohesive devices: reference, substitution, ellipsis, conjunction, and lexical cohesion. Reference refers to the use of words like pronouns to refer back to previously mentioned nouns. Substitution replaces one item with another, often through the use of words like “one” or “do”. Ellipsis omits words that are understood from the context. Conjunctions like “and” or “but” connect clauses and sentences. Lexical cohesion uses related words to create connections, such as synonyms, antonyms, or repetition.
+
+An example of cohesion analysis can be seen in an excerpt from J.K. Rowling’s Harry Potter and the Sorcerer’s Stone. The passage describes Harry’s first interactions with Hagrid:
+
+Harry didn't know what to say. After all, you don't hear this every day. He stumbled over a few words, then gave up, sitting quietly, looking around, though avoiding eye contact with Hagrid. A moment later, however, Harry's curiosity got the better of him.  
+
+There are several cohesive devices connecting these sentences. “He” refers back to Harry.  “This” refers to the shocking news Hagrid just revealed to Harry about him being a wizard. The conjunction “though” contrasts Harry looking around but avoiding Hagrid’s eyes. And “Harry’s curiosity” is a lexical cohesion with his earlier stumbling for words in an attempt to satisfy that curiosity.
+
+Limitations of cohesion analysis include that it focuses on micro-level features of a text rather than its overall themes or rhetorical aims. It also assumes that cohesion alone creates coherence, which is not always the case. Some discontinuity can be intentional and meaningful. 
+
+Thematization examines how themes, topics, and ideas are represented and unfold over the discourse. Thematic analysis identifies meaningful patterns that are reinforced and elaborated over the text through repetition and paraphrase. These recurrences reflect "what is at issue" and "what really matters" to the producer of the discourse. Thematic analysis considers how themes are introduced, developed, and concluded. It looks at the discourse as a whole rather than isolated components.  
+
+An example thematic analysis can be conducted on the passage above from Harry Potter. The overarching theme is Harry discovering his true identity as a wizard. This is first introduced with Hagrid revealing that Harry is a wizard. It is then developed with details about Harry attending Hogwarts School of Witchcraft and Wizardry and Harry asking clarifying questions as he learns more. The theme is concluded with Harry’s curiosity finally being satisfied as he comes to accept this life-changing news.
+
+Limitations of thematization include that it may oversimplify the complexities and nuances in a discourse. Themes are not always neatly introduced, developed, and concluded. And focusing on major themes may miss other meaningful patterns in the text. Thematic and cohesion analysis can be combined for a more comprehensive understanding of the discourse.
+
+In summary, discourse analysis provides a useful framework for systematically studying written language in use. Cohesion and thematization offer two fruitful approaches to analyzing written discourse, though each has its limitations. By considering both micro and macro features of discourse, we can better understand how language achieves its purposes. Conducting multi-level analyses of discourse yields richer insights than any single approach alone.

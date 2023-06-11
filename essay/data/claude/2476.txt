@@ -1,0 +1,9 @@
+Here is a 236 word essay in response to the prompt:
+
+Tree data models are hierarchical data structures commonly utilized in computer science. They consist of nodes, which contain data and pointers to other nodes. The topmost node is called the root, nodes with no children are leaves, and other nodes with children are internal nodes. 
+
+Binary search trees are a type of tree model where each node has up to two children, and the data in the left child is less than the parent, while the data in the right child is greater than the parent. This structure allows for efficient lookups, since at each node we can determine if we need to search the left or right subtree. For example, to look up the number 27, we would traverse right at the root node, then left at the 13 node, and find 27. The time complexity of search, insert and delete operations in a balanced binary search tree is O(log n).
+
+Binary search trees can also be used to implement efficient data insertion. To insert a new data point, we traverse the tree based on the comparison with each node. Once we reach a leaf node, we insert the new data point as a child of that leaf node. For example, to insert the number 17, we would traverse right at the root, then left at the 13 node, and make 17 the left child of 13. If we reach a node where we need to insert a left child but one exists, or a right child but one exists, the tree is unbalanced. We can fix this using rotations, where we restructure the tree to maintain the binary search tree properties.
+
+In summary, tree models like binary search trees allow for efficient organization and lookup of data. They have a wide range of applications, from algorithm implementation to database storage. With an understanding of properties like balance and optimizing performance, tree models can provide robust data storage solutions.

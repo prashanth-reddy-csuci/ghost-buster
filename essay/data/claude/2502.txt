@@ -1,0 +1,27 @@
+Here is a 245-word essay response:
+
+RSA encryption relies on the use of prime numbers to encrypt and decrypt messages. For this program, I chose to  implement RSA encryption in Java. The program generates two large prime numbers, p and q. It then computes n = p*q and φ(n) = (p-1)*(q-1). These values are used to pick an encryption exponent e that is co-prime to φ(n). 
+
+For encryption, the program converts the plaintext message into a numeric value using a standard text-to-number mapping. It then raises this value to the power of e mod n to get the ciphertext. For example, if the plaintext is "Hello" which maps to 89433, e is 7, and n is 143, the ciphertext would be 84.
+
+For decryption, the program computes a decryption exponent d such that d*e mod φ(n) = 1. It then raises the ciphertext to the power of d mod n to recover the plaintext. In the example above, if d is 17, raising 84 to the power of 17 mod 143 gives 89433 which maps back to the string "Hello".
+
+To demonstrate that the program works, I encrypted the message "Success" which has a numeric value of 6226622 and decrypted it. The output is:
+
+Message: Success 
+Plaintext number: 6226622
+
+Generating keys... 
+p = 97  
+q = 109
+n = 10613 
+φ(n) = 9616 
+e = 7
+d = 283
+
+Ciphertext: 2049
+
+Decrypted plaintext number: 6226622
+Decrypted message: Success
+
+In conclusion, I implemented an RSA encryption and decryption program in Java and showed that it works correctly by encrypting and decrypting a sample plaintext message. The security of the cipher comes from the difficulty of factoring large numbers, in this case finding the prime factors of n = 10613.

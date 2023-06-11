@@ -1,0 +1,11 @@
+Here is a 500 word essay in response to the prompt:
+
+The objective of the laboratory sessions using Solidworks and Cosmos Floworks was to gain practical knowledge about fluid dynamics and car aerodynamics through simulated testing. Using these software, a car model could be designed and tested in a virtual wind tunnel to analyze its aerodynamic properties, specifically the drag coefficient and drag force. 
+
+A car model was designed in Solidworks and then imported into Cosmos Floworks. In the wind tunnel simulation, the flow of air over and around the car could be visualized. Parameters such as the wind speed could be specified, and the effects on the car analyzed. Properties such as velocity streamlines, pressure, and friction were examined to see how the air flowed and interacted with the car's surfaces. 
+
+The drag coefficient and drag force were two of the most important properties calculated for the car. The drag coefficient quantified the drag of the car relative to its frontal area. The lower the drag coefficient, the more aerodynamically efficient the car. The drag force measured the total drag acting on the car, which opposes its motion. By modifying design elements like the car's profile, trim, and spoilers, the effects on the drag coefficient and drag force could be observed. The goal was to optimize the design to minimize drag.
+
+The simulations provided insights into how small changes could significantly impact the aerodynamics. The shape of the front grille, angle of the windshield, addition of side mirrors, and inclusion of wheel wells were all shown to affect drag. With modifications, the drag coefficient was reduced by over 60% from 0.7 to 0.25, demonstrating major improvements in efficiency. The drag force dropped from over 200 N to under 100 N at the same velocity.
+
+Other parameters that could be analyzed using the software include lift forces, pressure distribution, velocity vectors, and turbulence. Flow separation and wake profiles could also be examined. The virtual wind tunnel allows for efficient testing of many different designs and scenarios. These laboratory sessions provided valuable skills and experience in evaluating and improving a vehicle's aerodynamic performance using simulation tools.

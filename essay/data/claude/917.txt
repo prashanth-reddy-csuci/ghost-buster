@@ -1,0 +1,19 @@
+Here is a 750 word essay in response to the prompt:
+
+Online Transaction Security Simulator (OTSS): Features and Implementation  
+
+The proposed title of the third year project (CS 310) is the Online Transaction Security Simulator (OTSS). The main features of the OTSS application will be:
+
+1. Simulate online credit card transactions between customers and merchants to demonstrate the importance of transaction security. Users will be able to enter  credit card numbers and other personal information and submit purchases.
+
+2. Showcase various vulnerabilities and risks of online credit card fraud such as skimming of card numbers, phishing to obtain passwords and CVV numbers, hacking into merchant databases to steal bulk information, etc. The application will demonstrate how hackers can steal credit card data if proper security measures are not implemented.
+
+3. Divide the implementation into three phases:  
+
+Phase 1: Build the initial structure of the web application with HTML, CSS and JavaScript for the front-end and Python/Django for the back-end. Have basic functionality of users logging in and submitting card information for purchases.  
+
+Phase 2: Implement security measures such as SSL for data encryption in transit, hashing and salting of passwords in the database, tokenization of card numbers before storing in the database, etc. Show how the application is now secure against some vulnerabilities.
+
+Phase 3: Demonstrate some other attack vectors like phishing, XSS and SQL injections and implement measures to prevent them like two-factor authentication, input sanitization, etc. Discuss other measures like fraud detection algorithms.
+
+The importance of secure online transactions and the risks of credit card fraud are enormous in today's digital world where more and more people are shopping online. Billions of dollars are lost each year due to credit card fraud, and people's lives can be ruined if their personal information is stolen. By building the OTSS application using technologies like Python, Django, JavaScript, HTML/CSS and implementing strong security measures at each phase, students can gain a deep understanding of web application development and security concepts which are invaluable skills to have today. The project, thus, has immense real world relevance and importance.

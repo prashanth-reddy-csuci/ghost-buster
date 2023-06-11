@@ -1,0 +1,11 @@
+Here is a 249 word essay in response to the prompt:
+
+The wave-like behavior of electrons was demonstrated through a series of experiments in the early 20th century. Scientists wanted to show that electrons exhibited interference patterns, like light, which would confirm their dual particle-wave nature. They also wanted to determine the mass of the electron.    
+
+Louis de Broglie hypothesized that all particles, like electrons, have an associated wavelength that depends on their momentum. To test this, scientists designed electron diffraction experiments. They aimed beams of electrons at thin metal films with small slits or openings that acted as barriers to diffract the electrons. On screens placed behind the films, they observed interference patterns - alternating dark and light fringes of electrons, showing the wave-like behavior of the particles. 
+
+The exact positions of the fringes depended on the wavelength of the electrons, which they could calculate from the momentum and de Broglie’s equation. They measured the momentum by applying electric and magnetic fields to accelerate the electrons to known energies before they passed through the slits. By comparing the measured fringe positions to interference patterns produced by light of known wavelength, they could determine the electron wavelength andmomentum, and from that calculate the electron mass.
+
+Errors arose from uncertainties in the electron momentum and imperfections in the slit barriers. They minimized error by precisely controlling the electron acceleration and using improved vacuum technology and higher quality materials to construct the apparatus. Multiple trials showed consistent results, allowing an accurate calculation of the electron mass that matched accepted values.
+
+In summary, electron diffraction experiments showed that electrons exhibit wave-like interference and allowed scientists to determine the electron mass. By precisely controlling and measuring the electron momentum and using high quality equipment, they obtained accurate and consistent results that confirmed de Broglie’s hypothesis and calculated the electron mass. Overall, this was a groundbreaking series of experiments that demonstrated the wave-particle duality of matter.

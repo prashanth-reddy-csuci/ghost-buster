@@ -1,0 +1,19 @@
+Here is a draft 1494 word essay in response to the prompt:
+
+Fluid flow through pipes experiences frictional forces that depend on the flow regime, either laminar or turbulent. Laminar flow corresponds to smooth, parallel streamlines, while turbulent flow is chaotic and disordered. The friction factor, f, is a dimensionless parameter used to calculate pressure drop and depends on the flow regime. For laminar flow, f depends on the Reynolds number, Re, which is the ratio of inertial to viscous forces. For turbulent flow, f depends on the surface roughness of the pipe.  
+
+In laminar flow, frictional forces arise from the viscous shear between fluid layers. The velocity profile is parabolic, with the highest velocities in the center and the lowest velocities at the edges. The pressure drop per unit length, ΔP/L, is proportional to the flow rate, Q, through Poiseuille’s law. The friction factor can be calculated exactly from the pipe geometry and fluid viscosity. As the Reynolds number increases, the inertial forces eventually dominate the viscous forces, and the flow transitions to turbulence.
+
+In turbulent flow, frictional forces arise from the random, chaotic eddies and fluctuations in the flow. The velocity profile is relatively flat, with speeds more uniformly distributed across the pipe radius. The pressure drop depends on the square of the flow rate, ΔP ∝ Q2. The friction factor must be determined empirically from experimental data and depends on the surface roughness of the pipe, usually measured by the roughness height, ε. Smooth pipes have lower friction factors than rough pipes.   
+
+Additional shear stresses, like those from pipe bends, valves, and obstructions create local pressure drops that add to the frictional pressure drop. These can be accounted for using loss coefficients that are found in engineering handbooks and added to the friction factor. The total pressure drop is the sum of the frictional and additional shear stress losses along the length of the pipe.
+
+The Moody chart provides friction factors for a range of Reynolds numbers and surface roughnesses. For laminar flow at low Re, the friction factor depends only on Re. For turbulent flow, the friction factor depends on ε/D, the relative roughness. Three zones exist on the Moody chart: laminar flow, transition flow, and fully turbulent flow. Additional lines indicate how friction factor changes with increasing surface roughness. The Moody chart can be used to determine f when pipe diameter, surface roughness, flow rate, fluid properties are known.
+
+In summary, the key differences between laminar and turbulent pipe flow are: 
+1) Velocity profile: parabolic vs. flat 
+2) Pressure drop relationship: ΔP ∝ Q vs. ΔP ∝ Q2
+3) Friction factor dependence: Re vs. ε 
+4) Flow regime: smooth vs. chaotic
+
+The friction factor and calculated pressure drop will depend on whether the flow is laminar, turbulent, or in the transition region. By comparing values obtained from calculations with those found using the Moody chart, the flow regime and associated frictional forces can be estimated for a given pipe system.

@@ -1,0 +1,23 @@
+Here is a 749 word essay in response to the prompt:
+
+The second moment of area, or moment of inertia, of a beam measures its strength and ability to resist bending. To experimentally determine the moment of inertia of a beam, a four-point bending test is commonly used. The beam is supported at two points and loaded at two other points, and its deflection profile is measured. This can then be compared to the theoretical deflection profile calculated using the beam's dimensions and material properties. 
+
+For the experiment, the beam is placed on two raised supports at a fixed distance apart. Loading pads are positioned at two points between the supports. As a load is applied at the loading pads, the beam begins to deflect. The deflection at multiple points along the beam is measured using dial gauges or linear voltage differential transformers. This data is used to plot the deflection profile of the beam. Different loading configurations can be used, such as loading the beam at the center, or asymmetrically off-center. The loading configuration will affect the maximum deflection and shape of the deflection curve.
+
+The experimental deflection profile can then be compared to the theoretical profile calculated using the integration method. This involves dividing the beam into multiple small elements, calculating the bending moment and slope at the end of each element, and summing them to determine the deflection profile. The calculated profile depends on the beam's moment of inertia, modulus of elasticity, load applied and support configuration. Any differences between the experimental and theoretical profiles can arise from measurement errors, imperfections in the beam, or assumptions in the calculation.
+
+For setup one with the beam loaded at the center, the integration method can be used as follows to predict the deflection profile:
+
+1. The beam is divided into n number of elements. Element 1 is between the left support and the load, element 2 is between the load and the right support.
+
+2. The bending moment (M) at any point is calculated using the applied load (P) and the distance to the nearest load or support (x). For element 1, M = P*x1/2. For element 2, M = P*x2/2.
+
+3. The slope (θ) of the beam at the end of each element is calculated using the bending moment (M) and the beam's moment of inertia (I) and modulus of elasticity (E). θ = M*L/EI where L is the length of the element. 
+
+4. The deflection (δ) at the end of each element is calculated using the slope of the current element (θ) and length of the element (L). δ = θ*L 
+
+5. The total deflection profile is obtained by summing the deflections of all elements. 
+
+6. A free body diagram of the beam is used to calculate the vertical reaction forces (R) at the supports required to maintain static equilibrium. R = P/2.
+
+In summary, the second moment of area of a beam can be experimentally determined using a four-point bending test. The deflection profile of the beam depends on its configuration and loading. Comparing the experimental results to theoretical predictions using the integration method allows validation of the beam's calculated moment of inertia.

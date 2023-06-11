@@ -1,0 +1,13 @@
+Here is a 246 word essay response:
+
+The code consists of 3 main functions: fetch_urls(), scrape_links() and save_data(). These functions allow for parallel execution as they are defined independently and can run concurrently. 
+
+The fetch_urls() function retrieves URLs from an input file. It reads each line of the file and adds the URLs to a list. This prepares the list of URLs to be scraped.
+
+The scrape_links() function scrapes all links from each page in the URL list. It uses the requests library to get the HTML content of each page. It then parses the content using BeautifulSoup to extract all the links from the page. The links from each page are added to an output list. This function runs in parallel using the multiprocessing library, spawning new processes for each URL.
+
+The save_data() function saves the links from the output list to a CSV file. It opens a CSV file, iterates through the links list and saves each link to a new row in the file. This step also runs in parallel with the other functions.
+
+To handle errors, the code uses try/except blocks. For example, if a URL is invalid or returns a 404, the scrape_links() function will catch the exception, log the error and skip that URL, allowing the other processes to run unaffected. Any keyboard interrupts from the user are also caught and the program exits gracefully, saving any data collected up to that point.
+
+In summary, the program uses 3 main functions to fetch URLs, scrape data from them and save the results, with each function running in parallel. Error handling is implemented to catch any issues along the way and allow the program to continue running unaffected or exit cleanly if needed. The modular design and parallel implementation allow for efficient and robust link scraping at scale.

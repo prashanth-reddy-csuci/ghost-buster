@@ -1,0 +1,13 @@
+Here is a draft 750 word essay in response to the prompt:
+
+The aim of the report is to model and simulate the dynamic behaviour of a quarter car model in MATLAB and Simulink. The report studies the response of the vehicle suspension system as the vehicle travels over a bump or pothole in the road. 
+
+The quarter car model is a simplified representation of a vehicle suspension system with just one wheel. It incorporates key components like a spring, damper, sprung mass (vehicle body), and unsprung mass (wheel and axle). The behaviour of the full vehicle can be approximated by combining four quarter car models, one for each wheel.
+
+The report models the quarter car system using Simscape blocks in Simulink, which enable building physical models based on components like springs, dampers, masses, forces and motions. The model incorporates a spring with stiffness K and a damper with damping coefficient C to represent the suspension system connecting the sprung and unsprung masses. The unsprung mass moves vertically and the sprung mass pitches accordingly based on the suspension configuration.
+
+The pothole is modelled as a bump on the road surface with a height of 0.1 meters and length of 2 meters. As the vehicle travels at 10 m/s and hits the pothole, the unsprung mass moves upward and causes the sprung mass to pitch. The response of the suspension system in terms of the vertical displacement and pitch angle of the sprung mass is analysed.
+
+The key aspects considered in the report are the effects of the suspension parameters like stiffness and damping on the peak displacement, settling time and oscillation of the sprung mass. The report studies how the stiffness and damping can be tuned to maximize passenger comfort based on these response characteristics. Lower stiffness and higher damping leads to lower peak displacement, quicker settling time and lower oscillation. But this also results in poorer handling. So, a balance needs to be achieved based on requirements.
+
+In summary, the report models a simplified quarter car model of a vehicle suspension system in MATLAB and Simulink to simulate its dynamic behaviour while traversing a pothole. By tuning the suspension parameters, optimal performance can be achieved based on requirements like passenger comfort and handling. The quarter car model provides useful insights into suspension behaviour and can be extended to full car models.

@@ -1,0 +1,15 @@
+Here is a 250 word essay in response to the prompt:
+
+There are several parameters used to analyze a first order plus deadtime (FOPDT) system in a report including the gain (K), time constant (τ), and deadtime (θ). The gain represents the steady state change in the output for a change in the input. The time constant represents how quickly the system responds to changes. The deadtime is the delay between the input changing and the output beginning to respond. 
+
+Analog control uses continuous signals while discrete control uses sampled signals. Discrete control can lead to instability if the sampling rate is too low. The Ziegler-Nichols tuning method determines values for the proportional gain (Kp), integral time (Ti), and derivative time (Td) to optimize the closed loop response. For a FOPDT system, the critical proportional gain (Ku) and ultimate period (Pu) are determined from a process reaction curve.
+
+A proportional only controller (P-only) provides a control output proportional to the error. It reduces the steady state error but leads to a non-zero error and can cause oscillation. A Dahlin controller uses a modified Ziegler-Nichols method to determine design values that improve stability and reduce overshoot compared to P-only control.
+
+The transfer function of a discrete PID controller using the Dahlin method for a FOPDT system is:
+
+C(z) = Kp + Ki/(1-z^-1) + Kd(1-z^-1)/T  
+
+Where Kp is the proportional gain, Ki is the integral gain, Kd is the derivative gain, and T is the sample time. This transfer function represents how the controller affects the system based on its parameters.
+
+In summary, the parameters used to analyze a FOPDT system are K, τ, and θ. Analog and discrete control differ in how they sample input and can impact stability. The Ziegler-Nichols method determines design values for PID control. A Dahlin controller improves on P-only control for FOPDT systems. And the transfer function of a Dahlin discrete PID controller represents how it impacts the system.

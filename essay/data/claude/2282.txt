@@ -1,0 +1,13 @@
+Here is a 250-word essay in response to the prompt:
+
+Implementing an e-commerce website involves several practical tasks. First, the business model and product offerings of the company need to be analyzed to determine how to best showcase them in a website. In the case of FilmReel UK Ltd, a retail company selling DVDs and Blu-Rays of classic films, the site needed a visually-rich gallery to display the movie covers and allow browsing by genre, director or actor.  
+
+Second, a website structure and information architecture must be designed. For FilmReel, this meant creating sections for browsing movies, searching for specific titles, sharing reviews and ratings, and handling purchases. The user experience had to be simple and streamlined. 
+
+Third, the technological infrastructure must be put in place, including establishing a domain name, website hosting, payment gateway, and content management system to easily update the site. FilmReel chose a hosting provider experienced in e-commerce and integrated their site with SagePay as the payment processor. They used WordPress to manage the content.
+
+Fourth, the website content, graphics and multimedia must be created and optimized. FilmReel hired a web design agency to develop engaging graphics, banners and an intuitive layout. They also had staff photograph thousands of movie covers and wrote compelling descriptions for each film.  
+
+Finally, the website needs to be thoroughly tested before launching to identify and fix any bugs or usability issues. FilmReel conducted multiple rounds of in-house testing as well as hired an external agency to evaluate the user experience. They made various improvements based on the feedback before officially launching the site.  
+
+In summary, launching an e-commerce website requires strategic planning, technical setup, creative design, optimized content, and comprehensive testing. By systematically working through each of these practical tasks, FilmReel was able to successfully build and launch an e-commerce site to bring their movie retail business online. With a polished website now in place, FilmReel has grown its customer base and expanded into new markets.

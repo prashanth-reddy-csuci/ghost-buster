@@ -1,0 +1,31 @@
+Here is a 250 word essay with stem and leaf plots on the effects of ascorbate on cancer survival:
+
+Ascorbate, or vitamin C,  has been shown to increase survival time for certain types of cancers. However,the degree of increased survival time depends on the specific type of cancer. Stem and leaf plots can be used to visually display the survival data for different cancers.A stem and leaf plot separates data into 'stems' consisting of the digits before the decimal and 'leaves' consisting of the digits after the decimal. 
+
+For example, a stem and leaf plot for survival times in days for patients with prostate cancer receiving ascorbate treatment would be:  
+Key: Each ’leaf’ represents 1 patient
+
+9|789
+10|1235567     
+11|222344              
+12|11223344      
+13|12223344
+
+As you can see, the stems increase in increments of 1 day while the leaves show the survival times for each individual patient. The shape of the plot indicates a positive correlation, with higher survival times for most patients.
+
+A stem and leaf plot for survival times of pancreatic cancer patients would look quite different:
+Key: Each ’leaf’ represents 1 patient  
+
+3|58 
+4|0122 
+5|11222     
+6|0000111
+7|111  
+
+For pancreatic cancer, the correlation is weaker and survival times are generally lower across all patients compared to prostate cancer patients.
+
+A positive correlation between two variables means that as one variable increases, the other variable also increases. The equation for a positive correlation between running times and survival days would be:
+
+y = mx + b 
+
+Where y is the survival time in days, x is the running time, m is the slope (a positive number), and b is the y-intercept. In conclusion, ascorbate appears to have the greatest survival benefit for prostate  cancer patients, as evidenced by the strong positive correlation and higher overall survival times in the stem and leaf plot. For other cancers like pancreatic cancer, the survival benefit is less pronounced.

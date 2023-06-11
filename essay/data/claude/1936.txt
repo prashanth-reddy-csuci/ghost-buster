@@ -1,0 +1,13 @@
+Here is a 747-word essay in response to the prompt:
+
+The marginal propensity to consume (MPC) refers to the proportion of additional income that is spent on consumption. It is a measure of how much consumption changes when income changes, and it provides insight into the relationship between income and spending in an economy. The investment multiplier describes how a change in investment can have a multiplied effect on total income or expenditure in an economy. The MPC and investment multiplier are closely related. 
+
+When income increases, only a portion of that additional income is spent on consumption. The rest is saved. The MPC measures the percentage of the additional income that is spent. For example, if a household's income increases by $100 and consumption increases by $70, the MPC is 0.7. The higher the MPC, the more consumption increases relative to income.
+
+The MPC affects the size of the investment multiplier. The investment multiplier works as follows: When investment increases, it leads to increased income and consumption. This further increases income and consumption, creating a "multiplier" effect. The investment multiplier is calculated as 1 / (1 - MPC). So if the MPC is 0.7, the investment multiplier is 3.33. This means that for every $1 increase in investment, total income will increase by $3.33. 
+
+The relationship between MPC and the investment multiplier shows that the higher the MPC, the larger the multiplier effect. When more of a given income change translates to changes in consumption, it leads to bigger ripple effects in the economy. The lower the MPC, the more income is saved, and the smaller the multiplier effect.
+
+Changes in consumption and investment have significant effects on aggregate expenditure or total spending in an economy. When consumption increases, aggregate expenditure increases by a multiplier amount. For example, if the MPC is 0.7 and consumption increases by $100, total spending will increase by $330 ($100 x 3.33). Similarly, when investment increases, the increase in aggregate expenditure will be a multiplied amount determined by the MPC. 
+
+In summary, the marginal propensity to consume represents the amount of additional income that is spent, which determines the size of the investment multiplier. The higher the MPC, the larger the multiplier effect from a change in investment. Changes in consumption or investment can substantially impact total spending in an economy through the multiplier effect. The MPC and investment multiplier are key to understanding this relationship and how the circular flow of income operates in an economy.

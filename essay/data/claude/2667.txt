@@ -1,0 +1,15 @@
+Here is a 747-word essay in response to the prompt:
+
+The aim of the experiment conducted on the reaction between Bromate and Bromide ions was to determine the activation energy for the reaction in order to better understand its kinetics and mechanism. The reaction being studied was between KBrO3 and KBr, and the products were Br and O2 gas.  
+
+The activation energy was determined using the Arrhenius equation by plotting a graph of ln(k) vs 1/T, where k is the rate constant and T is the temperature in Kelvin. By determining the slope of the line of best fit, the activation energy (Ea) could be calculated using the equation Ea = -slope x R, where R is the gas constant.
+
+There were several sources of error in this experiment. Firstly, the temperatures used may not have been precisely controlled, which would lead to errors in the ln(k) values calculated and thus impact the slope and activation energy calculated. The timing of the reactions may not have been exactly consistent, which could lead to inaccuracies in the initial reaction rates calculated. If the time was not measured precisely at each interval for the reaction mixtures, this would propagate through to the rate constants and activation energy calculated. 
+
+Human error in reading volumes and timing reaction intervals may also contribute uncertainty. The graduated cylinders and pipettes used may not have perfect precision and accuracy, leading to small errors in reaction component volumes that would impact the calculated rate data. 
+
+The accuracy and precision of this experiment could be improved in several ways. Using a high-precision water bath to control temperature would help ensure temperatures are consistent and accurate. Employing digital timers and balances would remove human error in timekeeping and mass measurements. Replicating the reactions several times at each temperature and averaging the rate data would improve the precision. 
+
+Using analytical techniques with lower limits of detection, such as UV-visible spectrophotometry, to more accurately measure reactant and product concentrations over time would reduce uncertainty in the rates calculated. Purifying the chemicals before use to remove impurities that could potentially impact reaction rates may also help. 
+
+In summary, the aim of this experiment was to determine the activation barrier for the reaction between Bromate and Bromide ions by calculating rate constants at different temperatures and using the Arrhenius equation. There were several sources of error, including potential temperature control, timing, and measurement issues, as well as human error. Accuracy and precision could be improved by using high-precision equipment, digital measurement and timekeeping devices, reaction replication, lower detection limit techniques, and purer chemicals.

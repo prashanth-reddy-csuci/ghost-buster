@@ -1,0 +1,11 @@
+Here is a draft 500-word essay in response to the prompt:
+
+The focus of this project is to build and program an autonomous mobile robot that can navigate and avoid obstacles. The robot is constructed with component parts including motors to provide mobility, sensors to detect the surrounding environment, a microcontroller to control the components, and a power source to operate the entire system. 
+
+The robot is programmed with code written in the Arduino integrated development environment (IDE) and uploaded to the microcontroller. The code directs the robot to move forward while monitoring the sensors. If an obstacle is detected within a specified range, the code instructs the robot to turn in the opposite direction and continue moving until the path ahead is clear again. This allows the robot to navigate autonomously without human guidance.
+
+The robot uses a wireless method for data transmission. It transmits sensor data to a ground control system that can monitor the robot's status and progress. The ground control system can also wirelessly relay new code updates to the robot as needed to improve or modify its functionality. 
+
+To improve navigation, additional sensors could be incorporated to build a more comprehensive view of the surrounding environment. Sensors such as infrared, sonar or LIDAR could be used. Multiple sensor inputs could be integrated using a Kalman filter to obtain the most accurate data. The code could also be improved by incorporating path planning algorithms that not only detect obstacles but map the optimal path ahead. Additional logic and nested control loops would allow the robot to navigate more complex environments.
+
+Surface Mount Technology or SMT is an ideal method for designing a compact mobile robot. SMT involves attaching components directly to the surface of printed circuit boards (PCBs) without the use of through-hole leads. This allows components to be placed on both sides of the PCB, enabling a denser, space-efficient layout. The smaller size and lower profile of SMT components also reduce the weight of the overall robot which improves mobility and energy efficiency. SMT is commonly used in high volume manufacturing of electronic devices due to reduced cost and improved reliability. For these reasons, SMT would be an excellent approach to design and build an autonomous mobile robot.

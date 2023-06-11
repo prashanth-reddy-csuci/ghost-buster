@@ -1,0 +1,21 @@
+Here is a 750 word essay response:
+
+The mean, mode, and median are three measures of central tendency that can be used to analyze a set of data. Each measure has its own strengths and weaknesses in depicting the data accurately. 
+
+The mean, also known as the average, is calculated by summing all the values and dividing by the number of values. The strength of the mean is that it considers all the values in the data set. However, it can be skewed by extremely high or low values. For example, if analyzing the amount of money students carry, the mean could be drastically affected if one student carries $500 while everyone else carries around $20. In this case, the mean would not represent the "typical" amount of money for most students.
+
+The mode refers to the value that occurs most frequently in the data set. It is useful in determining the most common result, but it fails to consider the values on either side of the mode. It also does not work well for data sets with no repeating values. For example, if each student carries a different amount of money, there would be no mode. The mode would not provide any useful information about the data set as a whole.
+
+The median refers to the middle value in an ordered data set with an odd number of values or the mean of the two middle values in an even data set. The strength of the median is that it is not affected by extreme values on either side. However, if there are many values concentrated on one side of the median, it may not represent the overall shape and distribution of the data set.
+
+To gain a better representation of the amount of money students carry and the student body as a whole, the study could be improved in several ways:
+
+1) Use multiple measures of central tendency. By calculating the mean, mode, and median, the study can get a more complete picture of the typical amount of money students carry. Extreme values are less likely to skew all three measures. 
+
+2) Increase the sample size. A larger sample size, perhaps including students from multiple classes, grades, and demographic groups, would provide a more accurate representation of the diverse student population. 
+
+3) Look at the data holistically. In addition to calculating measures of central tendency, also look at the spread of the data and the overall distribution. The shape of the distribution - symmetric, skewed left or right - also provides information about what is typical. 
+
+4) Consider confounding variables. Factors like grade level, gender, and socioeconomic status may affect the amount of money students carry. The study could analyze data within categories of these variables to gain additional insights.
+
+In summary, while the mean, mode and median each have strengths and shortcomings on their own, using them together and improving other aspects of the study design can provide a robust analysis of the research question regarding students and the money they carry. With a more thoughtful approach, researchers can gain a representative view of the student population as a whole.

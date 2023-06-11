@@ -1,0 +1,9 @@
+Here is a 257 word essay in response to the prompt:
+
+Manganese (II) phthalocyanine is an inorganic molecule that contains a manganese ion coordinated to a phthalocyanine ligand. It is synthesized through the reaction of phthalonitrile, metal salts like manganese chloride, and a base like 1,8-diazabicyclo[5.4.0]undec-7-ene (DBU) in a high boiling solvent. The phthalonitrile molecules cyclize around the manganese ion to form the phthalocyanine ligand.  
+
+Manganese (II) phthalocyanine is able to tightly bind oxygen molecules. The manganese ion has vacant d-orbitals that can coordinate to the oxygen molecules. This oxygen binding property allows manganese phthalocyanine to act as a oxygen carrier, similar to the oxygen transport protein hemoglobin in humans. In photosynthetic organisms like cyanobacteria, manganese phthalocyanine and other similar compounds are used to oxidize water. The oxygen produced from water oxidation is released as molecular oxygen.
+
+The synthesis of manganese phthalocyanine involves the use of toxic chemicals like phthalonitrile, manganese chloride, and DBU. Phthalonitrile can irritate the eyes, skin, and respiratory tract. Manganese chloride is toxic if ingested and can be an irritant. DBU is a known carcinogen and corrosive to the eyes, skin, and respiratory system. Proper protective equipment like goggles, gloves, and fume hoods must be used when handling these chemicals to minimize risks. 
+
+In summary, manganese (II) phthalocyanine is an inorganic compound synthesized from phthalonitrile and manganese salts. It is able to tightly bind oxygen and is used by photosynthetic organisms to catalyze water oxidation and produce oxygen. However, the chemicals used in its synthesis are toxic and hazardous, requiring maximum safety precautions. Its unique properties make it an important molecule for artificial and biological processes.

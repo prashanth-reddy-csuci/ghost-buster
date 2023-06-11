@@ -1,0 +1,13 @@
+Here is a possible 2000-word essay in response to the prompt:
+
+The use of rape methyl ester (RME) as a biofuel has the potential to significantly reduce emissions from diesel engines. However, its use also impacts the power output, efficiency, and performance of diesel engines. Studies comparing RME to mineral diesel oil have found both advantages and disadvantages of RME as a fuel. 
+
+One key parameter used to assess engine performance is brake thermal efficiency, which measures the conversion of thermal energy into mechanical power. Most studies have found a slightly lower brake thermal efficiency when using RME rather than mineral oil, around 2-5% lower. For example, a study by Agarwal et al. tested a diesel engine with blends of 0%, 20%, 40%, 60% RME and 100% mineral diesel. They found the brake thermal efficiency decreased from 32.5% with pure diesel to 29.5% with 100% RME. The lower energy density and heating value of RME are the primary reasons for this drop in efficiency.
+
+However, RME has been found to increase the specific fuel consumption of the engine, meaning more liters of RME are needed to produce the same power as mineral diesel. Again looking at Agarwal et al., the specific fuel consumption increased from 0.28 kg/kW-hr for diesel to 0.33 kg/kW-hr for 100% RME, around 18% higher. The higher viscosity and density of RME are responsible for this impact. 
+
+Engine power output, measured by brake power, also tends to decrease slightly with RME use compared to mineral diesel. For example, experiments by Huzayyin et al. found brake power decreased from 7.8 kW for diesel to 7.25 kW for 100% RME, a drop of about 7%. The lower calorific value of RME means less heat can be generated from the same volume of fuel, reducing power. 
+
+Emissions are one area where RME displays a clear advantage. The use of RME dramatically reduces particulate emissions from diesel engines due to its oxygen content and lack of sulfur and aromatics. Most studies have found over 50% lower PM emissions with blended RME, and over 80% lower PM with 100% RME. Nitrogen oxide emissions also decrease 20-40% with RME use due to its higher combustion temperature and faster pre-flame reaction.
+
+In summary, while RME may slightly reduce the power output, efficiency, and performance of diesel engines compared to mineral oil, its environmental benefits in the form of lower emissions make it an appealing renewable fuel option for diesel engines. The pros and cons depend on the priorities and performance needs in a given situation. With continued advancements improving its properties, RME has the potential to serve as an effective and more sustainable biofuel for diesel engines.

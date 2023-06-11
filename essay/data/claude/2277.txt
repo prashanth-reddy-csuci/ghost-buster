@@ -1,0 +1,13 @@
+Here is a draft essay in 976 words:
+
+The Butterworth filter is a type of analog filter that has a maximally flat frequency response in the passband. Its frequency response rolls off towards the stopband, having no ripples. This differs from other filters like the Chebyshev filter that allows ripples in the passband to achieve a steeper roll-off. The key advantage of the Butterworth filter is that it does not distort the signal within the passband. 
+
+To implement analog filters digitally, the filters must first be mapped to the discrete-time domain. The most direct method is impulse-invariant transformation, but this can result in aliasing and instability. The bilinear transformation method maps the analog s-plane to the digital z-plane, overcoming these issues. It warps the frequency response to maintain stability and minimize aliasing. The bilinear transform preserves the magnitude and phase response, though the frequency is warped. 
+
+The bilinear transform is useful for filtering in dynamic, frequency-sensitive environments because the frequency warping helps avoid aliasing, even as the sample rate changes. The warping causes higher analog frequencies to be mapped to lower digital frequencies, so aliasing is less likely even at lower sample rates. However, the warping also causes the filter's transition band to widen, reducing selectivity.
+
+To address frequency warping, pre-warping techniques are often used when designing digital filters. The idea is to design an analog filter with a frequency response that cancels out the warping introduced by the bilinear transform. When the analog filter is then mapped to the digital domain, its frequency response retains the desired shape. In this project, pre-warping was used to design a digital Butterworth filter with a narrow transition band.
+
+Challenges in implementing digital filters include finite precision effects and aliased harmonics in the passband. Finite precision introduces quantization noise, reducing dynamic range. Aliased harmonics result from the sampling process and appear in the passband, distorting the signal. Anti-aliasing filters and higher sampling rates can address this.  
+
+Through this DSP lab project, I gained valuable experience designing and implementing digital filters. I learned how the bilinear transform maps analog filters to the discrete-time domain, as well as techniques like pre-warping to obtain the desired frequency response. I also gained an appreciation for the challenges in digital filter implementation like aliasing and finite precision effects. This hands-on project helped solidify my understanding of digital signal processing concepts.

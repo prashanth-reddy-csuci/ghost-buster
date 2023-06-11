@@ -1,0 +1,15 @@
+Here is a 500 word essay in response to the prompt:
+
+The analytical solution for the observation function Y involves the  relationship between the observed variables and the latent variables that generate the observations. The observations Y are assumed to be manifested from a linear combination of latent variables L and an error term E. The relationship can be expressed as:
+
+Y = μL + E
+
+Where μ is a vector of weights connecting the latent and observed variables. The error term E captures the variance in Y that is not explained by L. 
+
+To estimate the values of K, the number of latent variables, the graph peeling technique can be used. This involves systematically removing the strongest connections between observed variables and assessing the loss of fit. The process starts by building a fully connected graph with edges between all observed variables. Then the strongest edge, representing the largest correlation, is removed. The decrease in model fit is measured after removing this edge. The next strongest edge is then removed and the loss in fit is again measured.
+
+This iterative process continues until removing an additional edge does not significantly reduce the model fit. The number of edges remaining in the graph at this point represents an estimate of the number of latent factors K. The edges left in the graph indicate which observed variables are most strongly connected through the shared latent factors.
+
+The graph peeling technique is a data-driven approach to determining K based on the pattern of connections between observed variables. Removing edges sequentially from the strongest to weakest connections allows the technique to isolate the core latent structure in the data by stripping away weak and spurious connections first. The loss of fit along the way provides an objective measure to estimate when the shared latent structure has been optimally uncovered, thereby estimating K. 
+
+In summary, the analytical solution for the observation function Y defines the linear relationship between the observed variables Y and the latent variables L that give rise to them. The graph peeling technique offers a systematic way to estimate the number of latent variables K by measuring the loss of fit from sequentially removing the strongest connections between observed variables. Combined, these techniques provide a methodology for uncovering latent structures from observable data.

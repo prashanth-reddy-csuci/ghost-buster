@@ -1,0 +1,11 @@
+Here is a 1000 word essay in response to the prompt:
+
+There are three primary techniques for finding the root of a simple function: bisection method, secant method, and Newton-Raphson method. Of these, the Newton-Raphson method is considered the most accurate due to its rapid convergence.
+
+The bisection method involves dividing the interval in half repeatedly to narrow down the region where the root lies. For example, to find the root of f(x) = x2 - 3 between 1 and 2, we evaluate f(1) and f(2) to see that the root lies in the interval. We then take the midpoint, 1.5, and evaluate f(1.5) to see the root is still in the 1 to 1.5 interval. We continue splitting the interval in half and evaluating the function at the midpoints. This method is slow to converge but is guaranteed to find the root. 
+
+The secant method uses the last two points to approximate the slope of the function and find the next point that will be closer to the root. For the same function f(x) = x2 - 3, we might start with points 1 and 2, giving a slope of 2. The next point would be 1.5. The slope between 1.5 and 2 is 3, so the next point would be 1.25. This continues until the root is found. The secant method converges faster than the bisection method but may diverge for some functions.
+
+The Newton-Raphson method uses the derivative of the function to approximate the slope at the current point and find the next point that will be closer to the root. For f(x) = x2 - 3, if we start at point 1, the slope is 2x = 2(1) = 2. The next point would be 1 - f(1)/f'(1) = 1 - (-2)/2 = 3/2 = 1.5.  The slope at 1.5 is 2(1.5) = 3, so the next point is 1.5 - (-1.5)/3 = 5/3. This continues rapidly converging to the root at x=1.67. The Newton-Raphson method uses information about the derivative to converge very quickly, especially for simple functions. However, it requires that the derivative exists and may fail if the derivative is 0 at the root.
+
+In summary, the three main techniques for root-finding each have their advantages and limitations. Bisection method is slow but robust. Secant method improves convergence but may diverge. Newton-Raphson method converges fastest when it works but requires knowledge of the derivative. For most simple root-finding problems, the rapid and accurate convergence of the Newton-Raphson method makes it the superior choice.

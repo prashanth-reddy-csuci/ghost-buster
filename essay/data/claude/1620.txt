@@ -1,0 +1,35 @@
+Here is a draft 1500-word essay in response to the prompt:
+
+Several modifications were made to the original program in order to enable synchronisation between distant machines. The key changes revolved around altering how the program handles latency and disruptions in connectivity, as  well as optimising the synchronisation process to minimise wasted resources.
+
+The first major change was adjusting the timeouts for connectivity and data transfer. When synchronising local directories, a sub-second timeout is typically used to detect issues. However, with distant machines latency needs to be accounted for, so the timeouts were increased to 30-60 seconds. This allows for minor delays and disruptions without falsely triggering an error. If after 60 seconds a connection cannot be established or data cannot be transferred, the program does trigger an error to avoid wasting resources on potentially fruitless efforts.
+
+The second key change was altering how the program sends instructions between the source and destination machines. Originally, instructions were sent upon completion of each task (e.g. upon completing the transfer of a file). However, with distant synchronisation this can lead to excessive communication that negatively impacts latency and connectivity. The program was modified to instead batch multiple instructions together into a single communication. For example, if there are 20 files that need to be created, modified or transferred, the instructions for all 20 actions are bundled into a single communication between the source and destination machines rather than 20 separate communications. This significantly reduces network overhead and improves synchronisation performance.
+
+The final major change was providing manual overrides for when automated synchronisation fails or is not ideal. The program has an optional user-controlled mode where the synchronisation steps that are usually handled automatically can instead be directed manually by a user. This allows synchronisation to still occur even when latency or other issues are causing the automated approach to fail. The user can manually send instructions to initiate file transfers, create directories, delete outdated data, etc. This manual mode also allows a user to customise which parts of the source directory are synchronised, rather than simply mirroring the entire folder structure. 
+
+In summary, the main modifications to enable distant machine synchronisation were: increasing connectivity and data transfer timeouts to account for latency; bundling multiple instructions into single communications to reduce network overhead; and providing an optional manual override mode to allow customised and user-directed synchronisation.
+
+An example of the instruction sending process is: 
+1. The source machine completes a step in the synchronisation, such as transferring a file to the destination machine. 
+2. The source machine bundles this instruction with any other pending instructions, such as creating a directory or deleting outdated files. 
+3. The source machine sends this bundled set of instructions to the destination machine along with any necessary data (e.g. the file contents for a file transfer action).
+4. The destination machine receives the instructions and carries them out by creating directories, deleting files or writing received file data to storage as appropriate.
+5. The destination machine sends a confirmation communication back to the source with the status of each instruction (success or failure). 
+6. If any instruction has failed, the source machine adjusts timeouts or switches to manual override mode as necessary to complete the synchronisation step.
+
+A test case where both the source and destination are located on a local, low-latency network would be:
+- Source directory: C:\Users\John\Documents\Project\Drafts 
+- Destination directory: C:\Users\Jane\Documents\Project\Drafts
+- Contents of source folder:
+    - Report.docx (2MB)
+    - Proposal.pptx (10MB) 
+    - Emails.pst (50MB)
+    - OldFiles (directory containing 200MB of outdated files no longer needed)   
+- Synchronisation steps:
+    1. Transfer Report.docx to destination directory
+    2. Transfer Proposal.pptx to destination directory 
+    3. Transfer Emails.pst to destination directory 
+    4. Delete OldFiles directory at destination
+    5. Confirm all files present and OldFiles directory deleted at destination     
+- Expected outcome: Destination directory matches source directory with all files present and outdated OldFiles directory removed. Approximately 62MB of total data will have been transferred over local network.
