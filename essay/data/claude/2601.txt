@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 William Paley's "watchmaker argument" is one of the most famous versions of the design argument for the existence of God. In his book Natural Theology, published in 1802, Paley argues that just as the complexity and functionality of a watch suggests that it must have had a designer, likewise, the complexity and functionality of the universe as a whole suggests that it, too, must have had a designer. However, Paley's version of the design argument faces several serious criticisms that undermine its efficacy. 
 
 One problem is that Paley assumes that complexity and functionality necessarily imply design. However, as David Hume argued, the appearance of design could actually emerge from random chance and the blind forces of nature. Just because something looks designed does not mean that it actually was designed. Apparent design could be an illusion. The universe may seem designed to serve certain complex functions that are hospitable to life, but that could be the result of an unguided evolutionary process, not the result of intentional design.

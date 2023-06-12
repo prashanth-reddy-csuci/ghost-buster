@@ -1,5 +1,3 @@
-Here is a 250-word essay in response to the prompt:
-
 Throughout this course, I have learned a great deal about using lists in Caml and how they enable powerful functional programming capabilities. Lists are a fundamental data structure in Caml and are used pervasively. They are defined simply as either an empty list [] or a pair with a head element and a tail list [head; tail]. 
 
 Using pattern matching, lists can be decomposed and their elements accessed in a very elegant way. For example, you can define a sum function on lists as:

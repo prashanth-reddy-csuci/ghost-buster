@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 Measuring the elastic properties of materials, namely the Young's modulus and shear modulus, provides critical information about their mechanical behavior. For isotropic materials, which have the same properties in all directions, resonant vibration techniques have been commonly used to determine these moduli. In particular, vibrating cylindrical rods of the material have been employed to calculate the Young's modulus (E) and shear modulus (G) based on the resonance frequencies.  
 
 When a cylindrical rod is subjected to vibration, it will resonate at certain frequencies that depend on its material properties, dimensions, and boundary conditions. For rods with free ends, the resonance frequencies can be measured and used to determine E and G. The lowest, or fundamental, resonance frequency (f1) depends on the Young's modulus, density (ρ), and dimensions (length (l) and diameter (d)) according to the equation:

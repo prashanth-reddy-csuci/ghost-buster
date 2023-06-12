@@ -1,5 +1,3 @@
-Here is a draft 2500-word essay in response to the prompt:
-
 What were the successes and limitations of Niels Bohr's model of the atom? 
 
 In the early 20th century, scientists were making rapid progress in understanding the structure of the atom. The most influential model of the atom proposed during this time was Niels Bohr's quantum model of the atom, introduced in 1913. The Bohr model was remarkably successful in explaining phenomena related to atomic spectra that classical mechanics and electromagnetic theory could not account for. However, the Bohr model also had significant limitations that eventually led to its replacement by more sophisticated theories like quantum mechanics.

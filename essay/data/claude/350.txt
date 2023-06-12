@@ -1,5 +1,3 @@
-Here is a 1250 word essay on the supply-side macroeconomic debate and the shape of the aggregate supply curve:
-
 The debate between Keynesians and monetarists over macroeconomic policy stems from differing views on the determinants of aggregate supply. Keynesians believe aggregate demand is the primary driver of supply in the short run, implying the aggregate supply (AS) curve is relatively flat. Monetarists counter that aggregate supply is determined by real factors like technology and input costs, so the AS curve is relatively steep. 
 
 The original Keynesian model proposed a nearly horizontal AS curve in the short run, indicating supply responds strongly to demand and does not constrain output. Keynesians argue excess capacity and the ability of firms to expand production with little cost in the short run allow greater demand to stimulate higher output levels without substantial price increases. According to the Keynesian Phillips curve, inflation will only accelerate gradually as unemployment declines due to demand-pull pressure.

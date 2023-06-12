@@ -1,5 +1,3 @@
-Here is a 248 word essay in response to the prompt:
-
 While completing a set of tasks using functional programming techniques in Python, I learned several valuable concepts that have changed the way I approach writing code. First, functional programming focuses on using pure functions that take inputs and produce outputs without any side effects. This means the functions do not modify any external variables or state. They simply take in data and return new data. This concept made the code easier to understand and debug, since I could look at a function in isolation and not have to trace what other parts of the program it might be affecting. 
 
 Second, functional programming emphasizes the use of higher-order functions—functions that take other functions as arguments and/or return functions as outputs. This allowed for powerful abstractions and the ability to compose simple functions together to achieve more complex logic. For example, I used a higher-order function to filter and map a list of data in just one function call. This made the code highly concise and declarative.

@@ -1,5 +1,3 @@
-Here is a draft essay in 1250 words:
-
 Stokes Drift and Numerical Modeling
 
 Stokes Drift refers to the slow steady horizontal drift of fluid parcels when surface gravity waves propagate through them. It arises due to the orbital motion of fluid parcels beneath the wave crests and troughs. Although the net transport of water over a wave cycle is zero, the nonlinearity of the equations of motion leads to a small net drift in the direction of wave propagation. 

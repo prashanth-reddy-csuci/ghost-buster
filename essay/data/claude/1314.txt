@@ -1,5 +1,3 @@
-Here is a draft 3000-word essay in response to the prompt:
-
 In his Critique of Judgment, Immanuel Kant argues that reason allows the human mind to grasp concepts that surpass the limits of imagination, particularly in experiencing the mathematical and dynamic sublimes. For Kant, the imagination has a maximum, finite magnitude it can comprehend, based on the maximum size of images it can form. Reason, however, is capable of conceiving of infinitely large magnitudes through a process of successive addition and expansion. This allows reason to exceed imagination.
 
 Kant first addresses how we can obtain concepts of extremely large magnitudes that seem to surpass imagination. He argues that we cannot have an image or intuition of infinitely large magnitudes, as imagination has a maximum. We can, however, think infinity through the intellectual idea of successive addition: by representing an object and recognizing we can always add more to its size. This process can continue indefinitely, giving us a concept of infinity that surpasses what we can imagine. However, this is merely a concept - we cannot have a corresponding sensible intuition.

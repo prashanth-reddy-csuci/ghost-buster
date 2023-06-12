@@ -1,5 +1,3 @@
-Here is a 241 word essay in response to the prompt:
-
 A program designed to calculate a student's grade based on three input marks could have several potential issues and areas for improvement. 
 
 First, the program should have a way to check that the input marks are valid and in the correct range before calculating the grade. If a mark is entered outside the range of 0 to 100, the program should display an error message and prompt the user to enter a valid mark. This helps ensure the program is robust and can handle improper input.

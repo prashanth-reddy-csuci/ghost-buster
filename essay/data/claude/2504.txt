@@ -1,5 +1,3 @@
-Here is a 255 word essay in response to the prompt:
-
 The Carphone Warehouse website suffers from several usability issues that negatively impact the customer experience and satisfaction. The homepage is cluttered with too much text and many images, making it difficult for users to find the information they need quickly. The navigation menus have too many options that confuse users. For example, the main menu has categories like “Accessories,” “Smart Tech,” and “Networks” that contain many subcategories and links, requiring excessive clicking to find specific products.  
 
 The site also lacks a consistent layout and information architecture across pages. Some product pages have details like specifications, related products, and reviews while others lack some of this information. The inconsistency reduces the usefulness of the site and causes frustration for customers. Additionally, the site uses ambiguous product naming and categorization that can perplex visitors. For instance, it is not clear that “Connected Home” and “Smart Home” contain the same types of Wi-Fi-enabled devices.  

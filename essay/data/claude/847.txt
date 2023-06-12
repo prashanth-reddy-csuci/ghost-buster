@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 Mathematical models provide a useful means of predicting deflection behavior due to bending and torsion loads. However, the accuracy of such models depends on the assumptions and approximations made in their derivation. Simple linear elastic models based on Bernoulli-Euler beam theory and Saint-Venant’s theory of torsion provide a first approximation for calculating deflections. However, these models make several assumptions that result in limitations on their accuracy.
 
 The Bernoulli-Euler model for beam bending assumes a linear elastic material, small deflections, cross-sections that remain flat, and a pure bending state with no shear stresses. These assumptions allow for a simple model where the bending moment is proportional to the curvature, but they limit the model’s application to large deformations and neglect shear deflections. Saint-Venant’s torsion model similarly assumes a linear elastic material, small angles of twist, and a pure torsion state where warping is constrained. The predicted deflection varies linearly with torque, but the model is limited by its assumptions.

@@ -1,5 +1,3 @@
-Here is a 501 word essay in response to the prompt:
-
 The National Vegetation Classification or NVC is a standard classification system used to describe plant communities in Great Britain. It was developed in the 1970s to provide a systematic way of recording and classifying the vegetation types found throughout the country. The NVC uses the physiognomy and floristic composition, including indicator species, of plant communities to classify them into broad habitat types, communities and sub-communities.
 
 At the Broadmoor Heath site, the NVC was used to classify the plant communities along a gradient from wet heath to dry heath. Multiple communities were identified along this ecocline, ranging from M16 Erica tetralix wet heath to H2 Calluna vulgaris dry heath. The M16 community was found in the wettest areas of the heath, characterized by abundant cross-leaved heath and bog mosses. As the ground became progressively drier, the vegetation transitioned into M14 Schoenus nigricans mire and then into M15 Scirpus cespitosus mire, with black bog rush and deer grass becoming more dominant. 

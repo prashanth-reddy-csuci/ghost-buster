@@ -1,5 +1,3 @@
-Here is a draft essay in 1250 words:
-
 The impact of real exchange rate devaluation on the trade balance has been a debated topic in international economics. Theoretical models like the Marshall-Lerner condition suggest that real depreciation in exchange rate should improve the trade balance in the long-run as it makes exports cheaper in foreign markets and imports more expensive domestically, thereby increasing net exports. However, empirical evidence on the subject has been mixed. This essay examines if real exchange rate depreciation leads to improvement in trade balance in the long-run for India.
 
 To analyze the impact, we estimate the following equation using quarterly data from 1996Q1 to 2018Q4:

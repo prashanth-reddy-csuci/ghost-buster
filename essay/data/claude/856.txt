@@ -1,5 +1,3 @@
-Here is a draft 1750-word essay in response to the prompt:
-
 Disc brakes are one of the most critical components of a motor vehicle, responsible for safely slowing and stopping the vehicle. There are many theoretical and practical design considerations that go into engineering an effective disc brake system for a typical passenger saloon car. 
 
 The most fundamental consideration is determining the braking torque requirement to lock up the wheels during maximum braking. This can be calculated based on the mass of the vehicle, the radius of the tires, and the coefficient of friction between the tires and the road surface. For a 1000 kg saloon car, the torque required to lock up a 225/45R17 tire on dry asphalt is around 300 Nm per wheel. This value will vary depending on the specific vehicle and tire dimensions, as well as the road conditions, but can be used as a starting point for disc brake design.

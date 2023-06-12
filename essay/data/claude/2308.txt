@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 WinCoot is a software tool used to refine and build molecular models based on electron density maps. An electron density map is a 3D representation of the electron density in a macromolecule such as a protein, generated using X-ray crystallography. WinCoot allows researchers to manually adjust and build a model by manipulating individual atoms and amino acid residues to best fit the electron density. 
 
 The structure of lysozyme consists of two domains: an alpha domain and a beta domain. The alpha domain contains four alpha helices and the beta domain contains an anti-parallel beta sheet. Lysozyme's function is to break down bacterial cell walls by hydrolyzing the beta (1-4) glycosidic linkage between N-acetylmuramic acid and N-acetylglucosamine. Binding of the substrate maltose induces a conformational change in lysozyme that opens up the active site for catalysis.

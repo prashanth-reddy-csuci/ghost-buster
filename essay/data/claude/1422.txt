@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 There are several factors that affect the drag force experienced by a cylinder immersed in a fluid flow. The primary factors are the density and viscosity of the fluid, the velocity of the fluid flow, and the size and shape of the cylinder. 
 
 The density of the fluid determines the amount of mass in a given volume of fluid. A higher density means there are more molecules to impact the surface of the cylinder, creating a higher drag force. The viscosity of the fluid determines how easily the fluid layers can slide past each other. A higher viscosity means the fluid layers adhere more to each other, and the cylinder surface, creating higher drag.

@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 Stabilisation policy refers to the government's attempts to modify the peaks and troughs of the business cycle through monetary and fiscal policy. While stabilisation policy has the potential to reduce the severity of economic fluctuations, its effectiveness is limited in practice due to uncertainties, time lags, and disagreements among policymakers and economists. 
 
 Monetary policy involves the central bank manipulating interest rates and the money supply to influence aggregate demand in the economy. Lower interest rates make it cheaper for households and businesses to borrow money, encouraging spending and investment. Higher rates have the opposite effect. However, the effectiveness of monetary policy is limited by uncertain time lags between policy changes and their impact on the real economy. It can take 6-24 months for the full effects of a change in interest rates to feed through, by which time the economic circumstances may have changed. Policy changes also risk exacerbating fluctuations if mistimed.

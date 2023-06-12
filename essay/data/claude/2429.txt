@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 The automation of London's ambulance dispatch system in 1992 was meant to improve response times and the efficiency of dispatching emergency responders. However, the new computer-aided dispatch (CAD) system had significant issues that caused delays, errors, and put patients' lives at risk. There were several factors that contributed to the problems with the automated system, and a number of steps that could have been taken to prevent or mitigate these issues. 
 
 One of the major issues with the new CAD system was that it relied on an outdated map database that often provided incorrect locations for emergency calls. The maps had not been updated for many years and did not account for recent changes in London's road network. This meant that ambulances were frequently dispatched to incorrect addresses, wasting critical time. To fix this, the ambulance service should have invested in updating the map database to the current road network before switching to the new CAD system. They also should have had procedures in place to get updated information from callers if ambulances went to the wrong locations.

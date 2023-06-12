@@ -1,23 +1,16 @@
-The objective of this study was to analyse chocolate purchases with respect to individual supermarkets, types of chocolate and customer characteristics.
-The independent sample t-test was chosen to test the null hypothesis that 'customers with kids spend the same amount on chocolate as those without' because it compares two means within the same variable. It tests whether the two means are equal or alternatively if they show a significant difference. The T-test is based on the assumption that the sample mean is normally distributed across the sample.
-The ANOVA F test was chosen to find out whether the amount spent on chocolate is significantly different across 3 categories of TV watchers (light, medium and heavy). This test is appropriate because it can compare several means simultaneously while avoiding the error that may occur in performing multiple t-tests. The null hypothesis is that all the means are equal and it is rejected if one of them differs. The F (Fisher) ratio compares the variance within sample groups with the variance between groups and is the basis for ANOVA. If the calculated F value is more than the critical F value then H0 (the means are equal) is rejected and H1(there is a significant difference between the means) is accepted.
-This test assumes that the sample is normally distributed and has equal variances.
-The P value is used to test the statistical significance of the T and F values.
-If the P value is greater than alpha (which depends on the significance level) then the results are statistically significant and can therefore be used to draw conclusions.
-The objective of the study was to investigate what factors influence chocolate expenditure.
-Independent sample T-tests and one-way ANOVA F-tests were the methodologies used.
-Other methodologies such as linear regression could have given further indication of the relationship (how much the of the variation in expenditure was explained by the different factors).
-Having kids is a relevant factor in explaining fair trade and organic chocolate expenditure in general (for all supermarkets).
-Having kids is a relevant factor in explaining fair trade chocolate expenditure only for Sainsbury
-The number of TV hours watched is a relevant factor in general (for all supermarkets).
-The number of TV hours watched is a relevant factor in explaining organic chocolate expenditure only for Sainsbury.
-An advertising campaign directed at children promoting fair trade chocolate could be profitable for Sainsbury.
-A television advertisement promoting organic chocolate could be profitable for Sainsbury.
-It would be interesting to carry out further research for Sainsbury in order to build a larger profile for its chocolate consumers which will enable the supermarket to segment its market and target consumers more effectively.
-Segmentation involves splitting consumers up into groups of individuals with similar needs and attitudes towards the product/service in order to target them with prices and promotions consistent with their individual needs.
-Segmentation can be conducted in many different ways. This study has looked at psychographic (splitting consumers into groups based on the number of TV hours watched) and demographic aspects (age group and whether they have children).
-A questionnaire could be designed to look at other demographic factors that could be explored in terms of how they affect chocolate expenditure, for example; income levels, gender, status and social class.
-Behavioural factors would be valuable in terms of finding out what the consumer wants from chocolate as a product as they focus on the relationship between the product and the consumer. For example, do people purchase chocolate as a gift, a single bar for their own consumption, a multi-pack for the family, or perhaps to be used in cooking?
-How do they view chocolate? - As a treat, a luxury, or an everyday necessity? Do they buy more from the more reputable brands? - and which brand is the most popular?
-It might also be useful to look at how often it is consumed: daily, weekly or monthly.
-Other ways of collecting this data besides a questionnaire include; focus groups, analysing the nectar card database, and buying data from classification systems such as Acorn.
+Sodium chloride content in foods can be determined by titrating the chloride ion with silver, and excess silver ions with potassium chromate. The end point occurs when all the chloride ions are complexed and the excess silver ions react with the chromate ion to form the orange color of silver chromate. The endpoint in this reaction is therefore at the first hint of an orange color.
+The method was completed after following the instructions of the Laboratory handout, without any alterations.
+We first had to do a determination of the concentration of a standard sodium chloride solution. This was done after titrating 20 ml of the sodium chloride solution provided, with standard silver nitrate solution using potassium chromate indicator (5% solution), until the red colour formed begins to fade more slowly.
+Actual concentration of sodium chloride solution:
+For the determination of salt in a sample of butter we weighed 3.0520 g of butter and followed the procedure described in the handout. After the 3 extractions of salt from the fat using hot water, we titrated 25 ml aliquot of the diluted extract (adding 1 ml of potassium chromate indicator) with standard silver nitrate.
+The results of this titration was:
+To calculate the percentage of NaCl in the butter:
+Total salt:
+The result obtained for the % of salt in the butter is considered as satisfactory as most butter have a concentration of 1.5-2.0 % of salt.
+An error that may have altered the results is based on the fact that during the extractions, it has been calculated that you get only the 90 % of the amount that you are required to extract. As the number of extractions grows, so does the percentage of error. So, in the 1 st extraction we get the 90% of the aqueous phase, in the 2 nd extraction we get the 90% of the 1 st extract and in the 3 rd extraction we get the 90% of the 2 nd extract. In this case, when we refer to an error, we refer to the amount of the liquid phase (aqueous phase) that we were not able to extract.
+Some other errors may also occur. A common error is the sampling error which is partly avoided by the use of more than one sample when titrating.
+Limitations due to the uncertainty of the instruments also exist but we consider them as not significant when doing our calculations.
+After obtaining the results from the other teams, we constructed a diagram showing the differences in the percentages of salt in butter found by all teams in terms of 95% confidence limits (+/- 2 SE).
+, where  = standard deviation and n = sample number
+So we had:
+As we can see most of the results are between these confidence limits. For the critical values, such as the one in sample 8 (2.1%), we can justify them by referring to the error that is described above and is referring to the extraction method error.

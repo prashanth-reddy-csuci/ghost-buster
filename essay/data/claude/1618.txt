@@ -1,5 +1,3 @@
-Here is a 246 word essay response:
-
 The code consists of 3 main functions: fetch_urls(), scrape_links() and save_data(). These functions allow for parallel execution as they are defined independently and can run concurrently. 
 
 The fetch_urls() function retrieves URLs from an input file. It reads each line of the file and adds the URLs to a list. This prepares the list of URLs to be scraped.

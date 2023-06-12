@@ -1,5 +1,3 @@
-Here is a 2000-word essay in response to the prompt:
-
 Molecular modelling refers to the use of computational chemistry methods and software to model and simulate the behavior of molecules at an atomic and molecular level. Advancements in computing technology and IT have enabled significant progress in molecular modelling by providing the high-performance computational power and software necessary to run complex calculations on large molecules. 
 
 Molecular modelling software, such as Gaussian, Spartan, and HyperChem, allow chemists to draw and visualize molecular structures in 3D. These tools provide an interactive interface for the manipulation of molecular geometries by rotating bonds and optimizing spatial arrangements. They incorporate algorithms to calculate the steric energy, or the energy of interaction between atoms, to determine the most stable configuration of the molecule that satisfies electronegativity and minimizes repulsions. However, these semi-empirical methods make approximations in their calculations, using parameters derived from experimental data, limiting their accuracy.

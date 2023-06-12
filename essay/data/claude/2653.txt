@@ -1,5 +1,3 @@
-Here is a 250-word essay in response to the prompt:
-
 The major commercial polymers with an inorganic silicon-oxygen backbone are the silicones. The most common silicones are the polydimethylsiloxanes, made from dimethyldichlorosilane. To produce silicones, the monomer dichlorodiphenylsilane is first hydrolized by water to form a silanol. The silanol then condenses to form cyclopolysiloxanes of varying ring sizes, from tetramer to octamer. 
 
 The concentration of reactants plays a key role in determining which cyclopolysiloxanes form. At high concentrations, smaller ring sizes are favored because the silanols are in close proximity, allowing rapid condensation. As concentration decreases, larger rings become more probable since the silanols are more distant, requiring more time to collide and condense. An experiment demonstrating this uses dichlorodiphenylsilane in a range of concentrations. At 90% concentration, the primary product is the tetramer. At 60% concentration, a mixture of tetramer, hexamer and octamer form. At 30% concentration, the octamer predominates.

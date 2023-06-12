@@ -1,5 +1,3 @@
-Here is a 1447-word essay in response to the prompt:
-
 The Heckscher-Ohlin model is an influential model in international trade theory that predicts patterns of trade and production based on differences in factor endowments between countries. The model assumes that countries have access to the same production technology but differ in their relative amounts of labor, capital, and natural resources. Countries will export goods that use their abundant and cheap factors of production and import goods that use their scarce and expensive factors. 
 
 The Heckscher-Ohlin model differs from the Ricardian model in that it focuses on differences in factor endowments rather than technological differences as the source of comparative advantage and trade. The Ricardian model assumes that countries have different relative productivity across industries but the same factor prices, while the Heckscher-Ohlin model assumes the opposite. The Heckscher-Ohlin model also incorporates multiple factors of production rather than the single labor input assumed in the Ricardian model.

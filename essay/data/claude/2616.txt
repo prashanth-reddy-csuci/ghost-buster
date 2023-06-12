@@ -1,5 +1,3 @@
-Here is a 2250 word essay in response to the prompt:
-
 Evolutionary algorithms (EAs) have proven to be a powerful tool in the field of molecular control with short pulse lasers. As optical pulse shapes have become more complex to achieve precise control in complicated physical systems, EAs have enabled researchers to search large parameter spaces to find optimal pulse shapes. 
 
 In molecular control, the goal is to use shaped laser pulses to guide the dynamics of molecules and control their behavior. The laser pulse interacts with the molecule, depositing energy at specific times that can influence how the molecule vibrates, rotates or even undergoes chemical reactions. By carefully crafting the electric field of the laser pulse, scientists can control the motion and reactivity of the molecule. However, determining the correct pulse shape to achieve a desired outcome is challenging due to the complexity of the molecular systems.

@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 Ferrocene is an organometallic compound with the formula Fe(C5H5)2. It consists of two cyclopentadienyl anions (C5H5-) bonded to an iron(II) cation (Fe2+) in the middle. The cyclopentadienyl rings are arranged in a parallel manner on opposite sides of the iron atom. Ferrocene is orange in color and soluble in most organic solvents. 
 
 Ferrocene can undergo a variety of reactions due to the presence of the cyclopentadienyl rings and the iron cation. One common reaction is acetylation, where the rings are acetylated by acetic anhydride to produce diacetylferrocene. The products of this reaction can be separated using thin layer chromatography (TLC) and column chromatography.

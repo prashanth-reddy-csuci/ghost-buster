@@ -1,6 +1,4 @@
-Here is a 1500 word essay on the problem of induction and proposed solutions:
-
- The Problem of Induction
+The Problem of Induction
 
 The problem of induction refers to the philosophical challenge of justifying inductive reasoning—reasoning that makes inferences from observations to broader generalizations. In particular, why should we infer that the future will resemble the past and the unobserved will resemble the observed? Philosophers have grappled with this problem for centuries. 
 

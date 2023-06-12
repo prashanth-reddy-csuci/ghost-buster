@@ -1,5 +1,3 @@
-Here is a 1269 word essay in response to the prompt:
-
 The purpose of the experiment involving a circuit with resistance and inductance connected in series was to observe the effects of inductance and capacitance on alternating current circuits. By constructing circuits with different numbers of coil turns, we were able to see how inductance depends on the number of turns and coil geometry. We also explored how adding a capacitor to the circuit can counteract the effects of an inductor and allow higher frequency signals to pass through.
 
 For the first part of the experiment, we constructed three coils with 50, 100, and 200 turns respectively. When connected to an AC power supply, we measured the voltage drop across each coil and used Ohm's law to calculate the impedance. We found that impedance increased with the number of turns, indicating that inductance is directly proportional to the number of coil turns. The inductance values we calculated for the 50, 100, and 200-turn coils were 0.041 H, 0.164 H, and 0.659 H respectively. These results demonstrate how inductance depends on the physical properties of the coil. 

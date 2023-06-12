@@ -1,5 +1,3 @@
-Here is a draft 5500 word essay in response to the prompt:
-
 Medical technologies have advanced rapidly in recent decades, bringing both promise and peril. Technological capabilities in genetics, in vitro fertilization (IVF), surgery, and critical care have raised a number of ethical questions that challenge how we understand human life and identity.
 
 In genetics, technologies like genome editing using CRISPR allow us to manipulate human DNA with increasing precision. We now have the power to alter human genomes in a targeted fashion, correcting mutations that cause disease. However, genome editing also allows us to enhance human traits beyond medical need, opening the door to "designer babies" optimized for certain desired characteristics. This raises concerns about exacerbating inequality if only the wealthy have access to these enhancements. There are also concerns about unintended effects of genetic manipulation that could be passed on to future generations. How should we ethically navigate this uncharted territory of human enhancement and germline editing? 

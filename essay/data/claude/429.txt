@@ -1,5 +1,3 @@
-Here is a draft 1249 word essay in response to the prompt:
-
 The lifecycle of Bovine Enterovirus (BEV) involves several key steps that allow it to replicate within host cells and produce infectious progeny. BEV is a non-enveloped, single-stranded RNA virus in the Picornaviridae family. Its genome consists of a single open reading frame that encodes a polyprotein which is subsequently cleaved into four structural proteins (VP1-VP4) and seven nonstructural proteins (2A-2C and 3A-3D). 
 
 To begin infection, BEV attaches to specific receptors on the surface of host cells, such as BHK21 cells, which are derived from baby hamster kidney cells. The receptors that BEV attaches to are not definitively known but may include sialic acid-containing glycoproteins and/or integrins. After binding to the appropriate receptors, BEV enters the cells through endocytosis. The low pH inside the endosomes causes a conformational change in the capsid that releases the genomic RNA into the cytoplasm.

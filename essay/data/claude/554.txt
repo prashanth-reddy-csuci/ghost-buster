@@ -1,5 +1,3 @@
-Here is a 250 word essay in response to the prompt:
-
 The two cases discussed in this essay involve a bottleneck analysis at a computer manufacturing facility and a capacity planning analysis at an electric transmission contractor. These cases provide examples of applying production planning and control theories into practical real-world situations.
 
 In the first case,  bottleneck analysis techniques were used to identify constraints at a computer manufacturing facility that was struggling with low throughput and long lead times. By identifying the bottleneck workstation as the speed limiter in the process, the facility was able to make targeted investments to alleviate this constraint. Doing so maximized the output of the system and reduced lead times overall using the theory of constraints. This demonstrates how bottleneck identification and analysis provides a framework for optimizing process flow in a practical production setting.

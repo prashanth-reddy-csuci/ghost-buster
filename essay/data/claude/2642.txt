@@ -1,5 +1,3 @@
-Here is a 762-word essay in response to the prompt:
-
 The experimental procedure used to hydrogenate Methyl Oleate into Methyl Stearate involved the use of a nickel catalyst to facilitate the addition of hydrogen gas to the double bonds of Methyl Oleate. Methyl Oleate, with the chemical formula C19H36O2, is an unsaturated ester compound containing one double bond. Hydrogenation of this double bond resulted in Methyl Stearate, with the chemical formula C19H38O2, which is a saturated ester compound. 
 
 To perform the hydrogenation reaction, a solution of Methyl Oleate dissolved in hexane was prepared with a concentration of 0.1 M. A nickel catalyst was activated by heating it under flowing hydrogen gas for 30 minutes. The Methyl Oleate solution was then transferred to a glass reactor along with the activated nickel catalyst. The reactor was sealed, purged of air, and then pressurized to 30 psi with hydrogen gas. The reaction mixture was stirred and heated to 70°C.

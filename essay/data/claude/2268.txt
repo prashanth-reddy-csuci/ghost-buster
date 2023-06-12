@@ -1,5 +1,3 @@
-Here is a 243-word essay in response to the prompt:
-
 Steel and aluminum alloys exhibit different mechanical properties when subjected to heat treatment processes like quenching, tempering and aging. Quenching is the rapid cooling of a metal to obtain certain mechanical properties like hardness. When steel is quenched from a high temperature, its hardness increases due to the formation of martensite, while its ductility and toughness decrease. Tempering subsequently heats the steel to a lower temperature to restore some ductility and toughness. 
 
 The purpose of tempering steel is to achieve an optimal balance of hardness, ductility and toughness for a given application. For example, a steel gear may be quenched to maximize hardness, then tempered slightly to improve toughness so it does not break in use. The precise tempering temperature depends on the desired properties - higher tempering temperatures decrease hardness but increase ductility and toughness.

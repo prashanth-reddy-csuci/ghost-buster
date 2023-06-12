@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 The classic two-slit experiment with photons has been expanded into modern variants that further probe the mysteries of quantum mechanics. In delayed-choice experiments, researchers manipulate the experimental setup after photons have passed through the slits to determine whether they behaved as particles or waves. Even after photons have traveled through space, their behavior depends on measurements made at the end. This suggests that quantum objects do not have defined properties independent of measurement.  
 
 The two-slit experiment shows that photons can exhibit wave-like interference, even when fired one at a time. This counterintuitive behavior implies that single photons pass through both slits simultaneously and interfere with themselves. In the Copenhagen interpretation, photons exist in a superposition of states until measured. The act of measurement causes the superposition to collapse into a definite state. Other interpretations like the de Broglie–Bohm theory suggest that photons have definite particle trajectories but are guided by a wavefunction.

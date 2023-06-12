@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 There are several techniques used to study the microstructure of materials at the crystal level. These methods allow scientists to analyze the properties of crystals and understand their microscopic structure and behaviour.
 
 One common method is X-ray diffraction. X-ray beams are directed at a crystal sample and the pattern of diffracted X-rays is measured. By analyzing the angles and intensities of the diffracted beams, the structure of the crystal lattice can be determined, including lattice parameters, symmetry, and atomic positions. X-ray diffraction is useful for studying the long-range order and periodicity of crystal structures. 

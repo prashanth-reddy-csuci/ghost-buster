@@ -1,5 +1,3 @@
-Here is a draft 750-word essay in response to the prompt:
-
 The aim of this assignment is to design the most cost-effective waste heat recovery system by determining the optimal size of the heat exchanger, fin geometry, and overall system configuration. To achieve this aim, I would undergo the following process:
 
 First, I would determine the amount of waste heat available for recovery in the system. This will depend on factors like the temperature of the waste heat stream, the mass flow rate of the stream, and the specific heat of the stream. With this information, the total amount of recoverable energy in the waste heat stream can be calculated.

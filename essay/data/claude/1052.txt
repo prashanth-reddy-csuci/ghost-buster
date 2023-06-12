@@ -1,5 +1,3 @@
-Here is a 756 word essay in response to the prompt:
-
 The objective of financial statements is to provide information about a company's financial performance and position to a wide range of investors and stakeholders. They contain key metrics that can be analyzed to determine a company's economic health and make better investment decisions. 
 
 Valuation models, like the discounted cash flow model, allow investors to evaluate the usefulness of accounting practices in financial statements. These models convert future cash flows into a present value, which aids in determining a firm's intrinsic value and whether it is over or undervalued. If accounting practices do not accurately reflect a company's financial reality, its valuation and stock price may be misleading.

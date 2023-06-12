@@ -1,5 +1,3 @@
-Here is a 3250-word essay in response to the prompt:
-
 Can Induction Be Justified as an Acceptable Scientific Principle?
 
 Induction refers to the process of drawing general conclusions from specific observations and experiences. In science, induction is the methodology by which scientists develop hypotheses and theories to explain the natural world. Induction involves observing the world, noticing patterns and regularities, and inferring general principles that could explain those patterns. For example, after observing many white swans, a scientist may induce the general principle that “all swans are white.”  

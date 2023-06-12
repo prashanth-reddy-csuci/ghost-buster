@@ -1,5 +1,3 @@
-Here is a 987 word essay in response to the prompt:
-
 There are several major online databases that are useful for research in chemistry, including Beilstein, Web of Knowledge, and SciFinder. Each has its own advantages and disadvantages for different types of chemical searches and research applications. 
 
 Beilstein is one of the most comprehensive databases for organic chemistry. It contains over 9 million organic compounds and over 70 million properties and reactions. The depth of coverage on organic chemistry makes Beilstein an excellent resource for an exhaustive search on a particular organic compound or reaction. However, the focus on organic chemistry means the database lacks good coverage of inorganic compounds, metals, or materials. The interface can also be challenging to navigate with many options and capabilities that have a steep learning curve. For most routine searches, the complexity of Beilstein may be overkill.  

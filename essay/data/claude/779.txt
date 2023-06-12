@@ -1,5 +1,3 @@
-Here is a 249 word essay in response to the prompt:
-
 The focus of this material selection report is choosing an appropriate material for a bicycle crank arm. The use of the Cambridge Engineering Selector aids in this decision-making process by providing key information on material properties that guide the selection. 
 
 In Part 1 of the report, the key design criteria for a bicycle crank arm are identified including strength, stiffness, density, corrosion resistance, and cost. The Cambridge Engineering Selector is used to filter through a database of over 4,000 engineering materials according to these criteria. This results in a shortlist of four feasible options: aluminum alloys, titanium alloys, magnesium alloys, and fiber-reinforced plastics. By inputting numerical values for the desired properties, the Selector identifies materials that meet all minimum requirements. 

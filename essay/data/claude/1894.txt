@@ -1,5 +1,3 @@
-Here is a 755 word essay in response to the prompt:
-
 The viscosity of a fluid refers to its resistance to flow. Some fluids have a viscosity that remains constant as the flow rate or shear stress changes. These are known as Newtonian fluids. Other fluids, known as non-Newtonian fluids, have a viscosity that changes with the flow rate. Three common fluids—evaporated milk, tomato soup, and custard—demonstrate different viscosity properties.  
 
 Evaporated milk is a Newtonian fluid. Its viscosity remains largely unchanged as the flow rate increases or decreases. At low flow rates or shear stresses, the evaporated milk flows smoothly. As the flow rate increases, the viscosity remains the same. The milk continues to flow smoothly at a rate proportional to the applied shear stress. When the flow rate decreases again, the viscosity does not change. The evaporated milk maintains consistent viscosity across different flow regimes.

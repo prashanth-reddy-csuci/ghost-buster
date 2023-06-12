@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 Living radical polymerization using alkyl bromide initiators and copper(I) catalysts with different ligands allows for the synthesis of a wide range of polymers with defined molecular weights and architectures. This process, known as atom transfer radical polymerization (ATRP), involves the equilibrium between dormant and active propagating species to control the rate of polymerization. 
 
 ATRP begins with the reduction of copper(II) to copper(I), which acts as the catalyst. An alkyl bromide initiator, such as ethyl 2-bromoisobutyrate, decomposes to form an alkyl radical and copper(II) bromide. The alkyl radical then adds to a monomer, such as styrene, to begin chain propagation. However, the copper(II) bromide can reoxidize the propagating radical to reform the alkyl bromide species. This results in an equilibrium between the dormant alkyl bromide species and the active propagating radicals.

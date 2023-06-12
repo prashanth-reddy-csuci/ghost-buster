@@ -1,105 +1,17 @@
-The word voice refers to two different aspects of pronunciation. Phonetically, it describes the state of vibration of the vocal folds during articulation; phonologically, as voiced and voiceless or unvoiced, it describes the distinction between the pairs of obstruents /
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Thesetwo definitions, however, are frequently confused or combined. A handbook for teaching pronunciation is typical of much the information intended to illuminate English teachers:
-Another best-selling pronunciation course explains how to produce /d/: "First practice t. Use your voice to make d."
-For many English teachers, this is the furthest extent of their knowledge on the issue, and one, in my experience, that fails to address the needs of learners with have difficulty producing or hearing, for example, /f/ and /v/ or /
-
- and /
-
-. That the vibration of the larynx, or lack of it, suggested by the terminology voiced and voiceless is the distinguishing characteristic of the pairs of obstruents, is the basis of the inadequacy. In this assignment I shall examine the true role of the larynx (voice) in the production of the obstruents, and the productive and perceptual features of the voiced/ voiceless contrast.
-So what is the role of the voice in the production of the obstruents? In the voiceless series, it can be said that these sounds are truly voiceless - that is, the vocal folds are in the normal breathing position and not in a state of vibration.
-Regarding the voiced series, Catford (1977) writes: " It has long been known since Sweet (1877) that in certain phonetic contexts the so-called 'voiced' stops and fricatives of English exhibit little or no actual vocal-fold vibration". Davidsen-Nielsen (1969) in his study of British and American production of /b d g/, found that in initial position, these consonants were voiceless in nearly 50% of the American sample, and in 100% of the British. Between vowels, where one would most expect voicing due to the influence of the adjoining vowels, while the Americans produced 100% voicing, the British sample carried the vowel voicing through to the consonant only a quarter of the time. In final stops, any voicing is finished before the release.
-To refer to the voiced series as phonetically voiced is therefore clearly incomplete, as vibration of the vocal fold may be present or completely absent during the actual production of the supposed voiced phoneme, and we need to look elsewhere to identify any defining quality or qualities.
-In order to describe more accurately the pairs of contrasting obstruents, the words fortis and lenis are often used as terms instead of voiced and voiceless. Fortis (forceful) consonants have been considered to be articulated with more energy than lenis (gentle) sounds. This question of 'force' is considered below.
-In this assignment, to avoid ambiguity, I will use the terms fortis and lenis to refer to the phonemic pairs in English obstruent sounds, embracing all the phonetic features that they display, and voice and voicing to refer to the specific phonetic feature of vocal fold vibration.
-Since voice plays a variable role in lenis consonants and is frequently absent with no effect on perception, how do we define the difference between fortis and lenis? What aspects of sound production result in a listener hearing /b/ and not /p/? The answer varies according to the position and environment of the consonant.
-In final lenis plosives, there is little or no voicing, and when there is it is at the beginning of the compression phase, and any plosion is often weak or inaudiable. An important perceptual factor appears to be the effect of the final consonant on the preceding segment. Chen (1970) found that a final fortis reduced the length of the preceding vowel by an average of 39%: enough to create a clear perceptual difference:
-So the /
-in /
-
-/ is shorter than the one in /
-
-/, and, even more noticeably in long vowels, the / 
-/ in /
-
-
-/ is considerably shorter than in / 
-
-
-/. This clipping is also evident when the final is preceded by a consonant, so we find that / 
-
-
-
-
-
-
-/ + final fortis, as in built , has a shorter pre-final compared to a lenis-final word, such as build.
-Raphael asserts that clipping is the primary cue:
-Others have challenged this, adding that voice duration, silent closure duration and plosion/ frication duration can also play a role (Hillenbrand et al, 1984; Hogan and Rozsypal 1980), with vowel duration bearing more weight when the vowel is a long phoneme, and before a fricative or stop/fricative cluster. More recently, Fischer and Ohde (1990) have investigated the role of the sound frequency made by the final voicing, the Voice Offset Frequency, which is lower for lenis consonants.
-In addition to the factors described above, a number of other bases for the fortis/lenis contrast have been advanced. Most of these come under the category of 'force of articulation', which can constitute intraoral pressure (Davidsen-Nielsen, 1969), tenseness of the lip muscles (Harris, K.S., Gay, T., Sholes, G.N. and Lieberman, P., 1968, cited in Catford, 1977) or energy of articulation - the pressure exerted by the articulators against each other (McGlone and Proffit, 1967; Luker and Parris 1970). As mentioned above, vocal fold vibration may reduce the volume of air reaching the oral articulators, and the prolonged closure of a fortis stop may result in greater pressure building up before release. These studies, however, have been largely inconclusive regarding their role in defining fortis and lenis in English, and if 'force' plays a part in the perception of the two series, it is a minor one, in combination with other cues.
-While the lenis/ fortis opposition cannot be said to be truly voiced or voiceless in English, it is true to say that voicing, and the various effects of voicing in the environment of the obstruent is the principal basis of this distinction. In a lenis obstruent, while the consonant itself may or may not be voiced, there is greater voicing in the environment of the consonant - the voicing is 'closer', and this is manifested and perceived in a variety of ways. In a final fortis, there is more [-voice] time due to the clipping of the previous voiced segment and the consequent lengthening of the voiceless closure time and the more 'forceful' plosion or longer the frication. In initial position, the delay in the onset of voicing in the vowel following a fortis produces the characteristic voiceless aspiration. Most of the apparently disparate phenomena of the fortis/lenis contrast, therefore, can be ascribed to actions or by-products of voicing, which is increased for lenis, and decreased for fortis. We can summarize by saying that the one unifying feature of the contrast is the voice, although it appears in various forms. In this respect, using the terms voiced and voiceless is arguably the closest we can come to a single unifying feature, although as a complete description it is inadequate.
-To use the description voiced and voiceless is adequate only in as far as i) voice plays a role in the distinction and ii) these terms are widely used and understood. In a teaching situation, however, where a learner is experiencing difficulty between two sounds where the only distinction is [+/- fortis], it is misleading to describe the difference in terms of [+/- voice], when it may be far more productive to draw attention to, for example, aspiration and clipping as distinctive features of English fortis, or to reassure them that the clusters /sp st sk/ are, in effect, no different from /sb sd sg/.
-It can be said that there is no single discrete productive or perceptive feature that will predict whether a sound falls into what we feel to be the discrete categories of fortis or lenis, but rather we can think of various phonological features acting on multiple continua which the listener uses to reach a decision about the category of fortis or lenis:
-The voiced/voiceless question is an important reminder that a speech sound, like other forms of perception, is a complex array of various and variable fragments of information which combine to produce an apparently simple, singular and unified identity in the mind of the listener, and that a description such as voiced/ voiceless or lenis/fortis is necessarily a convenient over-simplification.
+For decades, scientists have attempted to teach chimpanzees language and have successfully been able to impart the manipulation of signs. Is it correct to assume that this manipulation means that chimpanzees actually have language? This paper attempts to answer this question.
+For this discussion, the characteristics of language; duality, displacement, open-endedness and stimulus freedom as described by Trask (2004) will be used for definitional purposes. Three famous cases of chimpanzees using signs including Washoe (American Sign Language), Sarah (manipulation of plastic tokens representing words) and Lana (manipulation of a computer keyboard, each key's symbol denoting a word) will be reviewed.
+Duality of language highlights the way in which elements and segments of language are combined to form words, expressions and phrases. As discussed by Jean Aitchison (1998), all three chimpanzees possessed creativity, displacement and semanticity, which are all requisite elements of duality. These chimpanzees were able to put signs together effectively and communicate using grammatically acceptable human language, highlighting that they do have grasp of this language function.
+The ability to talk about events outside of the present moment including things that are not seen, is what Trask describes as displacement. On one occasion, Lana's trainer had not done a routinely action and she requested that "TIM PUT MILK IN MACHINE" (Aitchison, 1998). This demand shows a definite grasp of displacement. Similar evidence illustrates Washoe and Sarah saying comparable utterances proving that chimpanzees do also have displacement.
+Trask describes open-endedness as creativity. It deals with the way in which language is used to communicate new ideas. In relation to chimpanzees, it determines how well they understand speech and produce language that they have never heard before. Stimulus freedom is the ability and the possibility to creatively use speech in any setting. All three chimpanzees were creative in using language to communicate new ideas. For example Washoe, when out walking, signed the word "water-bird" to express the unknown word 'Swan'. Likewise, the other chimpanzees had such creativity and were able to produce new words to convey what they wanted. In essence, this highlights stimulus freedom and the idea that the chimpanzees have the ability of open-endedness.
+It would appear that chimps can grasp language skills with obvious limitations. Initially, chimpanzee and child language acquisition are equipotential, but the level of chimp language does not mature in such a way to mirror a child's acquisition. Though the three chimpanzees can communicate, there are various flaws in their language, such as the lack of preservation of syntax structure and inconsistency in meaning. This is something that children do initially but grasp after a while - these chimpanzees did not. Critics of Chimpanzee language suggest that what they possess is more a skill to imitate and chose the correct answer, than language. This is used especially against chimpanzees like Sarah and Lana who were taught through a token system
+It would appear therefore that chimpanzees do seem to grasp many of the features of language, however they lack development comparable to human standards. They do seem to be able to cope with language and possess it with the degree and complexity that humans can.
+It is widely recognised that language is an innate process that all children, given the right environment will acquire. This is true of all forms of language - sign as well as spoken. This phenomenon of innate language acquisition is what Chomsky describes as a Language Acquisition Device (LAD). In essence he is of the belief that children hold some sort of Universal Grammar that predisposes them to acquiring the grammar of any language. Experiments carried out by Klaus Wagner (1985 cited in Garman, 2005: A6 ) have shown that by schooling age, children can already produce as many as 37,700 words in a twelve-hour period. This speech would not have been taught to children formally, they would have acquired it naturally.
+Despite the fact that children learn to speak with no teaching, the skills of reading and writing need instruction and prove to be quite difficult. When children reach school, they are required to have a metalinguistic awareness and understanding of the language. This ability demands that they think about language, its uses and the rules that govern it, in order to read and write. We know that this is no easy task as evident by the number of adults who speak fluently, yet are illiterate or suffer from dyslexia.
+The process of reading is a far more difficult one than that of speech, since it requests a decent grasp and concept of language for its execution. A child who is learning to read must first master the alphabetic system, not only seeing the letters but understand the significance of each, its sounds and when clumped together, its syllable pronunciation. Once they are able to do this, they can then slowly begin putting words together to read. Despite the fact that not all writing styles are based on the modern Roman alphabet, children learning to read in all writing systems will face equal challenges. The process of reading is ongoing, and as Foster-Cohen (1999: 181) points out, 'learning to read does not happen on an automatic genetic schedule, unlike learning to use spoken (or signed language)'.
+Research into children's reading and writing has found that children are often able to spell words that they cannot read. The explanation for this is that reproduction of any word is generally harder than reading it (Bryant &amp; Bradley, 1985). Nonetheless, writing requires the same cognitive demands as reading, since they are faced with the same irregular spellings. Kroll (1981, cited in Foster-Cohen, 1999: 182) purports several stages of writing development through which children must pass in its acquisition. He points out that children's ability to write is primarily physiologically based. A child must perfect their fine motor skills in order to manipulate a pencil to produce letters. Furthermore a child will only develop their writing skills after many years of practice and this runs somewhat parallel to the development of their speech and vocabulary.
+From this discussion, we see that speech indeed does not need to be taught, but the intricate tasks of reading and writing do need some kind of instruction. This of course can only occur when the child has begun to acquire a significant amount of language and understanding.
+From years of study, neurolinguists have been able to map the organisation of language in the brain and identify that for most people, it is located in the left hemisphere. Though knowledge of the organisation is interesting, this paper aims to see if there is a necessity of such an understanding for the study of language.
+Among the various tests that can be done to understand language organisation are Wada's 1940 'sodium amytal' test, and the use of electroencephalographs (EEG). Both are able to identify the areas of the brain that are active in the production of speech. Usage of such tests occurs in cases of severe epilepsy when surgeons need to ascertain where the patient's language is localised. Through these studies, the evidence indicates that the same hemisphere controls speech and handedness. Furthermore, when this is not so, some language difficulties may persist in children, such as poor writing and speech. (Aitchison 1998: 55).
+The hemisphere that houses Broca's area, which controls grammatical words and vocabulary, as well as Wernicke's areas of the brain, which deals with comprehension, are said to be the dominant side and the hemisphere for language. However, 'split brain' patients attest to the inaccuracy of this idea. With two separate brains, simple tests done on patients have identified that the non-dominant hemisphere is not devoid of language and is able to cope with some linguistic tasks. Among the skills are naming objects visually presented, reading logographs, non-linguistics sounds and voice recognition (Garman, 2005). This evidence is in support of the idea that the non-dominant hemisphere also has language and a stored supply of speech with the potential to activate it post-hemispherectomy (Kinsbourne 1975 as cited in Aitchison 1998). In addition to this, Task (2004) points out that despite Wernicke's area being active in acquiring language, its store may be in the non-dominant hemisphere.
+The understanding of lateralization of the brain may also shed some light on the study of language. The critical age hypothesis for language purports that when children reach puberty, language is typically lateralized into the left hemisphere. The brain after this point loses a lot of its flexibility and language skills such as language learning and acquisition are said to be more difficult (Aitchison, 1998; Crystal, 2005; Foster-Cohen, 1999; Lightbrown &amp; Spada 2000). Evidence to support the idea of flexibility with a young brain is found in cases such as 1970's 'Genie', and nineteenth century feral child 'Victor' who were only exposed to language around puberty. Both of them had difficulties in acquiring language at this late stage and never fully developed normal speech. These cases would suggest that a critical period exists. The age at which people learn foreign languages is also significant to the 'critical period'. Findings show that younger children are more apt to learning a second language than adults. Finally, cases in which children and adults suffer neurological accidents resulting in the loss of speech, children are usually able to regain their speech unlike adults. The implication is that the adult brain may have passed a critical stage needed to adapt (Trask, 2005).
+From the topics discussed, it is clear that a full understanding of the brain and its organisation is lacking, nonetheless, the understanding that we do have is indeed contributory to explaining how the structure of the brain controls production, understanding and acquisition of language.

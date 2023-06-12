@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 Determining the rate law and activation energy of a chemical reaction allows scientists to understand the factors that influence how fast a reaction proceeds. There are several methods used to determine this information.
 
 The rate law shows the mathematical dependence of the reaction rate on the concentrations of reactants. It is determined experimentally by conducting the reaction with different initial concentrations of reactants and measuring the initial reaction rate each time. For example, for the reaction A + 2B → C, the rate law may be rate = k[A][B]2, where k is the rate constant.  This means the reaction rate depends on the concentrations of both A and B, with a second-order dependence on B. The rate law is determined by plotting the concentration of a reactant versus the initial reaction rate, with the slope of the line equal to the order of dependence on that reactant.  

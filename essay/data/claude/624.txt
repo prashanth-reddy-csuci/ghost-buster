@@ -1,5 +1,3 @@
-Here is a draft 1000 word essay in response to the prompt:
-
 Qualitative methods offer several advantages for psychological research. They allow researchers to gain an in-depth understanding of complex phenomena, explore topics that are difficult to study quantitatively, and examine how people make meaning of their experiences. However, qualitative methods require careful implementation to yield trustworthy and valuable results. 
 
 One key advantage of qualitative methods is that they facilitate an in-depth, nuanced exploration of complex topics. While quantitative surveys and experiments often rely on close-ended questions and numeric data, qualitative interviews and observations generate rich, descriptive data in the participants’ own words. This allows researchers to develop a multifaceted understanding of psychological constructs, behaviors, and experiences. For example, a qualitative study exploring the experience of PTSD in combat veterans may yield a far more detailed understanding of their symptoms, coping strategies, and recovery process than could be gained from a quantitative scale or questionnaire.

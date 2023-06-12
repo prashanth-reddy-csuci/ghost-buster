@@ -1,5 +1,3 @@
-Here is a 467-word essay in response to the prompt:
-
 To identify an unknown radioactive source, we can measure its gamma-ray energy spectrum using a sodium iodide scintillator crystal attached to a photomultiplier tube. The analog electrical signals from the photomultiplier tube are converted to digital signals and their counts are sorted by energy level using a multi-channel analyzer. The resulting gamma-ray energy spectrum has characteristic peaks that can be used to identify the radioactive source.
 
 For this experiment, we obtained sealed vials containing  unknown radioactive sources and recorded a background energy spectrum with no source present. We then placed source vial #1 in the scintillator and recorded its energy spectrum. The spectrum showed a prominent peak at 662 keV, indicating the presence of 137Cs with its primary gamma emission at 662 keV. There were also smaller peaks at 32 keV and 36 keV for the low-energy gamma and x-ray emissions from 137Cs.

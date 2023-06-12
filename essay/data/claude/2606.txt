@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 The apparatus used in the experiment consisted of an aerovane to measure wind speed and direction, two cup anemometers at different heights to measure wind speed, and two thermocouples also at different heights to measure air temperature. Before the intensive observation period, calibration of the anemometers and thermocouples was done using a constant speed fan and a NIST-certified mercury thermometer.  
 
 During the experiment, readings of wind speed, wind direction, and air temperature were taken every half hour. Wind speed was measured using the two cup anemometers at heights of 2 m and 10 m, which had been calibrated to a measurement accuracy of 0.1 m/s. The measurements appeared reasonably accurate based on the calibration, with some minor variability observed during periods of higher turbulence.

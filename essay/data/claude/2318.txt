@@ -1,5 +1,3 @@
-Here is a 1000 word essay on solar flares and their effects on Earth:
-
 Solar flares are giant explosions in the sun's atmosphere. They are caused by sudden magnetic activities that release huge amounts of energy. The released energy mostly comprises high energy particles and electromagnetic radiation. When the earth is in the path of a solar flare's energy release, it can have significant effects on our planet.
 
 One of the major effects of solar flares is interference with radio communications on Earth. The electromagnetic radiation from solar flares can disrupt radio signals that travel through the atmosphere. This can jam radio communications over certain frequency bands for durations that correspond to the intensity of the solar flare. Navigation systems that rely on radio signals, like GPS, can also be temporarily disrupted. These radio blackouts from solar flares usually only last a few minutes to a couple hours but can impact services like emergency response communications, air traffic control operations, and mobile phones.

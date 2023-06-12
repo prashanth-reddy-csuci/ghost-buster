@@ -1,5 +1,3 @@
-Here is a draft 751 word essay in response to the prompt:
-
 Determining the coefficient of friction between two materials requires carefully controlling potential sources of error and ensuring an accurate experimental setup. To find the coefficient of friction between a brass pin and a moving steel surface, the following methods could be employed:
 
 A common approach is the inclined plane method. A block with a pin inserted is placed on a ramp at an initial angle. The angle of the ramp is slowly increased until the block starts sliding down. The angle at which sliding begins is measured. This angle corresponds to the coefficient of friction between the pin and surface according to the equation: μ=tanθ, where μ is the coefficient of friction and θ is the angle of the incline.   

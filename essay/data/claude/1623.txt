@@ -1,5 +1,3 @@
-Here is a 969-word essay in response to the prompt:
-
 To develop a "school scientific" application that computes matrix multiplication and solves linear equations, we utilized several technologies and concepts related to high performance computing. We leveraged C programming to implement sequential and parallel algorithms and the Message Passing Interface (MPI) to parallelize code across multiple processors. 
 
 For matrix multiplication, we implemented a basic O(n3) algorithm in C that iterates over the elements of the input matrices to compute the product matrix. To optimize this, we used blocking, where we divided the matrices into smaller blocks and multiplied those blocks together before summing the results. This optimization takes advantage of faster access to elements within the same memory block.

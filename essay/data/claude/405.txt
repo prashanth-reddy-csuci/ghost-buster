@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 The case concerning the retention of fingerprints, DNA samples and DNA profiles under s64(1A) of the Police and Criminal Evidence (PACE) Act 1984 focused on whether such retention was compatible with Articles 8 and 14 of the European Convention on Human Rights. The main issue was whether the indefinite retention of such private information violated the right to respect for private and family life under Article 8, especially for individuals who were subsequently acquitted.
 
 The majority of the court found that the retention engaged Article 8(1) as it concerned private information about one's identity. However, they argued that such retention pursued the legitimate aims of "the detection, investigation and prosecution of criminal offences" under Article 8(2). They cited the utility of fingerprints and DNA in identifying suspects, securing convictions and exonerating the innocent. As long as sufficient safeguards were in place to ensure that the materials were only used for legal and policing purposes, the benefits outweighed the costs to privacy. 

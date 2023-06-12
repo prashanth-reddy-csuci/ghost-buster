@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 Oximeters are devices that use infrared light to monitor a patient's oxygen saturation levels as well as pulse rate. They are useful tools within a medical environment for continuous monitoring and assessing a patient's respiratory status. However, there are both advantages and limitations to using oximeters.
 
 The main advantage of oximeters is that they provide real-time, non-invasive monitoring of a patient's oxygen levels and pulse rate. This allows medical staff to quickly detect any changes or drops in oxygen saturation that may require medical intervention. Oximeters are also very portable, allowing for both spot-checking and continuous monitoring as patients move around the medical facility. They are easy to use with minimal training required to obtain readings and do not require calibration like some other medical devices.

@@ -1,5 +1,3 @@
-Here is a draft essay in 747 words:
-
 Self-organised criticality can be applied to model future predictions of natural disasters such as forest fires. The basic idea of self-organized criticality  is that complex systems with many components spontaneously organize themselves  into a critical state without the need for fine-tuning. In this critical state, events of all sizes can occur, and their distributions follow a power law. 
 
 A simplified model that demonstrates how a forest fire can be a self-organised critical system is the sandpile model. In this model, grains of sand are added slowly to a pile, and when the slope at some point becomes too steep, there is an avalanche that redistributes the sand. The size distribution of avalanches follows a power law, reflecting that there is no characteristic scale for the avalanches. The model ignores many technical details of real sandpiles and real forest ecosystems, but it captures their essence as complex systems with interactions at many scales.

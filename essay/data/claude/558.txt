@@ -1,5 +1,3 @@
-Here is a 500-word essay in response to the prompt:
-
 DNA melting curve refers to the process of DNA double-stranded helix unwinding and separating into single strands upon heating. As the temperature increases, the double-stranded DNA begins to unzip or melt apart, subsequently reducing the number of base pairs held together by hydrogen bonds. The melting temperature or Tm corresponds  to the temperature at which half of the DNA double strands have separated into single strands. 
 
 The melting curve depends on several factors, including DNA sequence, salt concentration, and pH. The steeper the slope of the melting curve, the more cooperative the helix-to-coil transition is. By measuring the melting curve of DNA, one can gain insights into the thermodynamics of the helix-to-coil transition. Specifically, the Van't Hoff transition enthalpy (ΔH), change in entropy (ΔS), and Gibbs free energy (ΔG) can be determined.

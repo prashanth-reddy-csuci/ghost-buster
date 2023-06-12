@@ -1,5 +1,3 @@
-Here is a 501 word essay in response to the prompt:
-
 Several factors influence the geometries of transition metal complexes. The primary factors are the electronic configurations of the metal ion and the ligands, steric effects, and minimization of ligand-ligand repulsions. 
 
 The d-orbital occupancy of the metal ion influences its preferred geometry. Metal ions with high d-orbital occupancy, especially d5 and d10 ions, tend to adopt symmetrical geometries that maximize ligand-metal bonding, such as octahedral or square planar. However, as the d-orbital occupancy decreases, the geometry often becomes distorted or less symmetrical to allow for stronger metal-ligand bonding. For example, tetrahedral or square planar geometries are common for d6 or d8 transition metals where there are fewer d-electrons available for metal-ligand bonding.

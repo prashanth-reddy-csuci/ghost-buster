@@ -1,5 +1,3 @@
-Here is a 1244 word essay in response to the prompt:
-
 Methods for Enumerating Bacteria in Foodstuffs
 
 There are several methods used for enumerating bacteria in foodstuffs. The two most common methods are the spread plate method and the pour plate method. These methods involve diluting a sample, spreading it on agar media, incubating, and then counting the colonies that form. They provide a measure of the total numbers of viable bacteria in a sample. Other methods detect specific groups of bacteria, such as Enterobacteriaceae and coliforms. These methods vary in their precision and accuracy as well as in their advantages and disadvantages.

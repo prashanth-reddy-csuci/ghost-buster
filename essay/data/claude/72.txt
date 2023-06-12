@@ -1,5 +1,3 @@
-Here is a draft 750-word essay in response to the prompt:
-
 The process of designing and analyzing a reduction gearbox for a commercial meat slicer requires careful consideration of many factors to ensure the gearbox operates efficiently and reliably. Several calculations were performed to determine optimal gear ratios, sizes, shafts, and bearings for the application.
 
 To start, the intended operation and specifications of the meat slicer were analyzed to understand the required input and output speeds, as well as the amount of torque needed to power the slicer blades. Based on this information, a preliminary gear ratio was selected to reduce the high input speed from the motor to a slower output speed for the slicer blades. The gear ratio affects the torque and speed of the system, so multiple ratios were tested in a computer simulation program to compare performance. However, an issue arose with the simulation in that it did not accurately model friction and heat generation within the gearbox, leading to selection of a ratio that was ultimately too high.

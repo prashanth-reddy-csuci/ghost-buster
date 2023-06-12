@@ -1,5 +1,3 @@
-Here is a draft 1496 word essay in response to the prompt:
-
 Maternal effect genes are maternally expressed genes that contribute to early embryonic development. In the nematode C. elegans, maternal effect genes are essential for establishing the axes of the embryo and directing asymmetric cell divisions that give rise to cell fates. Several key maternal effect genes in C. elegans include the PAR proteins, MEX-5 and MEX-6, and SKN-1.
 
 When the C. elegans zygote is first formed, it contains maternal factors deposited in the oocyte by the mother. These maternal factors include mRNAs and proteins that are asymmetrically distributed in the egg and early embryo. The asymmetric distribution of these maternal factors determines the anterior-posterior axis, dorso-ventral axis, and left-right axis of the developing embryo before zygotic transcription commences.

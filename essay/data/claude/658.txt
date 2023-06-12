@@ -1,5 +1,3 @@
-Here is a 500 word essay response to the prompt:
-
 The aims of the haemagglutination and haemagglutination inhibition assay are to identify viruses by detecting the presence or absence of antibodies against a virus in a blood sample. The haemagglutination assay detects the ability of viruses to agglutinate red blood cells, indicating the presence of a virus. The haemagglutination inhibition assay detects the ability of antibodies to inhibit the agglutination of red blood cells by a virus, indicating a previous exposure to that virus.
 
 In the haemagglutination assay, viruses that can agglutinate red blood cells, such as influenza viruses and others, are used to detect their presence in a sample. The viruses are diluted in a serial dilution and mixed with a standardized amount of red blood cells. If haemagglutination occurs at a specific dilution, this confirms the presence of the virus in the original sample. The highest dilution at which agglutination occurs is the haemagglutination titre, which quantifies the amount of virus present. 

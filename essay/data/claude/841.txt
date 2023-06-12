@@ -1,5 +1,3 @@
-Here is a 245 word essay in response to the prompt:
-
 Computational methods can significantly improve the time frame for development of hip replacements in several ways:
 
 First, computer simulations and modeling can be used to rapidly test and iterate different hip replacement designs. Researchers can input specifications for a new design and then simulate how it might perform once implanted in a patient. They can assess factors like range of motion, stress on the implant, and longevity. Designs that don't meet key criteria can quickly be discarded while promising designs can be identified for further testing. This allows researchers to go through many more design iterations and optimize a hip implant in a computer before ever needing to manufacture and physically test samples.

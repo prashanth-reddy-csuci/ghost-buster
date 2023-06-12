@@ -1,5 +1,3 @@
-Here is a 493 word essay in response to the prompt:
-
 The shape of pixels used to represent an image has a significant effect on the image's appearance at low resolution. When an image is displayed at a low resolution, there are fewer pixels to convey details and shapes in the image. The pixel itself takes on more significance in determining how shapes and edges are rendered.  
 
 Square pixels are the most common shape used to display digital images. With square pixels, images at low resolution can appear blocky, with hard edges and abrupt transitions between color blocks. The straight edges and corners of squares do not gracefully capture curves and diagonals. This can make objects and shapes in the image appear unnatural.

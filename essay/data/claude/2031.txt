@@ -1,5 +1,3 @@
-Here is a draft 501-word essay response to the prompt:
-
 The experiment aimed to determine fundamental kinetic parameters of the enzyme fumarase, which catalyzes the reversible hydration of fumarate to L-malate. Initial  velocity, maximal velocity (Vmax), and the Michaelis constant (Km) were measured to assess the kinetics of the fumarase-catalyzed reaction. These parameters reflect the catalytic capacity of fumarase under the given conditions and provide insight into factors that may limit reaction rate.  
 
 In the experiment, the reaction rate was measured over a range of substrate concentrations to generate a Michaelis-Menten kinetic plot. The initial velocity, V0, was calculated from the slope of the curve at low substrate concentrations. Vmax represents the maximal reaction rate achieved, and Km indicates the substrate concentration at 1⁄2 Vmax, reflecting substrate binding affinity. A high Km suggests weaker substrate binding, while a low Km indicates tighter binding.   

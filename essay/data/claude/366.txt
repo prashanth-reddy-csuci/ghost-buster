@@ -1,5 +1,3 @@
-Here is a draft 750 word essay in response to the prompt:
-
 The formation of the vertebrate limb involves the coordinated activity of several signaling centers and proteins to establish the three axes: the proximal-distal axis, anterior-posterior axis, and dorsal-ventral axis. These signaling centers communicate with each other to create the proper spatial organization of the limb.
 
 The proximal-distal axis is established early in development by the apical ectodermal ridge (AER), a thickened epithelium located at the distal tip of the limb bud. The AER secretes fibroblast growth factors (FGFs) that stimulate the proliferation of cells in the underlying mesoderm, causing the limb to grow outward from the body. At the same time, a progress zone located just below the AER helps determine the number and identity of digits that will form in the autopod. The progress zone works by interpreting FGF signals to establish the correct spatial organization of digits.

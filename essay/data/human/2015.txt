@@ -1,18 +1,23 @@
-Using official statistics the following project attempts to determine establish of wheat, barley and rice for the year 2000.
-From the data it is clear that the area and yield of wheat harvested in the UK in 2000 was larger than the area and yield of barley harvested. The UK may produce more wheat than Barley due to more products in our modern diets having a wheat basis, for example cereal foods, biscuits, pasta. UK climatic features may also influence the yields produced.
-The above data shows that wheat was imported in the largest quantities, followed by rice. Taking into account UK production levels, this suggests that wheat is in higher demand than Barley and perhaps rice (although no data exists for UK production of rice) as the volume produced and imported is much higher.
-The six main exporters of these products overall appear to be North and Central America, France, Europe, Oceania, Australia and Canada. The majority of these countries were well economically established in 2000, therefore had the facilities and technology to aid mass production and exportation. They also have the appropriate climate needed to produce wheat, barley and rice.
-There is no official data stating the average UK consumption per head of wheat, barley and rice.
-However, there is data available on the consumption of breakfast cereals, buns, scones, cakes, biscuits and fresh pastries, all of which to a certain extent are produced from wheat or barley.
-Patterns in consumption of these food products have evolved over time. People in today's world are turning towards ready meals and pre-prepared products because they fit in with the modern lifestyle:
-Improved education systems and increased affluence in this day and age
-means more people can afford to study at university
-therefore an increasing number are taking on high-powered jobs.
-Career paths mean increased salaries
-but often involve long hours
-so more and more people are making use of convenience foods such as ready meals that need minimal preparation.
-They do not have the time to prepare their own dinners and can afford this luxury.
-These evolving lifestyles explain the following patterns in consumer behaviour:
-Between 1975 and 2000 purchases of flour fell by 65%, purchases of cake mixes also fell. Many people no longer have the time to make cakes, and with the increase in convenience food services it is easier to buy them. There is an enhanced variety to choose from and people can afford them.
-Over the last 25 years consumption of cereal as a convenience food has risen rapidly.
-The price of rice has fallen and consumption has risen due to greater availability from take-away outlets.
+The objective of this study was to analyse chocolate purchases with respect to individual supermarkets, types of chocolate and customer characteristics.
+The independent sample t-test was chosen to test the null hypothesis that 'customers with kids spend the same amount on chocolate as those without' because it compares two means within the same variable. It tests whether the two means are equal or alternatively if they show a significant difference. The T-test is based on the assumption that the sample mean is normally distributed across the sample.
+The ANOVA F test was chosen to find out whether the amount spent on chocolate is significantly different across 3 categories of TV watchers (light, medium and heavy). This test is appropriate because it can compare several means simultaneously while avoiding the error that may occur in performing multiple t-tests. The null hypothesis is that all the means are equal and it is rejected if one of them differs. The F (Fisher) ratio compares the variance within sample groups with the variance between groups and is the basis for ANOVA. If the calculated F value is more than the critical F value then H0 (the means are equal) is rejected and H1(there is a significant difference between the means) is accepted.
+This test assumes that the sample is normally distributed and has equal variances.
+The P value is used to test the statistical significance of the T and F values.
+If the P value is greater than alpha (which depends on the significance level) then the results are statistically significant and can therefore be used to draw conclusions.
+The objective of the study was to investigate what factors influence chocolate expenditure.
+Independent sample T-tests and one-way ANOVA F-tests were the methodologies used.
+Other methodologies such as linear regression could have given further indication of the relationship (how much the of the variation in expenditure was explained by the different factors).
+Having kids is a relevant factor in explaining fair trade and organic chocolate expenditure in general (for all supermarkets).
+Having kids is a relevant factor in explaining fair trade chocolate expenditure only for Sainsbury
+The number of TV hours watched is a relevant factor in general (for all supermarkets).
+The number of TV hours watched is a relevant factor in explaining organic chocolate expenditure only for Sainsbury.
+An advertising campaign directed at children promoting fair trade chocolate could be profitable for Sainsbury.
+A television advertisement promoting organic chocolate could be profitable for Sainsbury.
+It would be interesting to carry out further research for Sainsbury in order to build a larger profile for its chocolate consumers which will enable the supermarket to segment its market and target consumers more effectively.
+Segmentation involves splitting consumers up into groups of individuals with similar needs and attitudes towards the product/service in order to target them with prices and promotions consistent with their individual needs.
+Segmentation can be conducted in many different ways. This study has looked at psychographic (splitting consumers into groups based on the number of TV hours watched) and demographic aspects (age group and whether they have children).
+A questionnaire could be designed to look at other demographic factors that could be explored in terms of how they affect chocolate expenditure, for example; income levels, gender, status and social class.
+Behavioural factors would be valuable in terms of finding out what the consumer wants from chocolate as a product as they focus on the relationship between the product and the consumer. For example, do people purchase chocolate as a gift, a single bar for their own consumption, a multi-pack for the family, or perhaps to be used in cooking?
+How do they view chocolate? - As a treat, a luxury, or an everyday necessity? Do they buy more from the more reputable brands? - and which brand is the most popular?
+It might also be useful to look at how often it is consumed: daily, weekly or monthly.
+Other ways of collecting this data besides a questionnaire include; focus groups, analysing the nectar card database, and buying data from classification systems such as Acorn.

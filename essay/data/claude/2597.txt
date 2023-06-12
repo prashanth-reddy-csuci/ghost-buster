@@ -1,5 +1,3 @@
-Here is a 1750 word essay in response to the prompt:
-
 The standard analysis of knowledge is that it consists of three necessary and jointly sufficient conditions: justification, truth, and belief. This is commonly referred to as the ‘JTB’ theory of knowledge. According to this theory, a person knows a proposition P if and only if:
 
 1) P is true. The condition of truth is straightforward - for knowledge, a person must believe a proposition that is actually true. Believing in false things, no matter how justified the belief is, does not constitute knowledge.

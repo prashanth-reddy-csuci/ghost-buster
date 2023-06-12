@@ -1,5 +1,3 @@
-Here is a draft 1250 word essay in response to the prompt:
-
 The synthesis of the core structure of salicylihalamide, a complex marine natural product with anticancer properties, was reported in 2012 by Ishmael, McDonald, Dunbar, and co-workers. The key elements of this synthesis include a convergent approach to assemble the core tricyclic structure of salicylihalamide from simpler precursors in a stereocontrolled fashion. 
 
 The synthesis began with a cyclohexene derivative which was first epoxidized and then the epoxide was opened with a vinyl Grignard reagent to introduce the carbon-carbon double bond found in one of the fused rings. The cyclohexenol derivative was then subjected to a gold-catalyzed hydroalkoxylation to form the fused tetracycle in one step. While this represents an efficient strategy to construct the fused ring system, the low yield (42%) of this key step reduces the overall efficiency of the synthesis.

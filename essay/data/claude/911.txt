@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 There are several factors that contribute to the quality and effectiveness of an interaction design. Three of the most important factors are usability, accessibly, and inclusiveness. These factors were carefully considered in redesigning the central heating programmer interface to improve the user experience.  
 
 Usability refers to how easy and intuitive an interface is to navigate and operate. An interface with high usability enables users to easily understand how the system works and interact with it to achieve their goals. The redesigned heating programmer interface aimed to improve usability by using simple and consistent design elements. For example, the same color scheme and button shapes were used throughout the interface to indicate similar functions. Plain language labels and minimal technical jargon were used to facilitate understanding. Intuitive icons and interactive UI elements were incorporated to help guide users through the programming process.

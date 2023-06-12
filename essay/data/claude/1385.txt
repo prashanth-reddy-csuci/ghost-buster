@@ -1,5 +1,3 @@
-Here is a draft essay in 2250 words on convergence of growth across countries using the Solow Growth Model:
-
 The convergence hypothesis posits that poorer countries have the potential to grow at a faster rate than richer countries to eventually "catch up" once a minimum level of capital and technological knowledge has been accumulated. The seminal Solow Growth Model, which won Robert Solow the Nobel Prize, provides a framework to analyze how convergence may take place across countries. 
 
 According to the Solow Model, growth arises from capital accumulation and technological progress. Poorer countries start with a lower capital-labor ratio, so the marginal product of capital and returns to investment are higher. This implies that poorer countries can achieve rapid capital accumulation and faster growth. However, as the capital stock grows, the marginal product of capital declines, and growth slows to match population growth and technical progress. The Solow Model thus predicts that in the long run, all countries should converge to the same steady state with similar levels of income per capita.

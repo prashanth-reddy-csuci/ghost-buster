@@ -1,5 +1,3 @@
-Here is a 463-word essay in response to the prompt:
-
 Marginal costing and full costing are two different methods of accounting for costs and determining operating profits. Marginal costing considers only the direct and variable costs of production, whereas full costing also allocates fixed overhead costs to units produced. 
 
 Marginal costing determines operating profit based on the difference between sales revenue and variable costs. Fixed costs are excluded. In full costing, both variable and fixed costs are considered to determine operating profit. Therefore, operating profits calculated using marginal costing will be higher than full costing, all else being equal.

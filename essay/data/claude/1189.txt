@@ -1,5 +1,3 @@
-Here is a 250 word essay in response to the prompt:
-
 There are several parameters used to analyze a first order plus deadtime (FOPDT) system in a report including the gain (K), time constant (τ), and deadtime (θ). The gain represents the steady state change in the output for a change in the input. The time constant represents how quickly the system responds to changes. The deadtime is the delay between the input changing and the output beginning to respond. 
 
 Analog control uses continuous signals while discrete control uses sampled signals. Discrete control can lead to instability if the sampling rate is too low. The Ziegler-Nichols tuning method determines values for the proportional gain (Kp), integral time (Ti), and derivative time (Td) to optimize the closed loop response. For a FOPDT system, the critical proportional gain (Ku) and ultimate period (Pu) are determined from a process reaction curve.

@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 An experiment was conducted to explore the design of a measurement system for measuring low-level forces. The objective was to build a force measurement system that could measure forces in the range of 0 to 5 Newtons with high sensitivity and accuracy. The output of the system was observed using a digital multimeter to measure the voltage output, which was directly proportional to the applied loading force. There were a few sources of errors associated with the system including friction in the moving parts, variability in electronic components like resistors, and limitations in the analog to digital conversion.  
 
 To measure the low-level forces, a spring-based force sensor was used which contained a linear spring and a linear variable differential transformer (LVDT). As an external force was applied to the spring, its deformation caused the LVDT core to move, which then produced an output voltage proportional to the displacement and hence the applied force. The overall equation relating the output voltage to the loading force was:

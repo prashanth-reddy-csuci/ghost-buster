@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The objective of the laboratory sessions was to analyze and optimize the aerodynamics of a car using computational fluid dynamics software. Specifically, Solidworks and Cosmos Floworks were used to simulate the flow of air over the car in a virtual wind tunnel. By adjusting the car's design and observing how the  air flow changes, the aerodynamics could be improved to reduce drag and increase downforce.
 
 The first step was to create a 3D model of the car in Solidworks. The software allowed the complex geometry of the car to be precisely modeled with a high degree of accuracy. The 3D model was then imported into Cosmos Floworks, where a computational mesh was applied to the model's surface. Boundary conditions specified the air speed and temperature in the virtual wind tunnel. 

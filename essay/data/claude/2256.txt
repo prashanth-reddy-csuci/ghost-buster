@@ -1,5 +1,3 @@
-Here is a 250-word essay in response to the prompt:
-
 There are two main methods used in C++ for implementing blocks-world management in AI: depth-first search and breadth-first search. These search algorithms are applied in a practical AI planning project with blocks to find a sequence of actions that transform an initial state into a goal state.
 
 The depth-first search explores paths in a block tree as far as possible before retreating. It uses a last-in, first-out stack data structure.  This method has the advantage of potentially finding a solution quickly. However, it may get stuck in infinite loops and never reach the goal. The breadth-first search explores all neighbor nodes at the current depth before moving on to the next level. It uses a first-in, first-out queue data structure. This method is slower but guarantees the shortest path to the goal will be found.

@@ -1,5 +1,3 @@
-Here is a 746 word essay in response to the prompt:
-
 Buying pre-built software packages to use as subsystems in a larger software development project can save time and reduce costs. However, there are also risks associated with this approach that project managers must consider and mitigate. 
 
 The first major risk is that the package may not fully meet the needs of your project. Off-the-shelf software is designed to suit a wide range of users and use cases, so it likely includes many features that your project does not need. However, it may also be missing key features or capabilities that are important for your particular project. Carefully evaluating available packages to determine how well they meet your needs can help avoid this risk. If needed, you may be able to extend or customize the package to add missing functionality. But extensive customization also introduces risks to cost, schedule, and quality.

@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 Dendrochronology, or tree-ring dating, has become a widely used method for absolute dating, especially for dating historical structures and artifacts made of wood. However, like all scientific dating methods, dendrochronology has certain limitations and is based on certain assumptions.
 
 The major assumption underlying dendrochronology is that tree ring growth is primarily dependent on climate, especially precipitation and temperature. As trees grow each year, they record the conditions of that year in the form of rings. During wet years, trees will generally grow more and have wider rings. During dry, adverse years, trees will grow less and have narrower rings. By matching up the pattern of wide and narrow rings in historical wood samples to the pattern established in reference chronologies from living and historical trees, the exact year that a tree was cut down can often be determined.  

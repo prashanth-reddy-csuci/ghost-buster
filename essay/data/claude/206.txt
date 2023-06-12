@@ -1,5 +1,3 @@
-Here is a 1000-word essay on options for disposing of high-level radioactive waste and their associated problems:
-
 The disposal of high-level radioactive waste from nuclear power plants and nuclear weapons production remains one of the largest unsolved problems in waste management. This waste remains radioactive and dangerous to humans for thousands of years and its long-term storage presents a complex set of technical, social, and political challenges.
 
 The most commonly proposed methods for permanent disposal of high-level radioactive waste are deep geologic repositories and irradiating the waste to reduce radioactivity. In a geologic repository, the waste is buried hundreds of meters below the Earth's surface in stable rock formations like granite, salt, or clay. The rock helps contain the waste and limit radiation exposure. However, finding a geologically stable site and ensuring waste can be safely contained for centuries is challenging. There are only a few potential sites that have been studied in the U.S. and most have faced public opposition.

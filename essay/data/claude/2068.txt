@@ -1,5 +1,3 @@
-Here is a draft essay in 1500 words in response to the prompt:
-
 Four different habitats in the Rennes field centre in Brittany, France were surveyed to determine and compare their species diversity. The sites surveyed were a lake, a stream, an oak forest, and a meadow. At each site, different methods were used to collect a variety of organisms to calculate indices of diversity. 
 
 At the lake, a net was used to sample zooplankton and sweepings were taken of vegetation around the lake to collect insects and other invertebrates. At the stream, a net was again used to collect invertebrates in the water column and sweepings were taken of vegetation and rocks along the stream. In the oak forest, sweepings were taken at multiple spots throughout the forest. At the meadow, pitfall traps were used to capture ground-dwelling invertebrates and sweepings were taken of vegetation. Organisms collected at each site were identified and counted to calculate the species richness, Shannon diversity index, and Simpson's diversity index.

@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 A fiscal policy rule refers to a constraint placed on a government's budget deficit, surplus, debt levels, or spending. The goal of fiscal policy rules, also known as fiscal rules, is to encourage fiscal discipline and address the shortcomings of discretionary fiscal policymaking. 
 
 Governments have an incentive to run large deficits by spending more and taxing less to please voters and get re-elected. However, chronically large deficits and accumulating government debt can be problematic and negatively impact the economy. Fiscal policy rules aim to counteract these political incentives by imposing constraints on governments to encourage sustainable levels of deficits and debt over the economic cycle. For example, a government may implement a rule to limit the budget deficit to no more than 3% of GDP each year. Or it may cap the national debt at 60% of GDP.

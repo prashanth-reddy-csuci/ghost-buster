@@ -1,5 +1,3 @@
-Here is a draft 2250-word essay in response to the prompt:
-
 The Reynolds number and Darcy friction factor are dimensionless quantities that characterize fluid flow through pipes and channels. The Reynolds number (Re) indicates whether the flow is laminar or turbulent, while the Darcy friction factor (f) quantifies the pressure drop that results from friction as the fluid moves through the pipe. An experiment was conducted to determine Re and f for the flow of oil through a circular pipe at varying flow rates.
 
 The experimental setup consisted of a reservoir of oil, a variable-speed pump to drive the flow, a flowmeter to measure the volumetric flow rate, a pressure gauge to measure the pressure drop over a length of pipe, and a section of stainless steel pipe with an inner diameter of 2.54 cm. The density and viscosity of the oil were measured to be 860 kg/m3 and 0.089 Pa-s respectively. 

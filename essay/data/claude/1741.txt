@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 OPUS Ltd. uses a rigorous quality control and assurance process for their software development. They follow industry-standard methodologies like the Capability Maturity Model Integration (CMMI) to ensure high quality at every stage of development.
 
 First, OPUS requires extensive requirements analysis and specifications documentation for any new software project. Business analysts meet with clients and end users to determine exact requirements and use cases. These are documented in a requirements specification document that is reviewed and approved by all stakeholders before development begins. This helps ensure the team has a clear and shared understanding of what they are building.

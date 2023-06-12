@@ -1,5 +1,3 @@
-Here is a 1250 word essay response to the prompt:
-
 The client for the SoccerBooker.com website had several key requirements that needed to be implemented in the website's design and functionality. The primary goal of SoccerBooker.com is to provide an easy to use website where soccer enthusiasts can book training sessions and reserve soccer pitches for casual or competitive play.
 
 The first requirement from the client was that the website had to have an intuitive user experience for visitors and customers. The design of the site was focused on clean layouts, simple navigation, and ease of locating important information or purchasing services. The home page immediately greets visitors with eye-catching photos of soccer fields and athletes. The main navigation menu at the top has only four clear options: Home, Training, Pitches, and Account. Each page on the site has a similar, consistent layout, so once a customer learns how to use one part of the site, they can easily transfer those skills to other sections. 

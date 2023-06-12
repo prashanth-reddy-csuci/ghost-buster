@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 Qualitative researchers employ several methods to ensure the quality and rigor of their research. These methods differ from the techniques typically used in quantitative research, which focuses on measuring relationships between variables in a statistically significant way. While quantitative research prioritizes reliability, validity, generalizability, and objectivity, qualitative research emphasizes dependability, credibility, transferability, and confirmability. 
 
 Qualitative researchers aim for dependability, which refers to consistency and transparency in the research process. They keep detailed records of the steps they take during data collection and analysis so that other researchers can potentially repeat the work. Questions that qualitative researchers ask themselves include: Are the research methods traceable and clearly articulated? Are the raw data, notes, and documentation well-organized and archived for review if needed? Dependability is analogous to reliability in quantitative research but recognizes that human behaviors cannot necessarily be measured in a consistent way.

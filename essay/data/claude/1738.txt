@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 The primary concerns when designing the site layout were usability, navigation, and providing relevant information to users. To optimize usability and navigation, a simple and clean layout with minimal clutter was  implemented. The site has a header with the site name and navigation links, which remain at the top of all pages so users can easily navigate between sections. Content is organized clearly with headings and bullet points where appropriate to facilitate quick information finding. The home page provides an overview of the core content and products offered.  
 
 The site contains details on products, pricing, reviews, and more. Information on user behavior informed what should be prioritized on the homepage and navigation links. The most viewed and searched for information is placed prominently on the homepage. All information is linked in a logical flow from general to more specific. For example, the product category page links to individual product pages with specs, pricing, and reviews.  

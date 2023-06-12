@@ -1,5 +1,3 @@
-Here is a 498 word essay in response to the prompt:
-
 A computer model used to study how the atmospheric boundary layer changes during the day and night, and how pollutants spread within this layer, has significant practical implications. Such a model can demonstrate how effectively pollutants may disperse in urban versus rural environments and help inform how pollution impacts health and environmental planning decisions.  
 
 The model predicted that during the day, the urban boundary layer grew much higher and was more turbulent than in rural areas. This means pollutants emitted in cities during the day can rise up and spread out over a larger volume of air. They are thus more diluted and less concentrated around the emission source. In contrast, the more shallow and stable rural boundary layer prevents pollutants from mixing as high and wide. They remain more concentrated closer to the ground where people live and work. These findings suggest daytime pollution in cities may impact public health less severely than in rural areas.  

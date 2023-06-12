@@ -1,5 +1,3 @@
-Here is a draft essay in 2500 words on Niels Bohr's model of the atom:
-
 Niels Bohr's model of the atom significantly improved on Ernest Rutherford's model by resolving some of its key contradictions and inconsistencies. Bohr proposed central postulates that accounted for the stability of atoms and predicted the quantization of angular momentum and energy levels in atoms. In contrast, Rutherford's 1911 model depicted the atom as consisting of empty space with a positively charged nucleus, and negatively charged electrons whirling around. However, this model was unable to explain how atoms could be stable if negatively charged electrons were losing energy and collapsing into the nucleus. Bohr's model addressed this through his postulates that only certain orbitals were allowed for electrons, each with a discrete energy level.
 
 At the center of Bohr's model were three main postulates to explain atomic spectra and stability:

@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 The relationship between letter knowledge and phonological awareness has been examined extensively in literacy research. Phonological awareness refers to the ability to detect and manipulate the sounds of speech, whereas letter knowledge refers to knowledge of the names and sounds of letters. While some research has found a correlation between these two concepts, the direction of influence and causal relationships remain unclear. 
 
 A study by Carroll et al. (2003) investigated the relationship between letter knowledge and phonological awareness in 103 English-speaking children with a mean age of 60 months at Time 1. The researchers conducted a path analysis and found that letter knowledge did not significantly predict phonological awareness 8 months later when controlling for initial levels of phonological awareness and language abilities. The researchers concluded that letter knowledge does not influence the development of phonological awareness.

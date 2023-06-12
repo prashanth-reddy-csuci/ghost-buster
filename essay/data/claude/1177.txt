@@ -1,5 +1,3 @@
-Here is a rough 2000 word essay in response to the prompt:
-
 Introduction 
 The performance of centrifugal pumps is an important parameter to understand for selecting an appropriate pump for any pumping system. This investigation aims to analyze the performance characteristics of a PLINT limited centrifugal pump at different speeds and delivery pressures. The parameters measured include the flow rate, differential pressure, input power, and pump efficiency. By testing the pump at different speeds and pressures, we can develop performance curves to understand how the pump will operate under different conditions.
 

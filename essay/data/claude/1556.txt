@@ -1,5 +1,3 @@
-Here is a draft 1000 word essay in response to the prompt:
-
 There are several methods used to determine primate population densities, each with its own strengths and limitations that make it suitable for particular habitats and conditions. The most effective technique depends on multiple factors, including the species of primate, characteristics of their habitat, and research aims. 
 
 Direct observation of primates is a simple method for determining population numbers, but is limited by the visibility of the animals. This technique works best for diurnal primates that live in open habitats, such as savannah-dwelling baboons. However, for elusive primates inhabiting dense forest, direct observation severely underestimates population sizes as many individuals remain hidden from view. Radio collaring individuals allows primatologists to track a sample of the population to estimate overall density. This method is particularly useful for nocturnal species, but requires trapping and handling primates to attach collars, which can be difficult and stressful for the animals. 

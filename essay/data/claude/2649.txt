@@ -1,5 +1,3 @@
-Here is a 998 word essay in response to the prompt:
-
 The aim of this experiment was to analyze the chemical composition of a commercially available alcoholic cider, Strongbow, using gas chromatography. Gas chromatography is a technique that separates the chemical compounds in a mixture and identifies them based on their interaction with a stationary phase in a column.
 
 To analyze the Strongbow cider, a calibration curve needed to be established using standard solutions of known alcohol concentrations. Ethanol standards were prepared at 5%, 10%, 15%, and 20% v/v by diluting 100% ethanol with deionized water. These standards were used to calibrate the gas chromatograph and create a line of best fit to determine the ethanol concentration of the cider sample. 

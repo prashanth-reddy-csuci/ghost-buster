@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 The common-ion effect refers to the decrease in solubility of an ionic compound when a solution already contains an ion common to this compound. Specifically, when an ion same as the cation or anion of a slightly soluble salt is added to the solution as an electrolyte, it decreases the solubility of the salt. This occurs because the common ions from the electrolyte and the added ionic compound compete for bonding with the oppositely charged ions. 
 
 To demonstrate the common-ion effect, we can observe the solubility of potassium periodate (KIO4) in water and solutions containing various electrolytes. Potassium periodate is a sparingly soluble salt with low solubility in water. When dissolved in pure water, it dissociates into potassium (K+) and periodate (IO4-) ions. However, when dissolved in a solution already containing potassium or periodate ions, its solubility decreases.

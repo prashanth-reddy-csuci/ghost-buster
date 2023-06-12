@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The case study simulation game used in the PDDM module provides both advantages and disadvantages for learning product design and development. On the positive side, the game exposes students to the entire product development process in a hands-on, experiential manner. Students get to ideate new product concepts, evaluate options, develop detailed designs, plan manufacturing processes, and make decisions on marketing and launch. This immersive experience helps students understand the iterative nature of product design and how various functions need to be integrated. 
 
 However, the simulated environment also simplifies many of the challenges of real product development. There are no actual financial constraints or risks, no complex technical hurdles to overcome, and no people management issues to navigate. Students may get an unrealistic sense of the difficulties in developing and launching new products. The case study game also takes students through a highly structured process, whereas real product development is often messy, chaotic, and unstructured.

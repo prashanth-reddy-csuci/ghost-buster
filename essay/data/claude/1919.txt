@@ -1,5 +1,3 @@
-Here is a 505 word essay in response to the prompt:
-
 It is necessary to dry the surface of agar plates before streaking to prevent the excess moisture on the agar surface from diluting and spreading out the inoculum as it is streaked. The inoculum needs to be localized to distinct areas of the plate in order to obtain isolated colonies. If the surface is wet, the inoculum will diffuse into the moisture and spread widely across the plate, preventing isolation of distinct colonies.  
 
 Agar plates are incubated inverted to prevent excess moisture from collecting on the agar surface. As the microbes grow, they release moisture. If the plates were incubated upright, this moisture would pool on the surface, again causing diffusion of the colonies into each other. By incubating inverted, the excess moisture flows down the sides of the agar, maintaining a drier surface and allowing isolated colony growth.

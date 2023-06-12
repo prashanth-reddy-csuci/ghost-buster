@@ -1,5 +1,3 @@
-Here is a 746 word essay in response to the prompt:
-
 Interferometers are instruments that utilize the interference of light waves to make precise measurements. They have been instrumental in many foundational discoveries in optics and astronomy. However, they also have some limitations that must be considered and addressed to obtain accurate results.
 
 One use of interferometers is to determine the wavelength of light. This was demonstrated in an investigation that measured the wavelengths of the sodium doublet at 589 nm and 589.6 nm. By passing light from a sodium lamp through a diffraction grating to split it into spectra and then recombining the wavelengths with an interferometer, the interference fringes could be counted to calculate the wavelengths. The accuracy of this measurement depended on precisely counting the fringes and on the quality and resolution of the optical components like the diffraction grating. Using high-quality components and taking multiple measurements helped address these factors.

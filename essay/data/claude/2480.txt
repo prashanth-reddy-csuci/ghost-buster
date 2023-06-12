@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 The 3-phase induction motor is a commonly used motor in many industrial applications due to its robust and simple construction as well as its ability to self-start. However, its properties are not fully understood when operating as both a motor and generator in standalone and grid-connected environments. An experiment was conducted to analyze the performance characteristics of a 3-phase induction motor operating as a motor and generator under these different conditions.
 
 The aims of the experiment were threefold: 1) to determine the torque-speed curves for the induction motor operating as a motor powered by a 3-phase inverter; 2) to analyze the induction generator characteristics when the rotor is mechanically driven above the synchronous speed; and 3) to evaluate the feasibility of using the induction motor as a grid-connected induction generator. 

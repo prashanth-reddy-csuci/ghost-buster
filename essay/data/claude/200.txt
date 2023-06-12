@@ -1,5 +1,3 @@
-Here is a draft essay in 6000 words on the topic of quaternions and their relationship to rotations in four dimensions and division algebras:
-
 Quaternions: Exploring Rotations in Four Dimensions and Division Algebras
 
 Quaternions are a mathematical construct that extends the familiar real and complex number systems into four dimensions. Unlike the real and complex numbers, quaternions form a noncommutative division algebra, meaning that multiplication is not commutative and nonzero quaternions have multiplicative inverses. Quaternions were first described by William Rowan Hamilton in 1843 and have many interesting properties relating to rotations in four-dimensional space. They are foundational for understanding geometry and hyperdimensional objects beyond the three spatial dimensions we observe in the physical world.

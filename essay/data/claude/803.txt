@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 The aim of the experiment to calculate the Darcy friction factor for oil flow in a pipe was to determine the pressure drop in the pipe due to friction for a given flow rate and pipe dimensions. The Darcy friction factor is a dimensionless quantity that describes the friction losses in a pipe and depends on the Reynolds number of the flow, the pipe roughness, and the geometry of the pipe. By calculating the friction factor, we can determine the energy losses in the system due to friction which helps in designing efficient piping networks and predicting flow parameters.
 
 The experiment was carried out using a horizontal pipe made of steel with an inner diameter of 0.0250 meters and a length of 30 meters. Oil with a density of 850 kg/m3 and viscosity of 0.067 Pa⋅s was allowed to flow through the pipe at different volumetric flow rates ranging from 0.01 to 0.1 m3/s. The pressure drop across the length of the pipe was measured for each flow rate using pressure transducers and the readings were recorded using a data acquisition system.

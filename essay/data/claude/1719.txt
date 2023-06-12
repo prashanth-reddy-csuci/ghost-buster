@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 Three methods commonly used for analysing mechanisms are visual inspection, vector approach, and virtual simulation. While visual inspection requires no quantitative data and relies mainly on experience, it fails to provide precise results and is ineffective for complex mechanisms.
 
 The vector approach uses the geometry and vectors of mechanisms to analyse velocity, acceleration, and forces. For a four bar mechanism, one can draw scaled vector diagrams showing the position, velocity and acceleration of each link at different configurations to understand the motion and dynamics. This method requires trigonometric calculations and an understanding of vectors, making it more difficult to grasp compared to visual inspection. However, it generates quantitative results and works for most mechanisms. 

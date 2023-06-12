@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 Meaning is a foundational concept in language and philosophy of language. There have been many attempts to provide an account of meaning. Four of the most prominent theories are the Gricean theory, verificationist theory, linguistic externalism, and the causal theory. Each provides a distinct perspective on how to understand meaning and has positive and negative aspects worth considering. 
 
 The Gricean theory of meaning, developed by Paul Grice, understands meaning in terms of speaker intention. According to Grice, the meaning of an utterance is the intended point the speaker is trying to get across by making that utterance. The positive aspect of this view is that it provides a straightforward explanation for how we understand implicit points and conversational implicatures. However, a key problem with this theory is that meaning seems to depend on mental states in the speaker's head rather than being grounded in the language itself. The theory also struggles to account for the meaning of linguistic expressions that lack a clear speaker intention, such as logical connectives.

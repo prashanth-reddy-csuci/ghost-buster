@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 The aims of the experiment were to determine the subcellular location of the succinate dehydrogenase enzyme within liver cells. Succinate dehydrogenase is an enzyme that plays an important role in cellular respiration and the Krebs cycle. By determining which organelles and compartments within the liver cell contain this enzyme, scientists can better understand how cellular respiration works. 
 
 To investigate the distribution of succinate dehydrogenase, researchers first had to separate the liver cells into different fractions containing specific subcellular compartments. This was done through a process of differential centrifugation, using centrifuges at varying speeds. The slower speeds isolated the larger cell fractions like nuclei, while faster speeds separated the smaller mitochondria and microsomes. By analyzing which fractions contained high levels of succinate dehydrogenase enzyme activity, the researchers could identify which organelles housed the enzyme.

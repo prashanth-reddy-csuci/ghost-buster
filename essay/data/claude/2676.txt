@@ -1,5 +1,3 @@
-Here is a 1000 word essay response to the prompt:
-
 Several factors affect seed quality during storage, including temperature, relative humidity, oxygen levels, and presence of pathogens. High temperature accelerates the deterioration of seeds through increased respiration, oxidation of storage compounds, and microbial growth. As temperature increases by 10°C, the storage life of seeds can be halved. Relative humidity also greatly impacts seed quality in storage. High humidity leads to increased seed moisture content, which speeds up respiration, microbial proliferation, and oxidation reactions that damage lipids, proteins, and nucleic acids.  
 
 Oxygen availability similarly influences how quickly seeds lose viability in storage. When oxygen levels are high, oxidative reactions proceed rapidly, damaging cell components and storage reserves. The presence of pathogens such as fungi and bacteria can directly infect seeds, releasing toxins that kill the embryo or compete for storage reserves. These biotic agents thrive under warm, humid conditions, so proper drying and cooling of seeds before storage is critical to limiting pathogen growth.

@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 The floating charge is a form of security that attaches to a class of assets, rather than specific assets. It originated in England in the 19th century as a way for companies to obtain credit by granting security over their circulating assets such as stock, debtors, and work in progress. The floating charge "floats" over this changing pool of assets until it "crystallizes", typically on the winding up of the company or default under the charge. At this point, the security attaches to the specific assets that happen to be in the pool at that time. 
 
 The key benefit of the floating charge is that it allows the company flexibility in dealing with its circulating assets in the ordinary course of business. The company is able to buy, sell, and replace assets as needed without requiring the secured party's consent for each transaction. This makes the floating charge more suitable for securing short-term revolving credit facilities. In contrast, a fixed charge requires the secured assets to be specifically identified, limiting the company's ability to deal with them.

@@ -1,5 +1,3 @@
-Here is a draft essay in 1500 words on the prompt:
-
 Official statistics refer to quantitative data collected and published by government departments and agencies for public use. While official statistics can be useful in sociological research to provide an overview of social trends, there are several limitations to their use. Both the positivist and radical approaches in sociology recognize these limitations and take different stances on the utility of official statistics.  
 
 A key limitation of official statistics is that they only measure what governments and organizations choose to measure based on their priorities and agendas. Important social issues may be ignored or undermeasured. For example, statistics on homelessness often underestimate the true number of homeless individuals. Governments may also manipulate statistics for political reasons by changing definitions or metrics. During economic recessions, governments may change how unemployment is measured to make the statistics appear lower. 

@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The object of the game Ratchet and Clank is to explore multiple planets in search of rare resources and defeat enemies and bosses along the way. Players control Ratchet, a lombax mechanic, and his robotic sidekick Clank as they travel the galaxy. To progress through the levels and defeat enemies, Ratchet uses a variety of weapons, gadgets, and power-ups collected throughout the game. 
 
 Players have access to an inventory where they can view all their collected weapons, gadgets, and power-ups. The inventory uses a set data structure to store the items. A set is an unordered collection of unique elements. In the game, each weapon, gadget or power-up can only appear once in the inventory set. Having unique elements prevents duplicates from being added. Using a set for the inventory is ideal as it keeps the inventory organized without duplicates.

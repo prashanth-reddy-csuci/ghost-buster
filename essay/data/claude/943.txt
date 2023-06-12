@@ -1,5 +1,3 @@
-Here is a 503 word essay response to the prompt:
-
 Modulating a carrier signal using an analogue multiplier involves combining the carrier signal with the information-carrying modulating signal. The amplitude, frequency or phase of the carrier signal is varied in accordance with the instantaneous amplitude of the modulating signal. This results in frequency components representing the sum and difference of the carrier and modulating frequencies, enabling the transmission of information.
 
 A simple modulation technique is Double-Sideband Suppressed Carrier (DSB/SC). Here, a balanced modulator suppresses the carrier, leaving only the sidebands containing the modulation signal. Although spectrum efficient, the carrier suppression makes demodulation difficult. A pilot tone, an unmodulated tone at the carrier frequency, is added to the DSB/SC signal to assist in coherent demodulation. The pilot tone provides a frequency reference to regenerate the carrier for demodulation.

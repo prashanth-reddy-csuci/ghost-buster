@@ -1,5 +1,3 @@
-Here is a draft 997 word essay in response to the prompt:
-
 Species diversity of insects can be affected by numerous abiotic and biotic factors in the environment. Abiotic factors refer to non-living components such as climate, weather, soil conditions, sunlight availability, and humidity. Biotic factors refer to living components such as availability of food sources, competitors, predators, and parasites. These factors directly and indirectly influence the number and types of insect species that can survive and thrive in a particular habitat.
 
 The Shannon-Weiner diversity index is a quantitative method used by ecologists to measure species diversity in a community. It takes into account both species richness, which is the number of different species present, as well as species evenness, which refers to the relative abundance of each of those species. The formula for calculating the Shannon-Weiner index is:

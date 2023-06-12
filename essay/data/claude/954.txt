@@ -1,5 +1,3 @@
-Here is a 2500-word essay in response to the prompt:
-
 Chymotrypsin is a serine protease found in the pancreas that hydrolyzes peptide bonds in proteins and polypeptides where the amino acid residue adjacent to the bond is aromatic (phenylalanine, tyrosine, tryptophan) or large and hydrophobic (leucine, methionine). Its mechanism of action occurs in three steps: binding, acylation, and deacylation. 
 
 In the binding step, the substrate binds to the active site of chymotrypsin, which contains a catalytic triad of Asp102, His57, and Ser195. The imidazole ring of His57 acts as a base to extract a proton from Ser195, causing it to act as a nucleophile to attack the carbonyl carbon of the peptide bond in the substrate. This results in the formation of a tetrahedral intermediate.

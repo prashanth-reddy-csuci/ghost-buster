@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 The objectives of the laboratories focused on the Mitsubishi microcontroller M16C/62P were to illustrate the basic features of the microcontroller by programming it to perform several tasks. The procedure involved using the data sheets in the Appendix sections to understand the microcontroller's architecture, input/output ports, and peripherals. The author then used this information to connect external devices like 7-segment displays and push buttons to the appropriate input/output ports of the microcontroller to build a basic embedded system.  
 
 To properly drive the 7-segment displays, the author referred to Appendix B, which provides the segment decode sequences to display digits 0 through 9. The displays were connected to Port 3 of the microcontroller. To read the push button inputs, the author connected the buttons to Port 1 and pulled the pins high using the internal pull-up resistors. By programming the microcontroller to set Port 1 pins as inputs and reading their logic levels, button presses could be detected.

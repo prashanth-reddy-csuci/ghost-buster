@@ -1,5 +1,3 @@
-Here is a 2250 word essay in response to the prompt:
-
 What are the potential security and privacy issues involved in a digital memory management system such as Memories for Life, and how could these issues be addressed?
 
 A digital memory management system like Memories for Life that offers to seamlessly collect, organize, and store all of a person's digital and even physical memories in a single place offers many potential conveniences and benefits. However, such systems also raise important security and privacy issues that must be addressed to ensure users' digital and physical safety as well as control over their own data and memories.

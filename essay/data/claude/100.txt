@@ -1,5 +1,3 @@
-Here is a draft 1494 word essay in response to the prompt:
-
 Fluid flow through pipes experiences frictional forces that depend on the flow regime, either laminar or turbulent. Laminar flow corresponds to smooth, parallel streamlines, while turbulent flow is chaotic and disordered. The friction factor, f, is a dimensionless parameter used to calculate pressure drop and depends on the flow regime. For laminar flow, f depends on the Reynolds number, Re, which is the ratio of inertial to viscous forces. For turbulent flow, f depends on the surface roughness of the pipe.  
 
 In laminar flow, frictional forces arise from the viscous shear between fluid layers. The velocity profile is parabolic, with the highest velocities in the center and the lowest velocities at the edges. The pressure drop per unit length, ΔP/L, is proportional to the flow rate, Q, through Poiseuille’s law. The friction factor can be calculated exactly from the pipe geometry and fluid viscosity. As the Reynolds number increases, the inertial forces eventually dominate the viscous forces, and the flow transitions to turbulence.

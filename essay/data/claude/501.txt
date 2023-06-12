@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 Observational studies and survey research are two of the most common methods used in the social sciences to gather data about human behaviors, opinions, and characteristics. However, there are some key differences in the ethical concerns and validity of the information provided by these two approaches. 
 
 Observational studies involve observing human subjects in their natural environments and recording data about their behaviors and interactions. The key ethical concern with observational studies is that they are conducted without the explicit consent of the participants. The subjects are unaware that they are being observed and studied. This covert nature of observational studies raises concerns about privacy and consent. The researchers are gathering personal data about individuals without their permission. Some argue this violates the basic ethical principles of respect for persons and informed consent.

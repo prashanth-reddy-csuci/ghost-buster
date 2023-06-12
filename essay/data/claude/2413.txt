@@ -1,5 +1,3 @@
-Here is a draft 750 word essay response to the prompt:
-
 The travelling salesman problem (TSP) is a classic NP-hard problem in computational complexity. It involves finding the shortest possible tour that visits each city exactly once and returns to the starting city. This problem arises frequently in logistics and transportation as companies attempt to find the most efficient routes for deliveries and travel. 
 
 To calculate the number of possible paths in a TSP, we can use the factorial function. For example, if a salesperson needs to visit 4 cities, the number of possible paths is 4! = 4 x 3 x 2 x 1 = 24. For 10 cities, the permutations explode to over 3 million. As the number of cities increases, the number of possible paths grows enormously. Clearly, brute force searches will not work for large TSPs.

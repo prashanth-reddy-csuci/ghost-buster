@@ -1,5 +1,3 @@
-Here is a 1500 word essay in response to the prompt:
-
 Parity conditions refer to theoretical exchange rate relationships that assume goods and services should trade at the same price across countries when measured in a common currency. The key parity condition is purchasing power parity (PPP), which states that the ratio of exchange rates between two countries should equal the ratio of prices for a basket of goods and services in those countries. In other words, PPP suggests that exchange rates should adjust to offset price level differences between countries. 
 
 The theory of PPP is based on the Law of One Price (LOP), which states that identical goods should sell for the same price in different markets when measured in the same currency. PPP extends this concept to a basket of goods and suggests that price level differences between countries, measured in a common currency, should be reflected in exchange rate differences. If PPP holds, it suggests that exchange rates will adjust to account for inflation differentials between countries in order to keep the costs of goods and services aligned.

@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The objective of the laboratory sessions using Solidworks and Cosmos Floworks was to gain practical knowledge about fluid dynamics and car aerodynamics through simulated testing. Using these software, a car model could be designed and tested in a virtual wind tunnel to analyze its aerodynamic properties, specifically the drag coefficient and drag force. 
 
 A car model was designed in Solidworks and then imported into Cosmos Floworks. In the wind tunnel simulation, the flow of air over and around the car could be visualized. Parameters such as the wind speed could be specified, and the effects on the car analyzed. Properties such as velocity streamlines, pressure, and friction were examined to see how the air flowed and interacted with the car's surfaces. 

@@ -1,5 +1,3 @@
-Here is a possible 2000 word essay in response to the prompt:
-
 The analysis of exam performance typically relies on several types of data, including results from individual exam questions, overall exam scores, and background information about the students. Each data type has distinct features. These data are analyzed using quantitative methods to gain insights into student performance and opportunities for improvement.
 
 Exam question results provide detailed information about how students fared on specific concepts and skills that were tested. For each question, the total number of points available and the percentage of students choosing each possible answer choice can be calculated. Questions where a high percentage of students chose the wrong answer may indicate concepts or skills that need further reinforcement or alternative ways of testing. Aggregating results across multiple questions on related concepts can also provide insights. These granular data can point to specific areas for improvement in teaching and learning. 

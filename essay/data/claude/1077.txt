@@ -1,5 +1,3 @@
-Here is a 1500 word essay in response to the prompt:
-
 The Private Language Argument poses significant difficulties for Descartes' philosophy and his conception of the mind. In his Meditations, Descartes argues that we have privileged access to our own minds through introspection. We have a clear and distinct understanding of our own internal mental states and ideas. However, the Private Language Argument, as put forth by Ludwig Wittgenstein, challenges this notion. 
 
 Wittgenstein argues that a private language, a language that refers to private internal sensations that only the individual can understand, is incoherent. For a language and the concepts it expresses to have meaning, there must be some way to determine correctness - some way to test whether a word is being used properly. However, for a sensation that is utterly private and internal, there is no way to test or verify whether a word refers to that sensation. The individual could be mistaken or confused, and no one would ever know.

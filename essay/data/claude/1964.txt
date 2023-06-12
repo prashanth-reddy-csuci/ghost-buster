@@ -1,5 +1,3 @@
-Here is a draft 2500-word essay in response to the prompt:
-
 What is direct UHT treatment and how is it used to produce heat-treated milk products? Discuss the procedures involved and evaluate the quality of the products produced using this method.
 
 Direct ultra-high temperature (UHT) treatment is a sterilization method used to produce shelf-stable milk products that can be stored for a year or more without refrigeration. During UHT treatment, milk is heated to between 135 to 150°C for 1 to 5 seconds using indirect or direct steam injection methods. This brief but high-heat treatment kills all bacteria and spores in the milk, allowing it to be stored safely at ambient temperatures for a long period. 

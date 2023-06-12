@@ -1,5 +1,3 @@
-Here is a 1,513-word essay comparing the experiments of Philip Zimbardo and Stanley Milgram on obedience to authority:
-
 Philip Zimbardo and Stanley Milgram conducted seminal experiments in the 20th century exploring obedience to authority figures. While their hypotheses and methodologies differed, their results pointed to the same troubling conclusion: that ordinary people are capable of inflicting harm on others in response to orders from an authority figure.  
 
 Zimbardo's Stanford Prison Experiment examined the psychological impacts of being assigned to the roles of "prisoner" and "guard" in a simulated prison environment. Zimbardo hypothesized that these assigned roles would have a significant influence on behavior, independent of personality traits. To test this, he selected 24 male college students who were deemed psychologically stable and normal. They were then randomly assigned to be either "guards" or "prisoners" in a mock prison located in the basement of the Stanford psychology building.  

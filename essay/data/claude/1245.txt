@@ -1,5 +1,3 @@
-Here is a 1995 word essay in response to the prompt:
-
 The objective of a laboratory session involving tensile testing of biomaterials using a materials testing machine is to determine the mechanical properties of the materials, such as yield strength, ultimate tensile strength, elastic modulus, and ductility. These properties are measured through the application of an increasing tensile load to the material and recording the resulting deformation or strain.  
 
 The tensile testing process begins with sample preparation. The material is cut into dog-bone shaped samples with uniform cross-sectional area. The samples are then mounted in grips that hold them securely in the tensile testing machine while allowing unrestricted longitudinal deformation. An initial applied tensile load is recorded using a load cell. As the load increases at a constant strain rate, the change in gauge length of the sample is recorded using an extensometer to determine the stress-strain curve.

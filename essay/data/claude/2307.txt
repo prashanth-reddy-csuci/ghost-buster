@@ -1,5 +1,3 @@
-Here is a 1500-word essay addressing the molecular mechanisms behind colorectal cancer:
-
 Colorectal cancer arises through the accumulation of sporadic mutations in key genes that regulate cell growth and division. The three main signaling pathways involved in colorectal cancer are the Wnt pathway, the Ras/MAPK pathway, and the PI3K/PKB pathway. Mutations in these pathways disrupt normal cell signaling and confer a survival advantage to tumor cells, allowing them to proliferate unchecked.
 
 The Wnt signaling pathway regulates cell proliferation and differentiation. In normal cells, the protein APC inhibits the Wnt pathway. However, in colorectal cancer cells, mutations in the APC gene lead to loss of function, causing uncontrolled Wnt signaling. The most common mutations in colorectal cancer are found in the APC gene. Loss of APC function leads to accumulation of β-catenin, which activates genes that promote cell growth and division. Unregulated Wnt signaling due to APC loss of function is found in up to 80% of colorectal cancer cases.

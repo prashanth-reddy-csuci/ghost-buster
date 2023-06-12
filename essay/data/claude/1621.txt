@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 Creating an animated SVG involves several steps: defining static elements, grouping elements,  adding animation, and assembling the final product. 
 
 To begin, the basic shapes and paths that comprise the animation are defined using SVG shape and path elements like <rect>, <circle>, <line>, <polyline>, and <path>. These shapes are styled with attributes like fill, stroke, stroke-width, etc. The shapes are then grouped together using the <g> element to logically organize related shapes. For example, a car might have groups for the body, wheels, windows, and so on.  Grouping the shapes provides a useful organizational structure for applying animation effects.

@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 Designing a Torque Measurement System Using Strain Gauges  
 
 To measure the torque applied to a rotating steel shaft, a strain gauge based measurement system can be designed using a Wheatstone bridge circuit. Strain gauges are resistive sensors that change resistance based on the amount of strain applied. By bonding multiple strain gauges to a shaft at different orientations, the torque applied can be measured.

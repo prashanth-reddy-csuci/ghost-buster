@@ -1,5 +1,3 @@
-Here is a 1748 word essay in response to the prompt:
-
 Fluidisation occurs when a granular solid behaves like a fluid upon the application of an upward flow of liquid or gas. As the flow rate increases, the drag forces exerted by the fluid on the particles overcome the weight of the particles. This causes the particles to become suspended in the fluid, giving the appearance of a fluidised bed. The minimum fluidisation velocity refers to the minimum superficial flow velocity required to achieve fluidisation. 
 
 Fluidised beds have many important applications in industry. They are used extensively in chemical processing for operations such as cracking, reforming, and polymerisation reactions. The large surface area of the suspended particles allows for efficient heat and mass transfer, enabling high rates of reaction. The vigorous mixing in a fluidised bed also results in uniform temperature distribution, which is important for reaction control.

@@ -1,5 +1,3 @@
-Here is a 500-word essay in response to the provided prompt:
-
 Soft Systems Methodology (SSM) Mode 1 is an exploratory learning approach used to gain insight into problematic situations in organisations that are complex and ill-structured. It involves finding out about the problem situation through interviewing different stakeholders to achieve a holistic understanding of the issues involved. The rich information gathered can then be used to construct conceptual models of the organisation’s activities as systems of purposeful action. This helps to identify key relationships and pinpoint areas that need improvement.
 
 Analysis 2 focuses on comparing the conceptual models developed in Mode 1 against what is actually observed in the problem situation. Gaps and mismatches are identified to further explore the root causes of issues. Proposed changes are evaluated to determine if they are feasible and practical. In Analysis 3, desirable and feasible changes are selected and a conceptual model of the recommended solution is built. By iterating between Analysis 2 and 3, a final set of recommendations on how to improve the organisational issues can be developed.

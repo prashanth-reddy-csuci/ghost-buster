@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 The fluoride ion selective electrode (ISE) method is commonly used to measure fluoride concentrations, including in the study of how different factors like tea infusion can affect the fluoride levels in tap water. The fluoride ISE works by measuring the electrical potential of a solution, which depends on the fluoride ion activity. By calibrating the electrode with standard solutions of known fluoride concentration, a calibration curve can be created to determine the fluoride concentration of unknown samples.
 
 To assess how tap water fluoride levels change from the addition of tea, tea bags can be added to samples of tap water and left to infuse as if making tea for drinking. The tap water is first tested to determine the initial fluoride concentration. Then, the tap water is infused with tea bags for the same duration as a typical tea brewing, after which the fluoride level is re-tested. The difference in fluoride concentration before and after infusion indicates how much fluoride was absorbed or released from the tea. 

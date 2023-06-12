@@ -1,5 +1,3 @@
-Here is a 497-word essay in response to the prompt:
-
 Microneedle arrays consist of multiple tiny needles arranged in patterns that can penetrate the outer layer of skin. They offer an alternative to hypodermic injections for drug delivery and blood extraction that is minimally invasive and painless. Microneedle arrays are able to effectively bypass the stratum corneum, the outer layer of skin, while avoiding nerve endings. This allows for injection and extraction with little or no pain.
 
 One key aspect of microneedle design is needle length. Microneedles must be long enough to penetrate the stratum corneum, which is typically 20-50 micrometers thick, but short enough to avoid stimulating nerve endings located deeper in the dermis. Microneedles in the range of 50-1000 micrometers in length have been shown to effectively deliver drugs and extract blood with minimal pain. The exact optimal length depends on the application and location on the body. 

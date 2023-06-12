@@ -1,5 +1,3 @@
-Here is a 999-word essay in response to the prompt:
-
 The hemispheric asymmetry hypothesis posits that the left and right hemispheres of the brain specialize in processing different types of semantic information in the mental lexicon. Specifically, the left hemisphere is thought to be more associated with abstract, categorical relations, while the right hemisphere is suggested to rely more on object similarity. This theory can be investigated in split-brain patients, where the corpus callosum connecting the hemispheres has been severed. 
 
 In single split-brain patients, each hemisphere can be tested independently to determine its semantic organization. For example, the patient can be shown pictures of objects in each visual field, tapping into either the left or right hemisphere, and asked to group the objects. The left hemisphere may group taxonomically related objects like fruits together, while the right hemisphere groups objects based on visual feature overlap like round shapes. This double dissociation in semantic grouping by categorical versus visual relations would support the hemispheric asymmetry hypothesis.

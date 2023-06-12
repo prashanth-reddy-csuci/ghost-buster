@@ -1,5 +1,3 @@
-Here is an essay response in 1000 words:
-
 There are many factors that can impact the functionality of control systems:
 
 1. Type of System: The type of control system being used affects its performance. Mechanical systems that rely on physical components tend to be slower than electronic or pneumatic systems. Hydraulic systems provide powerful control using fluid flow but can be difficult to tune precisely. Electronic systems offer fast speeds and computerized precision but require electrical power and can be complex. The type of system needs to match the application.   

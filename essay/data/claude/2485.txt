@@ -1,5 +1,3 @@
-Here is a possible 2000-word essay in response to the prompt:
-
 The use of rape methyl ester (RME) as a biofuel has the potential to significantly reduce emissions from diesel engines. However, its use also impacts the power output, efficiency, and performance of diesel engines. Studies comparing RME to mineral diesel oil have found both advantages and disadvantages of RME as a fuel. 
 
 One key parameter used to assess engine performance is brake thermal efficiency, which measures the conversion of thermal energy into mechanical power. Most studies have found a slightly lower brake thermal efficiency when using RME rather than mineral oil, around 2-5% lower. For example, a study by Agarwal et al. tested a diesel engine with blends of 0%, 20%, 40%, 60% RME and 100% mineral diesel. They found the brake thermal efficiency decreased from 32.5% with pure diesel to 29.5% with 100% RME. The lower energy density and heating value of RME are the primary reasons for this drop in efficiency.

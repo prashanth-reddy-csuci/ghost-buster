@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 Laminar and turbulent flows through a pipe have distinct characteristics. Laminar or streamlined flow has smooth layers of fluid moving parallel to each other with no disruption between the layers. The velocity profile in the pipe is parabolic with maximum velocity at the center and zero at the walls due to the no-slip condition. Turbulent flow has chaotic, random motion of fluid particles. The layers mix and eddy currents are formed, disrupting the smooth flow. The velocity profile is uneven with fluctuations. 
 
 The Reynolds number, defined as the ratio of inertial forces to viscous forces, can determine if a flow is laminar or turbulent. A higher Reynolds number indicates turbulent flow while a lower number indicates laminar flow for a given fluid and pipe geometry. In an experiment, the Reynolds number and fluid properties like density and viscosity can be used to calculate the pressure drop across a pipe. A higher pressure drop is expected for turbulent flows due to the increased friction and drag.

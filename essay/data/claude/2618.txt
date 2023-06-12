@@ -1,5 +1,3 @@
-Here is a 1196 word essay in response to the prompt:
-
 Artificial Neural Networks have been employed in recent research to analyze electroencephalogram (EEG) data from Parkinson's Disease patients and predict abnormal spontaneous neural activity, specifically tremors. By analyzing the brain wave patterns that precede tremors, researchers aim to develop closed-loop deep brain stimulation systems that can detect and suppress tremors in real time.
 
 Parkinson's Disease is a neurodegenerative disorder that leads to loss of dopamine-producing neurons in the midbrain. This loss of dopamine leads to impairments in motor function, including tremors, muscle rigidity, and difficulty initiating movement. Deep brain stimulation (DBS) involves implanting electrodes in the brain that deliver high frequency electrical stimulation to specific areas like the subthalamic nucleus to suppress motor symptoms. However, current DBS systems deliver constant stimulation regardless of a patient's symptoms at any given time. This can lead to side effects like speech problems, dizziness, and balance issues due to overstimulation.  

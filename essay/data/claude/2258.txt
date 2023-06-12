@@ -1,5 +1,3 @@
-Here is a 1010-word essay in response to the prompt:
-
 To create an interactive virtual reality environment with a cube matrix model and an astronomy picture background, a 3D modeling and rendering approach was used along with several tools and techniques. The basic steps in the process included:
 
 1. Selecting and acquiring the astronomy image to use as the background. A high-resolution image of the Andromeda galaxy was chosen to provide an engaging space-themed backdrop. The image was downloaded and formatted to the proper resolution and aspect ratio for the virtual reality experience.  

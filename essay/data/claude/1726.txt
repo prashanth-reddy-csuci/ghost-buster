@@ -1,5 +1,3 @@
-Here is a draft essay in 999 words:
-
 The main objectives of a report investigating the effects of cyclic loading on plain Aluminium Alloy beams would be: 1) To determine the impact of cyclic plastic deformation on residual stresses and strain profiles in the beams; 2) To evaluate how this affects the fatigue life and failure of the beams; 3) To compare predicted values of fatigue life from theory vs actual experimental results.  
 
 Fatigue is the weakening and eventual breaking of materials subjected to repeated loading and unloading. As a beam is cyclically loaded past its yield point into the plastic zone, residual stresses and strains develop within the material that do not recover when the load is removed. With each loading cycle these residual stresses accumulate, initiating cracks and other damage that eventually causes material failure at stress levels below the yield strength. 

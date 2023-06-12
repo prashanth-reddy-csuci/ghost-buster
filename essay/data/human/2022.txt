@@ -1,40 +1,23 @@
-Dietary survey is an assessment of current intake and is an essential tool in assessing the relationship between diet and disease. It is also used on clinical medicine and assists in policy making.
-Weighed food intake, in theory, is considered the 'Gold standard' as there is no error in portion size. It takes account of weighed and estimated dietary intakes. Another advantage is that it is a prospective method hence des not rely on the memory of the subject.
-However, Garrow (1974) was correct in stating "The measurement of habitual food intake of an individual must be amongst the most difficult tasks a physiologist can undertake"
-Errors are likely to be introduced by food composition tables, as well as coding errors (where exact matches cannot be found) and it is often difficult to assess food that is not prepared by the individual. This method is consequently not ideal for subjects who frequently eat away from home. Individuals are also likely to change their diets under scrutiny as well.
-It is however more precise than estimated intakes or past intake methods.
-The use of the CompEat foodbase program database has also made what was in the past a very laborious task very practical.
-Please see method detailed in practical booklet. All food and drinks consumed over a 6 day period were weighed and recorded
-Please see attached dietary survey forms and Foodbase diary analysis results
-Some definitions
-The dietary reference values (DRV) are calculated on the basis of requirements to:
-Generally the distribution of requirements for a given nutrient within a population is assumed to be normal or Gaussian and it covers
-EAR Estimated Average Requirement of a group of people for energy or protein or vitamin, about half will usually need more than the EAR and half less
-LRNI Lower Reference Nutrient intake for protein vitamin or mineral. An amount of the nutrient that is enough for only the few people in the group who have low needs
-RNI Reference Nutrient Intake of a protein, Vitamin or mineral. An amount of the nutrient that is enough or more than enough, or more than enough for about 97% of people in a group. If the average intake of a group is at RNI, then the risk of deficiency is very small
-Estimated Average Requirements for energy
-In general the foodbase analysis showed that I (the subject) consumed less than the Dietary reference values of energy per day; 1720 kcals compared with recommended 1940kcals. From observing the dietary survey form it appears that too little energy was taken in on some days and hardly any on other days. Also as a lot of food consumed was pre-prepared e.g. sandwiches and soups it was difficult to estimate the amount of oil used so it was left out completely. This may be responsible for the low values.
-It also showed that very much higher than desirable levels of protein; 76.9 compared with 45.0 this is 31.9g were consumed on average.
-Another negative point was t oo little dietary fibre was shown to be consumed only 37% of the RNI. This result was surprising considering the regularly large amounts of wholegrain cereals consumed. These are rich sources of insoluble non starch polysaccharides (NSP).
-NSP-rich foods are generally less energy dense, more bulky and may induce greater satiety than NSP-free foods; their laxative effect has been well documented (Department of Health, UK 1991)
-As concerns vitamins and minerals
-The following minerals were consumed at levels higher than the DRV showing most 'excessively' consumed first
-Taking into account the definition of DRV's only those values vastly different from the DRV were considered causes for concern .For example:
-The intake of sodium was almost double the dietary reference value. Sodium is the principal cation in extracellular fluid where it exists in ionised state. High sodium intakes are associated with higher blood pressure and have also been identified as contributors o other diseases.
-Calcium is suspected to be mainly obtained from high protein sources such as skimmed milk, this illustrates the difficulty of establishing a 'balanced diet' as consuming one item may be beneficial in one sense but be provide another nutrient in excess amounts
-Consuming too many water soluble vitamins Niacin, B6 and B12 does not present a problem because they are simply excreted
-Too little of the following vitamins were consumed (Most severe case first)
-Potassium was the most markedly deficient mineral. Potassium deficiency alters the electricophysiological characteristics of cell membranes causing weakness of skeletal muscles (DOH 1991).
-Very much lower levels of retinol were consumed .This vitamin has functions in growth, the maintenance of skin and mucous membranes and the visual process and intake should be increased to at least the DRV .
-Folate, the water soluble essential nutrient was also consumed in lower than desirable levels. This has serious implications as folic acid is a precursor of several important enzyme co factors required for the synthesis of nucleic acids and the metabolism of some amino acids (Gaby et. al 1991).
-Iron is a component of haemoglobin, myoglobin and many enzymes and is stored in reticulo-endothelial system as ferritin. Deficiency has adverse effects on work capacity , intellectual performance and behaviour and ultimately defective erythropoeisis leading to hypochromic anaemia .
-Iodine forms part of the hormones thyroxin and triiodothyronine which are necessary for the maintenance of the metabolic rate , cellular metabolism and integrity of connective tissue .
-There are no Dietary reference values for the intakes of fat and carbohydrates , However , a set of dietary goal does exist . It is defined as a  broad agreement among all national and international Authorities as to those changes in the average diet that are desirable to minimize risk of cardiovascular disease and cancer. (Bender 1997)
-The table below gives a summary and comparison of percentage of energy derived from carbohydrates, fats and alcohol with desirable levels of each the major food groups.
-The values (not already provided) were calculated using Atwater factors as follows:
-Starch
-(A column showing male intakes has been added for comparison purposes)
-It is recommended that more energy is provided by carbohydrates because it is expected that this way less energy will be obtained from fats.
-The values concur for the most part with data collected using food frequency questionnaires a few months previously which was then analysed using DIETQ package. The information was obtained by analysing the diets of 29 University of Reading students aged between 19 and 40 years
-It showed that students have been shown to derive much higher than desirable levels of energy from Saturated fats and sugar. This may place them at risk of cardiovascular disease and cancer later in life.
-This similar trend may be attributed to the 'student culture' , which normally finds students living in private accommodation resorting to the increasingly wide array of snack foods, ready meals and take away food available. These are normally high in Sodium, sugar and may contain hidden fat.
+Total body weight gain has a typical rate of 2kg (4.5lb) in the first three months and then about 0.25 kg (0.5lb) per week for the rest of the pregnancy. A normal weight gain for most healthy women is 11-15kg, averaging at 12.5kg
+Increasing energy is needed to provide for the growth of the developing baby, the placenta, the uterus and enlarging breasts. In addition, energy is needed to produce colustrum (a very rich special secretion) from the breasts near the end of pregnancy, there is greater physical effort and extra fat is normally accumulated and used up during breast feeding.
+On average a pregnant woman's daily energy requirements go up by as much as 80,000kcal (285kcal/day)or 300MJ during the 40 weeks. This value is lower the less physical activity you have.
+It is recommended you aim to gradually increase the amount of food slightly during the first three months, and more during the 2 nd trimester (an extra 100kcal/day) and 3 rd trimester (200kcal/day).
+Note, however, that eating large amounts in later stages may be difficult due to the enlarged uterus hence it is advisable to eat more during the first two trimesters. Also a reduction in physical activity whilst pregnant might mean less extra food is required.
+Although it is important to stay well nourished during and after pregnancy, putting on an excessive amount of weight may lead to complications such as high blood pressure and post- pregnancy obesity.
+You should ensure you eat a well balanced diet with emphasis on increase in high quality protein (an extra 30 g a day ) , iron ,calcium and vitamins especially folate .
+This may be done by eating balanced amounts of lean red meat, cheese , milk, and yoghurt, at least one portion of oily fish a week, pulses, cereals( especially wholemeal) and five or more portions of fruits and vegetables everyday .
+During the 40 weeks you are pregnant, your body requires approximately 900mg of iron. This equates to approximately 3mg a day and is needed for the increased blood volume, iron stores of the foetus and to compensate for blood loss during child birth, and to prevent anaemia.
+During pregnancy, although there is increased iron absorption still not enough is absorbed from the intestines and greater amounts need to be taken in.
+It is best to obtain iron from iron-rich foods such as red meat (avoiding liver) or iron fortified cereals, green leafy vegetables and legumes. If this is unfeasible you may take iron tablets although these sometimes cause abdominal discomfort or constipation. Take care to get professional guidance on safe limits of iron supplements as excessive amounts are harmful.
+Yes,
+Folic acid is essential for the proper growth of the nervous system and to prevent neural tube defects. An increased level (0.4mg/day) is especially needed during the first twelve weeks of pregnancy. Supplementation diminishes incidence of neural tube defects by about 70%.
+Vitamin C tablets may be taken if you prefer not to have a few glasses of good quality orange juice a day also not more than 10mg vitamin B6 may be taken. Do not use vitamin supplements except under specialist supervision as excessive Vitamin A may lead to damage of the baby.
+Although you theoretically require higher vitamin intake whilst pregnant, physiological changes occur which cause more vitamins and minerals to be absorbed. For example, calcium absorption from blood goes up 10% to 40% or more during pregnancy. This necessitates additional Vitamin D (10g daily) intake for calcium to be efficiently absorbed through the intestine to avoid calcium depletion.
+Alcohol, except in very small amounts, may damage the developing baby.
+Swordfish, marlin and fresh tuna due to risk of methylmercury contamination of these fish from seawater. You should however aim to eat at least two portions of fish a week one of which should be oily fish. Wild salmon is less likely to have harmful levels of contaminants.
+Liver as it contains large amounts of Vitamin A
+Soft cheese, soft eggs and pt due to risk of salmonella and listeria poisoning.
+If you or a member of your family suffers from allergies like hay fever or eczema do not eat foods with peanuts as the developing baby may become sensitised to peanut antigens.
+Have caffeine, herbal teas and artificial sweeteners in moderation.
+Definition
+Neural Tube defects: Theses are severe congenital malformations of the central nervous system that occur as a result of the failure of the embryonic neural tube to close normally within the first 4 weeks of conception

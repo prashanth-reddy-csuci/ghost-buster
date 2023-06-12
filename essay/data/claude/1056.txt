@@ -1,5 +1,3 @@
-Here is a draft essay in roughly 2000 words on the aggregate supply curve in Classical, Keynesian, and New Keynesian economic models:
-
 The aggregate supply (AS) curve depicts the total supply of goods and services in an economy at different price levels. However, the shape and properties of the AS curve differ across major economic schools of thought - Classical, Keynesian, and New Keynesian.
 
 In the Classical model, the AS curve is vertical in the long run. This is because Classical economists assume that wages and prices are fully flexible and markets always clear. Any changes in aggregate demand (AD) will lead to changes in the price level but not the level of output or employment, as supply always adjusts to match demand. In the short run, the AS curve is upward sloping as firms adjust production and wages are "sticky." However, markets eventually equilibrate at the vertical long-run AS curve. 

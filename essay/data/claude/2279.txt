@@ -1,5 +1,3 @@
-Here is a draft 2500 word essay in response to the prompt:
-
 In what ways do open source software, open data standards, and open source hardware support the freedom of designers and improve accessibility for users? 
 
 Open source software, open data standards, and open source hardware provide a number of benefits that support the freedom of designers and improve accessibility for users. By being open and freely available, these technologies enable creativity, collaboration, and the spread of useful tools and resources.

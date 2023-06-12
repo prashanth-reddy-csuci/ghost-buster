@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 Compotech Industries Plc is evaluating three capital investment projects to determine which would be the most financially viable option based on net present value (NPV) analysis. NPV calculates the present value of future cash flows to determine the current worth of a project. Project A has an initial investment of $500,000 and generates $150,000 in annual cash inflows for 5 years. At a discount rate of 10%, the NPV of Project A is $196,619. 
 
 Project B requires an initial $750,000 investment but produces $300,000 in annual cash flows over 7 years. The NPV of Project B is $358,593 given the same discount rate. Project C demands $1 million upfront but results in $500,000 in cash flows each year for 10 years, yielding an NPV of $801,593. 

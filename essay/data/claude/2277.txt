@@ -1,5 +1,3 @@
-Here is a draft essay in 976 words:
-
 The Butterworth filter is a type of analog filter that has a maximally flat frequency response in the passband. Its frequency response rolls off towards the stopband, having no ripples. This differs from other filters like the Chebyshev filter that allows ripples in the passband to achieve a steeper roll-off. The key advantage of the Butterworth filter is that it does not distort the signal within the passband. 
 
 To implement analog filters digitally, the filters must first be mapped to the discrete-time domain. The most direct method is impulse-invariant transformation, but this can result in aliasing and instability. The bilinear transformation method maps the analog s-plane to the digital z-plane, overcoming these issues. It warps the frequency response to maintain stability and minimize aliasing. The bilinear transform preserves the magnitude and phase response, though the frequency is warped. 

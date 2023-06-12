@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The aim of the experiment was to determine the concentration of an unknown copper solution using electrochemical methods of analysis, specifically through the use of a galvanic cell. A galvanic cell consists of two half cells, an anode and a cathode, that generate an electric potential difference due to the redox reactions occurring at each electrode. When the electrodes are connected via a salt bridge, this allows ions to flow between them and generate a potential difference that can be measured. 
 
 The potential difference of a galvanic cell depends on the concentrations of ions in each half cell according to the Nernst equation. By creating a series of solutions with known concentrations, a calibration plot can be constructed to relate concentration and potential difference. The concentration of the unknown sample can then be determined using its measured potential difference and the calibration plot.

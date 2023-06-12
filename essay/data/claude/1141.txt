@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 Augustin-Louis Cauchy made several crucial advances in the field of real analysis and developed foundational concepts that shape our modern understanding of calculus. He helped formalize the definitions of infinite quantities, limits, and continuity that underpin calculus. 
 
 Cauchy disproved Lagrange's belief that any function could be represented by a Taylor series expansion. Cauchy showed that the Taylor series expansion only converges for functions that are infinitely differentiable over the domain of convergence. This led Cauchy to develop a more rigorous definition of the definite and indefinite integral that did not rely on the Taylor series. Cauchy defined the integral as the limit of sums, allowing him to prove the Fundamental Theorem of Calculus.

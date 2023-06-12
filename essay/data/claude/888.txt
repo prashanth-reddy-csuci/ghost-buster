@@ -1,5 +1,3 @@
-Here is a 744-word essay in response to the prompt:
-
 The key components of a stylus instrument for measuring surface profiles include the stylus itself, transducer elements to convert the stylus position into an electronic signal, an amplifier, an analog-to-digital (A/D) converter, and a computer for data collection, processing, and output. 
 
 The stylus is the physical probe that tracks the surface of the workpiece. It must be carefully designed to have an appropriate shape and diameter for accurately following the contours of the surface. The stylus is attached to a movable arm or suspension system that allows it to move vertically in response to the surface profile.

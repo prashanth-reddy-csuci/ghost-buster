@@ -1,5 +1,3 @@
-Here is a 1256-word essay in response to the prompt:
-
 Dark matter refers to a type of matter in the universe that does not emit or reflect light or other forms of electromagnetic radiation. Although scientists have not yet directly detected dark matter, we know it exists due to its gravitational effect on visible matter in the universe. There are three main discrepancies in astronomical observations that point to the existence of dark matter: the motion of galaxies in clusters, the rotation of galaxies, and the structure formation in the early universe.
 
 There are two main types of dark matter proposed: hot dark matter and cold dark matter. Hot dark matter moves at relativistic speeds, while cold dark matter moves at non-relativistic speeds. The current cosmological model, the lambda-CDM model, proposes that most of the dark matter in the universe is cold dark matter. Cold dark matter best explains the large-scale structure that we observe in the universe today, including the cosmic web of galaxies and dark matter filaments that span the universe. 

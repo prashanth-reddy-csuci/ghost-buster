@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 The chloride content of milk is determined through a titration analysis using a silver nitrate solution. Silver nitrate reacts with chloride ions to form a precipitate of silver chloride. By adding silver nitrate solution to a milk sample and measuring how much is required to reach the equivalence point when all the chloride has precipitated, the total chloride concentration can be calculated.
 
 Normal cow's milk contains on average 0.12% chloride. Milk from cows with mastitis, an inflammation of the mammary gland, often has a higher chloride content. This is because mastitis results in damage to the milk secretory tissue in the udder, allowing plasma constituents like chloride and sodium to leak into the milk. As the permeability of the tissue increases, the chloride concentration rises. Chloride levels of 0.2% or higher are frequently observed in mastitic milk. 

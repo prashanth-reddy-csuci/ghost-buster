@@ -1,5 +1,3 @@
-Here is a draft 2750-word essay in response to the prompt:
-
 The use of indefinite pronouns, such as 'anyone,' 'everybody,' and 'everything,' has been shown to differ among various demographic groups in terms of frequency and semantic usage. This essay examines a potential research question and methodology to investigate gender and age differences in the use of indefinite pronouns using corpus linguistics techniques.
 
 A relevant research question for this investigation could be: What are the differences in the use and distribution of indefinite pronouns between males and females and between younger and older age groups, as evidenced in large-scale corpora of natural language? This question aims to uncover potential differences in pronoun usage that could point to underlying differences in beliefs, attitudes, and communication styles between these demographic groups. 

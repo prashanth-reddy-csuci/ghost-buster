@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Elasticity of demand refers to how sensitive the quantity demanded of a good is to changes in its price. It measures the responsiveness of demand to price changes. Price elasticity of demand is calculated as the percentage change in quantity demanded divided by the percentage change in price. 
 
 There are three main types of price elasticity of demand: elastic, inelastic, and unit elastic. Demand is elastic when the percentage change in quantity demanded is greater than the percentage change in price. This means demand is sensitive to price changes. An example is restaurant meals—when prices rise, quantity demanded drops sharply. Demand is inelastic when the percentage change in quantity demanded is less than the percentage change in price. This means demand does not change much with price changes. An example is insulin for diabetics—when prices rise, demand cannot drop much as it is a necessity. Unit elastic demand means the percentage changes in quantity and price are equal, so total revenue stays the same.

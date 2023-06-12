@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 The practical involved nested quadrats to determine the distribution of trees in a beechwood using random plotless sampling. The expected results were to obtain data on the density and distribution of beech trees  across the study site. By randomly locating quadrats without plots, an unbiased representation of the tree population was achieved. 
 
 The plotless sampling method found a clustered distribution of beech trees, with some areas of high density and others with few or no trees. Several factors likely led to the planting of beech trees in the area, including the ability of beech trees to thrive in dry, sandy, and acidic soil conditions, as well as the usefulness of beechwood for lumber and firewood.

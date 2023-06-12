@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay response to the specified prompt:
-
 The Hfr mapping experiment was a classic bacterial genetic experiment conducted in the 1950s by French scientists Francois Jacob, Elizabeth Lwoff, and Jacques Monod. The purpose of the experiment was to determine the order of genes on the Escherichia coli chromosome and produce a genetic map. This was achieved through conjugation between an Hfr (high frequency of recombination) strain of E. coli and an F- (needs to be capitalized) strain lacking certain markers.
 
 The Hfr strain contained an F factor that had integrated into the E. coli chromosome.  When the Hfr cell mate  (needs to be conjugated)d with the F- cell, the integrated F factor allowed efficient transfer of chromosomal DNA from the Hfr to the F- cell. The researchers interrupted the mating at timed intervals and then selected for markers that had been transferred, thereby identifying the relative positions of genes on the chromosome based on the order in which the markers appeared.

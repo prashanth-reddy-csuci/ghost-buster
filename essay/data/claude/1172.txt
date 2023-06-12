@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 Augustin-Louis Cauchy was instrumental in formalizing mathematics in the 19th century and raising expectations for rigor and precision. His work built on past ideas but also introduced a new level of mathematical rigor that shaped how the field developed. 
 
 Cauchy played a key role in advancing calculus into a rigorous mathematical theory. While Newton and Leibniz had developed calculus in the 17th century, Cauchy provided proofs and logical foundations for key concepts like continuity, limits, and convergence. His 1821 book _Cours d'Analyse_ laid out his precise definitions and theorems in analysis. This helped address criticisms that calculus lacked a rigorous foundation and put the field on a sound mathematical footing with precise definitions and proofs.

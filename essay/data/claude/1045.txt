@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 Indexicals and demonstratives are words whose semantic content depends on the context of utterance, such as ‘I’, ‘you’, ‘this’, and ‘that’. They are important for a theory of sense because they show that the meaning of a word is not always fixed, but can vary based on the context. However, they also pose problems because their meaning can be ambiguous or indeterminate. Words like ‘left’, ‘rich’, and ‘now’ illustrate this, as they sometimes function as indexicals but other times do not. 
 
 Indexicals like ‘I’ and ‘you’ depend entirely on context for their meaning. When I say ‘I’, the referent changes depending on who is speaking, and when I say ‘you’, the referent depends on who is being addressed. The meaning of these words cannot be determined without this contextual information. Demonstratives like ‘this’ and ‘that’ also depend on context, specifically the speaker’s intentions and the audience’s frame of reference. When a speaker uses ‘this’ or ‘that’, the intended referent is meant to be identified based on the utterance context, like a physical gesture or shared visual space.

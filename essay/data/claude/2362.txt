@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 Applied linguistics involves studying language in real world contexts and using analytical techniques to gain insights into how language works and is used in society. Two important tools used by applied linguists are concordance lines and critical discourse analysis. 
 
 A concordance is a list of occurrences of a word or phrase in a text along with the surrounding context for each occurrence. Concordance lines are the lines in a concordance that show a word or phrase in context. By examining many concordance lines for a word or phrase, patterns can emerge regarding how it is used. For example, a study of the concordance lines for the word “woman” in a large collection of text may show that it collocates frequently with words like “emotional,” “irrational,” or “nagging.” This could reveal subtle biases or stereotypes in how women are portrayed in that discourse community. Concordance lines are a data-driven way to study language in an authentic, unelicited manner.

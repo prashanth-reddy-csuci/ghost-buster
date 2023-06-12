@@ -1,5 +1,3 @@
-Here is a draft 1250 word essay in response to the prompt:
-
 Heuristic evaluation is an informal usability inspection method used to identify potential usability issues in a user interface design. Multiple evaluators examine the interface to identify aspects that violate recognized usability principles - known as heuristics. The heuristic evaluation method is popular because it is a quick, easy, and inexpensive way to assess a user interface and uncover major usability problems before conducting a usability test with real users.  
 
 Involving multiple evaluators in a heuristic evaluation helps to identify more usability issues. Different evaluators may interpret and apply the heuristics differently, so more evaluators means more issues can surface. Having multiple evaluators also allows their findings to be aggregated and prioritized based on severity and frequency. However, 3 to 5 evaluators are typically sufficient to identify most of the major issues in an interface.

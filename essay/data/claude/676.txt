@@ -1,5 +1,3 @@
-Here is a draft 1750 word essay in response to the prompt:
-
 There are several factors that can affect a student's exam performance. Statistical techniques such as means, medians, correlations, and regression analysis can help explore and quantify the relationship between these factors and exam scores. Data from a survey of second year econometrics students can be analyzed to determine the impact of attendance, sex, year of study, and course selection on exam performance.
 
 A student's attendance in class and engagement with the course material is one of the most significant factors affecting their exam performance. Students who attend more classes and spend more time studying the material will have a stronger grasp of concepts and topics covered on the exams. The mean and median attendance for students can be calculated to get a sense of the central tendency. Then the correlation between attendance rates and exam scores can be measured to determine the strength and direction of the relationship. A strong positive correlation would indicate that as attendance increases, so do exam scores. 

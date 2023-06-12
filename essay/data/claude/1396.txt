@@ -1,5 +1,3 @@
-Here is a 747 word essay in response to the prompt:
-
 Characterizing and purifying sugar functionalized polymers presents several challenges due to the complex and heterogeneous nature of these materials. A variety of methods have been developed to analyze these polymers, each with its own set of limitations. 
 
 Gel permeation chromatography (GPC) is a common method used to determine the molecular weight distribution of sugar polymers. In GPC, polymer samples are separated based on their hydrodynamic volume as they pass through porous beads packed into a column. By comparing the retention times to those of polymer standards, the molecular weights of different polymer chains can be estimated. However, GPC has limited resolution and cannot provide information on the chemical structure or functional groups of the polymers. It also requires the polymers to be soluble in a suitable solvent, which can be challenging for highly functionalized or crosslinked sugar polymers.

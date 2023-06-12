@@ -1,5 +1,3 @@
-Here is a 254 word essay response:
-
 The Boston Consulting Group matrix is a tool used by businesses to analyze their product portfolio. It helps companies understand their market position relative to competitors. The matrix places products/businesses into four categories based on their market share and growth rate: stars, cash cows, question marks, and dogs. For the automobile manufacturing industry, the placement of major firms into these categories gives insight into the competitive dynamics.
 
 Peugeot Motor Company Ltd would be considered a "question mark." It has a small market share in a high-growth industry.  Peugeot must determine whether to invest further in growing its share. Toyota Motor Manufacturing would be a "star." It has a large market share in a high-growth industry, indicating strong competitive positioning and opportunities for further growth. General Motors would be a "cash cow." It has a large market share in a low-growth industry, generating profits to fund other business units.  Finally, Iveco France SA would likely be considered a "dog" with a small share of a low-growth industry. 

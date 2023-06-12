@@ -1,5 +1,3 @@
-Here is a draft 1750-word essay in response to the prompt:
-
 Temperature sensors play a crucial role in Formula One racing by enabling teams to monitor the temperature of tyres during races. By tracking tyre temperatures, teams can make strategic decisions about tyre changes and ensure the safety of drivers. Overheating tyres can lead to blowouts at high speeds, so temperature control and monitoring are critical.  
 
 The most common types of temperature sensors used in Formula One are piezoelectric sensors and surface acoustic wave (SAW) sensors. Piezoelectric sensors use crystals that generate an electric current when subjected to mechanical stress. As the temperature of the tyre changes, the crystal experiences small changes in size and shape that alter the electric current, allowing the temperature to be measured. SAW sensors use high-frequency acoustic waves that travel across the surface of a piezoelectric substrate. The velocity of these waves depends on the temperature of the substrate, so by measuring the time of flight of the waves, temperature can be determined.

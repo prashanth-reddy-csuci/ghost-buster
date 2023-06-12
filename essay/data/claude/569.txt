@@ -1,5 +1,3 @@
-Here is a 250 word essay in response to the prompt:
-
 The ten decision areas that Hayes and Wheelwright outlined to develop a successful manufacturing strategy are: capacity, facilities, technology, organization structure, job designs, human resources, quality, planning and control, performance measurement, and relationships. For the new lean body shop, these ten areas can be addressed by dividing the overall implementation into three sub-projects: education, layout transformation and six sigma.
 
 The education project will focus on training employees in lean principles and techniques to build the necessary knowledge and skills. This will inform decision areas like job design, human resources and organization structure. The layout transformation project will optimize the layout and flow of the shop floor to enable lean processes. This impacts areas such as capacity, facilities, and planning and control. The six sigma project will improve quality by reducing defects and variability. This project will guide quality, performance measurement, and planning and control decisions.

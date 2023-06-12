@@ -1,5 +1,3 @@
-Here is a draft 2245-word essay in response to the prompt:
-
 A statistical analysis of exam performance and various attendance measures at a university can provide insight into the factors that impact student success. By examining the relationship between metrics such as lecture attendance, class attendance, and revision lecture attendance with exam performance, we can determine if attending classes and lectures regularly has a significant effect on how well students do on exams. Furthermore, analyzing if students' A-level results and year of study influences their exam performance can illustrate how academic achievement  progresses over students' university education.  
 
 In this analysis, the dependent variable is exam performance, as measured by the overall mark received in the exam. The independent variables are lecture attendance, measured as the percentage of lectures attended; class attendance, measured as the percentage of classes attended; revision lecture attendance, measured as whether or not the student attended an optional revision lecture before the exam; students' A-level scores upon university admission; and students' current year of study.

@@ -1,5 +1,3 @@
-Here is a draft 2000-word essay in response to the prompt:
-
 Corpus linguistics is the study of language based on large collections of naturally occurring texts, known as corpora. Corpus linguists analyze the patterns of grammar, vocabulary, and language use that emerge from these large datasets. A key focus of corpus linguistics is identifying the connections between the patterns found in language and the meanings they convey. Understanding these connections has been transformative in the field of linguistics.  
 
 Traditionally, linguists studied language largely through intuition and constructed examples. This approach was limited by individuals' language experiences and inclined towards studying language as a set of rigid rules. In contrast, corpus linguistics relies on authentic language use, allowing linguists to identify meaningful and systematic variations, exceptions, and grammatical complexities that occur naturally in language. Studying corpus data has revealed that language is far more complex, flexible, and patterned than previously theorized.

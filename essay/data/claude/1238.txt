@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 To program a robot to accurately draw a frame using both linear and joint interpolation, several corrections and considerations need to be made. The use of different movement modes—linear versus joint—will also affect the speed, precision, and path of the robot. 
 
 First, the code needs to accurately specify the dimensions and coordinates of the frame to be drawn. Any errors or imprecision in the measurements and locations will translate directly to the physical frame. Double-checking the measurements and using a coordinate system that matches the robot's frame of reference are essential. 

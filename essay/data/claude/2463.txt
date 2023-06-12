@@ -1,5 +1,3 @@
-Here is a 500-word essay in response to the prompt:
-
 3-phase power systems provide several advantages over single-phase systems. The main benefits are reduced power fluctuation, higher power transmission efficiency, and lower conductor requirements. 
 
 3-phase systems produce a more consistent power output compared to single-phase systems. In a single-phase system, the power output pulsates as the AC waveform alternates between positive and negative. In a 3-phase system, the waveforms of the three phases are offset by 120 degrees. This means that when one phase is at a peak, the other two phases are not at peaks. The power output from the three phases combines to produce a more steady overall power output. This results in less fluctuation in power which can reduce issues like light flickering.

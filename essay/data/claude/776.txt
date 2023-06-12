@@ -1,5 +1,3 @@
-Here is a 480 word essay in response to the prompt:
-
 There are several basic requirements that must be considered in the design of a torque measurement system using a torque sensor. The first requirement is to determine what level of accuracy and precision is needed in the measurement of the torque. This requires understanding the specific application and measurements needed to determine the torque sensor resolution and range that must be specified. For a high accuracy measurement, the torque sensor's error and repeatability need to be very low, while for a general purpose measurement these parameters can be more modest.
 
 A second key requirement is determining the torque capacity needed for the application, which establishes the torque sensor maximum rating that must not be exceeded. The torque sensor has to be able to measure the highest anticipated torque in the system without any damage or loss in performance. Often a safety factor is also included to account for any unexpected spikes in the torque. The torque sensor should never be operated at more than its rated maximum capacity. 

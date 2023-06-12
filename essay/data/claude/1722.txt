@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 Selecting a suitable material for a high-pressure gas transportation cylinder is a crucial step in the design process. The material must meet several constraints related to strength, fracture toughness, corrosion resistance, and cost. The Cambridge Engineering Selector (CES) materials database and software package provides a useful toolkit for narrowing down material options based on these constraints.  
 
 The main objectives in selecting a material for a pressure vessel are:

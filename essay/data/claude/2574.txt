@@ -1,5 +1,3 @@
-Here is a draft 1748 word essay in response to the prompt:
-
 Radiocarbon dating and uranium-series dating are two of the most widely used techniques for absolute dating in geology and archaeology. Absolute dating provides a numerical age for an object, as opposed to relative dating which only provides a sequence of events. Both radiocarbon and uranium-series dating have advantages in that they can provide precise numerical ages for a wide range of organic and inorganic materials. However, they also have some significant limitations that must be understood to properly interpret the resulting ages.  
 
 Radiocarbon dating uses the decay of the radioactive isotope carbon-14 to estimate the age of organic remains. It can be used to date materials up to around 50,000 years old. A major advantage of radiocarbon dating is that it can be used on a wide range of organic remains, including wood, charcoal, paper, cloth, and human and animal remains. It allows archaeologists and geologists to establish a precise chronological sequence and provides a numerical age estimate for sites or objects where there are no other dating methods available.

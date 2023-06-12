@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 The doctrine of privity in contract law refers to the principle that only parties to a contract can enforce it or benefit from it. Third parties not involved in the formation of the contract have historically had no rights to enforce contractual terms or gain from any benefits. The doctrine of privity emerged in English contract law in the 18th and 19th centuries and  continued to be strictly applied for much of the 20th century. However, its relevance has declined in recent decades due to judicial decisions and statutes expanding third party rights. 
 
 The doctrine of privity was first articulated in the English case of Tweddle v Atkinson in 1861. The court held that a third party beneficiary of a contract lacked standing to sue to enforce it, even though the contract was made for their benefit. This established the principle that only parties to a contract, with "privity of contract" could take action to enforce contractual terms. The doctrine was reaffirmed in the English case of Dunlop Pneumatic Tyre Co Ltd v Selfridge & Co Ltd in 1915.

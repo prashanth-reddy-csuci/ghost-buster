@@ -1,5 +1,3 @@
-Here is a draft 2000-word essay in response to the prompt:
-
 The 'tip of the tongue' (TOT) experience is a common phenomenon where we have a strong feeling that we know a word or name, but cannot quite retrieve it from memory at that moment. The TOT experience provides insight into how our brain organizes and retrieves words and names, as well as the processes involved in speech production. 
 
 When we have a TOT experience, we are usually able to recall some partial information about the word, like the first letter or number of syllables. This indicates that our lexical knowledge is organized by certain attributes like initial phonemes, syllables, and word length. However, the full phonological representation of the word remains tantalizingly out of reach for the moment. The TOT state suggests that word retrieval is a multi-step process, where we can access some partial features of a word before retrieving its complete phonological form.

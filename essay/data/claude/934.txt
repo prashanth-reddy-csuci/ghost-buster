@@ -1,5 +1,3 @@
-Here is a draft 2000-word essay in response to the prompt:
-
 What is Sloman's model of human reasoning, and how does it explain the variety of results found in psychological experiments investigating reasoning? Provide examples from psychological experiments to support your answer.
 
 Stephen Sloman's model of human reasoning is that our mind utilizes multiple specialized cognitive mechanisms, rather than domain-general reasoning systems. These mechanisms are adapted to different types of reasoning tasks and contexts, which interact in complex ways to produce our judgments and decisions. This model helps explain why human reasoning seems inconsistent and varied across different contexts and experiments. 

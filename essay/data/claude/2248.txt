@@ -1,5 +1,3 @@
-Here is a draft essay in roughly 3000 words on the prompt:
-
 Open source software and hardware refers to technology whose design is made publicly available and that can be modified and shared freely. The open source movement started in the software industry but has since spread to other areas like biotech and hardware development. 
 
 There are several advantages to using open source software and hardware. First, it is usually free to use and modify open source technology. This can reduce costs for both individuals and organizations. Second, the open nature of the technology means that many people can review, test, and improve the software and hardware. This can lead to faster rates of innovation and higher quality. Third, open source technology is often customizable, as the code and designs are publicly available. Users can adapt the technology to meet their specific needs.

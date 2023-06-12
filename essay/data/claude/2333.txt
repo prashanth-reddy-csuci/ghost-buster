@@ -1,5 +1,3 @@
-Here is a draft 510 word essay in response to the prompt:
-
 ELISAs offer several advantages over Western blots for detecting and quantifying antigens. ELISAs are more sensitive than Western blots, allowing for the detection of lower concentrations of antigens. ELISAs are also more quantitative, enabling the measurement of antigen concentrations from a sample. In contrast, Western blots are only semi-quantitative. 
 
 To determine if monoclonal antibodies recognize both pure and denatured forms of Protein X using an ELISA, the ELISA plates would be coated with either the pure or denatured form of Protein X. The monoclonal antibodies would then be added to the ELISA plate, followed by a secondary antibody with a conjugated enzyme. If the monoclonal antibodies bind to the coated Protein X, upon addition of the substrate for the enzyme, a color change will result. By comparing the level of color change between the pure and denatured Protein X coatings, it can be determined if the monoclonal antibodies recognize both forms of the protein.

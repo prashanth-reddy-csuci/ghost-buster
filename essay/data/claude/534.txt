@@ -1,5 +1,3 @@
-Here is a draft 1253-word essay in response to the prompt:
-
 The doctrine of intention to create legal relations in contract law refers to the requirement that parties must intend to be bound by the terms of an agreement for it to be considered legally enforceable as a contract. If the parties did not intend to create a legally binding agreement, the courts will not recognize it as an enforceable contract, even if it satisfies all the other requirements such as offer, acceptance, and consideration. 
 
 The key rationale behind this doctrine is that the law of contracts should only apply to those agreements that the parties actually intend to have legal consequences. If two parties are simply negotiating or discussing a possible arrangement in a casual manner with no real intention to be bound by those discussions, it would be unjust to hold them to contract law standards. The courts do not want to make unwilling parties to contracts or discourage casual negotiations.

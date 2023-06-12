@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The aim of this experiment was to determine the total acidity, measured as the concentration of acetic acid, in three samples of vinegar. The samples consisted of distilled white vinegar, apple cider vinegar, and balsamic vinegar. The hypothesis was that the balsamic vinegar would have the highest acidity, followed by the apple cider vinegar, and the distilled white vinegar would have the lowest acidity.
 
 To test the acidity, the experiment used titration with a standardized solution of sodium hydroxide (NaOH) to determine the amount of NaOH needed to neutralize the acidic vinegar samples. The vinegar samples were diluted to between 0.1 to 0.5 M to ensure the amounts used would be appropriate for the titration apparatus and technique. The NaOH solution was prepared to a concentration of approximately 0.2 M. 

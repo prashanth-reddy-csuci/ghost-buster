@@ -1,5 +1,3 @@
-Here is a 1000 word essay on the topic:
-
 The Q-cycle is a series of electron transport steps within the electron transport chain (ETC) of the inner mitochondrial membrane that involves the transfer of protons and electrons between coenzymes Q and cytochrome complexes. The Q-cycle allows for more protons to be pumped across the inner mitochondrial membrane per pair of electrons transported through the ETC, thus increasing the efficiency of ATP production. 
 
 The Q-cycle revolves around the movement of electrons between ubiquinone (coenzyme Q) and cytochrome b, which is part of cytochrome bc1 complex (cytochrome complex III). When two electrons are transported from complex I or II to ubiquinone, ubiquinone picks up two protons from the mitochondrial matrix and is reduced to ubiquinol. Ubiquinol then donates one electron at a time to cytochrome b. The one-electron donation results in the formation of a ubisemiquinone radical, which can either donate its remaining electron to a second cytochrome b molecule or pick up another electron from complex I or II. This branched electron flow results in more protons being pumped across the inner membrane.

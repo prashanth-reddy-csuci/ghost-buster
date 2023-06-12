@@ -1,5 +1,3 @@
-Here is a 761-word essay on surface tension and its measurement:
-
 Surface tension refers to the elastic tendency of liquids which makes the exposed surface contract to the smallest area possible.  It occurs because molecules at the surface do not have neighboring molecules on all sides, so they form stronger bonds with each other to minimize the surface area. This creates an elastic "film" on the surface. 
 
 The surface tension of a liquid can be measured using different methods. The Jaeger method involves measuring the maximum pressure inside a bubble just before it bursts. The pressure inside the bubble is measured using a manometer, and the radius of the bubble is measured using a cathetometer. The surface tension is then calculated using the Young-Laplace equation relating pressure difference and surface tension. The Cambridge method involves measuring the maximum mass that can be added to a wire ring before it detaches from the liquid surface. The surface tension is calculated by equating the vertical components of surface tension force and gravity.

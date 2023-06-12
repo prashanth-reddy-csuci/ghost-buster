@@ -1,5 +1,3 @@
-Here is a 1494 word essay in response to the prompt:
-
 Describe the Structure and Function of a Leaf in C4 Plants
 
 Leaves are the primary organs of photosynthesis in plants. The vast majority of plants utilize either C3 or C4 photosynthesis to convert sunlight into chemical energy. C4 photosynthesis evolved later and is considered an adaptation for hot, arid climates. C4 plants have a modified leaf structure and biochemical process that helps them photosynthesize efficiently under conditions where C3 plants would struggle. 

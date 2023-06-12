@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 Multiple methods were used to analyze the ripeness of bananas, tomato content in ketchup, and peanut content  in candy bars in a comprehensive study. To determine banana ripeness, green and yellow bananas were tested using Near-Infrared Spectroscopy, or NIR. By shining infrared light on the bananas, the amount of light absorbed at different wavelengths indicated how much starch had converted to sugar, signaling the fruit's ripeness. For ketchup, High Performance Liquid Chromatography, or HPLC, was used to detect the concentration of lycopene, the red-orange carotenoid antioxidant that gives tomatoes and ketchup their color.  By comparing absorbance values to standards, the percentage of tomato in Heinz ketchup was found to be 33%.
 
 For the candy bars, the pieces were ground up and lipids were extracted using liquid solvents. Gas Chromatography, or GC, separated the lipid components and Mass Spectrometry, or MS, was used to identify fragments by mass-to-charge ratio, indicating the presence of peanuts. Snickers was found to contain 11% peanuts by weight, while Galaxy contained 8% peanuts.  

@@ -1,5 +1,3 @@
-Here is a 980 word essay in response to the prompt:
-
 DNA and RNA are two similar yet distinct nucleic acids found in cells. While they are both polymers composed of nucleotide units, there are some key differences that allow them to be distinguished from each other. Several experimental methods can be used to differentiate DNA from RNA. 
 
 The most straightforward method is to examine the base composition of the nucleic acid. DNA contains the bases adenine, guanine, cytosine, and thymine. RNA contains adenine, guanine, and cytosine, but has uracil instead of thymine. By analyzing the base content using techniques like chromatography, one can determine if the sample contains thymine or uracil and thereby identify if it is DNA or RNA.

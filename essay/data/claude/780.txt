@@ -1,5 +1,3 @@
-Here is a 498-word essay in response to the prompt:
-
 A cantilever system consists of a rigid beam structure anchored and supported at one end with a weight suspended at the free end. The beam exhibits elastic deformation under the influence of the weight, and this deformation can be measured to determine the magnitude of the force acting on the end of the cantilever. Strain gauges and beam-type load cells are commonly used to measure this deformation and determine the applied force with a high degree of sensitivity and accuracy.
 
 As the cantilever beam bends, the outer surface is in tension and inner surface in compression. Strain gauges positioned on the outer surface will undergo elongation, while those on the inner surface will shorten. By combining gauges in a Wheatstone bridge arrangement, this can generate a small voltage output proportional to the degree of deformation. However, this output is usually very small and requires amplification using specialized amplifiers with high input impedance. The amplified signal can then be displayed on analogue or digital meters to provide a real-time readout of the applied force.

@@ -1,5 +1,3 @@
-Here is a 1750 word essay in response to the prompt:
-
 The five human senses - sight, hearing, smell, taste, and touch - rely on complex cell signalling mechanisms to detect environmental stimuli and communicate that information to the brain. While there are some similarities in how these signalling pathways work across the different senses, there are also important differences in how they are activated, amplified, and terminated.  
 
 Vision begins when photons of light strike photoreceptor cells in the retina called rods and cones. This activates a signalling cascade that converts the light signal into an electrical signal. The electrical signal is amplified and transmitted to bipolar cells and then ganglion cells, whose axons bundle to form the optic nerve connecting the eye to the visual cortex. The visual signalling pathway requires the activation of G-protein coupled receptors and ion channels, as well as the secondary messenger cGMP. The signal is amplified through these cell receptors and ion channels, but is eventually terminated by phosphodiesterases that break down cGMP.   

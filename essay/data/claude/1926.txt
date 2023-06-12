@@ -1,5 +1,3 @@
-Here is a 743 word essay on how firms try to solve the principal-agent problem:
-
 The principal-agent problem arises when one party (the principal) delegates work to another party (the agent) but has limited ability to monitor the agent's actions and ensure they are acting in the principal's best interest. This problem is prevalent in modern corporations, where shareholders (principals) hire managers (agents) to run the company on their behalf. However, managers may pursue their own self-interest rather than maximize shareholder value. 
 
 There are several mechanisms firms use to help align the interests of managers and shareholders. One is through organizational design. Firms can be structured in ways  that make it easier to monitor managers, such as by reducing the management hierarchy so top executives are more directly overseeing business units. Firms may also separate the roles of CEO and Chairman of the Board to improve board oversight of the CEO. Regular reporting requirements and performance evaluations provide more transparency into managers' work. 

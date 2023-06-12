@@ -1,5 +1,3 @@
-Here is a draft 2750-word essay in response to the prompt:
-
 What is the correlation between the N4 fraction given by Raman spectroscopy and NMR spectroscopy in borate glasses, and what are their implications in the study of nuclear waste glasses? 
 
 Raman spectroscopy and nuclear magnetic resonance (NMR) spectroscopy are two techniques commonly used to characterize the structure of borate glasses. Both techniques can provide information on the boron coordination state in borate glasses, which is critical for understanding the properties of borate glasses, especially those used for nuclear waste immobilization. Specifically, both Raman and NMR spectroscopy can determine the fraction of boron atoms in the tetrahedral coordination state (denoted as N4) in borate glasses. However, Raman and NMR spectroscopy probe boron coordination in different ways and there are complex correlations between the N4 fractions they determine. Understanding these correlations is important for gaining a complete understanding of boron speciation in borate glasses.

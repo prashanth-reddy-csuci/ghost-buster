@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 The current way-finding system in the Armstrong Siddeley building has several usability issues that make it difficult for visitors to navigate the space efficiently. The issues include inconsistent and unclear signs, lack of maps, and lack of directions to key destinations.  To address these issues, a prototype redesign of the way-finding system was developed.
 
 The signs in the current system are inconsistent in their placement, size, and information. Some rooms have multiple signs with conflicting information while other rooms have no signs at all. The signs that do exist are placed haphazardly at different heights and locations, making them difficult to spot. They also vary greatly in size, ranging from small paper signs to large permanent wall signs. The information on the signs is often unclear, providing room numbers but no names or purposes. This inconsistency and lack of clarity in the signs create confusion for visitors trying to navigate the building.

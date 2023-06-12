@@ -1,5 +1,3 @@
-Here is a 238 word essay in response to the prompt:
-
 There are several key differences in performance between a Petters ACI 7.2 bhp single cylinder diesel engine running on standard diesel fuel and Rape Methyl Ester (RME) biodiesel fuel. 
 
 Firstly, the biodiesel fuel has a higher viscosity than regular diesel, so it does not flow as easily. This can lead to issues with cold starts, as the higher viscosity makes it more difficult for the fuel to circulate initially. The biodiesel also has a higher gel point, meaning it solidifies at a higher temperature. This can also cause issues in cold weather. To combat this, biodiesel blends often have kerosene or other additives to lower the viscosity and gel point.

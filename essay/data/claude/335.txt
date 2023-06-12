@@ -1,5 +1,3 @@
-Here is a 1001 word essay in response to the prompt:
-
 Tort law covers several important areas of civil law regarding harms and injuries. Three central areas of tort law are negligence, strict liability, and intentional torts. Within each area, the law aims to determine whether one party should be held legally responsible for damages caused to another party. However, tort law faces several challenges in promoting efficiency and coherence due to inconsistencies across jurisdictions and unclear standards of liability.  
 
 In negligence claims, tort law evaluates whether one party failed to exercise a reasonable standard of care and caution to avoid causing harm to another. The core question is whether the action or inaction of the alleged tortfeasor falls below the standard of a “reasonably prudent person” in that situation. Negligence law seeks to hold people liable for a lack of due care that causes injury, but it faces challenges in consistently and coherently applying the vague “reasonable person” standard across diverse circumstances. Juries are tasked with determining liability based on a fuzzy standard, leading to inconsistent outcomes.

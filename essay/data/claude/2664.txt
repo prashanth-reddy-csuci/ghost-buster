@@ -1,5 +1,3 @@
-Here is a 238 word essay response to the prompt:
-
 Standard solutions of sodium fluoride (NaF) and magnesium fluoride (MgF2) were prepared through serial dilution of 0.1M NaF solution and saturated MgF2 solution. To prepare the standard solutions, 0.1M NaF stock solution was  diluted by factors of 10 to obtain solutions with concentrations of 0.01M, 0.001M, and 0.0001M. For MgF2, the saturated stock solution was diluted by factors of 10 to obtain standard solutions with concentrations of 0.1M, 0.01M and 0.001M. 
 
 100mL of each standard solution was measured and analyzed using a fluoride ion selective electrode to determine its fluoride ion concentration based on its electric potential. The electrode was first calibrated using the known standards to establish a correlation between electric potential and fluoride ion concentration. The temperature of the solutions was measured during testing because ion selective electrode potentials are temperature dependent. The calibration and sample solution temperatures were used to standardize the electrode potential to 25°C to ensure accurate concentration measurements.

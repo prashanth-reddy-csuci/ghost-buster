@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 If tests conducted on a Shewhart control chart for means of a food packaging line show the process has changed, several things may have occurred to the production process. First, there could have been a shift in the mean, indicating the average output of the process has increased or decreased. This could be due to factors such as changes in raw materials, equipment wear or calibration, or environmental conditions. A higher mean could indicate the packages are overfilling, risking going over the upper specification limit. A lower mean could indicate underfilling, risking not meeting the minimum customer requirements. 
 
 Second, there could have been a change in the standard deviation, indicating more or less variability in the output. A higher standard deviation means there is more inconsistency in the amounts of product being packaged. This poses risks of both underfilling and overfilling as the output swings above and below the target. A lower standard deviation is preferable as it indicates a tighter, more consistent process with less variability.

@@ -1,5 +1,3 @@
-Here is a draft 3000-word essay response to the prompt:
-
 There are several factors that contribute to the conductivity or, conversely, the resistivity of a material. Conductivity, which is the inverse of resistivity, refers to how well an electric current can flow through a material. Materials with high conductivity allow current to flow easily, while materials with low conductivity hinder the flow of current and are more resistive.
 
 The first factor that determines a material's conductivity is the availability and mobility of charged carriers, such as electrons and ions. In metals, electrons are delocalized and free to move, giving metals high conductivity. In ionic compounds, ions are mobile and can carry charge, also resulting in high conductivity when molten or in solution. In insulators, there are no free charges available, so they have low conductivity. Semiconductors like silicon can have their conductivity manipulated by adding impurities, called dopants, which provide extra free charges.

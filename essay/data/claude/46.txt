@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 The Effect of Semantically Related Background Speech on Short Term Memory
 
 Background speech and noise in the environment can have a significant impact on our cognitive abilities, including how much information we can hold and recall in our short term memory. Speech that is semantically related to a primary task, such as words related to a list of items a person is trying to remember, may be particularly distracting or interfering. Here I will describe an experiment to investigate how semantically related background speech may affect short term memory, compared to unrelated speech or silence.

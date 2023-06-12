@@ -1,5 +1,3 @@
-Here is a 246 word essay response to the prompt:
-
 The antioxidant potential of a range of samples can be assessed using three common procedures: the 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay, the ferric reducing antioxidant power (FRAP) assay, and the oxygen radical absorbance capacity (ORAC) assay.  
 
 For the DPPH assay, stock solutions of the samples are prepared in methanol and diluted to different concentrations. The DPPH reagent is also prepared in methanol. 150 μl of the sample solutions are mixed with 2850 μl of the DPPH reagent. After 30 minutes, the absorbance is measured at 517 nm using a spectrophotometer. The DPPH radical scavenging activity is calculated based on the control. This is repeated in triplicate for each sample to determine repeatability.

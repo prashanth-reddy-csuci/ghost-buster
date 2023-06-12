@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The technical aims and objectives for the electronics team of a scoreboard project would be to design and build the electronic components required to power and control the scoreboard. The key objectives would be:
 
 1. Select high-brightness LEDs or other display technology that can be clearly seen from far distances, even in bright sunlight or at night. The display needs to be visible to all spectators in the stadium.

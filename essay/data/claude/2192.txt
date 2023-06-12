@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The yield and melting point of a condensation reaction can be affected by several experimental factors. These include the purity of starting materials, concentrations of reactants, temperature and duration of reaction, and thoroughness of purification methods. By controlling these variables, a higher yield and a sharp melting point can be obtained.
 
 To begin with, the purity of starting materials is critical to achieving an optimal yield and melting point. Impure reactants can lead to side products and a lower yield. They can also result in a impure product with a depressed and broad melting point range. To maximize purity, reactants should be freshly distilled or recrystallized before use. Storage conditions should also be considered to avoid moisture or contamination.  

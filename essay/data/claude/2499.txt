@@ -1,5 +1,3 @@
-Here is a draft 1484-word essay in response to the prompt:
-
 Public key infrastructure (PKI) is a fundamental framework that enables secure wireless networks and data exchange. It relies on public key cryptography (PKC) to establish trust and ensure the privacy and integrity of communications. The most commonly used PKC algorithm is RSA, named after its inventors Rivest, Shamir, and Adleman. 
 
 PKI works by using a pair of cryptographic keys – a public key and a private key – to encrypt and decrypt data. The public key can be shared with anyone and is used to encrypt data that only the private key holder can decrypt. The private key is kept secret and is used to digitally sign messages to verify the sender's identity. This asymmetrical encryption scheme allows two parties to securely communicate over an insecure network like the internet.

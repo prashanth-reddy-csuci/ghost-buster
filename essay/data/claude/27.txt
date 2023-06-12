@@ -1,5 +1,3 @@
-Here is a 1225-word essay in response to the prompt:
-
 The experiments conducted by Joshua Lederberg and Edward Tatum in the 1940s aimed to establish the order of genes on the Escherichia coli chromosome involved in amino acid metabolism and sugar catabolism. They used bacterial conjugation, a process of genetic recombination, to determine which genes were linked and mapped the order of a number of genes on the E. coli chromosome. 
 
 Bacterial conjugation involves the transfer of genetic material between two bacteria. Donor bacteria contain F-factor or F-plasmids, which are able to transfer to recipient bacteria. The transfer of F-factors leads to the exchange of chromosomal genes that are in close proximity to the point of F-factor integration. By observing which combinations of mutations or wild-type alleles were transferred together, Lederberg and Tatum inferred that those genes must be linked and located near each other on the chromosome.

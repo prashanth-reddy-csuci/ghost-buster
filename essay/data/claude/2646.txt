@@ -1,5 +1,3 @@
-Here is a 500-word essay on the diazonium coupling reaction:
-
 The diazonium coupling reaction is an electrophilic aromatic substitution that forms an azo dye between an aromatic amine and a phenol. The first step is to synthesize a diazonium salt from an aromatic amine by reacting it with sodium nitrite and hydrochloric acid. For example, aniline can be converted to benzenediazonium chloride salt. Precautions to take during preparation of diazonium salt:
 
 -   Ensure mixing and cooling is carried out slowly to avoid overheating which can trigger explosion.

@@ -1,5 +1,3 @@
-Here is a draft 2500 word essay in response to the prompt:
-
 According to the Italian economist Vilfredo Pareto, a monopoly leads to an inefficient allocation of resources because the monopolist does not price their goods or services at marginal cost. In a competitive market, firms will produce up to the point where marginal cost equals marginal revenue and price equals marginal cost. This outcome is known as allocative efficiency because resources are allocated in a way that maximizes total surplus for all parties. 
 
 Under a monopoly, the firm has significant market power and faces a downward-sloping demand curve. The monopolist can increase its profits by restricting output and raising prices above marginal cost. At the profit-maximizing quantity, marginal revenue will equal marginal cost but price will exceed marginal cost. This outcome is inefficient because there are gains from trade that go unrealized - the wedge between price and marginal cost represents lost surplus for consumers.

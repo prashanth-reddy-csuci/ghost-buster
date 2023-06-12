@@ -1,5 +1,3 @@
-Here is a draft 1250 word essay in response to the prompt:
-
 David Hume put forward two definitions of cause and effect in his philosophical writings, constant conjunction and necessary connection. These two perspectives differ in key ways and illustrate the dualist nature of Hume's understanding of causation.
 
 Hume's first definition of causation is constant conjunction. This means that we observe two events, a cause and an effect, as constantly conjoined in our experience. For example, we have observed that the sun rises after the dawn so many times that we infer from this experience that the dawn causes the sun to rise. However, Hume argues that we cannot know for sure that A actually causes B simply because we have observed them occurring together repeatedly. Our mind has a habit of making such inferences, but there is no logical or deductive certainty that events we perceive as causally related will continue to be so in the future or that they are necessarily connected. All we have witnessed is that they have been constantly conjoined in the past.

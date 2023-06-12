@@ -1,5 +1,3 @@
-Here is a 744-word essay response to the prompt:
-
 Several important financial ratios and measurements should be considered when evaluating the financial health of Bards Hall hotel. Some of the most important ones are liquidity, profitability, and leverage ratios as well as revenue and expense measurements. 
 
 Liquidity ratios measure the hotel's ability to meet its short-term obligations. The current ratio, which is calculated as current assets divided by current liabilities, indicates if the hotel has enough liquid assets to cover its short-term payables and other obligations. A higher current ratio suggests better liquidity. The quick ratio is more conservative, excluding assets that are difficult to convert to cash. Both ratios should be assessed over time and compared to industry benchmarks to determine the hotel's liquidity position. If the ratios have been declining and are below average, it may indicate challenges in meeting short-term obligations.

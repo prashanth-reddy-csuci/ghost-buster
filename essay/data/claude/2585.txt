@@ -1,5 +1,3 @@
-Here is a 509-word essay in response to the prompt:
-
 A simple two-layer energy balance model is a highly simplified representation of the climate system. While such models can provide useful insights, they have many limitations in attributing observed climate change to different radiative forcings. 
 
 First, a zero-dimensional model cannot capture spatial variations and dynamics in the climate system. The real climate system involves complex interactions between the atmosphere, oceans, land surface, cryosphere, and biosphere across a range of spatial and temporal scales. A two-layer model collapses all of these complexities into a single point and cannot represent spatial patterns of climate change and variability. It also cannot capture effects such as heat transport in the oceans and weather systems in the atmosphere.

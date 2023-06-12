@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 To establish the tort of negligence, three crucial elements must be proven: duty of care, breach of duty, and damage caused by the breach. 
 
 Duty of care refers to the responsibility that is placed on an individual requiring that they exercise a reasonable standard of care while performing any acts that could foreseeably harm others. It arises when a relationship of proximity or neighborhood exists between two parties. This could be due to a contractual relationship, a hazardous activity being carried out, or ordinary social interactions. For example, doctors have a duty of care to their patients, engineers owe a duty to anyone who could be harmed by faults in their designs, and all individuals must take reasonable care to avoid harming strangers they encounter in public. In these scenarios, harm is reasonably foreseeable if care is not taken.

@@ -1,5 +1,3 @@
-Here is a draft 750 word essay in response to the prompt:
-
 The aim of the report is to model and simulate the dynamic behaviour of a quarter car model in MATLAB and Simulink. The report studies the response of the vehicle suspension system as the vehicle travels over a bump or pothole in the road. 
 
 The quarter car model is a simplified representation of a vehicle suspension system with just one wheel. It incorporates key components like a spring, damper, sprung mass (vehicle body), and unsprung mass (wheel and axle). The behaviour of the full vehicle can be approximated by combining four quarter car models, one for each wheel.

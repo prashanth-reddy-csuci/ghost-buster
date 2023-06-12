@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 A liquidity trap refers to a situation in which monetary policy loses its ability to stimulate economic growth and lower unemployment. It occurs when interest rates are near zero, so conventional monetary policy tools like lowering interest rates become ineffective. In a liquidity trap, people hoard money instead of spending or investing it, halting the economic recovery. 
 
 The IS-LM model can be used to show how a liquidity trap emerges. The IS curve represents equilibrium in the goods market, plotting interest rates against output. The LM curve shows equilibrium in the money market, plotting interest rates against the money supply. In normal times, an increase in the money supply causes a downward shift of the LM curve, lowering interest rates and raising output as shown by the movement from point A to B in Figure 1.

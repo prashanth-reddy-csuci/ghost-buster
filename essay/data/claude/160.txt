@@ -1,5 +1,3 @@
-Here is a draft essay in roughly 1000 words on the effect of new items on false memories and the familiarity threshold:
-
 The addition of new items to an existing list has a significant influence on the frequency of false memories for those items. As more items are added to a list, the familiarity threshold—that is, the amount of activation required for an item to seem familiar—decreases. This means that new items have a lower threshold to seem familiar, which increases the likelihood of false memories for those new items. 
 
 An experiment by M.K. Johnson and colleagues in 2013 illustrated this effect. Participants were shown a list of associated words (e.g. bed, rest, awake, tired, dream, etc.) and were later tested on their memory for the items. Some participants were only shown the original list, while others were shown the original list plus some new associated words added (e.g. pillow, blanket, sleep, etc.). Participants who saw the longer lists with new words added were significantly more likely to falsely recall seeing words like "pillow" or "blanket" that were not actually on the original list.

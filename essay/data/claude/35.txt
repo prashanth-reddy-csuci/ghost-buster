@@ -1,5 +1,3 @@
-Here is a 1500 word essay on the topic:
-
 Growth kinetics is the study of bacterial growth in an isolated culture. Scientists can use growth kinetics to examine the different phases of bacterial growth and calculate bacteria growth parameters such as growth rate, generation time, and carrying capacity. These growth parameters are useful for identifying unknown bacteria species in a mixed culture and determining the composition and proportions of bacteria in a sample. 
 
 To study growth kinetics, bacteria are inoculated in a sterile growth medium and incubated at the optimal temperature for growth. The population size is measured over time by counting colony forming units on agar plates or using spectrophotometry to measure turbidity. Four phases of growth are typically observed: lag phase, exponential (log) phase, stationary phase, and death phase. 

@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 Quantifiers in Negative and Interrogative Contexts: Syntactic, Semantic and Pragmatic Considerations 
 
 Quantifiers in natural language behave differently in negative and interrogative contexts compared to assertive, declarative sentences. There are syntactic rules that govern how quantifiers can be used in non-assertive environments like questions and negations. These rules interact with semantic and pragmatic factors to determine the interpretations and scope relationships possible for quantifiers. By examining how quantifiers work in non-assertive clauses across languages, we can gain insights into the nature of quantifiers in language more broadly.

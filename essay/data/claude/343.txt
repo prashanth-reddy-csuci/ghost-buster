@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 The Solow neoclassical growth model and endogenous growth theories offer differing explanations for the drivers of long run economic growth. The Solow model focuses on capital accumulation and technological progress as exogenous factors that determine steady state growth, while endogenous growth theories emphasize human capital, knowledge spillovers, and innovation as endogenous factors that can sustain ongoing growth. There are arguments for and against each model, supported by varying empirical evidence.
 
 The Solow neoclassical model views economic growth as resulting from exogenous increases in capital and labor, as well as from technological progress. In the long run, growth reaches a steady state determined by these factors. Critics argue this model cannot explain persistent differences in growth rates across countries. However, advocates point to the model's success in explaining postwar growth in advanced economies and the conditional convergence of poorer countries. Empirically, studies find conditional convergence among OECD countries and a link between investment rates and growth.

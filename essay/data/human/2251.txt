@@ -1,24 +1,10 @@
-When modelling a robotic arm that is moving in the real world, it is important to ensure that the model is accurate to the robot. If the computer rotates the arm 60 degrees, due to imperfections in the real world, such as friction and air resistance, the actual arm will rotate very slightly more or less than 60 degrees. As this difference is likely to be minute, it could be possible to ignore it. The problem is that as the arm is moved more and more times, this error will grow and compound until the model of the robot bears little resemblance to the robot itself. This result is as catastrophic as a human with a blindfold operating the robot.
-We need some form of feedback, therefore. This can be done with sensors, but as the robot gets more and more complex, we would need more and more unobtrusive calibrated sensors. Another way is with vision.
-The computer models a robot as a series of vertices. If a small bright blue dot were to be painted on the point on the otherwise non-blue robot in the real world that correspond with each vertex, then these could be picked up by cameras and compared to the positions of the vertices in the computer model.
-For example, on the right is a robotic arm, and the second image is a simulated extraction of the cuboids from the 'blue dots' in the image.
-The computer can then take these 2D points and multiply them by the inverse of the perspective matrix. It can then rotate the resulting 3D model so that it is in line with the CCS. The model can then be translated along the z-axis the distance the camera is away. If the real robot is accurate to the computer model, the resulting points should match those of the model.
-If not, then we have some work to do to find out how to move the robot to put it back where the model thinks it is.
-We have a known set of points from the computer model, M. We also now have a set of calculated points of the real robot, R.
-Assuming that the arms of the robot have not changed shape, there must be a translation, T -1, to get us from R to M.
-If we could calculate T -1, and then convert it so that we knew what commands to give the robot, we can move the robot to meet the computer model.
-As this is a robot, this problem of inverse kinematics is simplified. As presumably the base of the robot is fixed, and the camera is fixed, it has only three degrees of freedom. That is for the based arm to pan (pB) and to tilt (tB), and for the upper arm to tilt (uT). Let's say for simplicity that the bottom of the base arm is at the origin of the OCS. Let's also say that in its starting position the connected end of the upper arm is at position (ux, uy, uz) in the OCS.
-y
-This is represented in the diagram to the left. The axes are x and y, and z comes directly out of the page.
-Therefore, pB is a rotation around y, and tB is a rotation around z.
-tU is more complicated. tU involves translating (-ux, -uy, -uz), rotating tU, and then translating back (ux, uy, uz). This gives:
-The transformation to get from the initial position to an arbitrary position is therefore:
-We can take the inverses of each of these to form tU -1, tB -1 and pB -1.
-The transformation to get from an arbitrary position to the initial position is therefore:
-Solving the above would give us one transformation matrix with three unknowns in. It is possible to write a simultaneous equation for each of these unknowns. These can then be solved to find the values of tU, tB and pB.
-The computer can then move the robot - tU, then - tB, then - pB, which will put the robot into the position to match the computer.
-If there is any uncertainty about whether this new position is accurate, the process can be repeated.
-To make this process more accurate, images from two or more cameras could be put together to develop the original 3D model of the robot from the images. The computer would take the output of all the cameras and identify each blue dot on each image that it's visible in, multiply each by the inverse of the perspective matrix for the focal lengths, manipulate each to compensate for the various camera co-ordinate systems, and then average all of the resulting readings for each point.
-Another method for the arm to know where it is could theoretically be using a camera at the end of the arm. The images from the camera could be then recognised so that the computer would know which direction the arm was facing.
-This recognition could be by identifying known objects in the room. An example is putting small bright red balls around the room in a pattern, and the location of the red dots in the camera's image would tell the computer the angle of the camera.
-Another method would be to have a database of images of the room stored in the computer and to match the image given by the camera to the 3 closest images in the database, and perform a weighted average to get the true position. This would mean that the view from the robot could not change significantly.
+This is a compiler; implemented in C++, which compiles C code into C compatible three-address code.
+It takes as a parameter the filename of a source file, and outputs both to the screen and to the file "output.txt". If the code compiled successfully, the compiler will return a 0, otherwise it will return a 1.
+The compiler's scope currently is the declaration of integer variables with user specified names, the functions in() and out(), and any assignment to a variable of an expression containing variables and/or positive and/or negative integers connected with (, ), +, -, *, /, ++, +=, -- and/or -=. White space, including new lines and tabs, is stripped.
+From this, it generates C three-address code using temporary variables, which is then put recursively through 8 levels of optimisation.
+Both outputs of this (screen and file) are separated back out with new lines to make it easier for the user to read.
+The code is split up into source files, each with a header. The header contains global variables, definitions and function prototypes. The comments explaining the purpose of each of these are located in the header file, not in the source code.
+P.T.O
+Here, briefly, are the important points in the flow of control through the program:
+I tested the program many hundreds of times throughout the coding to test every new piece of code. Therefore by the end of the code writing process I was able to be fairly sure that the compiler worked. I still ran 15 tests of the compiler both with and without optimisation to verify that the compiler does indeed work. All of these tests were successful. Some of the results follow.
+Please see separate attachment.

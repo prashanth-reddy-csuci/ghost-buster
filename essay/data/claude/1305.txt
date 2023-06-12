@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 The use of both nitroxide mediated radical polymerisation (NMRP) and atom transfer radical polymerisation (ATRP) initiators in polymer synthesis can generate block copolymers of polystyrene. This is due to the relative independence of the NMRP and ATRP mechanisms during polymer chain propagation. 
 
 NMRP relies on the reversible termination of propagating polymer chains by nitroxide radicals to control molecular weight. Initially in the single electron transfer process, a monomer molecule's available electron is transferred to a nitroxide to form a nitroxide anion and a carbon-centered monomer radical. The monomer radical can combine with other monomer radicals to form polymer chains with nitroxide end groups. The nitroxide end groups interact with the chain end to reversibly terminate its growth, then de-terminate to continue chain propagation in a controlled manner.

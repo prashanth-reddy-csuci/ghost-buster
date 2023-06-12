@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 The design stage of software development is crucial for efficient business operations and reducing costs in the long run. Rather than jumping into the actual programming of software, the design phase entails planning how the system will work and determining all requirements up front. Thorough planning and specification at the design stage has several benefits:
 
 First, it allows the development team to identify and resolve issues early on. Before any code has been written, the design documents will spell out exactly how the software is intended to function. Stakeholders can review these specifications and provide feedback. Any feedback to change requirements can be addressed in the design stage rather than later when the system has already been built. It is much cheaper and easier to make changes to a design document compared to actual software. Resolving conflicts and questions early leads to fewer errors and less rework down the line. 

@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 A torque sensor is a device used to measure the torque applied on a rotating system like a shaft. It works by measuring the strain induced in the shaft due to the applied torque. The basic principle involved is that when a torque is applied to the shaft, it deforms slightly. This deformation can be measured using strain gauges - which are resistors that change resistance based on the amount of strain applied. By measuring the change in resistance of the strain gauges, the amount of strain and in turn the torque can be calculated.
 
 The design of a typical torque sensor involves the following key components:

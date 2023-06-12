@@ -1,5 +1,3 @@
-Here is a draft 1463-word essay in response to the prompt:
-
 Essay: The Investigation into Walden's Rule and Factors Influencing Salts' Conductivity
 
 The conductivity of solutions containing both ionic species and non-electrolyte molecules has been a topic of scientific interest since the 19th century. One explanation for conductivity in such mixed solutions was hypothesized by Walden in 1900 and has come to be known as Walden's Rule. Walden proposed that conductivity in solutions with ionic salts and non-electrolyte molecules, such as the sugar sucrose, depended solely on the equivalent molar conductivity and the viscosity of the solution. Walden's Rule stated that equivalent conductivity (λ) multiplied by the viscosity (η) of the solution is a constant.

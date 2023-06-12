@@ -1,5 +1,3 @@
-Here is a 3481 word essay in response to the prompt:
-
 To create a mobile phone-controlled buggy, several methods and components need to work together:
 
 1. Physical components: At the core, the buggy needs certain physical components that enable it to move and be controlled remotely. These include:

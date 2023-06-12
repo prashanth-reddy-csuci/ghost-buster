@@ -1,5 +1,3 @@
-Here is a draft 2750-word essay in response to the prompt:
-
 How Can Semiotics and Organizational Analysis be Used to Design an Effective E-Commerce System?  
 
 E-commerce systems have become an essential channel for many businesses to reach customers and drive revenue in today's digital world. However, designing an effective e-commerce system that achieves the business's objectives requires more than just understanding web design, technology, and marketing. Two interdisciplinary frameworks, semiotics and organizational analysis, can provide useful lenses to understand how to build an impactful e-commerce experience.

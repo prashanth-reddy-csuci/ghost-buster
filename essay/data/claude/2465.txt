@@ -1,5 +1,3 @@
-Here is a 749 word essay in response to the prompt:
-
 The second moment of area, or moment of inertia, of a beam measures its strength and ability to resist bending. To experimentally determine the moment of inertia of a beam, a four-point bending test is commonly used. The beam is supported at two points and loaded at two other points, and its deflection profile is measured. This can then be compared to the theoretical deflection profile calculated using the beam's dimensions and material properties. 
 
 For the experiment, the beam is placed on two raised supports at a fixed distance apart. Loading pads are positioned at two points between the supports. As a load is applied at the loading pads, the beam begins to deflect. The deflection at multiple points along the beam is measured using dial gauges or linear voltage differential transformers. This data is used to plot the deflection profile of the beam. Different loading configurations can be used, such as loading the beam at the center, or asymmetrically off-center. The loading configuration will affect the maximum deflection and shape of the deflection curve.

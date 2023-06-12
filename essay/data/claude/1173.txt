@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 The potential function is a scalar function used to represent the potential energy of a charged particle in an electric field. It is denoted by V and has units of joules per coulomb. The potential function depends on the positions of charges generating the electric field. The gradient of the potential function at any point gives the electric field strength and direction at that point. 
 
 The Laplacian of the potential function is the mathematical operator that represents the divergence of the electric field. It is given by the formula ∇2V. The Laplacian measures the change in potential at a given point relative to the surrounding points. It indicates the excess charge density at that point. The Laplacian can be either positive, negative or zero. A positive value indicates an excess of positive charge, a negative value indicates an excess of negative charge, and a zero value indicates charge neutrality.

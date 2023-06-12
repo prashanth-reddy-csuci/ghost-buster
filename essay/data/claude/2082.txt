@@ -1,5 +1,3 @@
-Here is a draft 1256-word essay in response to the prompt:
-
 There are several theoretical approaches to analyzing tense in English grammar. The three main perspectives are the traditional, structural, and generative approaches. These approaches differ significantly in their view on the existence and definition of the future tense in English.
 
 The traditional approach takes a descriptive view of tense and considers the future tense to be primarily expressed morphologically using the modal 'will' plus a bare infinitive verb. For example, "I will go" is in the future tense. This approach defines tense strictly in terms of verb morphology and considers the future tense to be as real as the past and present tenses. However, it does not account for the fact that English speakers also commonly use present tense forms to refer to future time, as in "I go tomorrow." It relies too heavily on inflectional morphology and does not fully capture the relationship between tense and time in English.

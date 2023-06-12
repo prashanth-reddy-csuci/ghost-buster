@@ -1,5 +1,3 @@
-Here is a draft 1750-word essay in response to the prompt:
-
 Maternal effect genes are mRNAs and proteins provided by the mother to the egg that regulate early development before the activation of the embryo's genome. These maternal factors establish polarity, regulate cell division, and specify cell fates in the early embryo prior to zygotic gene expression. 
 
 In Caenorhabditis elegans, the PAR proteins (PAR-1, PAR-2, PAR-3, PAR-4, PAR-5, and PAR-6) establish anterior-posterior polarity during the first cell cycle. PAR-3, PAR-6, and PKC-3 localize to the anterior cortex of the zygote, while PAR-1 and PAR-2 localize to the posterior cortex. This asymmetric localization directs the unequal first cell division that separates cytoplasmic determinants into the AB and P1 blastomeres. Mutations in the PAR proteins disrupt polarity and cell fate specification. For example, par-2 mutant embryos lack posterior PAR proteins, resulting in embryonic lethality due to defects in endoderm induction.

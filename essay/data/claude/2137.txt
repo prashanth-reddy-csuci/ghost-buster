@@ -1,5 +1,3 @@
-Here is a 1750 word essay in response to the prompt:
-
 The participants in verbs, known as verb arguments, relate closely to semantic roles in a sentence. Semantic roles describe the relationships between a verb and its arguments, identifying who did what to whom. The two main semantic roles are the agent, the initiator of the action, and the patient, the entity affected by the action. Additional semantic roles include instrument, location, recipient, beneficiary, etc. The number and type of semantic roles in a sentence depend on the verb and its arguments.  
 
 Verbs can be categorized based on the number of arguments they take. Intransitive verbs take only one argument, typically an agent, as in “I ran.” Transitive verbs take two arguments, an agent and patient, as in “I kicked the ball.” Ditransitive verbs take three arguments, an agent, patient, and recipient/beneficiary, as in “I gave her a gift.” Some verbs can be used either transitively or intransitively, with a difference in meaning, e.g. “The vase broke” (intransitive) vs. “I broke the vase” (transitive).

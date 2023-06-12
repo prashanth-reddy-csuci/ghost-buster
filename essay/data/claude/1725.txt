@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 Cylinder pressure versus crank angle data provides critical insights into engine performance and health. By analyzing how pressure changes over the course of an engine cycle, several key parameters can be monitored. 
 
 One key parameter is maximum cylinder pressure, which indicates the amount of power that can be generated. Higher maximum pressures mean more power can be produced. However, pressures that are too high can indicate issues like improper fueling or ignition timing. Analyzing the crank angle at which maximum pressure occurs can also reveal problems. For example, if maximum pressure is reached too early or too late, it could signify that the ignition timing needs adjustment.

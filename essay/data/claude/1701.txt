@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 Traditional yield management techniques have focused on optimizing room revenue at a hotel. However, as hotel businesses have grown more complex, new decision-making approaches have been proposed to improve overall profitability rather than just room revenue. These new approaches take a more holistic view of hotel operations and aim to maximize total hotel profit.
 
 One of the earliest new decision-making approaches was revenue management, which took into account additional revenue streams beyond just rooms like food and beverage, meeting spaces, and other ancillary revenues. Revenue management aims  to optimize pricing and availability across all revenue centers in a hotel to maximize total revenue. This was an improvement over yield management’s narrow focus on rooms revenue, but revenue management still has some limitations. It does not account for the costs associated with generating the revenue and therefore may not actually maximize profit. 

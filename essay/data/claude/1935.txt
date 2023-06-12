@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 A monopoly exists when a single firm controls the entire supply of a good or service, as opposed to perfect competition where many small firms compete. Monopolies are less efficient than perfect competition because they usually produce less output and charge a higher price. The reason monopolies are inefficient is due to the existence of deadweight loss. 
 
 Deadweight loss refers to the total loss of economic benefit to society from a monopoly's higher prices and lower output. At the monopoly's profit-maximizing price and quantity, the marginal benefit to consumers of an additional unit of the good is greater than the marginal cost to the producer of supplying it. But because the monopoly limits output to maximize its profits, these otherwise mutually beneficial transactions do not take place. The result is that consumers lose more benefit than producers gain, leading to a net loss for society.

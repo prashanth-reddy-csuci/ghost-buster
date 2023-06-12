@@ -1,5 +1,3 @@
-Here is a draft 1499 word essay in response to the prompt:
-
 There are several factors that influence the choice of modulation and coding schemes when designing a communications system:
 
 Bandwidth efficiency. The bandwidth available for communication is often limited, so modulation and coding techniques that can pack more information into a fixed bandwidth are desirable. Digital modulation techniques like quadrature amplitude modulation (QAM) and phase-shift keying (PSK) can encode multiple bits per symbol and offer higher bandwidth efficiency than simple modulation techniques like amplitude modulation (AM) or frequency modulation (FM). Similarly, channel coding techniques like turbo codes and low-density parity-check (LDPC) codes can compress data and provide forward error correction, allowing for higher bandwidth efficiency.

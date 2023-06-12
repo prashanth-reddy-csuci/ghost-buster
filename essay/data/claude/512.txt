@@ -1,5 +1,3 @@
-Here is a draft 750-word essay in response to the prompt:
-
 The DNA sequence of the S-PM2 bacteriophage, a virus that infects marine cyanobacteria,  was analyzed using several methods. The primary methods used were shotgun sequencing, genome assembly, and comparative genomics. These techniques revealed insights into the evolution and ecology of this phage.
 
 Shotgun sequencing was used to determine the complete nucleotide sequence of the 48,502 base pair genome of S-PM2. This involves breaking up the DNA into millions of small fragments that are sequenced individually. Bioinformatic methods are then used to reassemble these fragments into the complete genome sequence. Shotgun sequencing is a fast and affordable approach to sequencing entire genomes. 

@@ -1,5 +1,3 @@
-Here is a 1750 word essay in response to the prompt:
-
 Traditionally, the corporate form has provided business owners with limited liability, meaning that shareholders are not personally liable for the debts and liabilities of the corporation. However, the doctrine of piercing the corporate veil allows courts to disregard the separate legal personality of a corporation and hold shareholders personally liable in certain situations, such as fraud or misuse of the corporate form. 
 
 In recent decades, complex corporate group structures with multiple related companies have emerged, challenging traditional views on limited liability and veil piercing. Within a corporate group, it can be difficult to determine where responsibility lies for certain actions or liabilities. Shareholders may exert a high degree of control over subsidiary companies, even though they are legally separate entities. This has led courts to consider whether the corporate veil should be pierced to assign liability to the parent company in some circumstances.

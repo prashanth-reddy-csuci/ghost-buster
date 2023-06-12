@@ -1,5 +1,3 @@
-Here is a 1000-word essay in response to the prompt:
-
 Viscosity is a measure of a fluid's resistance to flow. It quantifies how thick or sticky a fluid is. The higher the viscosity, the less a fluid flows. Viscosity depends on the strength of intermolecular interactions in a fluid, like hydrogen bonds or Van der Waals forces. As temperature increases, these interactions weaken and viscosity decreases.
 
 The viscosity of a fluid is quantified by its viscosity coefficient, typically given the symbol μ (mu). It is measured in units of pascal-seconds (Pa·s) or poise (P). One Pa·s equals one newton of force applied per square meter of area to maintain a velocity gradient of one meter per second. To experimentally determine viscosity, devices like viscometers are used to measure the flow of a fluid through a tube. By measuring the velocity gradient between two points, the viscosity coefficient can be calculated.   

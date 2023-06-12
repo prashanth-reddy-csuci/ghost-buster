@@ -1,5 +1,3 @@
-Here is a 622-word essay in response to the prompt:
-
 Water potential is the measurement of the tendency of a plant cell to gain or lose water. It depends on two factors: solute potential and pressure potential. Solute potential refers to the concentration of dissolved ions and other solutes in the cell sap. The higher the concentration of solutes, the lower the solute potential and the lower the overall water potential. Pressure potential refers to the pressure exerted by the cell wall onto the protoplast. The rigid cell wall encloses the cell membrane and cytoplasm, and as water enters the cell by osmosis, it exerts pressure that can counteract further net water movement. 
 
 An experiment can be conducted to investigate osmosis in plant cells using potato tubers. Potato tubers contain many parenchyma cells that are suitable for observing osmosis. First, select a fresh potato and cut one end to produce an even, flat surface. Then, use a cork borer or knife to cut four equally sized and shaped discs from the potato. 

@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 The sodium chloride (NaCl) content of foods can be determined through a titration process using silver nitrate (AgNO3). Silver nitrate reacts with the chloride in the sodium chloride to form a precipitate of silver chloride (AgCl). By titrating a sample of the food with silver nitrate and measuring the volume of titrant needed to reach the endpoint at which all the chloride has precipitated, the amount of chloride, and thus sodium chloride, can be calculated.
 
 There are a few potential sources of error in this process. If the sample is not thoroughly mixed, the amount of NaCl measured may not reflect the actual amount in the full sample. Inaccurate measurements of volumes during the titration can also lead to errors in the final calculation. The purity of the reagents used, especially the silver nitrate, can impact the results if contaminants are present. Proper rinsing and drying of equipment is important to avoid interference from residual moisture. 

@@ -1,5 +1,3 @@
-Here is a 749 word essay in response to the prompt:
-
 The aim of the experiment conducted by Adelberg, Mandel, and Chen in 1965 was to determine the order of certain genes involved in amino acid and sugar catabolism in Escherichia coli. The researchers used specialized transduction, a process in which bacteriophage transfers host DNA between bacteria, to determine which genes were adjacent to one another on the bacterial chromosome. 
 
 To carry out the experiment, the researchers first selected mutant strains of E. coli that were unable to metabolize certain amino acids or sugars. They then infected these mutant strains with phage P1, which can transduce pieces of bacterial DNA during infection. The phage particles were then used to infect wildtype E. coli. If a phage particle carried the DNA for a particular mutation, it could transduce that mutation to the wildtype cells. By selecting for cells that gained the ability to metabolize certain compounds, the researchers could determine which mutant DNA the phage had transferred.

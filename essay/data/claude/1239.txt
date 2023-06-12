@@ -1,5 +1,3 @@
-Here is a 250 word essay in response to the prompt:
-
 The neurological system consists of the central nervous system (CNS) and the peripheral nervous system (PNS), which are both involved in sending and receiving signals to control our body. The CNS comprises the brain and spinal cord. The brain acts as the control center, integrated sensory information and signaling the body to response. The PNS consists of nerves that travel between the rest of the body and the CNS. 
 
 There are various brain scanning techniques used to study the neurological system. Magnetic resonance imaging (MRI) uses magnetic fields to produce high resolution 3D images of the brain. Functional magnetic resonance imaging (fMRI) can detect changes in blood flow related to neural activity in the brain. Positron emission tomography (PET) scans use radioactive tracers to detect metabolic changes and visualize brain activity. Electroencephalography (EEG) uses electrodes on the scalp to measure patterns of electrical activity in the brain.

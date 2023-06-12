@@ -1,5 +1,3 @@
-Here is a draft 1750-word essay in response to the prompt:
-
 The objective of an experiment using a strain gauge is to measure the small changes in length of an object under stress. A strain gauge consists of a long, thin resistive wire attached to a surface. As the surface deforms, the wire also deforms, altering its resistivity. By measuring this change in resistivity, the strain on the object can be determined. 
 
 Measurement sensitivity is critical for strain gauge experiments. The change in resistance due to applied stress may be very small, so high-sensitivity wiring and instrumentation are required to detect it. Factors like wire length, cross-sectional area, and material all affect the sensitivity. Longer, thinner wires of a material with high gauge factor, like copper-nickel alloy, provide the highest sensitivity.  

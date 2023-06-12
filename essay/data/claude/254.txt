@@ -1,5 +1,3 @@
-Here is a draft 1498 word essay in response to the prompt:
-
 The fundamental principles of criminal law underpin our justice system and protections for individual liberties. Key principles include the presumption of innocence until proven guilty beyond reasonable doubt, the requirement for a guilty act (actus reus) and guilty mind (mens rea), and the prohibition against retrospective punishment. Anti-Social Behaviour Orders (ASBOs) are a controversial civil law mechanism used in the UK to restrict individuals from certain acts, with questionable compatibility with these core criminal law principles.
 
 The presumption of innocence, that one is innocent until proven guilty, is a cornerstone principle in criminal law. It places the burden of proof on the prosecution to establish guilt before punishment or sanction can be imposed. In contrast, ASBOs operate on the civil standard of the balance of probabilities, a lower threshold of proof. Thus, individuals can face restrictions on their behaviour and movements without the prosecution having established guilt to the criminal standard. This undermines the presumption of innocence principle.

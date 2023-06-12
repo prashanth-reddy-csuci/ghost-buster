@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 Online Transaction Security Simulator (OTSS): Features and Implementation  
 
 The proposed title of the third year project (CS 310) is the Online Transaction Security Simulator (OTSS). The main features of the OTSS application will be:

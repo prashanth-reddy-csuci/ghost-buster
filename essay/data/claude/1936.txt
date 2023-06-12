@@ -1,5 +1,3 @@
-Here is a 747-word essay in response to the prompt:
-
 The marginal propensity to consume (MPC) refers to the proportion of additional income that is spent on consumption. It is a measure of how much consumption changes when income changes, and it provides insight into the relationship between income and spending in an economy. The investment multiplier describes how a change in investment can have a multiplied effect on total income or expenditure in an economy. The MPC and investment multiplier are closely related. 
 
 When income increases, only a portion of that additional income is spent on consumption. The rest is saved. The MPC measures the percentage of the additional income that is spent. For example, if a household's income increases by $100 and consumption increases by $70, the MPC is 0.7. The higher the MPC, the more consumption increases relative to income.

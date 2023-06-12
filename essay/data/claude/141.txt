@@ -1,5 +1,3 @@
-Here is a draft 2750-word essay in response to the prompt:
-
 The Serial Endosymbiosis Theory proposes that several key cellular organelles originated as free-living bacterial prokaryotes that were engulfed by larger cells in an endosymbiotic relationship. The two organelles with the strongest evidence for an endosymbiotic origin are mitochondria and chloroplasts. According to the theory, mitochondria evolved from alpha-proteobacteria that were engulfed by archaea, while chloroplasts evolved from cyanobacteria that were engulfed by a eukaryotic cell.
 
 Autogenous theories of eukaryotic cell evolution propose that the eukaryotic cell originated without any symbiotic events. All organelles, including mitochondria and chloroplasts, evolved from structures already present in the ancestral archaeal cell. While there is evidence that some eukaryotic features did evolve autogenously, most scientists believe there is now overwhelming evidence that mitochondria and chloroplasts evolved through endosymbiosis. 

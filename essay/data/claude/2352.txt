@@ -1,5 +1,3 @@
-Here is a 499 word essay in response to the prompt:
-
 Histamine plays a central role in the secretion of gastric acid in the stomach. Histamine is produced by enterochromaffin-like cells and mast cells in the stomach in response to food entering the stomach. When histamine is released, it binds to H2 receptors on parietal cells in the stomach lining. This triggers a signaling cascade that results in the parietal cells secreting hydrochloric acid to aid in digestion. 
 
 The structure of histamine is fairly simple, composed of an imidazole ring attached to an ethylamine chain. However, this structure allows histamine to act as a potent signaler in the body. By understanding the structure of histamine and how it interacts with H2 receptors, scientists were able to develop H2 receptor antagonist drugs, commonly known as H2 blockers, to reduce stomach acid secretion. These drugs, such as ranitidine, famotidine, and cimetidine, work by blocking the binding of histamine to H2 receptors. This inhibits the signaling pathway that leads to hydrochloric acid secretion by parietal cells.

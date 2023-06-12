@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 The purpose of this laboratory experiment was to investigate the lateral and longitudinal forces acting on a rotating road tyre. As the tyre rotates, friction between the tyre and the road surface generates forces in the lateral and longitudinal directions. These forces were measured using load cells attached to the axle of the tyre. MATLAB was used to analyze the data from this experiment in several ways.
 
 First, the raw data from the load cells was imported into MATLAB. This data contained the lateral and longitudinal force measurements in Newtons for each sample time over the duration of multiple tyre rotations. MATLAB was used to plot this raw data on a graph, with time on the x-axis and force on the y-axis. These initial plots showed periodic oscillations in the lateral and longitudinal forces over time, corresponding to a full rotation of the tyre. 

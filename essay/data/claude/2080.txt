@@ -1,5 +1,3 @@
-Here is a 749 word essay responding to the prompt:
-
 The Bradford and Lowry protein assays are two commonly used methods for quantifying protein concentration in various samples. Both assays have advantages and disadvantages, and they may yield different results depending on the sample type. To determine the protein content of two kinds of milk - cow's milk versus soy milk - both assays could be used, but some differences in results would likely be obtained.
 
 The Bradford assay relies on the binding of Coomassie brilliant blue G-250 dye to proteins in an acidic solution. The dye binds to primarily basic and aromatic amino acid residues, causing a shift in absorption that can be measured with a spectrophotometer at 595 nm. The advantages of the Bradford assay are that it is very simple, rapid, and inexpensive. However, its disadvantages are that it is not very specific to protein alone and can be affected by other compounds like detergents. It also has a limited linear range of 2 to 14 micrograms per mL. For milk samples with higher protein contents, dilutions would need to be made to stay within this range, adding uncertainty. 

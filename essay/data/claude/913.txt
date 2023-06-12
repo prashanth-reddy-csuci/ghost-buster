@@ -1,5 +1,3 @@
-Here is a 1255 word essay in response to the prompt:
-
 Herman Hollerith, Jacob Amsler, Grace Hopper, and the Honeywell DDP-516 minicomputer each made significant contributions to the development of computing and data processing over the centuries. 
 
 Herman Hollerith invented the first automated data processing system. In the 1880s, the U.S. Census Bureau was struggling to tabulate the results of the census in a timely fashion. The population was growing rapidly, and the bureau's methods of hand-tabulating data with millions of records were becoming obsolete. Hollerith, a former Census Bureau employee, invented a machine that could automatically read and sort census data recorded on punched cards. His tabulating machine used electromechanical components to calculate statistics from the raw census data and the results were far faster than manual processing. Hollerith's machines revolutionized census taking and were later adapted for commercial data processing applications. His company eventually became part of IBM.

@@ -1,5 +1,3 @@
-Here is a 1494-word essay responding to the prompt:
-
 Quine's paradox and the Liar paradox are two well-known semantic paradoxes that have intrigued philosophers for centuries. Both paradoxes relate to problems that arise from self-reference and circular reasoning. However, the paradoxes differ in their exact construction and have evolved differently in terms of proposed solutions over time.  
 
 Quine's paradox, developed by philosopher W.V.Quine, considers the scenario of a native tribe whose language contains a truth predicate, a logical device to attribute truth. The tribe has a sentence that says "yields a true sentence when concatenated onto its own quotation" when concatenated onto its own quotation. This leads to a contradiction because if the sentence is true, then it must be false, and vice versa. The paradox arises from the self-reference of a sentence that talks about its own truth value.

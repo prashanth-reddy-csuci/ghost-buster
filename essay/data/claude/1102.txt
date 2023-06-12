@@ -1,5 +1,3 @@
-Here is a 1750-word essay in response to the prompt:
-
 X-ray diffraction is a powerful technique that can be used to gain insights into the structure of crystalline materials. By analyzing the pattern of x-ray beams that diffract off the crystal lattice, we can determine key parameters such as the lattice constants and ionic radii of the crystal. 
 
 The principles of x-ray diffraction were established by William Lawrence Bragg and Max von Laue. Bragg proposed that x-rays of a specific wavelength diffract off a crystal at angles that satisfy Bragg's Law: nλ=2d sinθ, where n is an integer, λ is the wavelength of the x-ray, d is the spacing between crystal planes, and θ is the angle of incidence of the x-ray beam. By measuring the angles of the diffracted x-ray beams, the d-spacing between crystal planes can be calculated using Bragg's Law.

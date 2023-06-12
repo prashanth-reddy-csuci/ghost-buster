@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 What hypothesis was tested, and how was it designed, conducted, and analyzed in order to determine whether there is a difference in the length of the little finger between male and female students, and what were the results and limitations of the study? 
 
 The hypothesis that was tested in this study was that there is a difference in the length of the little finger between male and female university students. To test this hypothesis, a between-subjects experimental design was used where the independent variable was participant gender with two levels: male and female. The dependent variable was the length of the little finger measured in centimeters.

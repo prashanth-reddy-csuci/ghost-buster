@@ -1,5 +1,3 @@
-Here is a draft 2000-word essay in response to the prompt:
-
 There are several key questions that designers must consider when developing a new system, regardless of the specific application or domain. By identifying these critical questions upfront through an open-ended brainstorming process, designers can isolate the most important aspects of the system design and ensure they are effectively addressed. 
 
 One of the first questions to explore is what the purpose or goal of the new system is. Any effective system design must start by defining the problem it is trying to solve or the need it aims to meet. In the case of a National Air Traffic Control System, the goal is to safely and efficiently coordinate aircraft in a country's airspace. With a new engine  design, the purpose could be to increase power output, improve fuel efficiency, or reduce emissions. Clarifying the objective at the outset provides guidance and constraints for all subsequent design decisions.

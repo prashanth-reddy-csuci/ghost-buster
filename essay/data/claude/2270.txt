@@ -1,5 +1,3 @@
-Here is a 258 word essay in response to the prompt:
-
 Friction has significant effects on upsetting and heading of aluminium samples. Upsetting refers to compression of a sample along its length, while heading refers to compression of a sample perpendicular to its length. 
 
 During upsetting and heading, friction at the interface between the samples and the compression tools causes the aluminium to stick to the tools. This results in barreling of the sample, where its middle section expands out. The friction prevents the edges of the sample from moving outward. This reduces the possible deformation and work hardening of the sample. Using lubrication, like grease, oil or graphite, at the interfaces can minimize sticking and allow for more uniform deformation of the sample.

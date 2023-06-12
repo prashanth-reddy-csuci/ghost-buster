@@ -1,5 +1,3 @@
-Here is a 745-word essay in response to the prompt:
-
 The Quantitative Descriptive Analysis or QDA method is a sensory profiling technique used in the food industry to systematically describe the sensory properties of a product using trained panelists. Panelists go through rigorous training to calibrate their sensory perception and develop a common vocabulary to describe the intensities of sensory attributes like appearance, aroma, taste, mouthfeel, and aftertaste of the product. 
 
 In a QDA session, panelists evaluate the intensities of attributes for each sample using an unstructured line scale. They mark on the scale the point that corresponds to the intensity of each attribute. The data from all panelists are then analyzed using statistical tools like ANOVA, principal component analysis (PCA), or hierarchical cluster analysis. These tools help determine which attributes are most important in differentiating the products, the relationships between the samples, and panelist agreement.

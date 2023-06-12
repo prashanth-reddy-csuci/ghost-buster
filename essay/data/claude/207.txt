@@ -1,5 +1,3 @@
-Here is a 1,746-word essay in response to the prompt:
-
 Cryptography is the process of encoding and decoding information to prevent unauthorized access. It has been used throughout history but has evolved rapidly with the growth of electronic communication and e-commerce to become more mathematical and secure. The two main categories of cryptography are public-key cryptography and private-key cryptography. Public-key cryptography is considered more secure and has enabled much of modern e-commerce.  
 
 Private-key cryptography uses a single key for both encryption and decryption. Both the sender and receiver must have the same key. The Caesar cipher, where each letter is shifted a fixed number of positions, is the earliest known example of private-key cryptography. The Enigma machines used by the Nazis in World War II were more complex private-key cryptography systems. The main downside of private-key cryptography is that the key must be exchanged between the sender and receiver before secure communication can happen. This exchange of keys itself can introduce vulnerability.

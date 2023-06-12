@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The key steps involved in creating an order placement program are:
 
 1. Gathering order information from the user. This includes prompting the user to enter details like their name, address, payment information, and the products/services they want to order. The prompts should be clear and easy to understand to avoid confusion. It may be helpful to provide examples of the requested information.  

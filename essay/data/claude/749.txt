@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 The 1963 House of Lords case Hedley Byrne v Heller is one of the most significant cases in the development of the law of negligence in English common law. The case established the principle of a duty of care for providing negligent misstatements. Prior to this case, liability for pure economic loss caused by negligent advice or information was rare. The Hedley Byrne case represented a major shift and opened the door for liability in claims involving negligent words, rather than just deeds. 
 
 The key facts of Hedley Byrne v Heller involved a banking company, Hedley Byrne, that relied on a negligent reference from a bank, Heller & Partners, when advancing money to a customer. The customer later defaulted and Hedley Byrne sued Heller & Partners, arguing they were liable for the loss as they had assumed a duty of care in providing the reference. The House of Lords ultimately found in favor of Hedley Byrne, establishing that a duty of care could arise from a special relationship of reliance between parties, even if no contract existed.

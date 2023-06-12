@@ -1,5 +1,3 @@
-Here is a 250 word essay response to the prompt:
-
 To calculate the cost of an order from an array of records with 3 items, you would follow these steps:
 
 1. Define the array of records, which contains 3 items: name, quantity, and price. For example:

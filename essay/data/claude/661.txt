@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 The recommended strategy for minimising production costs in the yarn manufacturing division involves determining the optimal production level of each yarn to maximise profit. This can be achieved using the linear programming technique.
  Linear programming uses mathematical models to determine the optimal solution to a problem within certain constraints. In yarn manufacturing, the constraints include limits on the raw materials available, production capacity, and worker hours. The goal  is to maximise profit per unit of each yarn produced. By maximising profit across all production, total profit for the division can be optimised. 
 

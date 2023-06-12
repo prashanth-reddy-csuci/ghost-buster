@@ -1,5 +1,3 @@
-Here is a 520-word essay in response to the prompt:
-
 Numerical methods are used to approximate solutions to complex mathematical problems that cannot be solved analytically. Several numerical methods can be used to approximate integrals and solve initial value problems. 
 
 To approximate an integral, one can use Lagrange interpolation to construct a polynomial that fits given data points. The area under the curve of this polynomial can then be calculated to estimate the integral. The Romberg integration method improves on this by using Richardson extrapolation. It uses polynomials of increasing degree to calculate multiple estimates of the integral, which are then extrapolated to calculate an approximate value of the integral with a higher degree of accuracy.

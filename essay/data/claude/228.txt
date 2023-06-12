@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 There are several constructive criticisms and potential sources of error that could be raised regarding the data presented on measles outbreaks, plant height and health, and survival times of various leaders.
 
 First, for the measles outbreak data, the sample size of the study could influence the results. If only a small number of measles cases were analyzed, it may lead to an inaccurate conclusion about vaccination rates and their impact. The geographic region and time period studied are also important to consider. Measles outbreaks and vaccination rates can vary significantly based on location and time, so the data may not be generalizable. There could also be errors in how vaccination status was determined and recorded for the individuals in the study. 

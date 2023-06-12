@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 The Jominy End Quench Test is used to determine the hardenability of steels, which is a measure of a steel's ability to form hardened structures when quenched. In the test, a steel bar is heated to an austenitizing temperature where it transforms to a face-centered cubic crystal structure. One end of the bar is then quenched in water, while the rest of the bar is exposed to air and cools more slowly. The hardness is then measured along the length of the bar. Steels with higher hardenability will achieve high hardness further from the quenched end. 
 
 EN9 and EN24 are medium carbon steels with good hardenability for general engineering uses. EN9 has 0.5% C and achieves a maximum hardness of 270 Brinell Hardness Number (BHN). It has medium hardenability, so is good for components like axles, shafts and gears. EN24 has 0.4% C and 1% Cr, giving a maximum hardness of 280 BHN and better hardenability, so is used for more highly stressed components like crankshafts.

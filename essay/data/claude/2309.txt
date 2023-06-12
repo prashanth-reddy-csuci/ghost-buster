@@ -1,5 +1,3 @@
-Here is a 754-word essay in response to the prompt:
-
 Major urinary protein (MUP) is a liver-secreted protein that acts as a transport vehicle for pheromones and other chemical compounds in mouse urine. MUPs play an important role in mouse social and reproductive behaviors, with male mice using MUPs to communicate dominance and females using them to signal their reproductive state to males. 
 
 The MUP protein has a barrel-shaped tertiary structure composed of 8 alpha helices that enclose a binding site cavity for ligands like pheromones. The binding site is made up of hydrophobic residues like leucine that can interact with the hydrocarbon portions of pheromone molecules. The inner diameter of the MUP barrel is approximately 7.5 angstroms, providing ample space to accommodate a variety of ligands. 

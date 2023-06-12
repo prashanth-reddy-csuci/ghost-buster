@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 Distinguishing between voiced and voiceless phonemes in English can be challenging for several reasons. Voiced and voiceless pairs of obstruents, like /b/ and /p/, differ primarily in the vibration of the vocal folds during articulation, but this distinction can be subtle and difficult to perceive. This has led some linguists to propose alternative classification systems that aim to capture more salient acoustic properties.
 
 One difficulty in distinguishing voiced and voiceless obstruents is that the primary acoustic cue, vocal fold vibration, is not always clearly perceived. In casual or fast speech, voicing contrasts can be neutralized or obscured. The voicing distinction is also more difficult to perceive for obstruents in word-final position, where vocal fold vibration ends abruptly. These factors can make it challenging for listeners to reliably determine whether an obstruent is voiced or voiceless based only on the presence or absence of vocal fold vibration. 

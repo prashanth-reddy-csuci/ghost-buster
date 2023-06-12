@@ -1,5 +1,3 @@
-Here is a draft 750 word essay in response to the prompt:
-
 The solubility product (Ksp) of a slightly soluble ionic compound refers to the equilibrium constant for the dissolution of the compound in an aqueous solution at a given temperature. For potassium periodate (KIO4), the solubility product is the equilibrium constant for the reaction:
 KIO4(s) ⇌ K+(aq) + IO4-(aq)
 The solubility product of KIO4 can be determined experimentally through a titration method. A saturated solution of KIO4 is prepared by adding excess KIO4 solid to a known volume of distilled water and allowing it to reach equilibrium. The concentrations of K+ and IO4- ions are then determined by titrating the solution with a standard solution of NaOH and KI/starch indicator. 

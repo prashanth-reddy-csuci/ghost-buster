@@ -1,5 +1,3 @@
-Here is a draft 750-word essay in response to the prompt:
-
 The regression model that was formulated to determine the variables affecting exam performance in the Quantitative Techniques module was a multiple linear regression model. The initial variables considered for inclusion in the model were: number of lecture attendances, number of tutorial attendances, number of assignments submitted, overall assignment mark, and number of hours studied.
 
 Following analysis of correlations between these variables and the exam mark, as well as consideration of theoretical relevance of the variables, the variables included in the final regression model were: number of lecture attendances, number of tutorial attendances, and overall assignment mark. These three variables were found to have the strongest and most significant correlations with the exam mark. Inclusion of these three independent variables resulted in an R-squared value of 0.472, indicating that nearly half of the variation in exam performance could be explained by the model.

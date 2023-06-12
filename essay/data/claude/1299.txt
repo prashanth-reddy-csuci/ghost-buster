@@ -1,5 +1,3 @@
-Here is a draft 2250-word essay in response to the prompt:
-
 The Polymerase Chain Reaction (PCR) technique has had an enormous impact on medicine and biology since its development in the 1980s. PCR allows for the rapid amplification of short segments of DNA and RNA so that millions of copies of a particular gene or sequence of interest can be made. This enables a host of applications that have transformed many areas of biology and led to major advances in medicine. 
 
 One of the most significant applications of PCR is in detecting the presence of DNA or RNA sequences that indicate the presence of pathogens, such as bacteria, viruses, and other microbes. PCR can detect just a few molecules of microbial DNA and amplify them so that their presence is detectable. This allows for the rapid diagnosis of infectious diseases like influenza, Ebola, Zika, and many others. Fast and accurate diagnosis of diseases enables quicker treatment and containment. PCR is now widely used for screening blood donations for infectious agents like HIV and hepatitis B and C.

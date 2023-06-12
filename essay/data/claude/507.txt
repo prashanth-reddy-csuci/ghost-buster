@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The experiment studied the kinetics of the reaction catalyzed by alkaline phosphatase, an enzyme that catalyzes the hydrolysis of phosphate esters in an alkaline pH environment. The experiment aimed to determine the kinetic parameters Km and Vmax for the enzyme. 
 
 To determine these parameters, the initial reaction velocity (Vo) was measured for a range of substrate concentrations [S] while keeping the enzyme concentration constant. Vo was calculated from the initial linear portion of the product concentration [P] vs. time curve for each substrate concentration. A Michaelis-Menten curve of Vo vs. [S] was then plotted, and Km and Vmax were determined.

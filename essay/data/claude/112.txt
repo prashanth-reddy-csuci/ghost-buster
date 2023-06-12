@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 The purpose of the assignment is to measure the temperature of a system using an Analogue-to-Digital Converter (ADC) and a temperature sensor. The experiment requires a microcontroller, an ADC, and a temperature sensor to achieve the aim of obtaining accurate temperature readings.  
 
 The microcontroller used is the Arduino Uno which controls the whole system. It provides the analog input pins to connect the ADC and temperature sensor, the digital output pins to display the results on the LCD screen, and the power supply for the ADC and sensor. The microcontroller runs the code to request analog input from the ADC, calculate the temperature in Celsius from the input voltage, and display the results on the LCD screen.

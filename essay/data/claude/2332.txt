@@ -1,5 +1,3 @@
-Here is a 751 word essay responding to the prompt:
-
 Role of Reducing Agents in SDS-PAGE and Their Importance
 
 SDS-PAGE, or sodium dodecyl sulfate polyacrylamide gel electrophoresis, is an important biochemistry technique used to separate proteins based on their molecular weight. Reducing agents, such as dithiothreitol (DTT) or beta-mercaptoethanol (BME), play a crucial role in SDS-PAGE by reducing disulfide bonds in proteins. Disulfide bonds link cysteine amino acids within a protein or between proteins and can create distortions in the separation by molecular weight. Reducing agents cleave these disulfide bonds to denature the proteins into their individual subunits, allowing for more accurate separation by molecular weight.

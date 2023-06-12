@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 There are several types of information-based technology systems that Fantastic Fitness Club can implement to improve its operations. These include the following:
 
 Supply Chain Management Systems: Fantastic Fitness Club can utilize supply chain management software to track the flow of goods and services throughout its business. This includes managing relationships with suppliers, monitoring the receipt and shipping of inventory, and maintaining optimal stock levels. Sophisticated supply chain software can forecast demand to ensure the gym has enough equipment, apparel, and other products on hand to meet customer needs while avoiding excess stock. 

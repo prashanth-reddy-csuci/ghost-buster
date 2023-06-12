@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Plants have evolved three major mechanisms to overcome the low affinity of Rubisco, the enzyme that fixes carbon dioxide during photosynthesis, for CO2. These mechanisms allow plants to adapt to different environmental conditions and concentrations of CO2.
 
 The first mechanism is increased production of Rubisco, the enzyme that catalyzes the first step of CO2 fixation. Having more Rubisco increases the total capacity for CO2 fixation, even if the affinity of each enzyme remains relatively low. This is an effective strategy for plants in high light, open environments where CO2 concentrations are not limiting. Many plants in sunny, open habitats, like grasslands, have evolved a C4 photosynthetic pathway that concentrates CO2 around Rubisco, allowing for more Rubisco with higher rates of photosynthesis.  

@@ -1,5 +1,3 @@
-Here is a draft essay in approximately 2000 words on approaches to the organisation of lexicon:
-
 The lexicon is the total set of words and word forms in a language. How words are organised and structured in the lexicon has been an important area of study in linguistics. There are three main approaches that have been taken to understand lexical organisation: lexicalization, sense relations, and lexical composition. 
 
 The first approach, lexicalization, examines how concepts and meanings become mapped to words. Languages differ in terms of what concepts they choose to map to single words versus phrases. For example, the concept of 'brother's wife' is lexicalized as a single word 'sister-in-law' in English but requires a phrase in other languages. Languages also differ in terms of at what level of specificity they lexicalize concepts. Some languages like Nuuchahnulth, an indigenous language of Canada, have very specific words for particular types of snow, while English has just one general word 'snow'. Studying lexicalization reveals insights into how speakers of a language categorize the world.

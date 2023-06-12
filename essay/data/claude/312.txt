@@ -1,5 +1,3 @@
-Here is a draft 2500 word essay in response to the prompt:
-
 The time consistency problem occurs when a policymaker has an incentive to renege on its previously announced policy in order to achieve short-term benefits. In monetary policy, this problem arises when the central bank has an incentive to pursue a surprise inflation in order to boost output and employment in the short run. However, the public, anticipating this incentive, will adjust their inflation expectations upwards accordingly. This results in higher inflation but output remaining unchanged in the long run – a worse equilibrium with higher inflation but no gains.  
 
 To reduce the time consistency problem, policymakers often delegate monetary policy to an independent and conservative central bank. An independent central bank is isolated from political pressures that may prioritize short-term gains, allowing it to maintain a consistent low-inflation policy. A conservative central bank places a high weight on keeping inflation low, even at the cost of output variability. This conservative nature also makes their low-inflation policy announcements credible.

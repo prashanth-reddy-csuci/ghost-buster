@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The Philips Curve represents the trade-off between inflation and unemployment in an economy. It suggests that lower unemployment can be achieved by increasing aggregate demand, but this often leads to higher inflation. Conversely, lower inflation can be achieved at the cost of higher unemployment. This inverse relationship has implications for macroeconomic policymaking. 
 
 In the postwar era, the Philips Curve held true for many economies like the UK and US. Policymakers aimed to balance the twin evils of inflation and unemployment, with an optimal balance in the 1960s with low inflation and unemployment. However, in the 1970s stagflation hit - the simultaneous rise of inflation and unemployment - breaking down the traditional Philips Curve trade-off. Supply shocks from oil crises led to cost-push inflation, even as unemployment rose due to weak aggregate demand. 

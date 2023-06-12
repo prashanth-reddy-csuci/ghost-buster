@@ -1,5 +1,3 @@
-Here is a draft essay of 997 words on the topic of meronymy and prototypicality in determining meronymic relationships:
-
 Meronymy refers to the semantic relationship between parts and wholes. In linguistics, a meronym is a word that denotes a part of something but not the whole. For example "finger" is a meronym of "hand" and "hand" is a holonym of "finger." Meronymic relations are an important part of linguistic categorization and help us make sense of the world by grouping related concepts together. 
 
 However, not all parts and wholes have equally strong meronymic relationships. Some part-whole relationships seem more central or prototypical than others. The concept of prototypicality suggests that some members of a category, like meronymic relations, share more attributes in common and are more representative of that category. Prototypical meronymic relations tend to be highly conventionalized in a language and culture. For example, the relationship between "hand" and "finger" would likely be considered more prototypical than "forest" and "branch."

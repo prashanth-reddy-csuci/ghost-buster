@@ -1,5 +1,3 @@
-Here is a 249-word essay in response to the prompt:
-
 There are several methods for determining the water content of foodstuffs. Oven drying involves heating a sample in an oven at a set temperature, usually around 105°C, until there is no further loss of mass.  The change in mass represents the amount of water present. This method is useful for solid foods. Distillation involves boiling a liquid sample and condensing the resulting water vapor. The distilled water is collected and its volume measured. For safety, lower boiling solvents like acetone or petroleum ether can be used instead of water. 
 
 Starch can be identified in plants using the iodine test and microscopy. Iodine solution dropped on a plant sample will turn dark blue in the presence of starch. Under a microscope, starch granules have a distinctive appearance depending on the plant source. They can be oval, spherical, prismatic, etc. The shape and size of granules are useful for identification. Viewing starch granules under polarized light shows a Maltese cross pattern due to the concentric layers of amylose and amylopectin molecules.

@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 The aim of the experiment conducted on iron thiocyanate complexes was to determine the molar absorption coefficient of the simplest iron thiocyanate complex in solution. This was achieved by preparing solutions of known concentration of iron(III) ions and thiocyanate ions and measuring their absorbance using a colorimeter. By plotting a graph of absorbance against concentration and determining the slope, the molar absorption coefficient could be calculated according to the Beer-Lambert law.
 
 To obtain the results, a solution of 0.02 M iron(III) chloride and a solution of 0.1 M potassium thiocyanate were prepared. A series of concentrations of the iron(III) solution were mixed with excess thiocyanate solution to form the iron thiocyanate complex and their absorbances measured at 460 nm in a colorimeter. A calibration curve was then plotted to determine the relationship between absorbance and concentration, which was found to be linear. The molar absorption coefficient is equal to the slope of this line.

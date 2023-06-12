@@ -1,5 +1,3 @@
-Here is a draft essay in 2000 words:
-
 Influenza A viruses are a group of viruses that comprise the Influenza A genus in the Orthomyxoviridae virus family. These viruses are extremely contagious and can cause severe respiratory illness in both humans and animals. Influenza A viruses have several characteristics that make them dangerous pathogens:
 
 First, Influenza A viruses have a segmented genome consisting of 8 separate RNA strands that encode for 11 known proteins. This segmented genome allows for genetic reassortment when multiple Influenza A subtypes infect the same host cell. Such reassortment can lead to the emergence of new viral strains for which humans may have little pre-existing immunity. This process, known as antigenic shift, enables Influenza A viruses to cause influenza pandemics with high mortality.

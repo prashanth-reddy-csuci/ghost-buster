@@ -1,5 +1,3 @@
-Here is a draft 2750-word essay in response to the prompt:
-
 Temporal discounting describes our tendency to devalue or discount rewards and costs that occur in the future relative to the present moment. For example, when offered the choice between $50 today or $100 a year from today, many people will choose the immediate $50 even though the $100 is objectively the larger amount. This tendency to discount future rewards is related to risk aversion in decision making. Both tendencies arise from limitations in human cognition related to evaluating uncertain and delayed outcomes.
 
 Normative theories of decision making, like expected utility theory, propose that people should make rational decisions by objectively evaluating the outcomes and probabilities of options. According to expected utility theory, a person should be indifferent between receiving $100 today or in one year, since the amount is the same. However, we know from extensive research that people do not follow the prescriptions of expected utility theory and instead exhibit temporal discounting and risk aversion. 

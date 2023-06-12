@@ -1,5 +1,3 @@
-Here is a 1751 word essay in response to the prompt:
-
 The isoelectric point of a protein refers to the pH at which the net charge of the protein is zero. For casein, a phosphoprotein found in milk, determining its isoelectric point required the use of electrophoresis and pH titration experiments. 
 
 Electrophoresis involves the migration of charged molecules in an electric field. By placing a protein solution on a gel and subjecting it to an electric field, the mobility of the proteins can be assessed based on how far they migrate. The isoelectric point is indicated when there is no net movement of the protein within the gel. For casein, multiple electrophoresis experiments were conducted using a range of pH values for the gel and solution. It was found that at a pH of 4.6, casein did not migrate in the electric field, indicating this is its isoelectric point.

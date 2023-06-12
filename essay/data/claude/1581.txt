@@ -1,5 +1,3 @@
-Here is a 251 word essay in response to the prompt:
-
 When developing a safety-critical system, the choice of programming language is an important consideration. There are several factors to determine the suitability of a language for such a project. 
 
 First, the language should be stable and mature. Newer languages that are still evolving may have unknown risks and bugs that could impact system safety. Established languages that have been used in other safety-critical systems are a safer choice.

@@ -1,5 +1,3 @@
-Here is a draft 1500-word essay in response to the prompt:
-
 Compotech Industries Plc is looking to increase the production capacity of its Flexi-Connector component to meet rising demand. There are three main options to consider for increasing production capacity:
 
 1. Building a new dedicated production facility. This option involves constructing an entirely new factory to solely produce the Flexi-Connector component. The advantage of this option is that it provides the largest capacity increase and ensures no disruption to existing production lines. However, it requires the largest upfront capital investment and takes the longest time to implement. Using the Net Present Value (NPV) method, the large initial investment required would significantly reduce the NPV of this option.

@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 Determining the enthalpy of vaporization of a liquid using calorimetry requires careful experimental technique and measurement. The enthalpy of vaporization, ΔHvap, refers to the amount of energy needed to convert a liquid substance into a gas at a constant temperature and pressure. It can be measured using a calorimeter, an insulated device that allows the energy changes during a physical or chemical process to be measured.  
 
 The necessary equipment for this experiment includes a calorimeter, a source of heat, a thermometer, and a lid or cover for the calorimeter. The calorimeter should be made of a material that does not change temperature easily, such as stainless steel. It contains an inner chamber that holds the liquid sample and an outer layer of insulation. A thermometer or temperature probe is inserted to measure the temperature change during the experiment. A source of heat, such as an electric heater, is required to heat the liquid to its boiling point and provide the energy to vaporize it. The lid or cover contains a vent or outlet to allow the vapor to escape.

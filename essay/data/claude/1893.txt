@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 Jaeger's method for determining the surface tension of a liquid involves measuring the maximum force required to pull a wire ring , vertically oriented and partially immersed in the liquid, through the surface of the liquid. The surface tension pulls on the ring as it is removed, reaching a maximum value just before the ring breaks free of the surface. By measuring this maximum force and knowing the perimeter of the ring, the surface tension can be calculated using the formula:  
 
 Surface Tension = Maximum Force / Perimeter of Ring

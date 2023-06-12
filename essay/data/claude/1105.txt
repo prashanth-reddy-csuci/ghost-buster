@@ -1,5 +1,3 @@
-Here is a 1500 word essay in response to the prompt:
-
 Ultrasound refers to acoustic waves that have a frequency above the range of human hearing, typically above 20,000 Hertz. Ultrasound is used extensively for non-destructive testing and medical imaging purposes. For non-destructive testing, high frequency ultrasound waves are transmitted into a material to detect internal flaws or characterize material properties. In medicine, ultrasound is used for imaging internal body structures without the use of ionizing radiation.  
 
 There are three main methods of acoustic wave propagation in solids: longitudinal waves, shear waves, and surface waves. Longitudinal waves cause particles to oscillate back and forth along the direction of wave propagation. They can propagate through liquids and solids. Shear waves cause particles to oscillate perpendicular to the direction of wave propagation. They can only propagate through solids. Surface waves travel along the surface of a material, their energy concentrated near the surface. They also propagate only through solids.

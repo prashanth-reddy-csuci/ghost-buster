@@ -1,5 +1,3 @@
-Here is a 1750-word essay in response to the prompt:
-
 X-ray diffraction is a technique used to determine the structure of crystalline solids—materials that have a highly ordered arrangement of atoms, ions, or molecules in a regular, repeating three-dimensional pattern. In X-ray diffraction, X-rays are directed at a crystalline sample and the scattered X-rays are detected and analyzed to determine the arrangement of atoms within the crystal structure. 
 
 There are 14 different types of crystal lattices, which refer to the arrangement of points repeating in three dimensions. The simplest are cubic lattices, including simple cubic, body-centered cubic, and face-centered cubic. Hexagonal lattices have a six-fold symmetry. Tetragonal lattices have rectangular or square axial ratios. Orthorhombic lattices have three unequal axial lengths at right angles. Monoclinic lattices have two axes at right angles and the third at an oblique angle. Triclinic lattices have three unequal axes at oblique angles. Each lattice has a unit cell, the smallest repeating unit, defined by lattice parameters 'a', 'b' and 'c', which represent the lengths of the cell edges.

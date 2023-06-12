@@ -1,5 +1,3 @@
-Here is a draft 525-word essay in response to the prompt:
-
 The excavation of the No'kulchaear rockshelter site in western Australia yielded a large array of stone artifacts and other archeological materials dating from 35,000 to 28,000 years ago. To analyze the significance of these findings, the researchers employed several statistical tests to identify patterns in the data and draw conclusions about how the site was used by its ancient inhabitants.
 
 First, the researchers cataloged and classified over 20,000 lithic artifacts recovered from the site according to characteristics like rock type, size, and morphology. They then used chi-square tests to determine whether the proportions of different artifact types changed significantly over time. The results showed that the proportions of small flake tools, cores, and debitage did not vary much across stratigraphic levels, indicating consistency in the types of stone tool production activities over thousands of years. However, the proportions of edge-ground hatchet heads did increase in more recent levels, suggesting these tools became more important for the inhabitants over time.

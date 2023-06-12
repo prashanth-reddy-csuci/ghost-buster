@@ -1,5 +1,3 @@
-Here is a draft 750 word essay in response to the prompt:
-
 This report investigates three methods for estimating the torsional performance of I-section beams: the Saint-Venant theory, the elliptic integral method, and finite element analysis (FEA). Each method provides different levels of accuracy in calculating the torsional rigidity and stress distribution across the beam section.
 
 The Saint-Venant theory uses a simplified model that approximates the I-section as a thin-walled tube. It can provide a quick estimate of the torsional rigidity but does not accurately capture the stress distribution, especially at the flange-web junction. The elliptic integral method provides a more refined analysis by modeling the I-section as a series of flat plates. It can calculate the torque-twist relationship and stress distribution with reasonable accuracy for most design purposes. However, it still makes simplifying assumptions about stress concentrations at the flange-web junction. 

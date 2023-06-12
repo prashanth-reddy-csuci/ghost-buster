@@ -1,5 +1,3 @@
-Here is a 990 word essay in response to the prompt:
-
 The nematode Caenorhabditis elegans is a powerful model organism for studying the molecular mechanisms underlying early development. The C. elegans embryo is remarkably simple, with only 671 cells in the adult hermaphrodite, yet shares many genetic and cellular processes with more complex animals. The early C. elegans embryo is ideal for studying cell fate specification and asymmetry in development.
 
 After fertilization, the C. elegans zygote divides asymmetrically into two blastomeres of different sizes and fates: the bigger AB cell and the smaller P1 cell. This first division establishes the initial anterior-posterior asymmetry in the embryo. The asymmetric division is controlled by the PAR proteins, which become asymmetrically distributed in the zygote to define the anterior and posterior poles. The PAR proteins then regulate downstream processes that lead to differences in cell size, position of mitotic spindles, and ultimate daughter cell fate.

@@ -1,5 +1,3 @@
-Here is a 224 word essay on the concept of ortho-directed palladation:
-
 Ortho-directed palladation refers to the selective formation of aryl-palladium complexes at the ortho position of substituted arenes. This regioselectivity is driven by the ability of palladium to coordinate strongly with electron-donating substituents on the arene. The palladium atom inserts into a carbon-hydrogen bond ortho to these directing groups.
 
 Electron-donating substituents such as amino, alkoxy, and alkyl groups activate the ortho positions by donating electron density into the aromatic ring. This makes the ortho C-H bonds more reactive toward palladation. In contrast, electron-withdrawing groups like acyl, nitro, and sulfonyl deactivate the ring and direct palladation to more reactive positions.  

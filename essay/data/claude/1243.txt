@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The aerodynamic performance of a car can be greatly improved through the use of 3D computer-aided design software like Solidworks and wind tunnel testing. Solidworks allows car designers to create precise 3D models of vehicle designs and simulate how air will flow over the vehicle. By analyzing the simulated airflow, designers can identify areas of high drag and make changes to improve aerodynamics before building a physical prototype.  
 
 Once a digital design has been optimized, a scale model can be created and tested in a wind tunnel. Wind tunnels allow air to flow over a stationary model at controlled wind speeds. Sensitive instrumentation measures the forces on the model to determine drag and lift. In a wind tunnel, designers can visualize the actual airflow over the vehicle and look for areas of turbulence or detachment. They can then make refinements to the model and re-test to improve the aerodynamics.

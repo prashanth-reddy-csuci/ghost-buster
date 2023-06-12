@@ -1,5 +1,3 @@
-Here is a 949 word essay response to the prompt:
-
 Robotic arms require accurate position sensing and feedback to function effectively. There are a few methods that robotic arms use to determine their position and orientation. 
 
 One method is through the use of joint encoders. Joint encoders are sensors that track the angle of each joint in the robotic arm. By knowing the angles of all the joints, the position of the end effector (the end of the arm) can be calculated using forward kinematics. Forward kinematics uses the lengths of each link in the arm and the joint angles to geometrically calculate the end effector position. However, joint encoders require precise calibration to be accurate and any joint flex or other hardware changes can introduce errors. They also do not provide orientation information about the end effector.

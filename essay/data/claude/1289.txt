@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The effects of changing the metal binding ligand and monomer addition time on the rate of transition metal mediated radical polymerization (TM-RP) were investigated. Two ligands, L1 and L2, and an initiator were synthesized. L1 had  stronger metal binding ability compared to L2. Five polymerization reactions were carried out with different methods to prepare polymers P1 through P5.
 
 For P1, L1, copper bromide, and styrene were mixed together and styrene was added dropwise over 2 hours. The reaction showed a linear increase in molecular weight over time with a slightly lower rate constant, indicating a controlled polymerization. For P2, all reagents were mixed together at once. The molecular weight increased rapidly initially but plateaued quickly, indicating a loss of control. The stronger ligand in P1 maintained control compared to the weaker ligand in P2.

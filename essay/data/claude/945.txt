@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 Data encryption is the process of encoding data in such a way that only authorized parties can read it. It is achieved by using encryption algorithms to convert the original data, known as plaintext, into incomprehensible data, known as ciphertext. Decryption algorithms are required to convert the ciphertext back to plaintext. Encryption is used to protect data and communications in insecure environments like the public Internet.
 
 There are two main types of encryption algorithms: block ciphers and stream ciphers. Block ciphers encrypt data in blocks of a fixed size, padding the final block if needed. Popular block ciphers include AES and DES. Stream ciphers encrypt data bit-by-bit or byte-by-byte. They generate a keystream that is XORed with the plaintext to produce the ciphertext. Common stream ciphers include RC4 and Salsa20.

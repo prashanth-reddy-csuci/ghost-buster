@@ -1,5 +1,3 @@
-Here is a draft essay in roughly 3000 words:
-
 Monetary policy decision-making involves a debate between rules versus discretion. Rules-based policies constrain policymakers to follow prescribed responses to economic events, while discretion allows for flexibility based on current conditions. There are good arguments on both sides.
 
 A seminal argument in favor of rules was put forth by Finn Kydland and Edward Prescott in 1977. They pointed out the time consistency problem in discretionary policymaking. Policymakers have an incentive to exploit the short-term Phillips curve trade-off between unemployment and inflation, promising lower inflation to achieve lower unemployment. But rational economic agents will anticipate this behavior and not believe the promises, building higher inflation expectations into wage and price-setting. The end result is higher inflation without lower unemployment—a worse outcome. By tying the hands of policymakers through rules that credibly anchor inflation expectations, like inflation targeting, this pitfall can be avoided.

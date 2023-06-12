@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 Turbulence refers to chaotic and irregular motion within a flowing fluid. It is important to define this term clearly before exploring solutions for mitigating its effects because turbulence is a complex phenomenon that can occur in many forms and scales. Turbulence is characterized by random fluctuations in flow properties like velocity, pressure, and temperature over space and time.  
 
 The discovery of the Navier-Stokes equations in the early 1800s provided a mathematical framework for studying fluid flow and turbulence. These equations describe the conservation of momentum, mass, and energy in a moving fluid. They can model both laminar (smooth) flow as well as turbulent flow, but accurately solving the Navier-Stokes equations for turbulent flows has been an immense challenge due to the complicated, random nature of turbulence. Attempts to numerically simulate the Navier-Stokes equations for turbulent flows marked the beginnings of computational fluid dynamics. Solving these equations will allow for a more precise understanding and prediction of turbulent flows across many applications.

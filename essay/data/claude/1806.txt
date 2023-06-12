@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Speech act theory refers to the idea that when we speak, we are performing acts such as requesting, promising, greeting, warning, inviting, and so on. These acts are known as speech acts. The theory was developed by philosophers like J.L. Austin and John Searle to analyze not just what is said but what is achieved by saying it. 
 
 According to speech act theory, each speech act consists of three components: the locutionary act, the illocutionary act, and the perlocutionary act. The locutionary act refers to the literal meaning of the words used. For example, the sentence “I will clean my room” has the locutionary act of conveying the meaning of the words to clean and room. The illocutionary act conveys the speaker's intention, such as promising, warning, inviting, etc. In this case, the illocutionary act is that of promising. The perlocutionary act refers to the effect of the speech act, such as convincing, persuading, frightening, or annoying. Here, the perlocutionary act could be to reassure the listener.

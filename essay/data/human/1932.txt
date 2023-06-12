@@ -1,25 +1,105 @@
-Protein is the most abundant nitrogen-containing compound in the diet and in the body. Proteins work hard in cells and organs. The building blocks of protein are amino acids which are joined together according to a sequence directed by the base sequence of the DNA. They serve as the currency of protein nutrition and metabolism. There are numerous proteins in our bodies responsible for giving us particular characteristics and uniqueness. Proteins work hard in cells and organs and fulfill many functions in our bodies. (Michael et al., 2002)
-The most common quantity measured in a protein assay is absorbance of light. By preparing samples with known amounts of protein and comparing their absorbances with that of the unknown, the unknown quantity can be estimated.
-There has been an increase in the number of colorimetric assay techniques for the determination of protein concentration over the past 20 years. Estimation of protein concentration is necessary in protein purification, electrophoresis, immuno-analysis, cell biology, molecular biology, and other research applications. There is a wide variety of protein assays available including Coomassie Blue G-250 dye binding (the Bradford assay), the Lowry assay, and the Formol Titration assay. It is shown that each assay has advantages and disadvantages relative to sensitivity, ease of performance, acceptance in the literature, accuracy and reproducibility, so it is necessary to obtain more than one type of protein assays for research applications.
-Refer to laboratory manual
-From the results, we found that the unknown sample contained the least amount of protein. The protein content of cow's milk was higher than that of soya milk in Formal Titration assay but lower in Lowry and Bradford assays. The protein contents found from Lowry assay were different from that of the Bradford assay although same samples were used. That's why we need triplicate and carry out various protein assays to obtain a fair result. Actually, cow's milk should contain higher protein content than soya milk because many proteins were lost or denatured during process and treatment of soya milk.
-In Lowry assay, folin-phenol reagent binds to the protein and bound reagent is slowly reduced and changes color from yellow to blue. The reactions result in a strong blue color, which depends partly on the tyrosine and tryptophan content. The method is sensitive down to about 0.01 mg of protein/ml and is best used on solutions with concentrations in the range 0.01-1.0 mg/ml of protein.
-Advantages:
-The incubation period is not critical and can vary from 10 min to several hours without affecting the final absorbance.
-Modifications to this basic assay can increase the sensitivity of the reaction. If the Folin reagent is added in two portions, vortexing between each addition, a 20% increase in sensitivity is achieved.
-Constraints of Lowry method:
-The reaction is very pH-dependent, and it is therefore important to maintain the pH between 10 and 10.5.
-The Vortex step is critical for obtaining reproducible results. The Folin reagent is only reactive for a short time under these alkaline conditions, being unstable in alkali, and great care should therefore be taken to ensure thorough mixing.
-The assay is not linear at higher concentrations.
-A range of substances interfere with this assay, including buffers, drugs, nucleic acids, and sugars. In many cases, the effects of these agents can be minimized by diluting them out.
-Using BSA (or any other protein for that matter) as a standard only gives an approximate measure of the protein concentration.
-Bradford Assay is a rapid and accurate method and uses about the same amount of protein as the Lowry assay. It is commonly used to determine the total protein concentration of a sample. This method is sensitive to about 20 to 200mg of protein/ml. The assay is based on the observation that the absorbance maximum for an acidic solution of Coomassie Brilliant Blue G-250 shifts from 465 nm to 595 nm when binding to protein occurs. Both hydrophobic and ionic interactions stabilize the anionic form of the dye, causing a visible color change. The more protein presents, the more Coomassie binds. The colour intensity is proportional to the protein concentration.
-Advantages:
-It is not susceptible to interference by a wide variety of chemicals present in samples.
-Fairly accurate and samples that are out of range can be retested within minutes.
-Constraint:
-Can lead to variation in the response of the assay to different proteins.
-Formol Titration assay is simple and fast. It uses less reagents and is suitable for laboratory use.
-For all methods used, it is advisable to choose a protein standard that is likely to give absorbance values close to those for the protein samples of interest.
-The relative proportions in the diet of food proteins of animal and plant origin differ according to geographical region and other socioeconomic and cultural factors. Michael et al., 2002 stated that animal protein foods account for 60-70% of the total protein intake in the developed regions. In contrast, plant proteins make up about 60-80% of the total protein intake in developing regions, with cereal being the dominant source.
-The protein requirement of an individual is defined as the lowest level of dietary protein intake that will balance the losses from the body in persons maintaining energy balance at modest levels of physical activity. In children and pregnant or lactating women, protein requirement is taken to also include the needs associated with the deposited of tissues or the secretion of milk at rates consistent with good health. (Michael et al., 2002) The recommended RNI is 55.5g/day for male adults and 45g/day for female adults. It is important to meet the recommended values to maintain a good health.
+Lastminute.com business orientation has changed from product to marketing orientation.
+Product orientation focuses on goods. Marketing orientation focuses on buyer's need and satisfaction.
+Lastminute.com was product orientation as it sought to source and sell whatever products it could.
+Its brand name was not familiar to people.
+Its reputation and customer's loyalty were not established.
+It did not have large budget on marketing.
+It was still in the introduction part of the product life cycle and so it had low sales and profit. It took time to draw people attention and really tried it. The company was generating widespread awareness of the product and adjust price.
+The company wanted to sell more to increase reputation and gain profit so as to obtain more resources.
+It worked to increase and improve its quality levels.
+Later, lastminute.com has been possible to develop more of a marketing orientation as its brand name and reputation have developed.
+Also, partnerships have evolved with suppliers who have come to regonise the potential of the company.
+Lastminute.com changes its direction and focuses more on customers.
+It assumes that customers are not necessarily price driving but are looking for the total offering that best fits their needs. Thus the company has to define those needs and provide suitable offerings.
+This assumption meets lastminute.com operation which focuses on value and service rather than price.
+And "inspiration and solutions" become a good description of lastminute.com's core service.
+Lastminute.com create a database to group customers into common needs and wants, so the company can produce a specifically targeted marketing package that best suits the needs of one group.
+The company will make sure the customers are ready before it launches a new product.
+The advertisements in the wed site changes from time to time to meet customer needs.
+It also provides feedback form to collect opinions and allow communication, so they know what their customers need.
+Company reputation and customer loyalty have developed.
+The company tries to gain profit through customer satisfaction and loyalty.
+It is in the growth or maturity section of the product life cycle and so it has to consolidate loyal consumers and modify products.
+After understanding the nature of customers and their needs and wants, the company needs to act on that information so as to develop and implement marketing activities. These activities will actually deliver something to the customer. The means by which such ideas are turned into reality is the marketing mix.
+The 4Ps include product, price, place and promotion.
+Product--- covers everything to do with the creation, development and management of products. It includes new product development, product management, product features or benefits, branding, packaging and after-sales service.
+Price------ a flexible and dangerous element of the marketing mix. It includes costs, profitability, value for money, competitiveness and incentives.
+Place------ covers a wide variety of topics concerned with the movement of goods from one place to another. It includes access to target market, channel structure and management, retailer image and logistics.
+Promotion--- something about communication. It includes developing promotional mixes, advertising management, sales management, public relations management and direct marketing.
+Division of lastminute.com marketing activities:
+Product
+A product portfolio has evolved over time as the company strives to be able to offer everything for the perfect experience.
+Being quick and fast with new offering and consistently true to the brand.
+Make sure customers are ready before the company adds a new product or service.
+Provide online feedback form on products and services and the company is very responsive to the view expressed in this way.
+Price
+A mission statement saying that the company will offer people the chance to live their dreams at unbeatable prices.
+Send customers weekly newsletter via e-mail which is a cost effective way.
+It does not need other advertising media and so save money.
+The production cost is low.
+Time means money to some people, lastminute.com induce a positive image of a shortcut to good times with their friends and able to save customer's time. Timing is a key issue lastminute.com's day-to-day marketing.
+Place
+Negotiate with supplier to make sure that transaction and service delivery to take place delivery.
+Develops a technical department to maintain and manage the internet infrastructure, which allows transactions to take place.
+Deliver goods to customers on time.
+It provides many transaction ways to customers.
+Promotion
+Develops a technical department to maintain and manage the internet infrastructure, which allows communication to take place between the company and its customers.
+Entered into a partnership with Granada Media so as to generate awareness and traffic from complementary media.
+Advertising in the website changes throughout the day to meet customer needs.
+Distribute weekly newsletter via e-mail.
+There are different departments (production, purchasing, marketing, human resources, finance, technical and research and development) in the company. Various departments interact with other to create a consistent marketing mix.
+They are interdependence. Each department has its own responsibility
+There are supply managers whose departments source the products and services that the company sells.
+Business development department that manages strategic issues, e.g. partnership with other companies.
+Marketing department responsible for the complete range of well-integrated marketing activities.
+Technical department maintain and the internet infrastructure.
+Research and development department carries out market research and analyse feedback by customers.
+The combination of the 4Ps used needs to give the company a competitive edge.
+The edge may be created mainly through one element of the mix or a combination of them.
+Lastminute.com always provides new services and products with unbeatable price (product &amp; price).
+It provides 24-hour internet ordering and delivery service (place).
+It provides many convenient and fast transaction ways to customers (price &amp; place).
+Send newsletter via e-mail to customers to tell them more about the company (price &amp; promotion)
+Consistently true to the brand
+The other 3Ps of the services marketing mix are people, processes and physical evidence.
+People---- helps in creating and delivering the products. Services often depend on how people perform them.
+Processes--- about manufacturing process, how service is delivered and what quality controls can be built so that customers can be confident that they know what to expect each time they consume.
+Physical evidence--- relevance to those who maintain premises form which a service is sold or delivered.
+The 3Ps are going to impose on and will be reflected in discussing applications of the original 4Ps.
+Make sure the products are delivered to the customers on time and without any damages.
+The delivery man should deliver the products to customer on time and talk to them in a polite way.
+Politely response to the feedback and make improvements.
+Create an attractive web site with clear instructions and detailed information.
+Never cheat or try to take advantages from customers by providing low quality products or services.
+Advantages
+Has opportunity to showcase products on a global basis in an open competitive market.
+May potentially sell goods and services to a global market.
+As internet use is international, the products can widely spread easily.
+Customers may click on the link in the intermediary web page and so more people will know about our company.
+Lower cost to advertise in the internet than in tv, magazine or newspaper.
+Freezing us from the constraint of geographic catchment areas as the agent will help in delivery.
+Partner with existing digital or internet brand can help promoting our company and products. Also to increase reputation.
+Internet penetrates among the population rise and there is a trend for increasing use of e-shopping.
+An internet-based intermediary has an existing customer database and it helps to deliver products to target segment.
+The agent is more professional and has more information on selling certain products or services.
+Provide another transaction way, a faster reception and processing of orders.
+Disadvantages
+Need to pay commission to the agent and so the production cost will increase.
+The agent may add a margin to the price of good and so the actual value of good cannot be reflected.
+Relationship with agent may break.
+There are still many people do not trust transaction through internet.
+The internet-based intermediary has many suppliers and there is great competition.
+Carl Lyons meant:
+There are no specific laws or regulations to become an internet-based intermediary.
+Everyone who has resources can set up a company like this.
+But it is hard to succeed because there are so many competitors and it is really hard to establish reputation and gain customer loyalty.
+I believe that it is true,
+The market has already been shakeout. Thus it is hard for the company to develop even you can enter the market.
+It takes a long time for the company to establish reputation and customer loyalty.
+A company should be well-structured. Various departments should be interdependence. There should be interaction and provide mutual support among departments.
+A well-structured customer database is essential for competitive advantage.
+Only an established brand name can recruit new customers easily to its database. Newer competitors find it hard to because consumers do not want to volunteer personal details to companies they do not know well.
+A successful company needs to maintain a good reputation and positive image and provide good service all the time.
+Every product has its own product life cycle, many decisions and strategies have to be made to maintain the product life.
+Sometimes doing business depends on luck and timing. If you enter the market at a good time, you may earn a lot within a short period of time.

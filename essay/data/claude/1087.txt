@@ -1,5 +1,3 @@
-Here is a 492 word essay in response to the prompt:
-
 Nuclear magnetic resonance (NMR) spectroscopy and X-ray crystallography are two complementary techniques that provide evidence for the role of weak hydrogen bonding in the self-assembly of supramolecular structures. NMR spectroscopy detects the presence of hydrogen bonds through perturbations in the chemical shifts and spin-spin coupling constants of hydrogen and heteroatoms. However, the accuracy of NMR data in detecting hydrogen bonds depends on several factors. 
 
 First, the strength of the hydrogen bond plays a role. Weaker hydrogen bonds typically produce smaller changes in NMR parameters, so they are more difficult to detect. Stronger hydrogen bonds can change chemical shifts by 0.3 ppm or more, clearly indicating their presence. Weaker hydrogen bonds may only change shifts by 0.1 ppm or less, leading to more ambiguous results.

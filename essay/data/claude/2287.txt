@@ -1,5 +1,3 @@
-Here is a 748 word essay in response to the prompt:
-
 Amazon.co.uk's e-commerce website faces several threats from electronic attacks that could disrupt operations or steal customer data and funds. As one of the largest online retailers, Amazon is an attractive target for cybercriminals seeking to compromise accounts, steal payment card data, or disrupt service to customers. 
 
 One threat is denial of service (DoS) attacks, which attempt to overload servers and make the website unresponsive. Cybercriminals can carry out DoS attacks by flooding Amazon's servers with high volumes of traffic from many sources. This can prevent legitimate customers from accessing the website and carrying out orders or searches. Amazon needs robust security measures like firewalls as well as partnerships with internet infrastructure companies to quickly detect and block DoS attacks to minimize disruption.

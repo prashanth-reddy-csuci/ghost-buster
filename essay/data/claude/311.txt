@@ -1,5 +1,3 @@
-Here is a draft essay in 1500 words:
-
 Recent banking crises have been the result of a combination of vulnerabilities in the banking system and external shocks that trigger a collapse in confidence. The Argentine banking crisis of 2001 is a case study that demonstrates how these factors can lead to a crisis and how policy responses and reforms can help resolve crises and prevent future vulnerabilities.
 
 The Argentine banking system in the 1990s exhibited several vulnerabilities that made it prone to crisis. First, there was a currency mismatch between assets and liabilities, as most loans were denominated in US dollars while deposits were in Argentine pesos. This mismatch exposed banks to currency risk if the peso devalued. Second, the banking system had a high exposure to sovereign debt, holding a large amount of Argentine government bonds. This tied the viability of the banks closely to the government's ability to repay its debts. Finally, poor regulation and risk management in the banking system allowed weak governance and risky lending practices to prevail.

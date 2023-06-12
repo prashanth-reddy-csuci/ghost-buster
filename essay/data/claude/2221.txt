@@ -1,5 +1,3 @@
-Here is a 747 word essay in response to the prompt:
-
 Transcription is the first step of gene expression, which involves the biosynthesis of RNA from DNA template strands. Primary transcripts are the initial RNA transcripts that are not fully processed. These transcripts will experience various modifications and transformations into mature RNA molecules that differ from the original transcripts in size and functional capabilities.
 
 The process of transcription begins in the nucleus where the DNA double helix is unwound by DNA helicases and transcription factors recognize DNA sequences, known as promoters and enhancers, to bind and initiate transcription. RNA polymerase then binds to the promoter sequence and begins to synthesize an RNA strand in a 5' to 3' direction, producing a complementary RNA sequence based on the DNA template. The resulting primary transcript will include non-coding sequences known as introns and exons - protein coding sequences. The intronic sequences will be removed and the exonic sequences will be joined together in a process known as splicing to produce a mature messenger RNA (mRNA) molecule.

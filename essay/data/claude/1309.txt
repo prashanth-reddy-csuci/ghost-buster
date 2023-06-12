@@ -1,5 +1,3 @@
-Here is a 987 word essay in response to the prompt:
-
 The use of microwave energy in organic synthesis reactions has evolved substantially over time. Microwaves were first applied in chemistry labs in the 1980s as researchers began experimenting with them as an alternative heat source to traditional oil baths, heating jackets, and hot plates. Early uses of microwaves in synthesis focused on simple heating of reagents, solvents, and reaction mixtures to accelerate reactions that were known to proceed at elevated temperatures. 
 
 However, chemists soon discovered that microwaves could do more than just heat reaction mixtures—they could selectively heat specific components in a mixture based on their ability to absorb microwave energy. This allows for much more efficient and directed heating. Molecules that are good absorbers of microwaves, such as polar solvents like water, heat up preferentially over poor absorbers. Chemists found they could take advantage of this selective heating to speed up reactions, increase yields, and enable new reaction pathways not possible with conventional heating.

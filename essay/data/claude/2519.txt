@@ -1,5 +1,3 @@
-Here is a draft essay in roughly 2000 words:
-
 A series of experiments were conducted using a simple climate model to identify the radiative forcings responsible for observed temperature increases since 1850 and assess the implications. The model incorporated basic physics of the climate system, including a global energy balance, radiative transfer in the atmosphere, and heat diffusion in the ocean. It included natural factors like solar irradiance and volcanic eruptions as well as anthropogenic factors such as greenhouse gases and aerosols. 
 
 When the model was run with only natural forcings from 1850 to 2010, the simulated temperature increase over that period was around 0.1°C, much lower than the observed 0.8°C rise. This suggests that natural factors alone cannot explain the observed warming. When anthropogenic forcings were added, including rising CO2 levels, increased methane and chlorofluorocarbons, and changes in anthropogenic aerosols, the model's temperature rise matched the observed increase of 0.8°C very closely. This implicates human activities as the dominant cause of global warming since pre-industrial times.

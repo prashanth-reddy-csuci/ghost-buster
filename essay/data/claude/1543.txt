@@ -1,5 +1,3 @@
-Here is a 750-word essay response to the provided prompt:
-
 The two main types of peripheral bus standards for connecting external data storage devices to a computer are EIDE and SCSI. The Enhanced Integrated Drive Electronics (EIDE) bus evolved from the original Integrated Drive Electronics (IDE) standard. EIDE supports faster data transfer rates than IDE and allows for connecting multiple storage devices. The Small Computer System Interface (SCSI) bus standard is typically considered higher performance than EIDE and supports connecting many more devices.   
 
 The EIDE bus uses a 40-pin cable and can handle data transfer rates up to 133 megabytes per second. It supports connecting up to two storage devices. EIDE is a parallel bus, sending multiple bits of data at once. The SCSI bus uses a variety of cable types with many more pins to handle data transfer rates of 160 megabytes per second up to 16 gigabytes per second for SCSI Express. SCSI supports connecting up to 15 storage devices. SCSI is also a parallel bus but uses higher bandwidth than EIDE. 

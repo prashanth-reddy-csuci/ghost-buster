@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 The larynx, or voice box, plays a critical role in the production of obstruent consonant sounds, like stops, fricatives, and affricates.  Specifically, the larynx controls the vibration of the vocal folds, which generates voicing. Voicing refers to the vibration of the vocal folds that accompanies the production of most speech sounds in English and many other languages. For obstruents, the larynx controls whether voicing is present or absent, resulting in a contrast between voiced and voiceless consonant sounds.
 
 In English, the voicing contrast between obstruents is phonemic, meaning it can change the meaning of words. For example, the words “bad” and “pad” differ only in the voicing of the initial consonant. When pronouncing “bad,” the vocal folds vibrate to produce voicing during the [b] sound. When pronouncing “pad,” the vocal folds remain still, producing a voiceless [p] sound. Although the oral articulation is identical between these words, the difference in laryngeal articulation results in a contrast in meaning.    

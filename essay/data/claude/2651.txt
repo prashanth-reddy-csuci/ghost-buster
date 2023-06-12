@@ -1,5 +1,3 @@
-Here is a draft 750 word essay in response to the prompt:
-
 The aim of this experiment was to analyze the carotenoid content of marigold petals using High Performance Liquid Chromatography or HPLC. HPLC is an analytical method used to separate, identify, and quantify each component in a mixture. It relies on pumps to pass a pressurized liquid solvent containing the sample mixture through a column filled with a solid adsorbent material. Each component in the mixture interacts differently with the adsorbent, thus exiting the column at different times. This allows a detection method such as UV-Vis spectrometry to identify and quantify each component as it elutes from the column.  
 
 To perform the experiment, marigold petals were first ground and an extract was prepared using acetone as the solvent. The samples were filtered and diluted before being analyzed using a C18 column and a mobile phase of methanol and water. The carotenoids were detected by their absorbance at 450 nm using a UV-Vis detector. 

@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The Experiment 
 
 The experiment aimed to analyze the performance and efficiency of an induction motor/generator in generating hydroelectric power. The induction machine was operated as a generator by supplying mechanical power from a water turbine installed in a stream. Several factors were tested to determine their impact on the efficiency and power output of the generator.

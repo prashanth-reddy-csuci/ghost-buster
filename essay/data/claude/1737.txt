@@ -1,5 +1,3 @@
-Here is a draft 1250 word essay in response to the prompt:
-
 The choice of data structure for any application involves weighing several factors to determine the optimal approach. For an online plant catalogue, the designer must consider properties such as lookup speed, insertion and deletion efficiency, storage space, and more. When comparing a hash table and an AVL tree for this use case, there are arguments for and against each option.
 
 A hash table offers outstanding lookup performance, with O(1) time complexity for lookups in the average and best cases. This means searches for plant names or other catalogue attributes can be performed extremely quickly. The hash table's speed comes from its use of a hash function to map keys directly to memory locations. However, hash tables require wasted storage space for empty "slots" and are limited to one-dimensional keys. They also have O(n) worst case lookup, though this can be mitigated with secondary hash functions.  

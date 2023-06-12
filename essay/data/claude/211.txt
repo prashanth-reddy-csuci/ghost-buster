@@ -1,5 +1,3 @@
-Here is a draft 1750-word essay in response to the prompt:
-
 Market forces on their own are not fully efficient in allocating resources and achieving desirable outcomes in the education sector. While market competition can drive down costs and increase innovation, there are several significant sources of market failure in education that warrant government intervention.
 
 First, education exhibits positive externalities to society. An educated population has many benefits that extend beyond the individual, including lower crime rates, a more informed and civically engaged citizenry, and a more productive workforce. However, in a purely private market, individuals will not invest in education at the socially optimal level because they only consider their private costs and benefits, not the positive externalities. Government policies like subsidized tuition, student loans, and public funding for primary and secondary schools aim to address this externality problem and promote greater access to education.

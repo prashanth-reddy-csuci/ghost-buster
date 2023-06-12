@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 The tensile test is a fundamental materials science experiment used to characterize the mechanical properties of materials. During the test, a specimen of known dimensions is subjected to a uniaxial force that pulls the material. By measuring the amount of force applied and the resulting elongation of the specimen, important values such as the tensile strength, yield strength, ductility, and elastic modulus can be determined.  
 
 There are two primary regions of material behavior during tensile loading: elastic deformation and plastic deformation. In the elastic region, the material stretches proportionally to the applied force, following Hooke's law. This means the material returns to its original shape once the force is removed. The elastic modulus, calculated from the slope of the linear elastic portion of the stress-strain curve, quantifies the stiffness of the material.

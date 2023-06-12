@@ -1,5 +1,3 @@
-Here is a 1243 word essay in response to the prompt:
-
 Two Component Systems (TCS) in bacteria such as E.coli are a vital means of sensing and responding to environmental stimuli. There is significant inter-pathway communication within the network of TCS, allowing integration of multiple signals and a coordinated response. To understand how this complex network functions as a system, several approaches have been proposed. 
 
 The first approach is to map the topology and connectivity of the TCS network. Bioinformatic tools can be used to identify genes encoding histidine kinases and response regulators, the two components of a TCS, and predict which pairs function together as pathways. However, computational predictions need to be validated experimentally by techniques such as yeast two-hybrid analysis, co-immunoprecipitation, and chromatin immunoprecipitation sequencing. Knowledge about which pathways are directly or indirectly connected allows modeling of how a signal may propagate through the network.

@@ -1,5 +1,3 @@
-Here is a draft essay in roughly 1500 words on different theories of perception and how they explain human perception:
-
 Perception is the process of acquiring, interpreting, selecting, and organizing sensory information. Humans perceive the world around them through their senses, primarily vision, hearing, touch, smell, and taste. However, perception is not just a passive reception of sensory data—it is an active process shaped by a person's experiences, memories, expectations, and beliefs.   For philosophers, psychologists, and scientists, the question of how humans perceive and gain knowledge about the world has been studied for centuries. Several theories have emerged to explain the complex process of human perception. 
 
 One theory is direct realism, which states that humans perceive the actual physical objects directly. According to this view, what we perceive is what exists in the external world. Direct realism suggests there is a one-to-one mapping between perception and the world. However, this theory struggles to explain illusions, dreams, hallucinations and other instances where perception does not match reality.

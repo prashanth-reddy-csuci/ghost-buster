@@ -1,5 +1,3 @@
-Here is a 981-word essay in response to the prompt:
-
 The selection of a structural section for a pre-fabricated roof member is a complex process that requires balancing several factors. The main factors considered include deflection limits, load-carrying capacity, weight, and size constraints. For a roof member being used in an interior space divided by glass curtain walls, minimizing deflection and overall size is particularly important to avoid impacts with the glass walls.
 
 The deflection limits were one of the most important constraints on section selection. With glass curtain walls and aesthetic concerns, sufficient stiffness must be provided to avoid excessive deflection under full design loads and maintain the desired ceiling profile. Deflection also affects the behavior of the glass, as excessive deflection can put undue stress on the glass and curtain wall connections. To meet deflection criteria, higher stiffness sections like hollow structural sections or built-up sections with stiffening plates were preferred over open sections like angles or channels.  

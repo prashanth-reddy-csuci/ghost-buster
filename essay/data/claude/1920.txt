@@ -1,5 +1,3 @@
-Here is a 244-word essay response to the prompt:
-
 Examining various types of food samples requires different techniques to accurately assess bacterial contamination and count. For liquid and high-bacterial samples, dilution plating is an appropriate method. This involves diluting the sample with sterile diluents to obtain separate dilutions, then inoculating and incubating them to obtain colony counts  that can be used to calculate the bacterial concentration in the original sample. This is preferred over direct plating of concentrated samples, which can yield crowded plates that are difficult to count accurately.   
 
 For cream used in cream cakes and other desserts, the surface plating technique is useful as it examines the level of contamination on the surface, which poses the highest risk. A known amount of the sample is spread on the surface of specific agar and then incubated. The colonies formed are counted and the bacterial count calculated based on the amount of sample used. This tests for pathogens like Staphylococcus aureus that can contaminate surfaces and yields an accurate assessment of food safety risk from the sampled batch.

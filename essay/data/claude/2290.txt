@@ -1,5 +1,3 @@
-Here is a draft essay in 3000 words:
-
 When organisations replace their existing order processing systems, three key objectives they should keep in mind are:
 
 1. Improving operational efficiency. By digitizing and automating manual paper-based processes, operational efficiency can be significantly enhanced in terms of reduced time and cost of processing orders. Newer order processing systems can integrate with Enterprise Resource Planning software to provide a seamless flow of information across the organisation. This reduces duplicate data entry, minimises errors, and speeds up processes. 

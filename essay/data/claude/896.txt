@@ -1,5 +1,3 @@
-Here is a 743-word essay response:
-
 The primary design methodology presented in the report is a systematic approach for developing a custom gearbox to meet a set of specifications. The gearbox was designed for an electric mobile robot called “Mbot”. The key considerations and steps in the design process were as follows.
 
 The first main consideration was determining the required gear ratio to convert the high-speed, low-torque output of the motor into low-speed, high-torque movement of the robot's wheels. The target top speed of the robot was 0.5 meters per second. By calculating the circumference of the wheels and the speed requirements, the necessary rotational speed of the wheels was determined to be 31.4 revolutions per minute (rpm). The motor's maximum rpm was far higher at 200 rpm. Using a gear ratio formula, a 15.2:1 gear reduction was calculated to meet the needs.

@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 There are several factors that would need to be considered in developing an effective computer model of a University library system:
 
 1. Determine the key metrics or performance indicators that the model aims to optimize. For a library system, this could include maximizing book circulation, minimizing wait times to retrieve requested books, optimizing the use of available shelf space, and minimizing the costs to operate the library. These metrics would need to be quantified and weighted based on their importance to determine an overall measure of system performance.

@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 There are several ways in which hotels can make yield management systems and their corresponding price fluctuations appear fairer to customers. Some approaches focus on how prices are presented, while others focus on offering discounts and deals. However, there are both advantages and disadvantages to each method, and hotels must balance perceptions of fairness with ensuring long-term profitability and customer satisfaction.
 
 One approach to increase the perceived fairness of yield management pricing is to focus on transparent communication. Hotels can tell customers up front, in a clear manner, that prices may fluctuate based on factors like seasonality and availability. Explaining the rationale for price changes and giving customers advance notice is more likely to be seen as fair by guests. However, too much transparency around the specifics of the hotel's pricing algorithm could make it easier for competitors to undercut. It may also lead to some customers gaming the system by only booking during off-peak times or at the last minute.  

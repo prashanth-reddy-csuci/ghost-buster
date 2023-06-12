@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 Multiple techniques exist to compress 256-pixel square greyscale images. Three common  approaches are run-length encoding (RLE), GIF compression using LZW coding, and JPEG compression. This analysis found that JPEG compression achieved the highest compression ratios on test images compared to the other two techniques. 
 
 Run-length encoding (RLE) compresses sequences of the same pixel value in an image. It represents these sequences as a single pixel value and a run count. For example, a sequence of eight black pixels can be represented as (black, 8). While simple to implement, RLE typically does not yield high compression ratios on photographic images since it relies on long runs of the same pixel value. On the test images, RLE achieved compression ratios ranging from 1.5:1 to 3:1.

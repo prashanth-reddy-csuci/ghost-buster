@@ -1,5 +1,3 @@
-Here is a draft 1000 word essay in response to the prompt:
-
 The exclusion clause in the contract between Laura and SWBC aims to protect SWBC from any negligence claims by Laura for losses arising from their advisory services. However, the effectiveness of this clause depends on whether it meets certain legal requirements to be enforceable. If it does not, then Laura may still have a valid claim against SWBC for negligence resulting in her investment losses.
 
 For an exclusion clause to be legally valid and enforceable, it must satisfy three key requirements. First, the clause must be incorporated into the contract, either by signature or reasonable notice. The clause in Laura's contract with SWBC appears to meet this requirement, as Laura signed the contract containing the exclusion clause.  

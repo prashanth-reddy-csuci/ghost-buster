@@ -1,5 +1,3 @@
-Here is a 748-word essay in response to the prompt:
-
 The aim of the experiment using an oxygen electrode to measure oxygen evolution in isolated chloroplasts was to understand the electron transport chain involved in photosynthesis and how it relates to ATP synthesis. The experiment studied the effects of various conditions on the rate of oxygen evolution to gain insight into this process. 
 
 The experiment isolated chloroplasts from pea seedlings in order to study the light-dependent reactions of photosynthesis separately from the Calvin cycle. The light-dependent reactions involve the absorption of light by chlorophyll and the transport of electrons to ultimately reduce NADP+ to NADPH. The byproduct of this electron transport is the evolution of oxygen from water and the synthesis of ATP from ADP and inorganic phosphate.

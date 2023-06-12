@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The key concepts in microscopy include magnification, resolution, and contrast. Light and electron microscopes operate on different scientific principles and offer different capabilities in these areas:
 
 Magnification refers to the ability to enlarge an object. Light microscopes use glass lenses and light to magnify objects up to 1500 times. Electron microscopes use electronic lenses and electron beams to achieve much higher magnification, up to 10 million times for transmission electron microscopes. 

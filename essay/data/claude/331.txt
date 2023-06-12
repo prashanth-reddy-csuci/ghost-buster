@@ -1,5 +1,3 @@
-Here is a 249 word essay in response to the prompt:
-
 The wave-like behavior of electrons was demonstrated through a series of experiments in the early 20th century. Scientists wanted to show that electrons exhibited interference patterns, like light, which would confirm their dual particle-wave nature. They also wanted to determine the mass of the electron.    
 
 Louis de Broglie hypothesized that all particles, like electrons, have an associated wavelength that depends on their momentum. To test this, scientists designed electron diffraction experiments. They aimed beams of electrons at thin metal films with small slits or openings that acted as barriers to diffract the electrons. On screens placed behind the films, they observed interference patterns - alternating dark and light fringes of electrons, showing the wave-like behavior of the particles. 

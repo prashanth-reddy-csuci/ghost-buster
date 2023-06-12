@@ -1,5 +1,3 @@
-Here is a draft essay response in roughly 1500 words:
-
 There are several factors to consider when determining whether alternating current (AC) or direct current (DC) should be transmitted through the pantograph power collector on trains. The three main factors are efficiency of transmission, safety, and cost. 
 
 In terms of efficiency, AC power transmission results in lower power losses over long distances compared to DC transmission. This is because AC power can utilize transformers to step up the voltage, which reduces the current and therefore reduces power losses according to the formula Power (P) = Current (I) x Voltage (V). The higher voltage AC power can then be stepped down again for use. While conversion between AC and DC is possible, it results in some energy losses. So for very long distance power transmission where efficiency is most important, AC is often preferred.

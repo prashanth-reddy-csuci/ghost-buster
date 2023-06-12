@@ -1,23 +1,25 @@
-The aim of this experiment is to determine the total acidity (% acetic acid) in 3 samples of vinegar in order to find out if they come up to quality standards (at least 4% m/V acetic acid).
-25ml pipettes were used in place of 20ml pipettes.
-Potassium hydrogen phthalate is a primary standard. I.e. you can make it up to exact molarity. Sodium hydroxide is not. It takes up CO2 from the air and changes with time.
-25ml of 0.05M phthalate should react with 25ml of 0.05M NaOH, but our titre was 25.9ml = 0.0259 dm
-i.e. our NaOH is weaker.
-Total acidity of vinegar as % of acetic acid (m/V)
-i.e.
-Vinegar 1
-55.65ml of 0.048M NaOH was used.
-of CH3COOH in 25ml sample
-But this was a diluted sample (25ml made up to 100ml) i.e. x4
-Therefore %w/w in initial vinegar sample
-Vinegar 2
-28.45ml of 0.048M NaOH was used
-Vinegar 3
-60.65ml of 0.048M NaOH was used
-There is a large difference in acidity between the weakest and strongest samples of vinegar (25.34%). When tested for pH both samples 1 and 2 were moderately acidic. However, only vinegar 3 would meet the legal standard for vinegar, as they should contain at least 4% acetic acid. However most vinegars contain between 2% and 8% acetic acid, so sample 3 was particularly acidic as was also shown by the pH test result. Sample 3 was also the only vinegar to give a positive result when tested with barium chloride, showing that it contained sulphate ions. Due to its strong acidity I doubt that sample 3 would be classed as legal vinegar for consumption.
-All of the vinegars tested negative with silver nitrate, showing that they contain no chloride ions.
-One source of error in the experiment would have been from the ability to accurately determine the exact endpoint of the titration as it occurs very precisely but the experiment allows room for human judgement and interpretation as to when the colour remains. Therefore, it is likely that the titre result will have an error of  0.2ml. The apparatus also induces error; the dilution method using standard flask has an error of  0.5 ml, the volumetric pipette has an error of  0.2ml, (which must be multiplied by 2 since it is used twice) and the burette has an error of  0.2 ml.
-So the final titre would yield an error of:
-These results would impact the values calculated for total acidity. The larger the titre volume, the smaller the error in the final reading.
-Using a relatively large amount of indicator could also have affected the results by diluting the vinegar sample or affecting the intensity of the colour change and the ability to judge the endpoint. If the vinegar were more strongly coloured the end-point could be determined by using a more brightly coloured indicator, a more dilute sample of vinegar or by using a pH probe in the solution.
-.
+Surface tension shows the forces of attraction between liquid (or solid) which hold molecules together. For the determination of surface tension of liquid, Jaeger's method and Cambridge surface tension balance will be used in this experiments. Further more, the surface activity of a liquid will be determined by comparing with water.
+There are several methods for measuring surface tension:
+In this experiments, we use Jaeger's method and Cambridge method.
+Taken from page 174 from the course book
+After the experiments were carried out properly according to the steps described above, the experiment results and findings are discussed as follows:
+Surface tension is the force coursed by the attraction between the surface molecules and the inner molecules of a liquid. The surface molecules of a liquid are pulled toward the center of a mass of liquid by the inner molecules, causing the surface area of the liquid pulls itself as small as possible. The energy needed to break through the surface of a liquid or disrupt a drop is the surface tension of the liquid.
+Water has a greater surface tension than most other common liquids. So we say that water has a very high surface tension value. In addition, 'liquids which has a very high surface tension value also have high latent heat values.' taken from page 169
+'compounds that reduce the surface tension of a liquid are said to be surface active'
+taken from the top of page 170
+as we mentioned above, water has a very high surface tension value, so:
+If the surface tension value of the liquid &lt; surface tension of water
+This liquid is surface active
+If the surface tension value of the liquid &gt; surface tension of water
+This liquid is surface inactive
+Form the tables6.3 shows on page 171. When the temperature is 20 degree:
+To compare my results with literature values, the values we got are somehow all lower than the literature values. That is because of the temperature.(explain later)
+What's more, although we do everything carefully, there still be some errors. As the second part (determine whether those solid are surface active).
+As we realized, the surface tension of sugar is 55 dyne/cm, and is surface inactive.
+In other case, the surface tension of water is 56 dyne/cm, which means the value of sugar is less than water, it should be active.
+However, we did not notice the temperature change during the experiment.
+The fact is: surface tension decreases with increasing temperature;
+(to note that, surface tension decreases with increasing pressure.)
+So, while we measure sugar, the surrounding temperature was increase, so the value we get of sugar is lower than expect. (might be sunshine go through the window at that time.)
+This point also appeared in the other components (liquid and solid) during the experiments.
+In the experiments described above, we recognize the method of measuring surface tension by Jaeger's method and the surface properties of several liquids. Further more, we also determine the surface activity of some components by comparing the value with water. In the laboratory, we realize the temperature is an effecter of surface tension, which means the surface tension changes gradually as the temperature vary.

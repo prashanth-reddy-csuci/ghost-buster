@@ -1,5 +1,3 @@
-Here is a 1247 word essay in response to the prompt:
-
 Establishing a duty of care is a fundamental principle in tort law. It refers to the obligation of a person or organization to exercise a reasonable standard of care to avoid causing harm to others. Unless a duty of care can be established, negligence claims will fail. Duty of care impacts cases of negligent misstatement, where incorrect or misleading information is provided, as well as claims of pure economic loss.
 
 For a negligence claim to succeed, the claimant must prove that the defendant owed them a duty of care. This means demonstrating that there was a relationship between the parties that required the defendant to meet a minimum standard of care to avoid causing foreseeable harm. The nature of the relationship, such as between a doctor and patient or business and customer, gives rise to the duty. Without this duty, the defendant cannot be found liable for negligence regardless of how careless or unreasonable their conduct was.

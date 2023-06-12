@@ -1,5 +1,3 @@
-Here is a 1750-word essay response to the prompt:
-
 Mitochondria in eukaryotic cells and the electron transport chains in bacterial species both have the goal of generating energy for the cell in the form of ATP. However, the structures and components involved are different between the two cell types. 
 
 In eukaryotic cells, mitochondria serve as the cellular organelles responsible for respiration and most energy production. Mitochondria have their own DNA which encodes some of the components required for electron transport and ATP synthesis. The electron transport chain in mitochondria consists of four protein complexes (I through IV) embedded in the inner mitochondrial membrane, as well as ATP synthase. Complex I accepts electrons from NADH and passes them to coenzyme Q. Complex II accepts electrons from FADH2 and also passes them to coenzyme Q. Coenzyme Q then passes the electrons to complex III. Complex IV uses the electrons to reduce oxygen to water. The pumping of protons across the membrane by complexes I, III, and IV establishes a proton gradient that fuels the generation of ATP by ATP synthase through chemiosmosis.

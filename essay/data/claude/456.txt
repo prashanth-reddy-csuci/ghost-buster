@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 The key questions discussed before the House of Lords in the cases of S. and Marper v. the United Kingdom regarding the retention of fingerprints and DNA samples were whether the blanket policy of retaining such biometric data after individuals had been acquitted of a crime amounted to a violation of their right to privacy as protected under Articles 8 and 14 of the European Convention on Human Rights. There were differing opinions on this issue among the Law Lords. 
 
 Lord Steyn argued that retaining the fingerprints and DNA samples of individuals who had been acquitted of an offense and were deemed innocent amounted to an unjustified interference with their right to privacy. He noted that such data contains sensitive information about a person and retaining it serves to stigmatize innocent people by associating them with criminal records. Lord Steyn argued that the policy of the Chief Constable of South Yorkshire to retain all samples and data except in exceptional cases was disproportionate and not necessary in a democratic society.

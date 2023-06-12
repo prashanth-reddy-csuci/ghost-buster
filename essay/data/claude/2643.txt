@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 Standardizing a solution means determining the concentration of the solution accurately. Potassium hydrogenphthalate (KHP) is often used as a primary standard for standardizing solutions of sodium hydroxide (NaOH), a base. KHP is an acid with a known purity and molecular weight, so its molarity can be calculated precisely. However, NaOH is not a primary standard because its concentration depends on factors like exposure to air and absorption of water, which can vary.
 
 To standardize a NaOH solution using KHP, a known mass of KHP is weighed and added to a flask. A few drops of indicator such as phenolphthalein are added, and the KHP is titrated with the NaOH solution from a burette until the endpoint is reached, as marked by a permanent color change. The volume of NaOH added is recorded. From the mass of KHP, its molecular weight, and the volume of NaOH used, the concentration of the NaOH can be calculated.

@@ -1,5 +1,3 @@
-Here is a draft essay in approximately 1500 words:
-
 The liar paradox, in its Eubulides version, states: "This statement is false." This sentence appears to contradict itself, as if it is true then it must be false, and if it is false then it must be true. Self-reference, where a proposition refers to itself, is a feature of this paradox but is not sufficient to create a paradox by itself. For a paradox to emerge, the self-reference must lead to a contradiction. 
 
 Time is an important concept in understanding the liar paradox. At any single point in time, the sentence cannot be both true and false. However, when we reason about the sentence, we run into a contradiction because we implicitly consider what the sentence means at different points in time. If we say the sentence is true "now", then in the "next" moment we say it must be false, and vice versa, repeating endlessly. But time itself is continuous, not made up of discrete moments - we only percieve it that way. A solution to the paradox must address its temporal element.

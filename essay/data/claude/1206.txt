@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Research and development in eye systems and vision correction has progressed rapidly over the last several decades. Early vision correction methods involved fairly rudimentary approaches like eyeglasses which have been in use for centuries, and contact lenses which were introduced in the late 1800s but became more widely used and available in the mid-20th century. These methods worked by refracting light to focus images on the retina, but they did not actually improve the eye itself.
 
 In the 1970s, advances in microsurgery enabled the development of radial keratotomy, a procedure where small incisions were made in the cornea to reshape it and improve vision. This helped pave the way for laser eye surgery like PRK and LASIK, developed in the 1980s, which use excimer lasers to precisely reshape the cornea without incisions. These laser procedures revolutionized vision correction and have allowed millions of people to reduce dependency on eyeglasses and contacts. 

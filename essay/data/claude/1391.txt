@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 A range of approaches can be used to efficiently synthesize 1,2-diamines from diazetidines, including asymmetric lithiation/electrophilic substitution, cycloaddition, and photochemical reactions. Diazetidines are versatile building blocks as they can undergo a variety of bond-breaking and bond-forming reactions. 
 
 Asymmetric lithiation followed by electrophilic substitution is an effective way to generate 1,2-diamines. Lithium alkoxide bases can selectively abstract a proton from just one of the two neighboring methines, leading to an asymmetric anion which can react stereoselectively with electrophiles such as alkyl halides. The resulting organolithium intermediate can then be protonated to yield 1,2-diamines with high diastereocontrol. The mechanism of deprotonation and electrophile addition is well understood, but recent research has explored more sterically hindered alkoxide bases to improve selectivity and yield.

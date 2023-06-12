@@ -1,5 +1,3 @@
-Here is a draft 1000 word essay in response to the prompt:
-
 The drive shaft is a critical component in any vehicle transmission system, transferring power from the engine to the wheels. It has traditionally been made of steel, but recent advancements in composite materials offer an opportunity to reduce weight and improve performance. Six commonly used composite materials for drive shafts include carbon fiber, fiberglass, aluminium, titanium, Kevlar, and hybrid variations.
 
 Carbon fiber offers an optimal solution for drive shafts due to its high strength-to-weight ratio and durability. A carbon fiber drive shaft can reduce weight by up to 60-70% compared to steel. The high stiffness of carbon fiber also minimizes shaft deflection and vibrations. However, carbon fiber is the most expensive composite material and manufacturing processes can be complex. 

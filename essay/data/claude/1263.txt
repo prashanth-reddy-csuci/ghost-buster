@@ -1,5 +1,3 @@
-Here is a draft 501 word essay on the prompt:
-
 Material selection is crucial for the design and performance of many industrial applications. Two examples that demonstrate the importance of identifying the right materials are heat exchangers and computer chips. 
 
 For heat exchangers, the key properties needed are high thermal conductivity to efficiently transfer heat, chemical stability to withstand exposure to various fluids, and low cost. After evaluating options like copper, aluminum, and stainless steel, copper is often selected due to its superior thermal conductivity and relatively low cost. The high conductivity of copper, around 400 W/mK, allows for the rapid exchange of heat between the hot and cold fluids. Copper heat exchangers are commonly manufactured using extrusion or brazing techniques, where copper sheets or tubes are bonded together. These manufacturing processes are compatible with copper and result in high performance, leak-free heat exchangers.

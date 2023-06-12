@@ -1,5 +1,3 @@
-Here is a 751 word essay response to the prompt:
-
 Hydrogen bonds play an important role in the structure and function of globular proteins. Hydrogen bonds form between the slightly positively charged hydrogen atom of one molecule and the slightly negatively charged oxygen or nitrogen atom of another molecule. In proteins, hydrogen bonds form between the amide hydrogen and carbonyl oxygen of the peptide backbone to stabilize the protein's secondary structure, such as the alpha helix and beta sheet. 
 
 There are several advantages to hydrogen bonds in proteins. First, they are relatively weak noncovalent interactions, so they can easily break and re-form, allowing proteins to be dynamic and flexible. This flexibility is important for proteins to bind to their substrates and catalyze reactions. If proteins were locked into a single rigid structure by strong covalent bonds, they would not be able to function properly. 

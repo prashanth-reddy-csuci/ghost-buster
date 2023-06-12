@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 Of the three investment options under consideration for expanding production capacity of the Flexi-Connector, Option 3 appears to be the most attractive based on an analysis using the Net Present Value technique. 
 
 Option 1 involves the purchase of a new machine at a cost of $500,000 that is expected to generate additional cash flows of $150,000 per year over the next 10 years. At a discount rate of 8%, the NPV of this option is $262,000. This is a positive NPV, indicating this would be a worthwhile investment. However, the NPV is the lowest of the three options, suggesting this may not maximize value relative to the alternatives.

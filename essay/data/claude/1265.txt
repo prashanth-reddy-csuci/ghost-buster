@@ -1,5 +1,3 @@
-Here is a 2228-word essay response to the prompt:
-
 Strain gauges can be used to measure the force applied to a cantilever beam through the attachment of the gauges to the beam and the measurement of the change in resistance of the gauges. As force is applied to the end of the cantilever beam, it deflects, causing the strain gauges attached to it to deform. The deformation of the gauges causes their internal resistance to change, which can be measured using a Wheatstone bridge circuit. By calculating the known relationship between the change in resistance and the strain of the gauge, the applied force can be inferred. 
 
 A cantilever beam is a beam that is fixed at only one end, with the other end free. When a force is applied to the free end, the beam bends and deflects. Strain gauges can be bonded to the beam to measure this deflection. As the beam deflects, the gauges change shape, causing their internal resistance to change. By measuring this change in resistance, the strain of the gauges can be measured. Using the gauge factor, the strain can then be related to the applied force.

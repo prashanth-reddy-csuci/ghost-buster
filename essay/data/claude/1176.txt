@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 The concept of inversion has been fundamental to understanding elliptic integrals and complex functions. Inversion, in mathematical terms, refers to the process of transforming one function into its inverse function. For elliptic integrals, inversion produces a new class of functions that are periodic, unlike the original elliptic integral. These periodic functions, known as Jacobian elliptic functions, paved the way for many discoveries in complex analysis.  
 
 Elliptic integrals are functions that calculate the arc length of an ellipse. They were first studied in detail by eighteenth-century mathematicians like Leonhard Euler and Adrien-Marie Legendre. While exploring these integrals, Abel and Jacobi made the key discovery that by inverting the elliptic integral of the first kind, they obtained a new function with period 4K(m) that was double-periodic. This was a groundbreaking finding that revealed a whole new class of periodic functions. These periodic functions are the Jacobian elliptic functions, named in honor of Karl Jacobi.

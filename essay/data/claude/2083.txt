@@ -1,5 +1,3 @@
-Here is a 2000 word essay in response to the prompt:
-
 The Semantic Bootstrapping and Syntactic Bootstrapping Approaches to Language Acquisition
 
 There are two major theories about how children acquire language: the semantic bootstrapping approach and the syntactic bootstrapping approach. These approaches differ in the information children use to learn language. The semantic bootstrapping approach proposes that children rely on the meanings of words and phrases to learn language. In contrast, the syntactic bootstrapping approach argues that children rely on the grammatical structure of sentences to learn language.  

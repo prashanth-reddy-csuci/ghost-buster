@@ -1,38 +1,8 @@
-The aim of the experiment was to determine the total acidity of vinegar. The titration in the experiment involved standardisation of NaOH. This was because NaOH was hygroscopic and absorbed carbon dioxide so could not be used as a primary standard. NaOH was standardised against potassium hydrogen phthalate.
-For details of both methods see practical schedule. No alterations were made to the method.
-Preparation of standard sodium hydroxide solution.
-Three titre within 0.1 ml.
-Determination of the total acidity of vinegar
-pH values of the 3 samples of vinegar
-Results of diluted vinegar sample tested with:-
-Standard of NaOH
-Potassium hydrogen phthalate  Sodium hydroxide on a 1:1 basis
-But 27.95 ml NaOH  25 ml potassium hydrogen phthalate
-So NaOH is weaker by
-Then 1 litre of 1M NaOH  1 litre of 1M CH 3COOH
-But 0.089 NaOH, so 1 litre of 0.089M NaOH  1 litre of 0.089M CH 3COOH  60 g
-1 litre of 0.089M NaOH  60  0.089 = 5.34g of CH 3COOH
-For sample 1 the titre was 53.7 ml
-0.2868 g came from 25ml of the diluted sample (total volume of 100ml) so 25ml of undiluted sample has
-Undiluted sample has  in 25ml
-Therefore in 100ml
-For sample 2 the titre was 28.35 ml
-0.1514 g came from 25ml of the diluted sample (total volume of 100ml) so 25ml of undiluted sample has
-Undiluted sample has  in 25ml
-Therefore in 100ml
-For sample 3 the titre was 80.35 ml
-0.4291 g came from 25ml of the diluted sample (total volume of 100ml) so 25ml of undiluted sample has
-Undiluted sample has  in 25ml
-Therefore in 100ml
-The results for the total acidity showed that all the vinegar samples varied in acidity. Sample 3 had the strongest acidity at 6.87%, and then sample 1 with 4.59% and sample was the weakest with only 2.42% acetic acid. Vinegar samples 1 and 3 would meet the legal standard because for both fermented and artificial products the minimum amount of acetic acid is 4% m/V. Sample 2 did not meet the legal standard as it contained only 2.42% m/V acetic acid.
-The pH of the three vinegar sample ranged from pH 1.0 - 3.0. Sample 3 had the lowest pH of 1.0. This sample was also the gave a positive creamy white precipitate with silver nitrate solution. This suggested that the sample may have been contaminated with a mineral acid.
-Mineral acids, i.e H 2SO 4 and HCl have a high dissociation constant.
-i.e. HCl  H+ + Cl- ( lots of H+)
-(This reaction is reversible but the forward reaction is favourable.)
-However, organic acids, i.e. CH 3COOH have a poor dissociation constant.
-i.e. CH 3COOH  CH 3COO- + H+ ( less H+)
-(Also a reversible reaction but the backward reaction is favoured.)
-Since the pH = -log [H+], mineral acids have a low pH between 1-2, whereas organic acids have a higher pH between pH 3-4. Sample 3 therefore was contaminated with a mineral acid, HCl as the test for chloride ions is silver nitrate and it was positive.
-The effect of relatively large amounts of phenolphthalein indicator on the results obtained would be change volume of solution so titration value would be slightly inaccurate. It may also be because indicators are either weak acids or alkali so you are changing the concentration of the vinegar.
-If the vinegar were more strongly coloured the end point may be determined by using a pH meter?
-Sources of error The main sources of error were in determining the end point of the titration. It was very difficult to get the exact end point because the colour change happened very quickly, in just one drop
+1) Colony counts /g or colony forming units (cfu) /g are a better indication of colony counts rather than total viable counts /g. This is because it is sometimes not possible to be certain that each colony came from an individual colony. In this case, it is best to refer to the colonies as colony forming unit/g.
+2) It was impossible to calculate the lowest level of contamination (number of bacteria per gram) of mince detected by spread plating 0.1 ml of the 10 -1 homogenate onto PCA because the number of colonies were too numerous to count. Reasons for why the colonies were too numerous to count are explained in the discussion.
+However the lowest level of contamination can be calculation on the 10 -5 dilution plate.
+3) Advantages and disadvantages of the spread plate and pour plate methods for estimating total aerobic colony counts.
+4) The factors that affect the precision of the colony count are:-
+5) Coliforms are gram negative, facultative rods that ferment lactose with gas formation. The coliforms include, Escherichia, Klebsiella, Enterobacter and Citrobacter.
+Enterobacteriaceae is a family that contains gram negative rods, which are non motile and are facultative anaerobes and have simple nutritional requirements. The Enterobacteriaceae family can be divided into two groups, based on their formation properties. The genera in the family include Escherichia, Klebsiella and Enterobacter.
+6) Presumptive counts are found on the probability or assumed number of organisms. Conformation that the colonies on the VRBGA are members of the Enterobacteriaceae is shown by pink/purple colonies with halos. The purple colonies are caused by the fermentation of lactose, which cause the bile salts in the VRBGA to precipitate out. There is also production of gas during the fermentation which displaces the LSTB Durham tube and the gas is visible as a bubble at the top of the inverted tube.

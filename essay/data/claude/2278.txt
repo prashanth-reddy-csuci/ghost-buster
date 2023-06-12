@@ -1,5 +1,3 @@
-Here is a draft 2500 word essay in response to the prompt:
-
 Matlab and Simulink provide a powerful platform for developing and testing digital communication systems. They enable modeling and simulation of various digital modulation schemes to compare their relative performance in a controlled experimental setup. The choice of modulation method significantly impacts both the ease of implementation as well as the noise tolerance of the communication system.
 
 Some of the key digital modulation schemes that can be modeled and tested in Matlab and Simulink include:

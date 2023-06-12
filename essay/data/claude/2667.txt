@@ -1,5 +1,3 @@
-Here is a 747-word essay in response to the prompt:
-
 The aim of the experiment conducted on the reaction between Bromate and Bromide ions was to determine the activation energy for the reaction in order to better understand its kinetics and mechanism. The reaction being studied was between KBrO3 and KBr, and the products were Br and O2 gas.  
 
 The activation energy was determined using the Arrhenius equation by plotting a graph of ln(k) vs 1/T, where k is the rate constant and T is the temperature in Kelvin. By determining the slope of the line of best fit, the activation energy (Ea) could be calculated using the equation Ea = -slope x R, where R is the gas constant.

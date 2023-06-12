@@ -1,5 +1,3 @@
-Here is a 500-word essay response to the prompt:
-
 A Winogradsky column is a miniature ecosystem consisting of diverse microbial communities living in stratified yet interdependent zones. The column contains enriched mud and water, as well as added substrates like cellulose, calcium carbonate, and sulphur, which create chemical gradients that support the growth of different bacterial populations at various depths.
 
 The top aerobic zone is exposed to oxygen from the air and contains aerobic bacteria. Common genera found here include Bacillus, Micrococcus, and Flavobacterium. These bacteria break down the organic material added to the column, producing carbon dioxide as a byproduct. 

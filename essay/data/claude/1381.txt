@@ -1,5 +1,3 @@
-Here is a draft 1250-word essay in response to the prompt:
-
 Should non-state commercial codifications be recognized as a possible option for choice of law rules in commercial contracts, or should they continue to be excluded in favor of state laws? There are arguments on both sides of this issue.
 
 On the one hand, parties to a commercial contract should have a high degree of autonomy to choose the rules that govern their transaction. Allowing contracting parties to choose non-state commercial codes like the Uniform Commercial Code or UNIDROIT Principles of International Commercial Contracts provides flexibility and enables the parties to select rules specifically tailored to commercial transactions. These codified rules also provide clarity and predictability regarding default terms that the parties have not specified. 

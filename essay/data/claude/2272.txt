@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 The focus of this project is to build and program an autonomous mobile robot that can navigate and avoid obstacles. The robot is constructed with component parts including motors to provide mobility, sensors to detect the surrounding environment, a microcontroller to control the components, and a power source to operate the entire system. 
 
 The robot is programmed with code written in the Arduino integrated development environment (IDE) and uploaded to the microcontroller. The code directs the robot to move forward while monitoring the sensors. If an obstacle is detected within a specified range, the code instructs the robot to turn in the opposite direction and continue moving until the path ahead is clear again. This allows the robot to navigate autonomously without human guidance.

@@ -1,5 +1,3 @@
-Here is a draft 500 word essay in response to the prompt:
-
 Bacteria growth typically follows a predictable pattern of phases - lag phase, exponential growth phase, stationary phase, and death phase. In this experiment, these phases of growth were measured by quantifying the optical density of the bacterial culture over time using a spectrophotometer. 
 
 Initially, during the lag phase, bacteria are adapting to the environment and not dividing. This phase is evident at the beginning of the growth curve when the optical density remains stable. Once the bacteria have adapted, they enter the exponential growth phase where cell division occurs rapidly. This results in an exponential increase in the number of bacteria and a corresponding exponential rise in the optical density. 

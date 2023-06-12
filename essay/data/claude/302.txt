@@ -1,5 +1,3 @@
-Here is a 1728-word essay in response to the prompt:
-
 The "first generation" model of balance of payments crises refers to the seminal theoretical framework developed by economist Paul Krugman in 1979. Krugman developed an open economy macroeconomic model within which he explored how inconsistencies in macroeconomic policies can lead to balance of payments crises. In the first generation model, a balance of payments crisis refers to a situation in which a country cannot meet its obligation to maintain a stable exchange rate because it has depleted its foreign exchange reserves. 
 
 In Krugman's model, the economy consists of two sectors—the domestic sector which consumes domestic goods and the foreign sector which consumes foreign goods. The domestic sector operates with adaptive expectations, meaning economic agents form expectations about the future based on currently available information. The economy also has a fixed exchange rate, meaning the central bank pegs the domestic currency at a constant rate to a foreign currency (typically the USD).

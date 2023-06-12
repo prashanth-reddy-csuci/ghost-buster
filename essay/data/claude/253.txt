@@ -1,5 +1,3 @@
-Here is a draft 1500 word essay in response to the prompt:
-
 Vicarious liability refers to a legal doctrine where one party is liable for the negligence of another party in certain circumstances, even if the first party was not directly at fault. There are several justifications for imposing vicarious liability. First, it provides compensation for victims when the primary tortfeasor cannot be found or does not have the means to compensate the victim. Without vicarious liability, the victim may be left without a remedy. 
 
 Second, vicarious liability incentivizes organizations to exercise care in the selection and supervision of employees or agents. If an organization knows it may be liable for the torts of its employees, it has a strong incentive to hire carefully and implement appropriate rules and oversight to minimize the risk of harm. This promotes overall safety and caution.

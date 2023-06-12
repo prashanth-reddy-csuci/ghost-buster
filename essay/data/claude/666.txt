@@ -1,5 +1,3 @@
-Here is a draft 2500 word essay in response to the prompt:
-
 A standing wave is a harmonic pattern of vibration that persists in a medium. It occurs when a traveling wave interacts with a boundary in the medium and interferes with itself, creating peaks and troughs of vibration that stand still. On a taut string, standing waves can be produced by vibrating the string at specific frequencies that match the harmonics of the string. 
 
 To understand standing waves, it is helpful to first consider simple harmonic motion and traveling waves. In simple harmonic motion, an object vibrates around an equilibrium position at a specific frequency. The frequency depends on the stiffness of the restoring force acting on the object and the object's mass. For a string, the restoring force is the tension in the string, which acts to pull displaced parts of the string back to equilibrium. The mass is the linear mass density of the string.

@@ -1,5 +1,3 @@
-Here is a 733-word essay in response to the prompt:
-
 Dimensional analysis is a mathematical technique used to analyze problems involving physical quantities with units. It uses the Buckingham Pi theorem to derive dimensionless parameters called Pi groups from the dimensions of measurable quantities in a problem. These Pi groups can then be used to simplify models and find solutions.
 
 Dimensional analysis is useful in fluid mechanics for modeling the flow of fluids. For example, it can be used to determine the volumetric flow rate of water over a V-notch weir. A V-notch weir is a triangular spillway used to measure flow rates in open channels. The volumetric flow rate depends on several quantities, including the height of the water above the bottom of the V-notch, the width of the notch at the top, the angle of the V-notch sides, the acceleration due to gravity, and the density of the fluid. 

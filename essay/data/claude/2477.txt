@@ -1,5 +1,3 @@
-Here is a 250 word essay in response to the prompt:
-
 Prompt: Translate the following pseudo-code into a C program:
 
 1. Read in two integer values x and y

@@ -1,5 +1,3 @@
-Here is a 250 word essay with stem and leaf plots on the effects of ascorbate on cancer survival:
-
 Ascorbate, or vitamin C,  has been shown to increase survival time for certain types of cancers. However,the degree of increased survival time depends on the specific type of cancer. Stem and leaf plots can be used to visually display the survival data for different cancers.A stem and leaf plot separates data into 'stems' consisting of the digits before the decimal and 'leaves' consisting of the digits after the decimal. 
 
 For example, a stem and leaf plot for survival times in days for patients with prostate cancer receiving ascorbate treatment would be:  

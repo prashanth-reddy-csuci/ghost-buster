@@ -1,5 +1,3 @@
-Here is a 487 word essay in response to the prompt:
-
 The objective of this laboratory was to gain hands-on experience controlling the M16C microcontroller and manipulating its output ports to display information on the seven segment LED displays. Through completing this lab, I learned how to program and operate the M16C to send signals to the output ports that would illuminate the correct LED segments to display numbers and letters.
 
 To start, I had to configure the M16C's ports to be output ports so they could send signals to the seven segment displays. This involved setting data direction register values to 1 for the port pins connected to the displays. Next, I wrote a program to send signals to Ports 2 through 5, which were connected to the four seven segment displays. To display a number on a seven segment display, the correct combination of LED segments needs to be lit up. For example, to show the number 3, the a, b, c, d, and g segments need to be turned on. By manipulating the bits in the port data registers, I could turn on and off each of these seven segments.  

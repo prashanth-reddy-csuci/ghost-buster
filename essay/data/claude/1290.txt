@@ -1,5 +1,3 @@
-Here is a potential 750-word essay in response to the prompt:  
-
 The analysis of infrared and nuclear magnetic resonance spectra as well as thin layer chromatography plates enable chemists to determine if a chemical synthesis reaction has been successful or not. Each of these techniques provides information about different characteristics of the target product to assess its successful creation.
 
 Infrared or IR spectroscopy measures the absorption of infrared light by the chemical bonds in a molecule to detect their stretching and bending. The spectrum produced shows peaks at precise frequencies that are characteristic of the molecular bonds present in the sample. A comparison of the IR spectra of the reactants and the final product can confirm that the synthesis reaction has proceeded as intended. The appearance of new peaks corresponding to the desired product and the absence of peaks corresponding to the starting materials indicate the complete conversion of the reactants into the target compound. Any significant deviation from the expected spectra suggests that impurities or side products have formed and that the reaction was not completely successful.

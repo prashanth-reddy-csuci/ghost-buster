@@ -1,5 +1,3 @@
-Here is a 983 word essay in response to the prompt:
-
 Seed priming is a pre-sowing treatment used to help synchronize germination in non-dormant seeds. It involves exposing seeds to low levels of moisture that initiates the pre-germination physiological processes required for germination but prevents radical emergence. This primes the seeds to germinate more quickly, uniformly, and at a higher percentage once sown in optimal conditions. 
 
 To explore the impact of different priming treatments on seed germination, an experiment was conducted on onion seeds. Onion seeds were chosen as they are non-dormant, easy to germinate, and germinate uniformly under normal conditions. Seeds were subjected to four priming treatments: hydropriming (soaking in water), osmopriming (soaking in a polyethylene glycol solution), halopriming (soaking in salt solutions), and unprimed controls. After priming for 24 hours, the seeds were rinsed, dried back to their original moisture content and weight, and then sown.

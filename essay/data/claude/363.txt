@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Enzymes are biological catalysts that regulate the speed of chemical reactions in living organisms. Their activity is influenced by several factors including pH, temperature, presence of cofactors, and inhibitors. These properties were investigated in an experiment using the enzyme alkaline phosphatase.  
 
 Alkaline phosphatase acts on para-nitrophenyl phosphate (pNPP) to produce para-nitrophenol (pNP) and phosphate. The rate of this reaction depends on the pH, with maximum activity at the optimal pH around 9-10 for alkaline phosphatase. At this pH, the enzyme's active site is properly configured to bind with the substrate. Activity declines at more acidic or basic pHs as the enzyme structure is denatured, limiting its ability to catalyze the reaction.

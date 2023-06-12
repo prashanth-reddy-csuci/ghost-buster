@@ -1,5 +1,3 @@
-Here is a 743-word essay in response to the prompt:
-
 The first generation speculative attack model, developed by Paul Krugman in 1979, provides a theoretical framework for explaining how fixed exchange rate regimes can collapse under speculative pressure. However, the model has several limitations in fully capturing the complexity of speculative attacks and currency crises. 
 
 First, the model assumes that a speculative attack is triggered solely by economic fundamentals, such as fiscal and monetary policies that are inconsistent with maintaining the fixed exchange rate. In reality, speculative attacks are often driven by a combination of economic and political factors. For example, the 1992-93 ERM crisis was exacerbated by political uncertainty over European integration and conflicting policy objectives among member countries. The model fails to incorporate these political and policy factors.

@@ -1,5 +1,3 @@
-Here is a draft essay response in 1500 words:
-
 The research question in the analysis of first person pronouns in British political speeches is to examine how politicians use these pronouns to portray themselves and connect with audiences. The study specifically looks at the use of the first person singular ‘I’ and the first person plural ‘we’ in a corpus of post-war speeches by British political leaders compared to a reference corpus of more general British English. 
 
 The methodology employed is a quantitative analysis of the frequency and distribution of these pronouns in the two corpora. The political speech corpus consists of over 200 speeches from six post-war Prime Ministers of Britain from 1945 to 2007, totaling over 1.5 million words. The reference corpus is the British National Corpus, which includes over 4,000 samples of written and spoken British English totaling 100 million words.

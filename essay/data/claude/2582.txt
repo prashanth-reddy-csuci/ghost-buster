@@ -1,5 +1,3 @@
-Here is a draft 2000 word essay in response to the prompt:
-
 Industrial refrigeration refers to the large-scale cooling process used primarily for food preservation and storage. It allows perishable foods such as meats, seafood, dairy, and produce to be stored for long periods while maintaining quality and safety. The core principle behind industrial refrigeration is using mechanical equipment to continually extract heat from an insulated space. 
 
 The first stage in industrial refrigeration is the pre-cooling or chilling stage. Large refrigeration units are used to rapidly lower the temperature of the food to between 32 to 40 degrees Fahrenheit, depending on the type of food. For example, meat and poultry are chilled to 40 F, while fish and seafood are chilled to 32 F. Pre-cooling slows the growth of bacteria and allows the food to be further processed or packaged.

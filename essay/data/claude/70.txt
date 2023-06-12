@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 The Cambridge Engineering Selector (CES) software allows engineers to evaluate and select suitable materials and manufacturing processes for a wide range of engineering projects and product designs. Using the extensive materials and process information available within its comprehensive databases, engineers can filter options based on project requirements such as geometric constraints, cost, environmental impact, and performance specifications.  
 
 For example, if an engineer needs to select a material for a high-temperature component in a jet engine, they can filter the options by specifying a minimum working temperature, e.g. 3000°F. The search results may return superalloys like Inconel, titanium alloys, ceramics like silicon carbide, and refractory metals. By comparing properties like tensile strength, thermal conductivity, resistance to creep and oxidation, a suitable material can be selected for further analysis.

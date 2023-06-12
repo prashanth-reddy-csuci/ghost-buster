@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The objective of the experiment is to determine the moments of inertia of steel discs with different diameters and thicknesses. The moments of inertia are calculated using the discs' rotational motion. When the discs are spinning, their angular momentum is conserved, allowing the moments of inertia to be calculated based on measures of their angular velocity.  
 
 The experimental setup involves suspending each disc with two thin strings and setting it into motion. An optical sensor is used to measure the angular velocity of the spinning disc over time as its motion slows due to frictional drag from the air. By measuring the initial and final angular velocities during a timed interval, the total decrease in angular momentum can be calculated. Since the only torques acting on the disc are from the frictional drag, the law of conservation of angular momentum states that the decrease in angular momentum must equal the frictional torque multiplied by the time interval. By dividing both sides of this equation by time, the frictional torque can be determined.

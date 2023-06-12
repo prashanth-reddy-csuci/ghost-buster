@@ -1,5 +1,3 @@
-Here is a draft 1000-word essay response:
-
 Genetic analysis has provided profound insights into the morphology, physiology, and evolution of plants. DNA sequencing and genetic mapping techniques have enabled scientists to identify genes involved in key processes like cell division, leaf growth, flower development, and flowering time.
 
 For example, studies of the cell cycle in plants revealed that many of the genes that control the cell division cycle are conserved between animals and plants. However, some parts of the cell cycle are regulated differently in plants versus animals. Analysis of mutant plants helped identify specific genes required for the progression and completion of the plant cell cycle, especially the roles of cyclin-dependent kinases, cyclins, and cell cycle inhibitors.

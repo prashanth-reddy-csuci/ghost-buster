@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 The purpose of the experiment on the single stage centrifugal pump was to determine the performance characteristics of the pump including head, flow rate, power, and efficiency over a range of flow rates from shutoff to maximum. The experiment also aimed to verify the pump performance conforms to manufacturer's specifications and theoretical expectations.
 
 The key components of the experimental setup included the centrifugal pump, a variable frequency drive to control the pump speed, piping, valves, a water tank, and instrumentation to measure flow rate, head, torque, and rotational speed. The pump impeller converts the rotational energy from the motor into pressure and kinetic energy in the flowing water. The water flows into the pump through the suction eye in the center of the impeller and is flung outward by centrifugal force into the volute casing. The volute collects the water and slows its velocity to convert kinetic energy into pressure.

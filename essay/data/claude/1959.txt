@@ -1,5 +1,3 @@
-Here is a draft essay in approximately 1500 words on theories of ageing and the role of free radicals:
-
 There are several theories that attempt to explain the biological process of ageing and senescence. One of the earliest theories was the wear and tear theory, which suggested that the human body simply deteriorates over time due to accumulated damage and stress. However, this theory fails to explain why different species and organisms age at different rates. 
 
 A more compelling theory is the cellular or genetic theory of ageing. This theory proposes that ageing results from the cumulative effects of cell aging. As cells age and divide over time, they accumulate cellular damage and mutations in their DNA. This damage builds up in cells and tissues over time, causing them to function less efficiently. An example is the shortening of telomeres, the caps at the end of chromosomes, with each cell division. When telomeres get too short, cells stop dividing and ageing accelerates. Genetic mutations and epigenetic changes also accumulate over time, compromising cell function.

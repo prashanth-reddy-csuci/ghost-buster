@@ -1,5 +1,3 @@
-Here is a draft essay in approximately 2000 words on the requested topic:
-
 Computer Aided Design (CAD) refers to the use of computer software to design, analyze and optimize products. CAD offers numerous advantages for the design process of Formula One rear wings, especially in optimizing performance within the strict regulations set by the FIA. However, there are also some key disadvantages to consider with CAD and some best practices to follow to gain the most benefit from the technology.
 
 One of the main advantages of CAD for designing Formula One rear wings is the ability to rapidly analyze multiple design variations. Designers can easily adjust parameters like the wing profile, angle of attack, endplate design, and dimension and quickly see the impact on downforce and drag for each design. This allows for an automated, rapid optimization process to maximize downforce within the restrictions on maximum width, height, and endplate size specified in the FIA regulations. By automating much of the optimization process, CAD reduces the time required to evaluate design options from potentially weeks to just hours or days. 

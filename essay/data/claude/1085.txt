@@ -1,5 +1,3 @@
-Here is a 244 word essay in response to the prompt:
-
 The magnitude of the magnetic field around a wire can be calculated using the Biot-Savart law and a selected integration path. The Biot-Savart law states that the magnetic field dB produced by a current element Idl is proportional to the current, length of the element, and inversely proportional to the square of the distance r from the element. 
 
 To calculate the total magnetic field around a wire, we need to integrate the contributions from all the current elements along the wire. We first select an integration path, which is a curve surrounding the wire where we want to calculate the magnetic field. A common choice is the Ampère circuital law path, which is a circle centered on the wire. Next, we determine the incremental current element Idl, which depends on the current through the wire I and the length of the path element dl. 

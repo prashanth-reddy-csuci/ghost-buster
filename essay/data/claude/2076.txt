@@ -1,5 +1,3 @@
-Here is a 750-word essay in response to the prompt:
-
 The purpose of the study on heat inactivation of trypsin inhibitors in soya bean meal was to determine the effects of heat treatment on the levels of trypsin inhibitors present and trypsin activity. Trypsin is an enzyme that breaks down proteins in the small intestine of animals. Trypsin inhibitors, as the name suggests, inhibit the activity of trypsin and can negatively impact protein digestion and nutrition if consumed in high amounts. 
 
 To analyze the trypsin inhibitor activity in soya bean meal, a method known as the trypsin inhibition assay was used. This measures the ability of extracts from the soya bean meal to inhibit the proteolytic activity of trypsin on a synthetic substrate. The extracts were prepared by extracting the meal with buffer solutions. Aliquots of the extracts were incubated with trypsin for 10 minutes and then the synthetic trypsin substrate was added. The extent of inhibition of trypsin activity was determined based on the amount of product formed from the substrate.

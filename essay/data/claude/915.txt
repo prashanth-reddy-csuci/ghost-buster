@@ -1,5 +1,3 @@
-Here is a 1221 word essay in response to the prompt:
-
 The purpose and objective of the Speaking clock mini micro project was to create a simple digital device that could announce the current time and date aloud to users. The project aimed to utilize basic components including a microcontroller, speaker, microphone, and clock module to take a digital time input, convert it to audio speech, and output the speech through the speaker.  
 
 The Speaking clock project was implemented using the C programming language to program an Arduino Uno microcontroller. The microcontroller was selected because it has simple digital and analog input/output capabilities, as well as pins to connect the other components. The clock module was connected to provide a digital time input, the speaker provided the audio output, and the microphone allowed for testing the audio output.

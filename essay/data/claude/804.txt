@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Drag is the resistance a vehicle experiences as it moves through air. Drag acts opposite to the direction of motion and slows the vehicle down, requiring more engine power to overcome. The amount and type of drag a vehicle experiences depends primarily on its shape and design. Streamlined, tapered designs like race cars experience less drag than boxy designs like buses. 
 
 There are two main types of drag: pressure drag and skin friction drag. Pressure drag arises from differences in air pressure around the vehicle. As air flows around the vehicle, it separates, creating low pressure zones that pull the vehicle backwards. More rounded, streamlined shapes minimize pressure drag by reducing air turbulence and keeping the flow attached for longer. In contrast, bluff, boxy shapes like buses and trucks have high pressure drag due to their large, squared-off front profiles and abrupt changes in contour. 

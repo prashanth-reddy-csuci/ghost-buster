@@ -1,5 +1,3 @@
-Here is a 1000-word essay in response to the prompt:
-
 The two central theories of price determination are mark-up pricing and bargaining theory. Mark-up pricing focuses on firms setting prices as a fixed margin or ‘mark-up’ over marginal costs. In this theory, import prices are seen as exogenous factors that affect marginal costs and are thus passed through to consumer prices. In contrast, bargaining theory sees prices as the outcome of negotiations between firms and workers over wages and firms and consumers over product prices. Here, import prices can directly influence the bargaining power and negotiated outcomes of various parties. 
 
 Bargaining coordination refers to the degree of organization and cooperation between parties in price and wage negotiations. Higher coordination can lead to higher mark-ups and wages, as it enhances the bargaining power of firms and workers. Theoretically, coordination should be included as an explanatory variable in mark-up equations because it represents an important institutional factor that shapes pricing power beyond simply market structure or competitive conditions.

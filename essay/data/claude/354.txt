@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 The vertebrate limb develops along three axes: proximal-distal, anterior-posterior, and dorsal-ventral. These axes interact with each other through signalling centres and molecular pathways to pattern the limb.
 
 The proximal-distal axis establishes the overall length of the limb. The apical ectodermal ridge (AER) signalling centre at the distal tip of the limb bud regulates proximal-distal outgrowth through fibroblast growth factor (Fgf) signalling. Fgf promotes cell proliferation, maintaining the progress zone of undifferentiated mesenchymal cells and driving limb bud elongation. Disruption of the AER results in truncated limbs.

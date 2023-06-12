@@ -1,5 +1,3 @@
-Here is a draft 1500-word essay in response to the prompt:
-
 Several modifications were made to the original program in order to enable synchronisation between distant machines. The key changes revolved around altering how the program handles latency and disruptions in connectivity, as  well as optimising the synchronisation process to minimise wasted resources.
 
 The first major change was adjusting the timeouts for connectivity and data transfer. When synchronising local directories, a sub-second timeout is typically used to detect issues. However, with distant machines latency needs to be accounted for, so the timeouts were increased to 30-60 seconds. This allows for minor delays and disruptions without falsely triggering an error. If after 60 seconds a connection cannot be established or data cannot be transferred, the program does trigger an error to avoid wasting resources on potentially fruitless efforts.

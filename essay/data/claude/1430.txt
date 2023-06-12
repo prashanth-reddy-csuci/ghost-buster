@@ -1,5 +1,3 @@
-Here is a 257 word essay in response to the prompt:
-
 Early embryogenesis in invertebrates such as In In requires precise coordination of intrinsic factors and intercellular signaling pathways to generate the complex multicellular organisms from a single cell. Intrinsic factors refer to factors within the cells themselves that drive development, such as maternal mRNAs and proteins deposited in the egg during oogenesis. These provide spatial cues for cell fate and division in the early embryo. 
 
 For example, maternal mRNAs and proteins are asymmetrically distributed in the In In egg to establish the anterior-posterior axis. The posterior region of the egg is enriched for molecules like Snosecad protein that promote posterior cell fates. In contrast, the anterior region expresses factors such as Evenstriped that drive anterior development. Through the differential segregation of these intrinsic factors during early cell divisions, the anterior-posterior axis is established prior to zygotic transcription.

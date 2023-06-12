@@ -1,5 +1,3 @@
-Here is a 250 word essay response to the prompt:
-
 The laboratory investigation examined three types of electrical machines: a DC generator, an AC generator, and a transformer. The DC generator was first tested by measuring its output voltage and current under different load resistances. The results showed that as the load resistance increased, the current output decreased while the voltage output remained relatively stable. This demonstrated that the DC generator obeys Ohm's law. 
 
 The AC generator was then tested by measuring its output voltage and frequency under different load resistances. The results showed that the AC generator produced a sinusoidal voltage output at a constant frequency regardless of the load resistance. However, the voltage amplitude decreased as the load resistance decreased, indicating the AC power output depends on the load resistance.

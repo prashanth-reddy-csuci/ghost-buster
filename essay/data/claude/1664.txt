@@ -1,5 +1,3 @@
-Here is a draft 1000-word essay in response to the prompt:
-
 Google Book Search (GBS) is a controversial project launched by Google in 2004 to digitize millions of books from major research libraries and make them searchable online. The project has raised many issues around copyright, business models, cultural heritage, and access to information. 
 
 GBS has significant impacted authors and publishers by making a large corpus of books searchable and accessible online for free. This raises concerns over copyright violations and loss of revenue, as readers can search and view large portions of copyrighted books. Publishers argue this availability negatively impacts book sales. In response, Google implemented a "snippet view" that only shows a few lines of text around the search term, as well as a partner program that shares ad revenue with publishers who agree to make books fully viewable. However, many authors and publishers still oppose the project.

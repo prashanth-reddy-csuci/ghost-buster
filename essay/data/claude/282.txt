@@ -1,5 +1,3 @@
-Here is a 500-word essay in response to the prompt:
-
 Traditional models of financial markets rely on assumptions of rationality and efficiency. Behavioural finance is an alternative approach that examines how psychology and behavioural biases affect financial decisions and market outcomes. A key criticism of the traditional Efficient Market Hypothesis (EMH) by behavioural finance is that real-world investors often make irrational decisions. Behavioural finance argues that irrational behaviour can lead to market anomalies like overreaction and herd behaviour.
 
 One failure of the EMH is its assumption that market participants rationally incorporate all information into prices. In reality, investors are prone to herd behaviour – following the actions of others even when they contradict one's own information or analysis. This can lead to excessive optimism, pessimism and volatility as investors overreact to news or events. For example, technology stocks received irrationally optimistic valuations during the dot-com bubble due to herd behaviour, violating the EMH.  

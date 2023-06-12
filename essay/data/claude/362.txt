@@ -1,5 +1,3 @@
-Here is a 2000-word essay in response to the prompt:
-
 The main econometric analysis and regression model used in this essay is a multivariate OLS regression model to explore the impact of several independent variables on the dependent variable of exam marks. The key independent variables focused on include: revision lecture attendance, ability as measured by prior A-level scores, and hours spent on lectures. Dummy variables are also included to control for differences in cohort year.
 
 The inclusion of variables that could impact exam performance aims to determine if certain factors are statistically significant while controlling for other independent variables. The first variable considered is revision lecture attendance. The expectation is that higher attendance would correlate with higher exam marks, holding other factors constant.A positive and significant coefficient would indicate this. A statistically significant but negative coefficient could signal issues with the revision lecture materials or structure of the courses.

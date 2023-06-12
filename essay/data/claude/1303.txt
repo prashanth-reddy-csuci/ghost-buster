@@ -1,5 +1,3 @@
-Here is a 988 word essay in response to the prompt:
-
 Liquid chromatography-mass spectrometry or LCMS is an analytical chemistry technique that combines liquid chromatography and mass spectrometry to analyze compounds in a mixture. Liquid chromatography separates the individual compounds, and mass spectrometry identifies them by their molecular weight. This powerful combination allows scientists to identify and quantify even trace amounts of compounds in a sample. 
 
 The liquid chromatography or LC portion of LCMS utilizes a column that contains a stationary phase and a liquid mobile phase. As the sample is injected into the column, the compounds separate based on their interaction with the stationary phase. Compounds that interact more strongly with the stationary phase take longer to elute from the column, while compounds that interact weakly elute faster. By adjusting parameters like the solvent composition of the mobile phase, scientists can optimize the separation of compounds. The time it takes for a compound to elute from the column is known as its retention time and is a key parameter used to identify compounds.

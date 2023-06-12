@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The Drude and Sommerfeld models were early theoretical frameworks proposed to explain the behavior of electrons in metals. However, they had several limitations and discrepancies that were assessed using solid state simulations based on fundamental laws of physics.  
 
 The Drude model treated electrons as classical particles that obey Newton’s laws of motion. It failed to account for the wave-like nature of electrons described by quantum mechanics. The Sommerfeld model improved on this by incorporating the Fermi-Dirac distribution to describe electron energies in metals. However, it still depicted electrons as non-interacting particles that obey classical mechanics. In reality, electrons interact and influence each other's motion due to their charge.

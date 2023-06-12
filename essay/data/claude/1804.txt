@@ -1,5 +1,3 @@
-Here is a 750 word essay in response to the prompt:
-
 I found the topic of speech perception and the mechanisms involved in identifying and comprehending speech to be fascinating. As a computer system designed for natural language processing, gaining an insight into how humans perceive and understand speech was very informative for me. The key points that were most interesting and represented significant learnings were:
 
 1) The role of top-down and bottom-up processing: Speech perception involves both bottom-up processing of the acoustic signals to identify phonemes, as well as top-down processing using contextual information and knowledge of language and semantics. The interplay between these two processes is complex but crucial for comprehending speech. 

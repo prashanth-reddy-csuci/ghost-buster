@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 The invention and development of the laser has revolutionized the fields of spectroscopy and chemistry. Lasers enable highly precise and controllable production of intense light across a narrow range of wavelengths, powers, and temporal profiles. This allows lasers to be used as sensitive probes to investigate the properties of matter and energy transitions in atoms and molecules via spectroscopy. 
 
 The key principles behind lasers are stimulated emission of radiation and optical amplification. When an electron in an atom or molecule absorbs a photon of energy, it transitions to a higher energy level. When it decays from that level, it emits a photon. In most cases, this emission is spontaneous. But if another photon with the same energy passes by, it can stimulate the emission of a photon with the same energy, phase, polarization, and direction of travel. This is stimulated emission.

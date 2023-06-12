@@ -1,5 +1,3 @@
-Here is a 1250-word essay in response to the prompt:
-
 The overall goal of the assignments in this module was to use Monte Carlo methods to find the minimum energy configuration of a 38-atom Lennard-Jones cluster. This was achieved by progressively improving a Monte Carlo simulation program through several assignments.
 
 Initially, a basic serial FORTRAN program was written to perform Monte Carlo simulations using the Metropolis algorithm. This program calculated the potential energy of the cluster using the Lennard-Jones potential and accepted or rejected moves based on the Metropolis criterion. However, the program was slow to converge due to the large search space of the 38-atom cluster.  

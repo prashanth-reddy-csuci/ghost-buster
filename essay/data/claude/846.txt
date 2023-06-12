@@ -1,5 +1,3 @@
-Here is a draft 1250 word essay in response to the prompt:
-
 Linear and non-linear models are two broad approaches used to analyze data obtained from road tyre characteristics. Each approach has its strengths and weaknesses that must be considered based on the type of data and analysis required. 
 
 Linear models are simple models where the response variable, y, has a linear relationship with the input variable, x. They are easy to calculate, visualize and interpret. Common examples of linear models for tyre data analysis include linear regression and principal component analysis. Linear regression can be used to model the relationship between tyre load and deflection or tyre speed and temperature. The coefficients provide information on how y changes with x, enabling predictions and extrapolations. Principal component analysis reduces the dimensionality of the data while retaining most of the variation, making it easier to visualize and analyze high-dimensional data.

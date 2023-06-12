@@ -1,5 +1,3 @@
-Here is a possible 1249-word essay response to the prompt:
-
 Design for a Compact Two-Stage Gearbox for an Electric Drill
 
 An electric drill requires a compact yet robust gearbox to provide speed reduction from the high-speed motor to the low-speed chuck. For a drill with specifications of 36W power at 9000rpm motor speed and 25:1 total reduction, a two-stage epicyclic gearbox with plastic gears in the first stage and phosphor bronze gears in the second stage can provide an optimized design.

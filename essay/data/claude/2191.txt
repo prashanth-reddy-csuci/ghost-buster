@@ -1,5 +1,3 @@
-Here is a 750-word essay response to the prompt:
-
 The aim of determining the iron percentage in iron tablet supplements is to ensure the product contains the proper amount of iron as stated on the packaging and meets safety and quality standards. The most common methodology used is titration, a technique in analytical chemistry used to determine the amount of a constituent in a sample.
 
 In the titration process for iron tablets, the sample is first dissolved in an acidic solution, typically hydrochloric acid. The iron in the dissolved sample is then reduced to the Fe2+ state. Next, the solution is titrated using a solution of potassium permanganate, KMnO4. As the permanganate is added, it is reduced by the Fe2+ ions, and the solution turns from colorless to a pink color due to the MnO4- ion. The endpoint is when the solution turns a faint, permanent pink. From the volume and molarity of the permanganate solution used, the amount of iron in the sample can be calculated. 

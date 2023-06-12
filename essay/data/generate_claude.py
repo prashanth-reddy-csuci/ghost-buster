@@ -1,3 +1,15 @@
+"""
+Bad documents:
+
+528.txt
+566.txt
+576.txt
+2599.txt
+255.txt
+360.txt
+1714.txt
+"""
+
 import os
 import tqdm
 import openai
@@ -71,16 +83,16 @@ if __name__ == "__main__":
         with open(f"claude/{idx}.txt", "w") as f:
             f.write(f"{response['completion'].strip()}")
 
-    # print("Generating logprobs for GPT...")
-    # for idx, file in enumerate(tqdm.tqdm(os.listdir("gpt"))):
-    #     if not os.path.exists(f"gpt/{idx}.txt"):
-    #         continue
+    print("Generating logprobs for GPT...")
+    for idx, file in enumerate(tqdm.tqdm(os.listdir("gpt"))):
+        if not os.path.exists(f"claude/{idx}.txt"):
+            continue
 
-    #     with open(f"gpt/{idx}.txt") as f:
-    #         doc = f.read().strip()
+        with open(f"claude/{idx}.txt") as f:
+            doc = f.read().strip()
 
-    #     if not os.path.exists(f"gpt/logprobs/{idx}-davinci.txt"):
-    #         write_logprobs(doc, f"gpt/logprobs/{idx}-davinci.txt", "davinci")
+        if not os.path.exists(f"claude/logprobs/{idx}-davinci.txt"):
+            write_logprobs(doc, f"claude/logprobs/{idx}-davinci.txt", "davinci")
 
-    #     if not os.path.exists(f"gpt/logprobs/{idx}-ada.txt"):
-    #         write_logprobs(doc, f"gpt/logprobs/{idx}-ada.txt", "ada")
+        if not os.path.exists(f"claude/logprobs/{idx}-ada.txt"):
+            write_logprobs(doc, f"claude/logprobs/{idx}-ada.txt", "ada")

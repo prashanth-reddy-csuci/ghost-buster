@@ -1,5 +1,3 @@
-Here is a draft 3000 word essay in response to the prompt:
-
 The Immunoglobulin G (IgG) is the most abundant antibody found in the human immune system. It plays a critical role in the immune response by binding to foreign antigens and marking them for destruction. The basic unit of an IgG molecule is composed of four polypeptide chains - two identical heavy chains and two identical light chains. The heavy and light chains are held together by disulphide bonds to form a 'Y' shaped structure. 
 
 The heavy chains of IgG contain four immunoglobulin domains, while the light chains contain two immunoglobulin domains. An immunoglobulin domain is a protein domain of about 110 amino acids that adopts an immunoglobulin fold - a sandwich of two beta sheets with a greek key topology. The immunoglobulin domains are important for the structure and function of IgG as they contain amino acids that are crucial for antigen binding and Fc receptor interactions.

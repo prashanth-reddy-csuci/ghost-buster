@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The key steps to refine a computer equipment tracking program for a company are as follows:
 
 1. Define the scope and objectives. First, determine exactly what equipment needs to be tracked and for what purposes. This could include desktop computers, laptops, monitors, servers, networking equipment, and peripherals. The objectives may be ensuring all assets are accounted for, monitoring ages and specifications to plan for replacement schedules, security and loss prevention, or other goals. With a clear scope and set of objectives, the tracking program can be tailored to meet the specific needs.  

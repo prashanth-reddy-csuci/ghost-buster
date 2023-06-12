@@ -1,5 +1,3 @@
-Here is a draft 1000 word essay in response to the prompt:
-
 Viscosity is a measure of a fluid's resistance to flow—how thick or thin it is. Determining the viscosity of fluids has been important for many applications, from lubricating machines to developing new materials. Over time, scientists have developed several methods to measure viscosity and better understand the properties of different fluids.
 
 One of the earliest methods for measuring viscosity was the capillary tube method, developed in the 18th century. It involved timing how fast a fluid flowed through a narrow tube. Fluids with higher viscosity would flow more slowly due to greater resistance. This simple but effective method allowed early scientists to compare viscosities of water, oils, and other common fluids. In the 19th century, more advanced methods were introduced, including the rotating cylinder method. It measured the torque required to rotate a cylinder immersed in the test fluid. More viscous fluids would require more torque to overcome resistance and turn the cylinder. 

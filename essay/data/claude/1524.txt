@@ -1,5 +1,3 @@
-Here is a 2250 word essay in response to the prompt:
-
 The Twin Earth thought experiment, proposed by Hilary Putnam, aims to show that the meanings of thoughts and mental concepts depend on features of the external world, not just on what is happening inside someone's head. Putnam argues that this supports an Externalist view of mental content, rather than an Internalist account where meaning depends solely on what is internally represented in the mind. However, Putnam's thought experiment is flawed and does not conclusively prove that Externalism is the only viable account of meaning and mental content. 
 
 Putnam asks us to imagine a Twin Earth that is identical to Earth, except that the substance the residents call 'water' has a different chemical makeup, being XYZ rather than H2O. He argues that when an Earthian and Twin Earthian use the word 'water', they mean different things, even though they have identical internal experiences. The content of their mental concepts depends on the watery stuff in their environment, not just on how it appears to them. This, Putnam claims, shows that meaning "ain't in the head".

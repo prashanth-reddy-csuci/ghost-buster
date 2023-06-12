@@ -1,5 +1,3 @@
-Here is a draft essay in 1750 words on the prompt:
-
 Cystic fibrosis (CF) is an inherited disorder that causes severe damage to the lungs and digestive system. It is caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene which provides instructions for making a protein that controls the movement of salt and water into and out of cells. The most common mutation is known as ΔF508, which results in the CFTR protein not being properly made and transported to the cell surface. Without functional CFTR protein, secretions in the lungs and pancreas become thick and sticky, leading to frequent lung infections and poor absorption of nutrients. 
 
 CF is diagnosed through a combination of genetic testing and clinical evaluations. Newborn screening using a blood test can detect high levels of a chemical called immunoreactive trypsinogen, which indicates CF may be present. A sweat test is then conducted to measure levels of salt in the sweat - unusually high salt levels confirm the diagnosis of CF. Carrier testing and prenatal screening are also available to detect CF mutations before a child is born.

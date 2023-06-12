@@ -1,5 +1,3 @@
-Here is a 500 word essay in response to the prompt:
-
 The analytical solution for the observation function Y involves the  relationship between the observed variables and the latent variables that generate the observations. The observations Y are assumed to be manifested from a linear combination of latent variables L and an error term E. The relationship can be expressed as:
 
 Y = μL + E

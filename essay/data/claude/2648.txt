@@ -1,5 +1,3 @@
-Here is a 500-word essay in response to the prompt:
-
 Investigating how the boiling point of cyclohexane varies with pressure provides insights into how intermolecular forces affect the phase transitions of materials. Cyclohexane is a hydrocarbon with a simple molecular structure, consisting of six carbon atoms arranged in a ring. At standard pressure, cyclohexane boils at 81°C. As pressure increases, the boiling point also increases due to the effect of pressure on intermolecular interactions.
 
 To investigate the pressure dependence of cyclohexane's boiling point, the experiment is conducted using a pressurized reaction vessel. Cyclohexane is added to the vessel, which is then sealed. A pressure gauge and temperature probe inside the vessel are used to monitor the pressure and temperature. The vessel sits in a temperature-controlled bath, which is initially set below the standard boiling point of cyclohexane. 

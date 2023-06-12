@@ -1,5 +1,3 @@
-Here is a 1751 word essay in response to the prompt:
-
 The Heckscher-Ohlin model of international trade is an economic theory developed by Eli Heckscher and Bertil Ohlin that explains how patterns of international trade are determined by the relative abundance of capital and labor in different countries. The key assumption of the model is that countries will export goods that require inputs that they have in relative abundance, and import goods that require inputs that are in relative scarcity. 
 
 The Heckscher-Ohlin model makes several key assumptions. First, it assumes that there are two countries, two goods, and two factors of production (capital and labor). It also assumes that the two goods require different proportions of capital and labor, so they are produced with different factor intensities. Additionally, the model assumes that the two countries have different relative factor endowments of capital and labor. Finally, the model assumes that there are constant returns to scale in production, and that the factors of production are perfectly mobile within countries but immobile between countries.

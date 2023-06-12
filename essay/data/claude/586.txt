@@ -1,5 +1,3 @@
-Here is a draft 2750 word essay in response to the prompt:
-
 What were the objectives and stakeholders of a project to deploy an Active Desktop system at Aston Martin, and how did the project align with top-level organizational goals? 
 
 Aston Martin, the iconic British luxury carmaker, embarked on an ambitious project in the mid-2010s to overhaul its desktop IT infrastructure and deploy an Active Desktop system across its global operations. The Active Desktop project had several key objectives:

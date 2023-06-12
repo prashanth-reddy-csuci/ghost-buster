@@ -1,5 +1,3 @@
-Here is a 2000 word essay on the role of Sonic Hedgehog (Shh) in embryonic development:
-
 The Sonic Hedgehog (Shh) signaling pathway plays a crucial role in embryonic development across many species.  Shh is a secreted protein that acts as a morphogen, providing positional information to guide the growth and differentiation of cells and tissues. Shh signaling helps establish the basic body plan and the development of major organ systems in the early embryo.
 
 One of the earliest roles of Shh is in the establishment of the dorsal-ventral axis.  In the early embryo, Shh is secreted from the notochord and floor plate in the ventral side of the neural tube. It helps determine cell fate in the spinal cord, with high Shh signaling specifying ventral progenitor cells and low signaling specifying dorsal progenitor cells. This helps establish the distinct dorsal and ventral regions of the spinal cord, which give rise to different types of neurons. 

@@ -1,5 +1,3 @@
-Here is a 1000 word essay in response to the prompt:
-
 Technology like DSL (Digital Subscriber Line) and ISDN (Integrated Services Digital Network) has enabled simultaneous phone and internet usage over a single phone line. Once only capable of transmitting voice calls, phone lines can now transfer data and voice concurrently using these technologies.  DSL accomplishes this by utilizing higher frequency bands not used by voice calls to transmit data. Voice calls remain in the frequency range of 0 to 4 kilohertz, while DSL uses the frequency range above that for data transmission. This allows DSL to provide dedicated bandwidth for internet connectivity without interrupting phone calls.
 
 ISDN lines take a different approach by transmitting voice and data as a digital signal which is then separated at the receiving end. ISDN lines can provide two simultaneous 64 kilobit per second channels, one for voice and one for data. This allows for basic internet usage and phone calls to occur at once. This technology requires central office equipment upgrades which can limit broad deployment, though it provided an early step towards unified voice and data networks.

@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 A C++ compiler that compiles C code into three-address compatible code would require several important features and go through a multi-step testing process. 
 
 Some key features of such a compiler would be:

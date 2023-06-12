@@ -1,5 +1,3 @@
-Here is a rough 1500 word essay in response to the prompt:
-
 Analyzing and valuing a business is a core component of entrepreneurial finance. There are several key tools and considerations entrepreneurs use to determine a fair valuation for a business.
 
 The first tool is a discounted cash flow (DCF) analysis. This models the future free cash flows of the business and discounts them back to the present using an appropriate discount rate. The discount rate reflects the riskiness of those cash flows. The sum of the discounted future cash flows determines the fair value of the business today. Key inputs for a DCF include revenue growth rates, profit margins, working capital needs, capital expenditure requirements, and the weighted average cost of capital. Small variations in assumptions can lead to large differences in valuation so conducting sensitivity analysis around key assumptions is important.

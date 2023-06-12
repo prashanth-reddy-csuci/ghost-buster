@@ -1,5 +1,3 @@
-Here is a 1000-word essay on High-Performance Liquid Chromatography (HPLC):
-
 High-Performance Liquid Chromatography or HPLC is a technique in analytical chemistry used to separate, identify and quantify compounds in a mixture. It is a type of column chromatography that utilizes high pressures to push a solvent and sample mixture through a column packed with a stationary phase. The compounds in the mixture separate based on their relative affinity for the stationary and mobile phases.
 
 There are several types of chromatography, including gas, liquid, and supercritical fluid. HPLC utilizes a liquid mobile phase to transport the sample over the stationary phase. The most common types are normal-phase HPLC which uses a polar stationary phase and nonpolar solvents, and reverse-phase HPLC which uses a nonpolar stationary phase and polar solvents. Reverse-phase is the most common and versatile method. 

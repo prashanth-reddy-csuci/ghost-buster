@@ -1,5 +1,3 @@
-Here is a draft 500-word essay in response to the prompt:
-
 There were several factors that influenced the decision to run the design and implementation phases in parallel for the second part of the project. The most significant factor was the tight timeline and schedule for completing this stage of the work. By overlapping the design and build phases, the team would be able to gain back some of the time lost in the initial planning stages of the project. Running these phases concurrently, even if just partially, could help ensure the overall timeline was met.  
 
 Another factor was the modular and iterative nature of the work. The team planned to break the second part of the project into smaller, more manageable components that could be designed and built individually yet still integrated together. This lent itself well to a parallel approach, as some modules could be in the design phase while others were already in development. The modular work also meant designs and requirements were likely to evolve as each module was built, so ongoing communication and collaboration between designers and developers was important.

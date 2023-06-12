@@ -1,5 +1,3 @@
-Here is a 732-word essay responding to the prompt:
-
 Differential stains are staining techniques used to detect differences in the biochemical and structural properties of bacteria. They allow us to classify and identify bacteria based on these properties. The most common differential stains are the Gram stain, Acid-fast stain, spore stain, and capsule stain.  
 
 The Gram stain is one of the most frequently used differential stains. It differentiates bacteria into Gram-positive and Gram-negative groups based on cell wall structure. Gram-positive cells have a thick layer of peptidoglycan in their cell walls which retains the primary stain crystal violet, appearing purple under the microscope. Gram-negative cells have a thinner peptidoglycan layer and an additional outer membrane, which prevents the retention of crystal violet. They appear pink or red after counterstaining with safranin. The Gram stain is a very useful first step in bacterial identification, though factors like age, washing, and poor fixing can impact its accuracy. 

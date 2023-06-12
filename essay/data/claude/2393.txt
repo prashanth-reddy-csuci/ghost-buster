@@ -1,5 +1,3 @@
-Here is a draft 750-word essay in response to the prompt:
-
 Geographic Information Systems (GIS) are powerful tools for land use suitability analysis in forest planning. Using the example of Watling Chase Community Forest in London, GIS can aid planners in evaluating the suitability of land for different uses by overlaying spatial data on criteria such as physical geography, infrastructure access, and ecological factors.
 
 In terms of physical geography, GIS can be applied to analyze the topography, slope, and soil conditions of the land in Watling Chase. Steep slopes and unstable soils would make areas less suitable for recreational use or forest operations. GIS enhances the planning process by allowing planners to determine which parcels meet the physical requirements for different uses. For infrastructure access, proximity to roads and public transit can be mapped to determine suitable areas for high-volume recreational use. Remote areas located far from transit would not be ideal candidates for facilities that aim to attract many visitors.  

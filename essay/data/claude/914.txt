@@ -1,5 +1,3 @@
-Here is a 1752-word essay in response to the prompt:
-
 Cyber terrorism refers to the use of cyber attacks by terrorist groups or individuals to cause fear, destruction, or harm. It threatens modern society in significant ways. Cyber terrorist attacks can take various forms, including hacking, phishing, malware, and denial-of-service attacks. These attacks target computers and networks to steal data, damage critical infrastructure, disrupt services, and spread propaganda. 
 
 Hacking involves illegally accessing computer networks and systems to steal or modify data. Phishing uses fraudulent messages or websites to steal login credentials and personal information. Malware like viruses, worms, and trojans can damage systems, erase data, and provide backdoor access. Denial-of-service attacks flood networks and servers with traffic to disrupt access. These techniques can be combined for maximum impact. For example, hackers can use stolen login information from a phishing attack to plant malware that erases data in a network.

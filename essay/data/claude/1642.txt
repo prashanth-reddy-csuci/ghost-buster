@@ -1,5 +1,3 @@
-Here is a 250-word essay response to the prompt:
-
 The process for keeping track of and totaling ten numbers entered by the user while also keeping track of negative and positive numbers would be:
 
 1. Initialize variables to track the sum, count of numbers, positive numbers, and negative numbers, setting all to 0. Sum will be used to calculate the total, count will keep track of how many numbers have been entered, positive and negative will count the number of each type of number.

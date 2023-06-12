@@ -1,5 +1,3 @@
-Here is a draft 1250 word essay in response to the prompt:
-
 The experiment conducted by Morris, Jones, and Hampson in 1978 aimed to investigate the relationship between context and forgetting. Specifically, they wanted to examine whether context could act as a cue to retrieve previously learned information that had not been accessed for some time. This study built upon the interference theory of forgetting, which proposes that memories can become inaccessible over time due to interference from other memories. However, memories may be retrievable if provided with the right cues, even after a prolonged period of forgetting. 
 
 Morris et al. hypothesized that context may serve as an effective cue for retrieving information that was learned in that context, even after a long interval without access to that information. They tested this by having participants learn a set of words while in a particular room. After leaving that room for either 3 days or 31 days, participants returned to either the same room or a different room. Their memory for the words was then tested.

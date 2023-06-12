@@ -1,5 +1,3 @@
-Here is a 1250 word essay in response to the prompt:
-
 Cloud formation and precipitation are the results of complex atmospheric processes involving evaporation, condensation, and precipitation. The sun drives the hydrologic cycle by providing the energy to evaporate water from oceans, lakes, and rivers. As the water vapor rises into the atmosphere, it cools and condenses onto small particles in the air called condensation nuclei. These tiny cloud droplets accumulate to form visible clouds. 
 
 There are two main mechanisms that can lead to precipitation from clouds: collision-coalescence and Bergeron process. In the collision-coalescence process, cloud droplets collide and combine with each other as they move about in the cloud. When they become too heavy to stay suspended, they fall as precipitation. The Bergeron process, also known as the cold rain process, involves the growth of cloud droplets through vapor deposition. Some cloud droplets are better at attracting water vapor than others, allowing them to grow into rain droplets. These rain droplets become too heavy and fall as precipitation.

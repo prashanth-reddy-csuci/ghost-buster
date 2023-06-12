@@ -1,5 +1,3 @@
-Here is a draft 750 word essay in response to the prompt:
-
 Recent reforms in England and Wales, including the Criminal Procedure and Investigations Act 1996 (CPIA 1996) and the Attorney General's Guidelines on Disclosure, have aimed to clarify and expand the obligations of the prosecution to disclose evidence to the defense. However, these reforms have raised concerns about whether expanded disclosure requirements undermine key tenets of the adversarial system, including the privilege against self-incrimination and the requirement that the prosecution proves the defendant's guilt.
 
 The CPIA 1996 codified and expanded the prosecution's duty to disclose "unused material" that may undermine the prosecution case or assist the defense.  This includes disclosing witness statements, forensic evidence, and other documents even if the prosecution does not intend to rely on them in court. The Attorney General's Guidelines further obliged the prosecution to pursue "reasonable lines of inquiry" and disclose any evidence thereby uncovered. Studies show these reforms have significantly increased the volume of evidence disclosed to the defense.
