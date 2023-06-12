@@ -1,5 +1,5 @@
 This system is a program which supervises an auction environment. It contains 3 servers and several (indeterminate number) sellers and bidders. This distributed system uses the Beowulf cluster.
-A file which is called These structures are used to store a seller, a bidder and an auction.
+A file which is called "structure.h" defines the data structure. These structures are used to store a seller, a bidder and an auction.
 Here is the structure which defines an auction,
 Here is the structure which defines a seller,
 Here is the structure which defines a bidder,

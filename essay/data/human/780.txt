@@ -1,5 +1,5 @@
 This report focuses on a cantilever system, whereby a low-level of force is applied and its deflection is detected by gauges and the data is processed as a signal in the form of voltage and be displayed on either analogue or digital displaying device.
-Low-level force involved in a cantilever beam system can be measured by This report will focus on a cantilever system, in which a Beam-Type Load cells involved and will be looking at how a system made up of strain gauges and Beam- Type Load Cells amplify signals, transmit data to an analogue device and how to digitise data to a digital signal for further processing, displaying and storage.
+Low-level force involved in a cantilever beam system can be measured by Beam-Type Load cells with the use of strain gauges while double ends system can be measured by, Double ended Load Cells, which are similar to Beam-Type Cells. This report will focus on a cantilever system, in which a Beam-Type Load cells involved and will be looking at how a system made up of strain gauges and Beam- Type Load Cells amplify signals, transmit data to an analogue device and how to digitise data to a digital signal for further processing, displaying and storage.
 Before looking at how to make a system work, it is important to understand how this system is expected to work.
 Force Beam and strain gauges Wheatstone bridge circuit Amplifiers Data Display Force
 As the design of the cantilever and selection of strain gauges has already been done, only the beam type instrument is left to be designed.
@@ -9,8 +9,8 @@ The amplification produced by a circuit is described by its gain.
 Noise is added in all kind of real electronic circuits as signals passing through them. It has to be one of the factors that have to be considered
 System designed is to measure low-level force and transmit data as a signal and be displayed. The processing is mainly done by the strain gauges in the circuit. A gauge is put on each side of the cantilever. So when there is a force applied at the end of the cantilever, gauge 1 on the top of the cantilever would experience a tensile strain while gauge 2 on the bottom will be under a compressive strain. The theoretical balance condition of the bridge has been derived early on and we can base on equation(1) to derive an overall equation for output voltage, which takes loading force and deflection into account.
 Equation 1 gives
-As
-While
+As gauge 1 is under a tensile strain, it will change from R 1 to
+While gauge 2 is under a compressive strain, it will change from R 2 to
 Substituting into (1), will give
 As the equation suggests, the deflection becomes one of the factors that have to be considered. It is believed dimensions of the cantilever would affect the range of deflection. Therefore, it is assumed that dimensions of the cantilever would influence the sensitivity of the measurement system.
 To improve the system, 4 active gauges can be introduced as the sensitivity would be increase dramatically and can compensate any other factors that may influence sensitivity like temperature, axial and torsional components. Also, repeated reading can minimise any human mistakes.

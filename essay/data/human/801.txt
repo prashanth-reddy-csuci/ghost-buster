@@ -6,49 +6,68 @@ The signal must be amplified because the output is very small. The amplified sig
 As well as the analysis using the digital voltmeter, a computer package was used to record the change in output voltage with time. The software package is called Labview. The bridge and amplifier system used in the first part of the investigation can be plugged into a computer and the system analysed by the program. The program allows the user to record the output voltage for a given length of time at any chosen sample rate. For example; 2000 samples to be collected at a sample rate of 1000 samples per second will cause the program to record the system for 2 seconds and collect enough sample to plot a very accurate graph of output voltage against time. The results can be used to calculate the resonant frequency of the system when disturbed and also the length of time it takes to stabilise.
 Figure 3 shows the Wheatstone bridge setup with dimensions for the beam and the distance from the built-in end to the strain gauges.
 The beam is made of steel which has a modulus of elasticity of 210 GPa. The Strain is given by the following equation:
-where The dimensions measure with a standard ruler. Using the dimensions from Figure 3 the equation becomes:
-This equation of The thickness of the beam is a more influential factor because the strain varies inversely with the square of this dimension.
-If we assume that the gauges are located at or near the beam support and have the maximum moment we can estimate the maximum loading force using the given values: E=210 GPa and
+,
+where x is the distance from the built in end to the strain gauges, w is the width of the beam, t is the thickness, l is the length, E is the modulus of elasticity of the beam material and F is the force applied at the end of the beam. The dimensions measure with a standard ruler. Using the dimensions from Figure 3 the equation becomes:
+.
+This equation of  in terms of the force suggests that the system is not very sensitive to changes in force because the coefficient of force is very small. The thickness of the beam is a more influential factor because the strain varies inversely with the square of this dimension.
+If we assume that the gauges are located at or near the beam support and have the maximum moment we can estimate the maximum loading force using the given values: E=210 GPa and .
+.
 If we now combine this with the expression for strain in terms of force we can calculate the maximum force.
+.
 In theory the system should be able to support a load of about 3 N which corresponds to an applied mass of about 0.3 Kg.
-The bridge has a supply voltage of 9V from a battery. Balancing the bridge allows us to measure very small changes in output voltage. Figure 4 shows the circuit diagram for the system. R
-The output voltage is equal to V
-Since
+The bridge has a supply voltage of 9V from a battery. Balancing the bridge allows us to measure very small changes in output voltage. Figure 4 shows the circuit diagram for the system. R 1 and R 2 are the strain gauges.
+The output voltage is equal to V BD which is equal to the sum of the voltages across R 1 and R 4 (V BA and V DA).
+Since .
 The above equation can be rewritten in the form:
+.
 To balance the bridge we need to set the output voltage to zero. For this to occur either the input voltage must be zero (which it clearly won't be) or the top section of the resistance fraction must equal zero. Thus for the bridge to be balanced:
-Since we are going to be measuring the output voltage of the system we need to relate this to the changing resistance of the strain gauges. If R
-For the investigation the value of the resistors R If these two resistors have the same value then the conditions for balancing results in R
+.
+Since we are going to be measuring the output voltage of the system we need to relate this to the changing resistance of the strain gauges. If R 1 and R 2 represent the resistance of the two stain gauges then we can express the change in resistance when a force is applied to the beam as follows:
+For the investigation the value of the resistors R 3 and R 4 are 1K. If these two resistors have the same value then the conditions for balancing results in R 1 and R 2 also having the same value.
 The change in output voltage can now be expressed as follows:
-Since as explained above the resistances are all the same;
+.
+Since as explained above the resistances are all the same; , we can express the change in output voltage as:
+.
 If we substitute in the values for the resistance and the input voltage to the bridge we get an expression for the change in output voltage as:
+.
 The amplifier that was chosen needed to have again between 100 and 1000, the closer to 1000 being the more favourable. The amplifier was a non-inverting type (shown in Figure 5 below) and the resistors were chosen using the following calculations. A non-inverting amplifier was chosen over the inverting type because it has a high output impedance and the integration of a low pass filter in the form of a capacitor is very simple.
 The gain of a non-inverting amplifier is given by:
-In order to calculate values for R
-Using this we set R
-A problem associated with this set-up is that of noise. To counter this problem a low pass filter can be added in the form of a capacitor. For the addition of the capacitor we are given that RC = 0.1 seconds. The R referred to here is the R
-We therefore use a capacitor with a capacitance of 0.1
+In order to calculate values for R 1 and R 2 we set the gain at 1000:
+Using this we set R 1= 1 M and R 2=1 K.
+A problem associated with this set-up is that of noise. To counter this problem a low pass filter can be added in the form of a capacitor. For the addition of the capacitor we are given that RC = 0.1 seconds. The R referred to here is the R 1 of the amplifier set up (see Figure 5) not the R 1 in the bridge set up:
+.
+We therefore use a capacitor with a capacitance of 0.1 F.
 This section describes the process of the investigation and the implementation of the theory outlined in the above section.
-The Wheatstone Deflection Bridge was set up as shown in Figure 1. A 9 V battery was attached as the power supply. The two resistors each have a resistance of 1000
-The next step involved constructing the non-inverting amplifier using a 'breadboard' with a 741 operational amplifier provided. The amplifier was set up using the resistors of 1 M A digital voltmeter was connected to the circuit to display the output voltage of the system. The system was also zeroed using the potentiometer.
+The Wheatstone Deflection Bridge was set up as shown in Figure 1. A 9 V battery was attached as the power supply. The two resistors each have a resistance of 1000 .
+The next step involved constructing the non-inverting amplifier using a 'breadboard' with a 741 operational amplifier provided. The amplifier was set up using the resistors of 1 M and 1 K as calculated in the 'Theory and Calculations' section. A digital voltmeter was connected to the circuit to display the output voltage of the system. The system was also zeroed using the potentiometer.
 To measure the change in output voltage a force was applied to the end of the cantilever beam by placing washers on the peg. Each washer has a mass of 0.25 g (or 0.00025 Kg). A table of output voltage against mass was created by adding washers to the beam. A graph of output voltage against force was then drawn to calculate the sensitivity of the system.
 Having analysed the system using a digital voltmeter the system was then connected up to a computer. The computer software is able to record the output voltage over a period of time at any given sampling rate. Recordings were made of the following scenarios:
 In order to record the oscillating beam it was held down to its maximum deflection and released. It was left to oscillate freely until it came to rest.
 Graphs of output voltage against time were created by transferring the data from the program into Excel.
-The graph of output voltage against force from the experiment with the washers is shown in the appendix. The graph is very much linear all the way. A trend line has been added so that the sensitivity of the systems can be calculated. The sensitivity is given by the gradient therefore this system has a sensitivity of 10.954 VN
+The graph of output voltage against force from the experiment with the washers is shown in the appendix. The graph is very much linear all the way. A trend line has been added so that the sensitivity of the systems can be calculated. The sensitivity is given by the gradient therefore this system has a sensitivity of 10.954 VN -1.
 The maximum force that was applied to the system is shown on the graph as just under 0.05 N. This is well below the theoretical maximum force of about 3 N that was calculated earlier in this report. This explains why the graph is linear up to the maximum value that was applied in the test. It should be noted that it was not possible to approach the maximum load of 3 N because the peg at the end of the beam was not tall enough to accommodate the required number of washers. The linear range can however be calculated using the maximum load and the equation shown on the graph that we found the sensitivity from:
+.
 This means that the linear range goes from zero up to 33.04 V if the maximum for of 3.016 N is applied.
 The output of the system depends on the strain. The strain in turn depends on the force applied and the dimensions of the beam. To measure the influence of each parameter let us consider the equation for strain:
-The parameters that affect the output voltage are therefore We can see that the strain varies linearly with all of these except the thickness of the beam ( The strain varies inversely with the square of the thickness, thus we can say that this is the most influential parameter. The system would be significantly more sensitive if we reduced the thickness of the beam.
-It is possible to work out the maximum possible change in resistance using the maximum strain ( The maximum strain is equal to Using the relationship:
-This value of R
+.
+The parameters that affect the output voltage are therefore l, x, w, t, E and F. We can see that the strain varies linearly with all of these except the thickness of the beam (t). The strain varies inversely with the square of the thickness, thus we can say that this is the most influential parameter. The system would be significantly more sensitive if we reduced the thickness of the beam.
+It is possible to work out the maximum possible change in resistance using the maximum strain (
+max), the gauge factor (G) and the unstrained resistance of the strain gauges (R o). The maximum strain is equal to , the gauge factor is 2.1 and the unstrained resistance of the gauges is 1000 . Using the relationship:
+.
+This value of R max corresponds to the maximum force that the system can support, which is about 3 N.
 The graph of output voltage against time for the oscillating system with the low pass filter is shown in the appendix. It is possible to calculate the resonant frequency of the system using this graph. If we count the number of peaks to the first second we can see that there are about 21. This gives us an estimate for the resonant frequency of 21 Hz. A more accurate method would be to use the exact time coordinates of two peaks or troughs and then to apply the expression:
+.
 Selected troughs have time coordinates of 198 ms and 246 ms. Putting these values into the above expression will give us a more accurate value for the resonant frequency:
+.
 We can also use the graph to work out how long it takes for the system to stabilise after being disturbed. To do this we can use both the graph of the oscillating system with the low pass filter in place and the graph showing the same scenario without the low pass filter (also shown in the appendix). The graph without the low pass filter shows up the noise more than the one with the filter but they are both useful for determining the length of time it takes for the system to settle. In both cases the line appears to stabilise just short of 2 seconds.
 The graph showing output voltage against time when no load is applied and no filter is in place (shown in the appendix) highlights the level of noise the system has if we don't have the low pass filter.
 We will now consider whether the ambient temperature will affect the measured results. The error or change in length of a dimension can be expressed using the following equation:
-where
-The thermal expansion coefficient for steel is 11 This means that temperature would have had little effect on our measured results since
-The Wheatstone Deflection Bridge system was tested using two methods. In both cases a non-inverting amplifier was constructed in order to amplify the output signal front the system. The amplifier increased the signal form the order of millivolts to volts. The first test involving the application of force by placing washers on the end of the beam gave us the information we needed to calculate the sensitivity of the system. The sensitivity was found to be 10.954 VN Of the parameters that affect the output of the system, the thickness of the cantilever beam was found to be the most influential. The maximum load that the bridge could support was calculated to be 3 N. This was not possible to get close to however because the equipment was not capable of accommodating the required number of washers. The resulting graph of output voltage against force was therefore completely linear.
+,
+where  is the thermal expansion coefficient of the material, L o is the original length at a temperature of 20C and 
+T is the change in temperature.
+The thermal expansion coefficient for steel is 1110 -6 / C and the temperature variations where virtually zero. This means that temperature would have had little effect on our measured results since  is very small and 
+T is also very small.
+The Wheatstone Deflection Bridge system was tested using two methods. In both cases a non-inverting amplifier was constructed in order to amplify the output signal front the system. The amplifier increased the signal form the order of millivolts to volts. The first test involving the application of force by placing washers on the end of the beam gave us the information we needed to calculate the sensitivity of the system. The sensitivity was found to be 10.954 VN -1. Of the parameters that affect the output of the system, the thickness of the cantilever beam was found to be the most influential. The maximum load that the bridge could support was calculated to be 3 N. This was not possible to get close to however because the equipment was not capable of accommodating the required number of washers. The resulting graph of output voltage against force was therefore completely linear.
 The second test involving the computer software allowed us to calculate the resonant frequency of the system if it is disturbed and left to settle. It was estimated to be 20.83 Hz. The system took just under 2 seconds to settle after being disturbed. It was also found that the output voltage settled nearer to zero much faster if a low pass filter was present in the system.
 The system could be improved by using a more sensitive beam. This could be achieved by reducing the thickness of the beam. The peg at then end should be taller so that enough washers can be added to reach the maximum load of 3 N.
 Although the temperature was shown not to have a significant effect on the experiment, a material with a lower thermal expansion coefficient for the beam would be an improvement.

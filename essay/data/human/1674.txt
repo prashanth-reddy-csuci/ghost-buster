@@ -12,3 +12,4 @@ Ask if they want to add another product.
 Add until they say that they do not want to add another product, incrementing cost, and decreasing stock also
 Output Cost of Order
 Ask if they want to place another order
+Set 1: 1001, 50, 12, 99, 10099, 175, 9, 1023, 100, 34, y, n , y , y mini-widgit, 14, 7 , y, average widgit, 0 , y, mini-widgit, 2, n

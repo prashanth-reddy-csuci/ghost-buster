@@ -8,9 +8,9 @@ What is Inertia?
 From this explanation, we can assume that we will need to know some basic formulae in order to analyse any results.
 The main ones that will be combined will be:
 whereby:
-F = the force required for the given acceleration [N]; m = the mass of the object [kg]; a = acceleration of the object [ms
-T = the torque required for the given angular acceleration [Nm]; I = the moment of Inertia of the object [kgm
-s = vertical displacement of the object [m]; u = initial velocity of the object [ms
+F = the force required for the given acceleration [N]; m = the mass of the object [kg]; a = acceleration of the object [ms -2];
+T = the torque required for the given angular acceleration [Nm]; I = the moment of Inertia of the object [kgm 2];  = the angular acceleration of the object [rad/s -2]
+s = vertical displacement of the object [m]; u = initial velocity of the object [ms -1]; t = time that it takes for the action to take place [s]
 These formulae can be easily transformed to give the following equation that will be of use after the results have been taken [workings can be found as Appendix II]:
 Therefore, the values of: s; g; and r must be discovered in order that the values for m can be put into the equation, so that the final moment of Inertia can be calculated for each disk, which will be the basis of analysis for the results.
 These formulae will also come of importance when plotting the results graphically. It is aimed that the y-axis value shall be a measure of the applied mass, and to obtain a graphical solution of the Inertia, we must have the x-axis representing the value
@@ -26,7 +26,7 @@ Observations that were made during the experiment were notably of the difference
 The time will also be inaccurate because the stopclock was not recorded mechanically, so human error will vary the results greatly. Ensuring that the same person is used for each set of results can reduce this.
 Fig. 2 is the table of results that were taken directly from the experiments, without analysis.
 The error for the times will be 0.5[s], and the error for the masses will be 0.002[kg].
-These results have been analysed to find averages [Appendix IV], and also the values to be plotted on the x-axis of the graphs, which are 1/t
+These results have been analysed to find averages [Appendix IV], and also the values to be plotted on the x-axis of the graphs, which are 1/t 2 values.
 Fig. 3 shows the results that will be plotted on the graph [Appendix V]
 The values for the moment of Inertia can not only be calculated from the results, but also mathematically by the means outlined in Appendix I. This means that the two sets of results can be compared, as in Appendix VI and VII.
 From the graph Appendix V, we can see that the prediction for larger moment of Inertia for larger disks was very evident. The three lines of best for, one for each disk, show also that the results were by no means perfect, taking into account the errors, however, these errors were minimal. Comparing the two sets of results from Appendices VI and VII, we can see that the differences between the calculated figures and the mathematical figures are not too large. This suggests that the experiment's inaccuracies were low. Therefore, there is reasonable confidence that the experiment was quite effective.

@@ -1,44 +1,47 @@
-By measuring the angles of sharp x-ray diffraction maxima from alkali-halide crystals the lattice constants of five crystals were calculated; LiF 0.398 ( The atomic radii of the ions was calculated from these lattice constants and knowledge about the crystal structure; F- 0.131 ( By observing the symmetrical exposure of a photographic film sensitive to x-rays it was shown that a LiF crystal has long-range order of its ionic lattice.
+By measuring the angles of sharp x-ray diffraction maxima from alkali-halide crystals the lattice constants of five crystals were calculated; LiF 0.398 (0.013) nm, NaF 0.444 (0.017) nm, NaCl 0.540 (0.025) nm, KCl 0.600 (0.030) nm, CaF 2 0.530 (0.017) nm. The atomic radii of the ions was calculated from these lattice constants and knowledge about the crystal structure; F- 0.131 (0.013) nm, Na+ 0.091 (0.021) nm, Cl- 0.179 (0.037) nm, K+ 0.121 (0.044) nm, Ca2+ 0.098 (0.021) nm. By observing the symmetrical exposure of a photographic film sensitive to x-rays it was shown that a LiF crystal has long-range order of its ionic lattice.
 Simple ionic crystals are structures that have periodic repetition of a pattern.
-From this it can be shown that the unit cell size is a constant value. This is called the lattice constant, ' There are three planes to this crystal, the up-down, the left-right and the forward-backward. There are given numbers, called miller indices, which define which plane one is talking about. They are based on the reciprocal of the intercept of an axis in the unit cell. There are given in the form (h,k,l). Zero denotes that the plane never intercepts that axis (it is parallel). The higher the miller index the more perpendicular that plane is to that axis.
+From this it can be shown that the unit cell size is a constant value. This is called the lattice constant, 'a'. There are three planes to this crystal, the up-down, the left-right and the forward-backward. There are given numbers, called miller indices, which define which plane one is talking about. They are based on the reciprocal of the intercept of an axis in the unit cell. There are given in the form (h,k,l). Zero denotes that the plane never intercepts that axis (it is parallel). The higher the miller index the more perpendicular that plane is to that axis.
 Miller indices are useful as they have important relation between them and the lattice constant.
-Where '
+(1)
+Where 'd' is the atomic spacing, 'h', 'k, 'l' are miller indices, and 'a' is the lattice constant.
 In order to get visual information from an object it is important to take into account the wavelength of light used. A large wavelength would not have the resolution to discern various parts of the object if they were smaller than the wavelength used. It would be like trying to find the depths of the notches in a key by touch wearing a bulky glove.
 Similarly to find the size of atoms (and ions) it is necessary to use a wavelength of light which is smaller than that of what you are trying to find the size of. However, atoms are incredibly tiny, and the wavelength of light required to resolve that detail is proportionally tiny. This poses a problem, as wavelength is proportional to the reciprocal of the frequency of the wave, and frequency is proportional to energy, the wave needed will have a very high energy.
 These are not as easy to produce and measure as lower energy waves. Equation (1) has the solution. If we could measure the lattice constant, and with knowledge about which plane the waves were diffracting off, the atomic spacing can be inferred and so can the ionic size.
 X-rays were discovered over a century ago by certain circumstances involving cathode-rays (streams of electrons) hitting various materials. Knowledge of how these x-rays were removed from materials came about some decades later when the theory of quantum mechanics was invented. The quantum aspect of these x-rays shows that the energies produced are in discrete quanta. Thus the frequencies and wavelengths are also in discrete quanta. This makes producing specific wavelengths very accurate, as there can exist any other wavelengths if the materials were manipulated correctly.
 X-rays are suited for finding the atomic spacing because they have a similar wavelength to the gaps between atoms. This means that they diffract readily through the gaps.
 Bragg proposed that the plane of atoms was like a partially reflecting mirror for x-rays. Constructive interference was caused when the angle of the incident x-rays was such that the reflection from the second plane was equal to a whole number of wavelengths phase difference.
+(2)
 This is known as Bragg's Law. This method requires the wavelength to be of a known value. However, the Laue method requires holding a crystal stationary with many wavelengths of light being shone on it. As the x-rays pass through the crystal they diffract. At certain points some of the x-rays will form destructive interference and some constructive interference. Placing a film sensitive to x-rays at a known distance from the crystal would record the constructive interferences as dots. This assumes crystals have long-range order and would give information about the symmetry of the crystal structure.
-The crystals (LiF, NaF, NaCl, KCl, CaF As the crystal rotated through The diffractometer arm contains a 2mm collimator slit and a Geiger-Muller tube for detecting the x-rays. The detector is connected to a time-scaler and frequency meter set to a sensitivity of 450V. The primary x-ray generator was a copper source on 30kV producing x-rays with wavelengths 0.139 nm and 0.154 nm. These were collimated vertically by a 1mm slit.
-The detector was moved around the crystal and at various angular intervals the number of counts was recorded over a 10 second period. At 0
-The range of recordings went from 2 It was noticed that there was more intense x-rays recorded in certain bands. These bands covered 8
-Due to the limited range of angles only the 1
-As the angles measured were in 2 The graphs of intensity against angle revealed two maxima over the particular crystal-dependant 8 The higher angle peak was due to the more intense 0.154 nm x-ray.
-By using Braggs Law (equation (2)) the distance between the ions in the crystal could be found. Due to the way the crystals were orientated in the resin the plane that the x-rays were diffracted off was the (200) plane. Knowing the miller indices and rearranging equation (1) the substitution of '
+The crystals (LiF, NaF, NaCl, KCl, CaF 2) were encased in a resin and this block was clamped in place on a rotating platform. As the crystal rotated through , the diffractometer arm rotates through 2. The diffractometer arm contains a 2mm collimator slit and a Geiger-Muller tube for detecting the x-rays. The detector is connected to a time-scaler and frequency meter set to a sensitivity of 450V. The primary x-ray generator was a copper source on 30kV producing x-rays with wavelengths 0.139 nm and 0.154 nm. These were collimated vertically by a 1mm slit.
+The detector was moved around the crystal and at various angular intervals the number of counts was recorded over a 10 second period. At 0 there was a large intensity of x-rays, this was due to the x-rays passing straight through the crystal and no diffracting and so this value was ignored.
+The range of recordings went from 2 = 15 to 60 in steps of 5. It was noticed that there was more intense x-rays recorded in certain bands. These bands covered 8 and a measurement was taken every 0.5.
+Due to the limited range of angles only the 1 st order diffractions were discovered.
+As the angles measured were in 2
+ the resolution of the angles were 0.25. The graphs of intensity against angle revealed two maxima over the particular crystal-dependant 8 range. The higher angle peak was due to the more intense 0.154 nm x-ray.
+By using Braggs Law (equation (2)) the distance between the ions in the crystal could be found. Due to the way the crystals were orientated in the resin the plane that the x-rays were diffracted off was the (200) plane. Knowing the miller indices and rearranging equation (1) the substitution of 'd(200)' for a/2 can be made and 'a' can be found for the crystal.
 Knowing the lattice constant for a crystal and its crystalline structure it is possible to calculate the size of the ions by assuming that opposite ions touch.
-From So '
-Having worked out ' Progressing through all the crystals like this revealed the ionic radii of Li+, F-, Na+, Cl- and K+.
-By a similar method it is possible to find the ionic radius of Ca However, CaF
-Knowing the radius of F- and '
-As a test for the above methods for calculating ionic radius a further restriction on the model can be imposed that states that like-ions must not touch. For the face-centred-cubic structure this means that the diameter of the larger negative ion must be less than
+From Figure 3 you can see how the lattice constant 'a' is equal to a diameter of the larger ion and 2 times the radius of the smaller ion. So 'a' is the sum of the two diameters of the ions.
+Having worked out 'a' for LiF and knowing that Li+ has radius 0.068 nm, the radius for F- can be worked out easily. Progressing through all the crystals like this revealed the ionic radii of Li+, F-, Na+, Cl- and K+.
+By a similar method it is possible to find the ionic radius of Ca 2+ because the values for F- and the lattice constant are known. However, CaF 2 has a fluorite crystalline structure rather than a face-centred-cubic.
+Knowing the radius of F- and 'a', Ca2+ can be easily calculated.
+As a test for the above methods for calculating ionic radius a further restriction on the model can be imposed that states that like-ions must not touch. For the face-centred-cubic structure this means that the diameter of the larger negative ion must be less than , from Pythagoras's rule.
 As a final check for the ion radii of K+ and F- there is known to be a crystal of KF which has a lattice constant of 0.532 nm. So the diameter of K+ + the diameter of F- must be less than this constant.
 For the Laue method the crystal was held stationary and white x-rays shone on it for 55 minutes. A x-ray sensitive film was placed behind the crystal and developed after the 55 minutes of irradiation.
 From measurements of maxima and equation (2):
-From these results equation (1) states that
-Using
-Using
-Using
-Using
+From these results equation (1) states that  ( for CaF 2):
+Using Figure 3 to see the relation of ions in LiF, and knowing Li+ has a radius of 0.068 nm, the radius of F- is calculated to be:
+Using Figure 3 to see the relation of ions in NaF, and assuming F- has a radius of 0.131 nm, the radius of Na+ is calculated to be:
+Using Figure 3 to see the relation of ions in NaCl, and assuming Na+ has a radius of 0.091 nm, the radius of Cl- is calculated to be:
+Using Figure 3 to see the relation of ions in KCl, and assuming Cl- has a radius of 0.179 nm, the radius of K+ is calculated to be:
 The ionic radius is larger for ions with more electrons. This is what is expected.
-Using
-For the same-charge ions to be not touching the diameter of the larger negative ion must be less than
+Using Figure 4 to see the relation of ions in CaF 2, and assuming F- has a radius of 0.131 nm, the radius of Ca2+ is calculated to be:
+For the same-charge ions to be not touching the diameter of the larger negative ion must be less than .
 In LiF the diameter of F- 0.262 nm is less than 0.281 nm
-In NaF the diameter of F- 0.262 < 0.314 nm
-In NaCl the diameter of Cl- 0.358 < 0.382 nm
-In KCl the diameter of Cl- 0.358 < 0.424 nm
+In NaF the diameter of F- 0.262 &lt; 0.314 nm
+In NaCl the diameter of Cl- 0.358 &lt; 0.382 nm
+In KCl the diameter of Cl- 0.358 &lt; 0.424 nm
 So all the ionic radii are consistent with the "hard sphere" model of lattices.
-Finally the diameter of K+ + the diameter of F- must be less than the lattice constant of KF which is 0.532 nm. It is as it values 0.504 (
+Finally the diameter of K+ + the diameter of F- must be less than the lattice constant of KF which is 0.532 nm. It is as it values 0.504 (0.046) nm.
 The Laue method produced this photograph:
 The pattern of symmetry is clearly visible in the placement of the dots. It has 6 lines of mirror symmetry. The first and second order diffractions are clearly seen. The large spot in the centre was where the x-rays travelled straight through the crystal. If you were to measure the intensities radially then you would find the graph of intensity against radius would be the same as one for a slit and coherent light. This shows that the LiF crystal had long range order in its lattice structure.
 General limitations in the experimental procedure were that the reading of the angle couldn't be more accurate. However if the diffractometer were made more accurate then the clamp holding the crystal would have to be improved as it was only roughly holding the crystal in the correct alignment.

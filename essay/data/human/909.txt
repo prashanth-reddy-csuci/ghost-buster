@@ -3,6 +3,7 @@ We can also write the system equations in the form of:-
 Where A, B, C are Matrices
 Thus the matrix form of the equation is:
 Suppose
+where D2 is known value.
 Thus
 From Part 1 we can see that A and B are as follows:
 So the A Matrix is
@@ -26,27 +27,30 @@ Taking Inverse Laplace Transform on Y(S) we achieve:
 Hence this is the analytical solution for the observation function Y.
 Using Graph peeling technique, which assumes that the system is linear.
 Y(t) can be expressed as:
-Where
-Factor out the term with the smallest exponential which is A
-If
+Where  and
+Factor out the term with the smallest exponential which is A 2e-2
+ t we get,
+If 1 is sufficiently larger then 2, then for large t we have:
 Thus if we take log on both side we get:
-Therefore, Log Y(t) = Log(A If we plot the graph with log y(t) vs t. This straight line graph would have gradient equal to -
+Therefore, Log Y(t) = Log(A 2 - 2 t). If we plot the graph with log y(t) vs t. This straight line graph would have gradient equal to -2 and intercept equals to Log A 2.
 From the Graph 1 we can compute the Gradient and the intercept of log y(t) which is asymptote to y(t).
 Gradient
 Intercept
-Since we know the values of A The same principle can be used to estimate the value of A
+Since we know the values of A 2 and 2 we can compute A 2e-2 t. The same principle can be used to estimate the value of A 1 and 1.
 After calculation, the following table was used to plot the graph with log z(t) vs t.
 From the graph 2 we can get:
 Gradient
 Intercept
 Thus we have,
-These values are our initial guesses in the problem. Now plot From Graph 3 we achieved the best fit results:
+These values are our initial guesses in the problem. Now plot 1 and 2 to get the best fit. From Graph 3 we achieved the best fit results:
 Substituting these values into the equation:
 We get,
 Take Laplace Transform on y(t) obtained in part v:
+(1)
 The Equation we derived in part iv was
 Given,
 Substituting the values in above equations give:
+(2)
 If we bring together Equation 1 and 2 we get two possible cases:
 Case 1:
 Let
@@ -54,7 +58,7 @@ Then we get
 Case 2:
 Let
 Then we get
-Hence the possible two set of values for K
+Hence the possible two set of values for K 01, K 12, C 1 are:
 From part iv we got:
 From part v we got:
 Using two different values of we plotted two different sum of exponential curves as shown in Graph 4 and the difference between the two has been plotted in Graph 5.

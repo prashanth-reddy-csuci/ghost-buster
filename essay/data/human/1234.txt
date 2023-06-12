@@ -7,7 +7,7 @@ The Modified car used for the initial calculations is shown below;
 Following data was specified before carrying out the iteration calculations;
 The iteration calculations are carried out for six different velocities of air (10, 20, 30, 40, 50, 60 m/s)
 The general data used for derivation and calculation of drag coefficients;
-(Where;
+(Where;  = density, V = velocity, A=area of the car)
 The drag forces for six values of velocity are found and using the equation shown in the "Theory used" the respective Drag coefficient is found. Then one graph is plotted for each car, with Drag coefficient against velocity.
 Calculating the Drag coefficient;
 (Above is an example calculation of a drag coefficient)

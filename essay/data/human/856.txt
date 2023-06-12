@@ -4,41 +4,41 @@ By designing disc brakes practically, manufacturers are able to address issues w
 Motor vehicle braking systems are a critical component of a vehicles safety and as a result, rigorous research and development has aimed to optimise the braking performance of motor vehicles. The functional requirement of the vehicle braking system is to dissipate the kinetic energy of the vehicle into heat energy, in order to bring the vehicle to a controlled stop. The performance of the braking system can be expressed as the rate at which the retardation occurs, and it is this factor which braking system design aims to optimise. This study aims to investigate the design of motor vehicle disc brakes in terms of both the theoretical and practical design considerations. The principal objective of this study is to investigate the variables associated with the design of a disc brake, for a typical saloon car weighing 1000 kg.
 The braking effect which is produced by disc brakes occurs as a result of a friction material being compressed against the surfaces of the disc (rotor). The typical contact area of a brake pad is shown below in figure 2:
 Since the friction material of the brake pads suffers wear during braking, the extent of this wear can be quantified. the frontal area of the brake pad experiences pressure caused by the actuating piston. The work done by this force on the brake pad can be expressed as:
- 1
+~Eqn. 1
 The displacement can be substituted by the product of velocity and time to give the following:
- 2
+~Eqn. 2
 As a result of the work done by the brake pad, a finite volume of material will be eroded. The volume of material will be proportional to the amount of work done, which gives the following expression:
- 3
+~Eqn. 3
 or
- 4
+~Eqn. 4
 By cancelling the area in the above equation (Eqn. 4), the expression for linear wear can be derived as:
- 5
+~Eqn. 5
 The linear wear on the brake will depend on certain environmental factors such as temperature and also other motion factors such as the loading, and the speed of the vehicle. equation 5 can be modified to account for these factors to give:
- 6
+~Eqn. 6
 Using figure 2, an expression can be derived for the actuating force of the disc along with the friction torque. If the local contact pressure on the disc is p, the actuating force and friction torque are given by:
- 7
- 8
+~Eqn. 7
+~Eqn. 8
 From equation 6, the axial wear is the same everywhere only when the product PV remains constant. By substituting the pressure for the maximum allowable pressure, pa, which occurs at the inner radius, the above equations can be modified to give expressions for the actuating force and friction torque for the uniform wear condition:
- 9
- 10
+~Eqn. 9
+~Eqn. 10
 From equations 9 and 10, it is evident that the actuating force of a disc brake depends upon the angle with which the pad subtends, along with the radius of the inner and outer pad. In order to design a disc brake system for a typical saloon car, the properties of the car must be defined. Below is a typical layout of the variables involved with designing a brake system for a saloon car:
-In a typical braking situation, the car would decelerate with an acceleration given by, a ms
- 11
- 12
+In a typical braking situation, the car would decelerate with an acceleration given by, a ms -1. using the above dimensions, and by taking moments about the point Q, the reaction force of each front wheel R f can be derived as follows:
+~Eqn. 11
+~Eqn. 12
 Under braking, the maximum braking force depends on the level of friction between the tyres and the road surface, and also the reaction force of each wheel. The total braking force can therefore be given as:
- 13
+~Eqn. 13
 The maximum deceleration of the vehicle can also be expressed in terms of the friction coefficient, since:
- 14
- 15
+~Eqn. 14
+~Eqn. 15
 By substituting the expression for the reaction force (Eqn. 12) into equation 13, along with the expression for maximum deceleration, the final expression for the maximum braking force at the front wheel can be given by the following:
- 16
+~Eqn. 16
 In terms of the braking torque, the above expression can also be modified to include the radius of the wheel, to yield the following expression:
- 17
+~Eqn. 17
 The above expression indicates that the braking torque depends upon the friction between the tyres and the road surface, along with the dimensional characteristics of the vehicle. In the case of the saloon car shown in figure 3, the torque depends upon the mass, the radius of the wheel, the distance between the front and rear wheels, and the height of the centre of mass.
 In order to theoretically design a disc brake system for a saloon car, the properties of the vehicle must be quantified. Table 1 indicates typical parameters for the saloon car in figure 3:
 By substituting the vehicle parameters into equation 17, and including a typical coefficient of friction of 0.7, the torque requirement can be approximated as follows:
- 18
- 19
+~Eqn. 18
+~Eqn. 19
 The above expression indicates that for maximum braking, the torque requirement is approximately 750Nm. This provides a value of torque which, using equation 8 can be designed by selecting suitable brake pad geometry and friction materials.
 There are a number of material choices for the pad material, with varying properties. A selection of pad materials is shown below in table 2:
 In order to maximise the torque provided by the disc brake, the material should be selected with the greatest coefficient of friction. As the above indicates, the rigid moulded asbestos and non-asbestos material types offer the greatest coefficients of friction. In addition the two materials also withstand a high degree of temperature, which is important in order to prevent the brake from distorting. However, Asbestos dust is harmful, and despite offering excellent properties, due to safety implications it would not be suitable for the application. For the purpose of the saloon car shown in figure 3, the ideal material would be a rigid moulded non-asbestos pad.

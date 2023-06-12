@@ -1,24 +1,30 @@
-Usually DNA exists as a double helix with two polymers held by hydrogen bonds between the bases on each strand. However, the double stranded DNA helices would separate into single stranded components if heated up gradually. This transition is measured by the absorbance of a DNA sample as a function of temperature. The following is the diagram showing the relevant properties of the DNA melting curve versus temperature.
-Figure 1 shows the plot of the DNA absorbance as the temperature goes up. The absorbance curve keeps constant at the beginning, from 20 to 60 degree centigrade (
-From the data given, we can find that the maximum absorbance is 1.2498, and the minimum one is 0.9933. Thus, the estimated This value corresponds to
-Figure 2 is plot of the derivative of the absorbance curve with respect to the temperature versus the temperature. The peak occurs at the temperature of approximately 66
+Usually DNA exists as a double helix with two polymers held by hydrogen bonds between the bases on each strand. However, the double stranded DNA helices would separate into single stranded components if heated up gradually. Tm, called as melting temperature of a DNA helix, is defined to be the temperature at which half of the DNA base pairs have broken their hydrogen bonds. This transition is measured by the absorbance of a DNA sample as a function of temperature. The following is the diagram showing the relevant properties of the DNA melting curve versus temperature.
+Figure 1 shows the plot of the DNA absorbance as the temperature goes up. The absorbance curve keeps constant at the beginning, from 20 to 60 degree centigrade ( C), and goes up dramatically in the range between 60 and 85C. Finally, the curve levels off after 80C.
+From the data given, we can find that the maximum absorbance is 1.2498, and the minimum one is 0.9933. Thus, the estimated Tm can be determined by the point half way between the low DNA melting curve and the high curve, which has the value A m=1.1215. This value corresponds to Tm=68C approximately, since the baseline of the curve is not flat.
+Figure 2 is plot of the derivative of the absorbance curve with respect to the temperature versus the temperature. The peak occurs at the temperature of approximately 66C, which can be another estimate value of Tm.
 Using the first 15 data points, we can find a straight line that approximates the temperature dependence of the unmelted DNA absorbance (see figure 3). The equation of this baseline worked out turns out to be:
+.
 The final absorbance on the melting curve plot is 1.2498.
-Let Then,
+Let x be the difference between the final absorbance of the unfolded DNA (A
+final=1.2498) and the absorbance at a given temperature (A), and y be the difference in absorbance between the temperature dependent absorbance (A) and the baseline (A=1.0007) of the figure 3 plot. Then,
 is a function of temperature.
-We transform the centigrade temperature
-since the absolute temperature The plot of
-The midpoint of That is,
-Figure 5 is the plot of the derivative of
-From figure 5, we can see that the absolute temperature of the maximum of the derivative curve is
+We transform the centigrade temperature T into the absolute temperature Tabs by the following equation:
+since the absolute temperature Tabs in Kelvin is the degree centigrade plus 273.15. The plot of  versus the inverse of the absolute temperature 1/Tabs in Kelvin is shown in figure 4:
+The midpoint of , i.e. the melting temperature at which half of the DNA is melted, is  = 0.5143, and the corresponding  1/Tab
+s =0.00294, or Tabs = 340.14 in Kelvin. That is, Tm = 340.14 - 273.15 = 66.99C
+Figure 5 is the plot of the derivative of  with respect to the inverse of the absolute temperature 1/Tabs versus the absolute temperature T abs, since T and Tabs is just a shift of scale, and they are equivalent.
+From figure 5, we can see that the absolute temperature of the maximum of the derivative curve is Tmax = 339.66 K, while the absolute temperature of the high temperature half height of the curve turns out to be T2 = 345 K.
 Thus, Van't Hoff transition enthalpy of the transition can be determined by the following formula:
-where B' = - 4.38 cal K
-So,
-According to the previous steps, we have found three Thus, we take the mean of these three, and
+where B' = - 4.38 cal K -1 mol -1 = - 4.38 cal K -1 mol -1 
+ 4.1868 J/cal = -18.34 J K -1 mol -1.
+So, .
+According to the previous steps, we have found three Tm value as 68C, 66C, and 66.99C respectively. Thus, we take the mean of these three, and Tm = 67C, approximately, or 340.15 K in absolute temperature.
 The entropy change of the transition can be determined by using
-So,
+,
+So, .
 Gibbs free energy of the transition is determined by
+.
 Figure 6 can show the linear relationship between the change of Gibbs free energy and the absolute temperature:
-From the figure, we can see that the Gibbs free energy would be zero if the temperature is taken at the value The absolute value of Gibbs free energy decrease as the temperature increase from the beginning to From the absolute magnitude of Gibbs free energy, we can see that it is high in the system of double stranded DNA and a bit lower when all double stranded become single stranded.
+From the figure, we can see that the Gibbs free energy would be zero if the temperature is taken at the value  Tm. The absolute value of Gibbs free energy decrease as the temperature increase from the beginning to Tm, and increase again after Tm. From the absolute magnitude of Gibbs free energy, we can see that it is high in the system of double stranded DNA and a bit lower when all double stranded become single stranded.
 Then van't Hoff transition enthalpy of the transition is -402460 J/mol, which is the maximum amount of thermal energy derivable to a thermodynamic process of DNA melting when the pressure is held constant.
-The change of entropy is -1183.2 J K This is a measure of the amount of energy that cannot be sued to do work in this double stranded and single stranded DNA system.
+The change of entropy is -1183.2 J K -1 mol -1. This is a measure of the amount of energy that cannot be sued to do work in this double stranded and single stranded DNA system.

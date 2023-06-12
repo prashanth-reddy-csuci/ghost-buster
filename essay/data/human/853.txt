@@ -9,33 +9,39 @@ The pump is activated and run at maximum speed (3000rpm)
 The delivery valve is then opened fully to ensure that any air in the system is cleared.
 Initially, the pump is set to 2000RPM
 At this value of pump speed, the suction and delivery pressure is recorded. (note that the suction pressure is interpreted as negative)
-The force is determined by adjusting the level of the spring balance, to coincide with the fixed pointer
+The force is determined by adjusting the level of the spring balance, to coincide with the fixed pointer.
 The manometer reading is then taken.
 Steps 5, 6 and 7 are then repeated for various settings of the delivery valve.
 Steps 4 through 8 are then repeated a second time for a pump speed of 3000RPM.
 The centrifugal pump used in this experiment converts the electrical energy of the motor, first into kinetic energy, then into pressure energy of the fluid that is being pumped. The pressure difference between the suction and delivery valves can be expressed in terms of head, where:
 Total Head = Delivery - Suction Pressure
 Since the flow is incompressible, in accordance with Bernoulli's equation the total pressure in head is:
- 1
+~Eqn. 1
 Where ( = mass density of water
 The term 'Head', provides an indication of the amount of kinetic energy which is imparted to the liquid by the pump, and thus can be used to determine the output power.
 The output power of the pump is determined by:
- 2
+~Eqn. 2
 However,
 Therefore
- 3
+~Eqn. 3
 The volumetric flow rate is determined by the manufacturer's calibration of the pump rig, where:
- 4
+~Eqn. 4
 Note, in this case, the calibration constant = 0.0981
 Since the principal objective is to analyse the performance characteristics of the pump, the output power must be compared with the input power in order to obtain the efficiency of the pump. The input power required by the impeller is therefore:
- 5
+~Eqn. 5
 The performance characteristics of any pump system can be demonstrated through the use of performance curves. These chart the characteristics of a pump at varying operating conditions, and provide a means of estimating the way in which a pump will behave in a certain situation. (The theory behind the construction of pump performance curves is provided in appendix B).
 The concept of non-dimensional groups enables us to summarise the experimental results obtained, and to determine their functional relationship. Dimensional analysis is often used when a phenomenon is too complicated to derive a formula to describe it. By identifying groups of variables which would appear in such a formula, along with the addition of experimental data, an analytical relationship can be formed.
 The dimensional analysis is commonly performed using the Buckingham Method. (The theory of the Buckingham method is provided in appendix C).
 The non-dimensional groups formed by dimensional analysis are as follows:
- 6
- 7
- 8
+Power Coefficient = 
+
+~Eqn. 6
+Flow Coefficient = 
+
+~Eqn. 7
+Pressure Rise = 
+
+~Eqn. 8
 The following is a sample of the readings taken, along with the calculations performed:
 With the recorded values for delivery and suction pressure the change in pressure is given by:
 Using equation 1, the pressure change corresponds to:
@@ -60,7 +66,7 @@ During the experiment, it was observed that as the velocity of flow increases, t
 The gate valves used on the rig also affect the precision that can be obtained, since the gauges are not very sensitive to changes in the valve openings. This could be improved if the rig included a different type of valve, such as a globe valve, which is far better suited for more precise regulation. The errors and uncertainties could also be reduced in the experiment by simply increasing the number of readings taken.
 The results also show that the pump efficiency peaks at 48%, at ~3000 RPM. The losses encountered consist mainly of gravitational losses, pressure differential losses and frictional losses, caused by the piping and the valves. The results confirm that as the flow increases, the frictional losses also increase, but at a higher rate.
 Graph 1 shows a graphical representation of the pump performance at both operating speeds. The discharge is plotted against the total head to provide the pump system curve. If a specific flow rate was required for a particular purpose, the system curve indicates the total head which must be overcome at that flow. The 'total head' plots in graph 1 show the pumps range of operations, from the shut-off head point (zero flow) to the run-out point (max. flow) (see appendix B). The pump can be operated under a wider variety of conditions at 3000 RPM, since the range of the 'total head' plot is far greater at 3000 RPM, than at 2000 RPM.
-Beyond the run-out point of the 'total head' plot, the pump itself is at risk from an effect known as cavitation This effect occurs when cavities form in the fluid which is being pumped. If such cavities form at the suction of the pump, the efficiency of the pump will drop, and damage to the pump will be inevitable. The pump is therefore limited to a flow of 1.8 litres/sec at 3000 RPM or 1.2 litres/sec at 2000 RPM.
+Beyond the run-out point of the 'total head' plot, the pump itself is at risk from an effect known as cavitation. This effect occurs when cavities form in the fluid which is being pumped. If such cavities form at the suction of the pump, the efficiency of the pump will drop, and damage to the pump will be inevitable. The pump is therefore limited to a flow of 1.8 litres/sec at 3000 RPM or 1.2 litres/sec at 2000 RPM.
 The graph also indicates the best efficiency point of each pump speed. At 2000 RPM this corresponds to 44% at a discharge of 0.71 litres/sec, and at 3000 RPM the best efficiency point lies at 48% at 1.14 litres/sec. The points of best efficiency represent the ideal operating conditions of the pump.
 Graph 2 indicates the graphical representation of the non-dimensional groups calculated as part of the analysis of the data. The graph shows considerable similarity between the data sets, at both speeds. If the dimensional analysis is indeed correct, theory indicates that the curves should collapse on each other, as all important parameters will have been included. Although the curves are not perfect, it is reasonable to assume that this is the case, due to errors/uncertainties. Hence, the expressions relating the torque, flow and pressure rise, to density, impeller diameter and frequency must be correct.
 The centrifugal pump used in the experiment has a peak efficiency of 48% when running at ~3000 RPM. It is most suited to this speed, as it can be operated at a greater variety of operating conditions without adding excessive strain on the pump components.

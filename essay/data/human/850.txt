@@ -9,37 +9,39 @@ With the basic concept described above, there are numerous considerations which 
 The following is a number of factors which must be considered, with respect to the initial concept described above. These factors should provide the most effective measurement system, based around the brief principles discussed.
 In order for the devised system to be used practically, an understanding of the relationship between the inputs and outputs of the system must be achieved.
 The St. Venant Torsion expression for a round shaft gives the following:
- 4
+Eqn. 4
 Rearranging equation 4 in terms of the shear stress gives the following:
- 5
+Eqn. 5
 For a hollow circular section, the polar second moment of area (J) is expressed by:
- 6
+Eqn. 6
 Therefore, the maximum shear stress applied to the hollow shaft can be given by substituting equation 6 into equation 5, to give the following:
- 7
+Eqn. 7
 By substituting the dimensional characteristics of the shaft (see page 3), into equation 7, the shear stress can be expressed in terms of the torque alone. This expression is shown below:
- 8
-Where
-The principal strain, By substituting equation 8 into this relationship, the principal strain can be expressed in terms of the torque, Poisson ratio and the Young's Modulus of the shaft material. This expression is shown below:
- 9
+Eqn. 8
+Where C = 1851177 (Constant defined by geometric properties of the shaft).
+The principal strain, 
+1 which is found along the helical lines shown in figure 5 (page 8) is also related to the shear stress. By substituting equation 8 into this relationship, the principal strain can be expressed in terms of the torque, Poisson ratio and the Young's Modulus of the shaft material. This expression is shown below:
+Eqn. 9
 Where C=1851177
 In the above analysis, it is evident that the sensitivity of the torque cell is dependant upon the Poisson ratio, along with the young's modulus of the material. In the design specification, the shaft used is described as steel, which offers the following properties:
 When any of the four strain gauges on the shaft are subjected to a force, the gauge itself undergoes an extension in length, and the cross section is reduced. The effect of this deformation, acts to alter the gauge resistance. The sensitivity of the gauges is expressed as the percentage change in resistance which occurs under a given strain. This is expressed algebraically below:
- 10
+Eqn. 10
 The gauge factor, and initial resistance can be found in appendix A. By substituting these values into equation 10, along with the expression for strain given in equation 9, an overall expression for the relationship between torque and resistance change can be derived:
 From Appendix A,
- 11
+Eqn. 11
 Where C=1851177
 Finally, an expression can be derived, relating the bridge output voltage, to the input torque. From equation 2 (page 6), the bridge circuit is modelled by:
 From equation 11 (page 11), the change in gauge resistance can be substituted into this equation, along with the parameter R, to give an expression relating the bridge output to the input torque:
- 12
+,
+Eqn. 12
 Where C=1851177
 The design brief indicates that the shaft is made from steel, and so values of the Poisson ratio and young's modulus can be entered into the above equation, which yields the following:
- 13
+Eqn. 13
 If can also be assumed that the bridge circuit will be supplied by a simple 9V battery, and so the bridge output is related to the input torque by the following expression:
- 14
+Eqn. 14
 It is now evident from equation 14, that the bridge output voltage will be considerably small with respect to the torque. However, the amplifier circuit designed on page 9 will amplify this output voltage by a factor of approximately 1000, and thus allowing the signal to be processed further.
 In summary of all the design considerations made in pages 5 through 10, the complete system diagram can be constructed as follows:
-In order for the system to be used for measuring torque, it must be possible to calibrate the system, and for the output signal to be presented by a suitable media. For this purpose, digitisation of the output signal is ideal, as it allows the signal to be displayed, and/or processed, by a computer. This method involves using a data-acquisition system, consisting of an analogue-digital card, connected to a PC. After digitising the signal, a software program such as Labview (By National Instruments The advantage of using a computer for data acquisition, allows further processing to be made more simply. The output signal can be related to the torque variable using equation 14, and the data can easily be presented by any means from a simple pointer-scale indicator to a LED or LCD display.
+In order for the system to be used for measuring torque, it must be possible to calibrate the system, and for the output signal to be presented by a suitable media. For this purpose, digitisation of the output signal is ideal, as it allows the signal to be displayed, and/or processed, by a computer. This method involves using a data-acquisition system, consisting of an analogue-digital card, connected to a PC. After digitising the signal, a software program such as Labview (By National Instruments), can be used to display the test data. The advantage of using a computer for data acquisition, allows further processing to be made more simply. The output signal can be related to the torque variable using equation 14, and the data can easily be presented by any means from a simple pointer-scale indicator to a LED or LCD display.
 In order to calibrate the measurement system, a known input torque can be applied to the shaft, to confirm the relationship between the input torque and the output voltage. The torque can be applied by placing standard weights to the beam attached to the free end of the shaft. The strain gauge bridge circuit also includes a potential divider, which will allow the systems output to be zeroed, when no load is applied to the shaft. This eliminates the initial torque which is a result of the steel beam's own mass providing a torsional force on the shaft.
 The measurement system is limited in its range of operation, primarily by the strain gauges used. The strain gauge specification provided in appendix A, indicates the maximum measurable strain lies between 3 and 4%. The principle strain has already been defined by equation 9, and is as follows:
 Therefore, if the strain is limited to 3% (0.03), the maximum allowable torque can be expressed by the following:

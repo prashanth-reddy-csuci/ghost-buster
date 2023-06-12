@@ -1,22 +1,23 @@
-I used Jaeger's method to determine the surface tension of distilled water. During Jaeger's method, water is slowly passed into a large container, displacing the air in the container. A bubble of air is formed in the liquid at the end of the capillary tube, and as air pressure increases it grows in size. The pressure in the manometer reaches a maximum, and immediately after this point the bubble breaks away. The maximum pressure head is read, and so is the depth of the capillary tube in the distilled water. The radius at the end of the capillary tube was measured using a travelling microscope, and in this particular experiment the radius was found to be 0.25mm, or 0.00025m. The density of the liquid and the density of the manometer were both found to be 1000 kgm
-I took readings of the maximum manometer pressure head when the capillary tubing was at 5 different depths. I found the surface tension of the liquid at each depth, and used the 5 values to calculate the average surface tension.
-To calculate the surface tension I used the following equation:
-Where:
-is the surface tension of the liquid (Nm
-h
-h
-p
-p
-r is the radius of the capillary tubing (m)
+I used the Brookfield viscometer to determine the viscosity characteristics of two solutions, Glycerol and 1% Guar Gum. This viscometer works by indicating the 'drag' of the solution by reading the values from a pointer on a scale, which changes as a spring of phosphor bronze is deformed. I chose a suitable spindle and took readings at different speeds, both increasing and then decreasing. In deciding what spindle to use, I started with the smallest (1 LV) and increased the spindle size if a reading could not be taken. I could not calculate the shear rate using this viscometer. To calculate the viscosity I multiplied the reading by a factor from a conversion chart provided, which depended on the spindle size used. The temperature of the liquids were ambient.
+The viscosity was calculated by taking the reading and multiplying this by a factor given on a conversion chart. Each factor was determined by the speed and spindle size.
 For example:
-I used the Cambridge tension balance to find the surface tension of the following substances:
-I then used the Cambridge tension balance to decide whether the following components are surface active:
-The Cambridge tension balance consists of a linked torson wire and suspended platinum loop. A tensioning device is situated at each end of the torson wire, one of which is attached to a calibrated scale. The force required to tear the ring from the liquid surface is determined. This is calibrated directly in terms of surface tension (dynes cm This process uses Du Nouy's method.
-I used the conversion factor 1 dyne cm
-For example:
-We took two readings for each substance, and used the second as it was more accurate.
-Despite literature values differing to my results, I do think that my part in this experiment was successful. There was a general trend that the literature values were lower than mine, which is probably because of the apparatus used.
-In surface-active components, a tension is produced at the interface because of an imbalance in the intermolecular forces.
-Sodium chloride is inactive in water because the surface tension of water is not changed with the addition of sodium chloride.
-Sugar is inactive in water because there is only a small change in the surface tension of water with the addition of sugar.
-Detergent is active in water because the surface tension changed significantly with the addition of the detergent.
+Reading of glycerol at an increasing speed: 0.5
+Reading of glycerol at a decreasing speed: 11
+Reading of guar gum at an increasing speed: 6.5
+Reading of guar gum at a decreasing speed: 24
+Reasons for some of my results may be:
+Whilst changing the spindle head from 1 LV to 2 LV during the glycerol experiment, I noticed that the glycerol had formed circles around the spindle head. The glycerol may have genuinely become thicker as the experiment went on, with the molecules lining up.
+Alternatively, the circles around the spindle may have shown that the liquid had built up its own momentum and so was continuing at its own pace, unaffected by the speed of the spindle head.
+The reading took much longer to take with the Guar Gum than the Glycerine; the spindle head had to circulate numerous times before the needle settled and we could take a reading.
+From the experiment I think that glycerol is a Newtonian fluid because from 3 RPM onwards, the viscosity was generally constant at both increasing and decreasing speeds. An explanation for why the velocity increased and decreased for increasing and decreasing speeds respectively may be that the spindle head may just have been slipping across the liquid rather than moving it, as the slow spindle head was not enough to move the strong cross links in the liquid.
+I think that the 1% guar gum is not a Newtonian fluid because the viscosity changed with speed. As with the glycerol, the spindle may have been slipping across the strong crosslinking at slow speeds. Towards the end of the experiment, at between 1.5 RPM and 0.3 RPM at decreasing speeds, the strong crosslinking may have began to be broken, giving a high viscosity reading.
+I used the Haake concentric cylinder viscometer to determine how viscosity changes with speed. This viscometer is different to the Brookfield, in that the Haake has two spindles and the Brookfield has a wide gap width. The Haake viscometer is composed of two cylinders with a narrow gap between them, and one of them is attached to a variable-speed motor. Fluid to be measured was put in the gap, and in this experiment evaporated milk, Devon custard and tomato soup was used. A velocity gradient is created while a cylinder rotates, and the fluid transmits a torque to the second cylinder, dragging it around. The shear stress and shear rate is calculated, and each of these is related to the torque and angular velocity respectively.
+To the calculate the shear stress and shear rate, the values for speed and shear rate were looked up in the following table, depending on the spindle used:
+Then, the following calculations were used:
+Where A is the value for the shear rate shown in the above table, and S is the reading in the experiment.
+Where  is the value for the speed shown in the above table, and n is the speed of the spindle.
+Reasons for some of my results may be:
+The milk may have had little shear stress (drag) because it does not have a strong, crosslinked structure: it has a thin and light viscosity, and so the spindle head was able to turn easily. This may be why the results were very similar at both increasing and decreasing speeds.
+The Devon custard had more cross linking and a more complex structure and so the drag was much higher than the milk.
+I do not think that I received any anomalous results whilst using the Haake concentric cylinder viscometer.
+From the experiment I think that all fluids used were dilatant, so were Non-Newtonian. The shear stress against shear rate graphs showed this clearly. Out of all of the fluids, I think that the milk was the most Newtonian as it had the least complex structure and consisted mainly of water.

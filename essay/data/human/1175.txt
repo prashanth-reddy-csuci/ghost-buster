@@ -1,2 +1,4 @@
 In 1829 Johann Dirichlet published his paper exploring the convergence of trigonometric series. He is well-known for his conditions on functions in order for such series to converge accordingly. In order to make his ultimate claim on the limits of trigonometric series he began by proving the following theorem:
-For a function
+For a function  that is monotonic and continuous for  with , 
+
+.

@@ -1,22 +1,3 @@
-Iron is the most abundant metal on Earth and is essential to the human bodies. It is also a typical The aim of this experiment is to determine the iron percentage in iron tablets, as a dietary supplement with Fe
-(ii)
-The manganate(VII) ion oxidises iron(II) to iron(III) ion.
-2 Fe tablets were weighed accurately. The mass recorded.
-The tablets were transferred and grinded by a pestle and mortar with a little
-The paste was transferred into a 100cm
-All the apparatus used were rinsed with small amount H
-1M H
-The flask was stoppered and shaken well to ensure the solution is well mixed
-Burette was filled with 0.0050M KMnO Note the
-10cm
-The solution was titrated with KMnO
-Addition stopped and tap of the burette was turned off once the Note the
-A rough and further titrations were carried out, until consistent results (Table 1) were obtained - results for 2 titrations agree to within 0.05cm
-At first, the Fe solution turned colourless as it reacts. The end point was the first trace of permanent pink in the solution showing a tiny excess of manganate(VII) ions.
-Tightnesses of the burettes taps vary: the tighter the tip, the slower the run down, the more time consuming of the practical, vice versa.
-The methodology and apparatus used show a fairly high degree of accuracy (with difference of results within
-The main source of error is probably the personal judgement with naked eyes of On the other hand, the consistency of pink colour can be obtained quantitatively by measuring absorbencies of solution in the conical flask after each titration. An accurate photospectrometer set at an appropriate wavelength can be used. It is expected that the higher the absorbance value the higher the pink intensity, thus a positive correlation.
-The second major source of error could be After transfers, the wet surfaces of containers sufficiently mean some loss of iron. Ideally, the number of transfers and apparatus should be kept at minimum. The mortar can be used in weighing as well as grinding iron tablets. The number of transfers is therefore reduced by not using a weighing boat. It is however good to have rinsed the apparatus after transfers.
-It is preferred to vortex the solution of Fe and H A shaking time could also be set. It is important to keep the consistency: A clean dry conical flask should be used for each titration. It is crucial to keep the burette straight, parallel to the clamp stand and perpendicular to the bench, when reading the burette volumes. A piece of white paper can be cut and placed behind the burette of dark purple KMnO
-The Fe tablets are weighed It is good laboratory practice to have rinsed the weighing boat, pestle, mortar and the funnel after each transfer, and then the washings were added to the flask. Other accurate apparatus is used e.g. 100cm
-From 2.4 Calculations and 2.5 Questions (p. 4 & 5), the percentage of iron in iron(II) Sulphate tablets has been estimated as16.3%, which is approximately half of the claimed content (32.5%) by the manufacturer. This practical has helped to further familiarised with the titration techniques.
+Prospective - A 6-Day weighed dietary survey, the 'gold standard' adapted by the health professionals, is recorded individually. A description of each food and its weight in grams are recorded before eaten, within 6 days.
+Retrospective - Data is input into the Foodbase computer software. The intake of energy and nutrients of an individual is then assessed. The report processed is shown below:
+Any measurement of diet will be biased in some way by the measurement process itself, so in practice, there is no entirely objective measures of an individual's food consumption. Since the Foodbase report processed has determined my intake of energy and other nutrients by the 6-day weighed dietary survey, the aim of the experiment has been reached. This again emphasises the importance of a balanced diet.

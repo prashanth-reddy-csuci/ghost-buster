@@ -1,20 +1,21 @@
 A simple strategy to solve the travelling salesman problem would be one which would undoubtedly be undertaken in practice by many 'travelling salesman'. It is a less mathematically based algorithm than those to be discussed later. In summary the strategy simply starts at location 1.Here the travelling salesman chooses the closest location to travel to. At the next location the salesman does the same again ensuring that he never returns to a location he has already visited and that he does not return to 1 before visiting every other location. At the final location he simply returns to location 1.
 The best way to illustrate the strategy is in application to the given distance matrix:
- Look at the row relating to the starting location (location 1). The location closest to location 1 is location 6 at 93 units. Hence start by travelling from location 1 to location 6. Row 1 and column six must now be eliminated as you cannot travel from location 1 again and cannot return to location 6.
- Hence we must consider row 6. The closest location is location 3. Hence the salesman travels from location 6 to location 3. Row 6 and column 3 are now eliminated.
- Hence we must consider row 3. The closest location is location 6, however the salesman has already visited location 6 and this column is therefore eliminated. The second closest location is location1, however the salesman cannot return to location 1 without visiting all the other locations. Hence the salesman travels from location 3 to location 4 as this is the 3 Row 3 and column 4 are now eliminated.
- The only possible locations left to visit are 5 and 2 as every other location has been eliminated. The closest location is location 2. Hence row 4 and column 2 are eliminated.
- Hence he returns to location1.
+Step 1 Consider the distance matrix. Look at the row relating to the starting location (location 1). The location closest to location 1 is location 6 at 93 units. Hence start by travelling from location 1 to location 6. Row 1 and column six must now be eliminated as you cannot travel from location 1 again and cannot return to location 6.
+Step 2 The Travelling Salesman is now at location 6. Hence we must consider row 6. The closest location is location 3. Hence the salesman travels from location 6 to location 3. Row 6 and column 3 are now eliminated.
+Step 3 The Travelling Salesman is now at location 3. Hence we must consider row 3. The closest location is location 6, however the salesman has already visited location 6 and this column is therefore eliminated. The second closest location is location1, however the salesman cannot return to location 1 without visiting all the other locations. Hence the salesman travels from location 3 to location 4 as this is the 3 rd closest location. Row 3 and column 4 are now eliminated.
+Step 4 The Travelling Salesman is now at location 4. The only possible locations left to visit are 5 and 2 as every other location has been eliminated. The closest location is location 2. Hence row 4 and column 2 are eliminated.
+Step 5 From row 2 the only possible option for the Salesman is to travel to location 5 (note this would have been the shortest distance from row 2 anyway).
+Step 6 Once the Travelling Salesman is at location 5 he has visited every location. Hence he returns to location1.
 The path travelled by the salesman using this method to minimise distance is:
 1-6-3-4-2-5-1. The total distance travelled is 93 + 30 + 198 + 209 + 108 + 219 = 857 units.
 See Appendix 1 for branch-and-bound calculations.
 Note:
-c For example, in this instance c Let c
-x
+c ij is the distance from travelling from location i to location j. For example, in this instance c 12 is 113 units. Let c ii = M where M is a very large number (this ensures that the solution does not detail the salesman to go to city i as soon as he leaves city i)
+x ij = 1 if the salesman travels from location i to location j, 0 otherwise.
 This formulation is discussed in question 3. However, the notation is used here.
 Before setting up a spreadsheet model to solve the Travelling Salesman Problem as an integer linear programming problem the problem must be formulated.
-For i Within the spreadsheet model M is set equal to 10,000.
-Define x
+For i  j let c ij = distance from city i to city j and let c ii = M where M is a very large number (this ensures that the solution does not detail the salesman to go to city i as soon as he leaves city i). Within the spreadsheet model M is set equal to 10,000.
+Define x ij = 1 if the salesman travels from location i to location j, 0 otherwise.
 Then the solution to the Travelling Salesman Problem can be found by solving:
 Formulation within a spreadsheet model can be seen on the following page. Solver finds an optimal solution of 813 by the salesman travelling 1-6-3-4-5-2-1. This is the same as the solution obtained from the branch and bound method. Appendix 2 shows a simple example of the model showing that it is correct.
 It is evident that none of the three approaches considered provide an efficient method to solving the Travelling Salesman Problem. The problem first occurred in 1759 from Euler who wanted to move a knight to every position on the chess board exactly once, however the problem first gained fame in a book written by Voigt in 1832. There has been much investigation in Mathematics into how to solve the problem efficiently as well as optimally.

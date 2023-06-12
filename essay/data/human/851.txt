@@ -7,37 +7,37 @@ After determining the sensitivity of the rig, along with the maximum allowed loa
 The cantilever rig used for force measurement is as follows:
 The following equipment is required for the chosen method of force measurement:
 Below is an account of the method taken to construct, test and calibrate the beam-type force sensor.
-The geometrical dimensions of the cantilever, as shown in
-Using the given value of Young's Modulus (210GPa) and the
+The geometrical dimensions of the cantilever, as shown in figure 3 page 6, are measured as follows:
+Using the given value of Young's Modulus (210GPa) and the equation 5, from page 6, the strain produced is calculated in terms of the force applied as:
 Using the above expression, and the given fatigue strength (540MPa), the maximum loading force is given by:
-For the construction of the bridge circuit, the theoretical balance condition has already been discussed in This balance condition is only theoretical due to fluctuations in temperature which will occur as the bridge circuit is in operation. Any increase in temperature will affect the resistance of the bridge.
+For the construction of the bridge circuit, the theoretical balance condition has already been discussed in equation 2 page 5. the resistors chosen for the bridge are both 1000. This balance condition is only theoretical due to fluctuations in temperature which will occur as the bridge circuit is in operation. Any increase in temperature will affect the resistance of the bridge.
 In order to test the designed amplifier circuit, it is connected to the oscilloscope to analyse the output signal. The signal reveals a large amount of noise at low frequencies, which affects the accuracy of the reading. To remedy this, a low pass filter is constructed as detailed in the method section. This has the effect of reducing the noise to a more tolerable level.
 As each washer is added to the cantilever rig, the resulting output voltage is measured. The output voltage is observed to fluctuate as each washer is added, due to the beam oscillating. The cantilever is allowed a few moments to come to rest before the voltage reading is taken. The following table shows the results:
 With the numerical data obtained in the previous section, an analysis can be made to assess the linear range and sensitivity of the system. In order to do so, the output data is plotted vs. the loading force. This is shown graphically below:
-From the linear fitting of the data in From this linear fit, the following deductions can be made: Using
+From the linear fitting of the data in graph.1, the data is shown to follow an approximate straight line. From this linear fit, the following deductions can be made: Using equation 7 page 8, the sensitivity of this system can be determined, as:
 This figure signifies that a change in load of 1N, results in an output fluctuation of 12.5V.
 The linear trend shown provides an overall equation for output voltage against loading force, and is given by:
 ~Eqn. 8
 Where x = the load applied in Newton's
 The accuracy of this equation is best demonstrated by comparing the obtained values with the actual values:
-Table 3 confirms that
+Table 3 confirms that equation 8 above is a reliable model for the output voltage and by taking into account the sources of error in the method, the overall uncertainty in equation 8 is approximately, +/- 0.03V
 Since the output from the force measurement system is analogue, by digitising the signal, further analyses can be made. This is achieved by connecting the output from the amplifier to a 12-bit A/D converter (6023E). The digital signal is then displayed using the LabView computer program.
 The program is setup to analyse the signal at a sample rate of 1000/s, with 1000 samples taken. The following graphs demonstrate the affect of the capacitor in reducing the noise in the signal:
-Evidently by comparison of An analysis of the dynamic behaviour is analysed using LabView, by tapping the end of the cantilever prior to sampling, and determining the time taken for it to stabilise. The following figures show this graphically:
-After the initial disturbance, From this graph it is evident that approximately 20 oscillations occur every second, signifying that the system has a resonant frequency of 20Hz.
+Evidently by comparison of graph 3, and  graph 2, the low pass filter has the effect of dramatically reducing the amount of noise, and therefore improves the reliability of the instrument. An analysis of the dynamic behaviour is analysed using LabView, by tapping the end of the cantilever prior to sampling, and determining the time taken for it to stabilise. The following figures show this graphically:
+After the initial disturbance, graph 4 shows the number of oscillations occurring before the system stabilises. From this graph it is evident that approximately 20 oscillations occur every second, signifying that the system has a resonant frequency of 20Hz.
 The results obtained illustrate that the force measurement system which has been designed, offers an approximate linear trend in the output voltage, in response to a load.
-The resulting output voltage has been shown to follow an approximate linear trend, given by
+The resulting output voltage has been shown to follow an approximate linear trend, given by equation 8 page 14.
 Although the results are satisfactory, there could be improvements made to the method in order to reduce the uncertainty. The ambient temperature for example has not been considered in this report, but may affect the accuracy of the results. The thermal expansion of a material follows the equation:
 ~Eqn. 9
-Therefore, if it is assumed that Lo = the length calculated in Considering this very small increase in length, it is believed that the resultant effect on the strain produced and the maximum loading force will be negligible.
+Therefore, if it is assumed that Lo = the length calculated in figure 3 page 6, then for each degree change in temperature, the length of the cantilever is expected to increase by only 1.628x10 -6m. Considering this very small increase in length, it is believed that the resultant effect on the strain produced and the maximum loading force will be negligible.
 In order to design the bridge circuit, a theoretical balance condition is used to determine the resistances in the bridge. However, these resistances are expected to change as the temperature of the system rises. An effort could be made to turn the circuit on for only a short period of time to reduce the heating effect, and therefore improve accuracy. The amount of noise in the signal also has an affect on the accuracy of the data, but the inclusion of a low pass filter, in the amplifier circuit is sufficient to reduce the noise to a tolerable level.
 A big factor in the errors calculated occurs from the measurements made of the geometrical dimensions of the cantilever. Since only a standard rule was used, the precision of the method was very poor. If a set of Vernier Callipers had been used, and perhaps a Micrometer for the thickness measurement, the error in dimension measurement could be reduced, which would have an effect on the overall accuracy of the force sensor.
 The sensitivity of the system could be improved even further by increasing the number of gauges. For instance, if 2 gauges had been used for each side of the cantilever, then all four resistances in the bridge would be replaced, and this would have the effect of increasing the sensitivity by a factor of two. This arrangement also compensates any variation caused by temperature, axial and Torsional components.
 The sensitivity of the system is dependant primarily on the sensitivity of the actual gauges. By changing the material of the strain gauges, for example to Platinum-Tungsten, the gauge factor would be increased from 2.1-4.0. However, despite the improvement in sensitivity, the relative cost of a platinum gauge would be far too excessive for this type of instrument.
 The resolution is also responsible for reliability in the results. The bit-rate of the A/D converter limits the resolution of the device, and so by increasing the bit-rate the resolution could be improved, so a smaller change in the input can be registered by the program.
 The results obtained illustrate that the force measurement system which has been designed, offers an approximate linear trend in the output voltage to the input load, and is given by the equation:
-The sensitivity of the system is calculated to be
-The force measurement system is found to have a resonant frequency of approximately
+The sensitivity of the system is calculated to be 12.5V/N, signifying that a change in load of 1 Newton will result in an output voltage fluctuation of 12.5 volts.
+The force measurement system is found to have a resonant frequency of approximately 20Hz.
 There are many factors which are affecting the uncertainty in the results obtained, such as noise, temperature fluctuation, and gauge sensitivity.
 The effects of fluctuations in ambient temperature are shown to be negligible in their affect on the force measurement, due to the only small temperature change which is expected.
 It is believed that the strain gauge material could be upgraded to improve the gauge sensitivity, but the cost of such an improvement would not be economically viable. The number of active gauges in the bridge circuit could also be increased to four, as this arrangement is believed to compensate for any variation caused by temperature, axial and Torsional components.

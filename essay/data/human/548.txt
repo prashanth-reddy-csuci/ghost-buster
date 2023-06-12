@@ -2,24 +2,61 @@ The objective of this report is to formulate a model to determine the variables 
 Set the sub-sample of 2004 students as the reference category and define 2 dummy variables D02 and D03.
 The regression model now is:
 Regression models for performances of year 2002, 2003 and 2004 students respectively:
-Using OLS, we get
+Using OLS, we get:
 Comparison of the three regression equations:
 The intercept in 2004, 41.71, is much higher than any other year, which shows that even if year 2004 students do not go for lecture, they could obtain an average higher mark than previous years' student. This is possibly due to the same reason as mentioned in Q3.
 Class attendance in 2003 could make a bigger impact on the exam performance when compared to it in 2002 and 2004
-Students' ability in 2002 could make the biggest impact on exam performance when compared with 2003 and 2004.
+Students' ability in 2002 could make the biggest impact on exam performance when compared with 2003 and 2004. This is in consistence with the finding that attendance in 2002 had the least impact on exam performance among 3 years, as higher ability students often find what is done in class can also be achieved on their own, so the attendance of class had less impact on their exam performance.
 Number of A-grades at A-level seems to have almost five times as much impact on exam performance in 2002 and 2003 while compared to 2004. Possible reason is the same as in the first point. Other reasons can be students' qualities are similar in 2004 with same number of A-levels so one's A-level performance is less influential.
-The restricted model is:
+The restricted model is: QTMARK =
 The unrestricted model is:
-F-test value Therefore, we fail to reject
+H0:
+
+
+
+
+=
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+
+
+=
+
+
+
+
+
+
+
+
+
+=
+
+
+=
+H1: Not all the slope coefficients in the sub-samples are constant
+F-test value is 1.91, higher than the critical value at 10% but lower than it at 1%. Therefore, we fail to reject H0 at 1% significance level and conclude that the slope coefficients are constant in the sub-samples.
 The steps to formulate the model are:
-Using correlation matrix
-Using two-tailed t-test Due to Therefore, I decided to remain only one of them instead of two. With a t-value of 0.35 and 0.70 respectively, TOPB and ATTL are dropped.
+Using correlation matrix to pick up the quantitative variables which have high correlations with QTMARK. They are ABILITY(0.30), ALEVELSA(0.13), ATTC(0.30), ATTL (0.40), EXPALC (-0.31) and TOPB (-0.29).
+Using two-tailed t-test, coefficients for ABILITY, ALEVELSA, ATTTC and EXPALC are statistically significant. Due to multi-collinearity between ATTL and ATTC mentioned in Q1, the standard error of ATTL has increased, thus its t-statistic is not significant. Therefore, I decided to remain only one of them instead of two. With a t-value of 0.35 and 0.70 respectively, TOPB and ATTL are dropped.
 Next, considering all the answers to previous questions, I decided to include the variable ATTR even though it did not show a significant correlation with QTMARK in our correlation matrix. Its significance on QTMARK is already tested in Q2b). Moreover as seen also in Q2b), variable HRSQT have significant coefficient and outstanding t-statistics. Hence both variables are included.
 From the regression, I could see that ATTR and HRSQT both have an outstanding t-value of 3.12, 1.70 respectively. Furthermore, the R-squared value has increase from 0.255 to 0.273 which means the new model could explain more variation in QTMARK. This further confirmed the inclusion of these two variables as explanatory variables in the model.
-Based on the conclusion I have got from Q4 and Q5, I Therefore, I need to add dummy variables D02 and D03 to the final model.
-Based on my comparison in Q1 between different groups
-From the regression result DMPASS will still be included as I believe This is consistent with my finding in Q1, that s Moreover, the coefficient of DMPASS is 1.57, among the highest coefficients. In addition, Due to collinearity between DMAPSS and DMATHA, I also expect the coefficient of DMAPSS to increase as I drop DMATHA.
-Regress QTMARK on the selected variables now I am now satisfied with the variables I have considered for the model: ABILITY, ALEVELSA, ATTC, EXPALC, ATTR, HRSQT, D02, D03, DCOURSE and DMPASS.
-The The coefficient of DMAPSS also increases, as expected, from 1.57 to 2.12.
-I think we may better specify the model by considering these variables but in different functional forms. I begin with taking the logs of all the quantitative variables (not dummy variables) R-square has decreased from 0.3462 to 0.2739, which means log function of quantitative variables could not explain more variations in QTMARK.
+Based on the conclusion I have got from Q4 and Q5, I deduced that intercepts should be allowed to vary for different sub-groups, but their slope coefficients are constant. Therefore, I need to add dummy variables D02 and D03 to the final model.
+Based on my comparison in Q1 between different groups, we add another three dummy variables, DCOURSE, DMPASS and DMATHA, all of which presented a significant impact on QTMARK in my initial analysis on the data.
+From the regression result, using the t-tests for the coefficients of the variables, I have decided to drop variable DMATHA, as it is not statistically significant with t-value of 0.52. DMPASS will still be included as I believe a high level of mathematics such as an A grade at A-Levels is necessary in order for a student to perform well in QT, but student must pass A-Level mathematics to obtain the basic quantitative skills. This is consistent with my finding in Q1, that s tudents who had A-level Mathematics or Statistics achieved on average 6 marks higher than students who did not. Moreover, the coefficient of DMPASS is 1.57, among the highest coefficients. In addition, Due to collinearity between DMAPSS and DMATHA, I also expect the coefficient of DMAPSS to increase as I drop DMATHA.
+Regress QTMARK on the selected variables now. I am now satisfied with the variables I have considered for the model: ABILITY, ALEVELSA, ATTC, EXPALC, ATTR, HRSQT, D02, D03, DCOURSE and DMPASS.
+The R-squared valued now stands at 0.3462, which is my best figure so far. The coefficient of DMAPSS also increases, as expected, from 1.57 to 2.12.
+I think we may better specify the model by considering these variables but in different functional forms. I begin with taking the logs of all the quantitative variables (not dummy variables). R-square has decreased from 0.3462 to 0.2739, which means log function of quantitative variables could not explain more variations in QTMARK.
 Now I try two different functional forms, one is squaring all the quantitative variables; the other one is taking the square-root of all the quantitative variables. In both cases, R-square decreases. Hence, given the trial and error effort, I am concluding to the best of my ability, that the optimal function should be of a linear form. My best effort has resulted in the following model specification:

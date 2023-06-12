@@ -1,20 +1,8 @@
-Antioxidant enzymes and dietary antioxidants play an important role in the body by neutralising free radicals that damage cells. Free radicals are also involved in some chronic conditions including cancer and heart disease.
-This study determined the antioxidant capacity of a range of fruit juices and teas and coffee using the ferric reducing antioxidant power (FRAP) assay.
-Dietary antioxidant found in fruit and vegetables include vitamin C, carotenoids,
-Vitamin E, flavonoids and polyphenols. (Geissler and Powers, 2005)
-An important reaction took place in order to determine the antioxidant potential of the samples. The ferric-tripyridyltriazine complex (Fe Grapefruit had the lowest absorbance value of 0.9105 so had less antioxidant capacity. Various teas and coffees tested had larger absorbance and FRAP values and therefore a greater antioxidant capacity than the fruit juices tested.
-Figure 1 showed positive correlation between the concentration of vitamin C and absorbance value. This correlation suggested that the higher the concentration of Vitamin C, the greater the antioxidant potential. However vitamin C 1500
-The FRAP values had a wide range from vitamin C 100
-10 mM solution in 50 ml of 40 mM HCl
-Actual weight of TPTZ used: 0.1557 g
-Vitamin C Standard curve - see graph in appendix
-Ascorbic acid: MW = 176.13 g
-Standard solution 100 mM: 1.761 g / 100 ml (100 mM)
-A593nm for 1000
-Example:
-The results of this study showed that green tea had the greatest antioxidant capacity. This was because green tea contained many flavonoids that possessed the antioxidant properties. Green tea had the largest absorbance value at 593 nm of 1.8950 and absorbance was used to measure colour intensity and colour intensity was proportional to antioxidant capacity.
-As the general trend for vitamin C was an increase in antioxidant capacity with increasing concentration, this could be used to compare the fruit juices and teas and coffees tested. Only the more concentrated vitamin C samples of 1500 and 2000
-The antioxidant capacity was important to investigate as the antioxidants quenched free radicals that reduce damage to the body.
-The reproducibility of the results is achievable as there are no difficult stages in the method. However absorbance values need to be repeated a number of times in this experiment because values vary for the same sample. This can be overcome by calculating an average of the absorbance readings.
-The literature values were difficult to obtain to check results were in the right order of magnitude. However a study on ascorbic acid concentration and FRAP assay suggested FRAP values of between 273 - 1270 Most of the vitamin C values obtained were within this range; however the higher concentrations of vitamin C had a higher FRAP value of 2041.86 These absorbance values should have been repeated.
-The study provides information on antioxidant capacity of different foods and beverages and this could be used to aid consumers when selecting a diet where they want to increase there antioxidants.
+1) Colony counts /g or colony forming units (cfu) /g are a better indication of colony counts rather than total viable counts /g. This is because it is sometimes not possible to be certain that each colony came from an individual colony. In this case, it is best to refer to the colonies as colony forming unit/g.
+2) It was impossible to calculate the lowest level of contamination (number of bacteria per gram) of mince detected by spread plating 0.1 ml of the 10 -1 homogenate onto PCA because the number of colonies were too numerous to count. Reasons for why the colonies were too numerous to count are explained in the discussion.
+However the lowest level of contamination can be calculation on the 10 -5 dilution plate.
+3) Advantages and disadvantages of the spread plate and pour plate methods for estimating total aerobic colony counts.
+4) The factors that affect the precision of the colony count are:-
+5) Coliforms are gram negative, facultative rods that ferment lactose with gas formation. The coliforms include, Escherichia, Klebsiella, Enterobacter and Citrobacter.
+Enterobacteriaceae is a family that contains gram negative rods, which are non motile and are facultative anaerobes and have simple nutritional requirements. The Enterobacteriaceae family can be divided into two groups, based on their formation properties. The genera in the family include Escherichia, Klebsiella and Enterobacter.
+6) Presumptive counts are found on the probability or assumed number of organisms. Conformation that the colonies on the VRBGA are members of the Enterobacteriaceae is shown by pink/purple colonies with halos. The purple colonies are caused by the fermentation of lactose, which cause the bile salts in the VRBGA to precipitate out. There is also production of gas during the fermentation which displaces the LSTB Durham tube and the gas is visible as a bubble at the top of the inverted tube.

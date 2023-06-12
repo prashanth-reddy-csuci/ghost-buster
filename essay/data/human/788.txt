@@ -1,5 +1,8 @@
 The Flexi Connector component is expected to reach its full capacity of 75 million units in 1994, the expected demand is estimated to rise by 10% per year
 Three alternative options are presented and analysed.
+Option 1 - involves expansion of the Santa Clara plant, this would lead to the NPV of -$1,143,242 after 5 years using 20% discount rate, $4,549,094 using 10% discount rate and $40,915,000 after 10 years using 10% rate.
+Option 2 - involves using an existing plant in Waltham, which yields the MPV of $6,418,086 after 5 years with 20%, $11,297,189 with 10% and $40,189,842 after 10 years with 10%
+Option 3 - involves building a new plant in Ireland, this gives NPV of -$29,810,367 after 5 years with 20%, -$25,996,435 with 10% and $62,068,509 using 10% discount rate.
 Based on the analysis, the detailed plan should be established for Waltham and Ireland projects since Waltham produces highest NPV after 5 years and Ireland the highest NPV after 10 years
 With a detailed plan, there is a need to consider other factors apart from NPV as well, such as labour availability at the area, accessiveness of materials, or other methods such as IRR and Payback
 This report has been based on assumptions that there is no inventory policy, and thus the production every year corresponds exactly to the demand, up to a point when demand reaches the maximum production capacity, from this point onwards the units of sales are equal to the maximum capacity. It also assumes that all cash flows occur at the end of the respective year. Additional assumptions are stated in the appendix.
@@ -16,8 +19,8 @@ This approach finds the present value of expected net cash flows of an investmen
 NPV is being most often recommended as the soundest technique for assessing alternative investment opportunities as it:
 - takes into account the time value of the money (the discount factor is based on the opportunity cost of finance)
 - includes all of the relevant cash flows irrespective of when they are expected to occur
-- addresses the objectives of the business: to maximise shareholders
-However, like other investment appraisal methods, it has
+- addresses the objectives of the business: to maximise shareholders wealth
+However, like other investment appraisal methods, it has limitations such as:
 It can be difficult to identify an appropriate discount rate, which is crucial for NPV, i.e. if the discount factor is stated too high, the NPV may come out unnecessarily negative, or if the discount rate is stated too low, all risk factors may not be included and the project maybe over appraised.
 Moreover, as the solution comes in dollars, the NPV does not show the percentage rate of return. I.e. A particular project may seem to give the highest NPV, but the percentage of return, in comparison of the capital initiated, may be lower than other projects.
 Moreover, in order to calculated NPV, cash flows are usually assumed to occur at the end of a year, which in practice is over simplistic. NPV also does not show the demand trend, whether it as downward or upward.

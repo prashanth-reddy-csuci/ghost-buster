@@ -1,8 +1,9 @@
 The program created should help a company to keep track of their computer equipment. The company wants to tract the following information about each item:
 To describe a program, as its name indicates it, a basic algorithm is a sort of very simplified version of the complete program. Each step of the algorithm may also contain some "sub-steps" or sub-sub-sub steps that need to be explained and refined. For this program, these are the steps that needed to be "refined":
- These are:
+Adding an item: in order to add an item in the database, the program will need to carry out some information checking. These are:
 ID must not be different from all the other current ID's and it must be in range 1000 to 1999 to be accepted. If not, error message should appear and allow user to re-enter.
 Room No has to be in range 100-399.
 Value of item has to be higher or equal to 0.
- The program has to loop until the ID entered by the user matches one of the record. Once the ID is accepted, it will delete the record that has the same ID. Finding an item works exactly the same way, except that it doesn't need to loop. If the ID does not match a record, the program should go back to the menu. Finally, for those two options, the program should use a 'sentinel search'.
+Removing &amp; Finding an item: Again, when entering the ID to remove an item, the program has to check that information entered is valid. The program has to loop until the ID entered by the user matches one of the record. Once the ID is accepted, it will delete the record that has the same ID. Finding an item works exactly the same way, except that it doesn't need to loop. If the ID does not match a record, the program should go back to the menu. Finally, for those two options, the program should use a 'sentinel search'.
+Depreciate all the items value: using a for loop, the program should use the following formula to depreciate the value of each item: Value := (Value*10)/70
 To solve the problem once and for all, all I had to do is to modify the wrong piece of information from the Delphi source code. I could then compile the program and run it again to check that it was working as expected. Finally, you will also notice that the program matches perfectly the program specification and design that was planned.

@@ -1,26 +1,32 @@
 An experiment was conducted to investigate the performance characteristics of a single stage centrifugal pump at two different speed settings, which were 2000 RPM and 3000 RPM. Nineteen sets of measured suction and delivery pressure, force, pump speed and manometer readings were obtained. Total head, input power, discharge, output power and efficiency were calculated with the fundamental equations. Three non-dimensional groups were introduced and compared with each other. Efficiency, input power and total head were compared with discharge. The relationship between the total head and the discharge were not affected by pump speed. As the discharge increased, the input power increased faster with higher pump speed. And higher pump speed made the centrifugal pump works much more efficient. The errors associated with the measured values may have been caused by improperly balancing the spring. And error propagation was interpreted like that the dissipated energy was not considered within the suction and delivery valves when the readings were made from pressure meters.
 The performance characteristics of a single stage centrifugal pump can be investigated by measuring the suction and delivery pressure, the force of the spring balance, and the venturi meter manometer. The suction and delivery pressure provides a means of measuring total head. The force and the manometer are used to estimate input power and output power respectively. This application was explored through achieving one objective which was the efficiency, input power and total head of a single stage centrifugal pump at two different speed settings, which were 2000 and 3000 RPM.
 The relationship of total head, suction and delivery pressure is
-And the total pressure head in
-Here
+(1)
+And the total pressure head in  is represented as below
+(2)
+Here  depends on the total head , the mass density of water  and the gravitational constant g.
 The power input equation
+(3)
 yields the relationship between torque and angular speed of the pump. In Eq.3, the torque is determined by the product of force and torque arm length.
 The calibration of venturi meter discharge is represented as below
-Here the discharge
+(4)
+Here the discharge  depends on calibration constant c, which is written on the machine, and manometer reading in mm mercury h.
 The power output equation
-yields the relationship between the total head
+(5)
+yields the relationship between the total head  and discharge .
 Determining the efficiency of the single centrifugal pump by using the following equation
-Here
+(6)
+Here  and  represent the power output and power input respectively.
 The apparatus was manufactured by PLINT Limited, it consisted of a suction valve, a discharge valve, a suction pressure meter and a delivery pressure meter. A pump speed meter showed the angular velocity of the centrifugal pump in RPM, it was adjustable. A spring was used to balance the torque arm with a fixed pointer, then, force can be measured. A venturi meter manometer, which was located on the right of the apparatus, was used to measure the discharge.
 The following procedure was used to obtain the basic experiment data.
 The basic data collected, it was tabulated as Table 1.
-Eq.1 and Eq.2 were used to calculate total head, discharge was achieved by Eq.4, hence, power input and power output can be worked out with Eq.3 and Eq.5 respectively, they leaded to calculate the efficiency of the pump. The full results appeared in Table 2 in the Appendix 1. Here, the one with 0.68
+Eq.1 and Eq.2 were used to calculate total head, discharge was achieved by Eq.4, hence, power input and power output can be worked out with Eq.3 and Eq.5 respectively, they leaded to calculate the efficiency of the pump. The full results appeared in Table 2 in the Appendix 1. Here, the one with 0.68 bar delivery pressure and 3000 RPM pump speed was chosen for an example.
 The measured values were:
-Total head
-Therefore, the total pressure head in
-And power input was calculated with Eq.3 using the measured values of F and
+Total head  was calculated with Eq.1.
+Therefore, the total pressure head in  was calculated with Eq.2.
+And power input was calculated with Eq.3 using the measured values of F and .
 Discharge was calculated with Eq.4.
-And power output was calculated with Eq.5 using the calculated values of
+And power output was calculated with Eq.5 using the calculated values of  and Q.
 With power input and power output, the efficiency of the pump was calculated by Eq.6.
 In order to estimate non-dimensional results, three non-dimensional groups were introduced.
 Firstly
@@ -28,9 +34,9 @@ Secondly
 Thirdly
 The relationship between input power and discharge, efficiency and discharge, total head and discharge were shown in Figure 1 in the Appendix 2, which represented the pump performance characteristics.
 And the non-dimensional groups were shown in Figure 2 in the Appendix 2.
-Figure 1 in the Appendix 2 showed the performance characteristics of the centrifugal pump. Firstly, the total head of the pump decreased as the discharge increased, whatever the pump frequency was 2000 RPM or 3000 RPM. The curves of the relationship between total head and discharge were identical between 2000 RPM and 3000 RPM, but the total head of 3000 RPM was much higher than the one with 2000 RPM. Secondly, the efficiency was fluctuant as the discharge increased. Whereas, the efficiency was direct proportional to the discharge for both speed settings when the discharge was less than And for the pump speed of 2000 RPM, the efficiency peaked when the discharge was about The highest value of efficiency for 3000 RPM was Overall, the higher speed pump worked more efficient than lower speed pump. Thirdly, input power was direct proportional to the discharge for both speed settings, but the gradient of the relationship with 3000 RPM was greater than the one with 2000 RPM, it indicated that the input power increased faster with higher pump speed.
-Figure 2 in the Appendix 2 showed the relationship among the non-dimensional groups. Firstly, the non-dimensional group
-From Table 2 in the Appendix 1, two groups of manometer reading were minus, and it caused that some parameters can not be achieved. Two groups of manometer reading were really small, which was only Therefore, two or three points were far away from the graphs that showed in both Figure 1 and Figure 2 in the Appendix 2, but they were ignored during drawing. A likely explanation was that the level of the spring was not properly balanced during the experiment.
+Figure 1 in the Appendix 2 showed the performance characteristics of the centrifugal pump. Firstly, the total head of the pump decreased as the discharge increased, whatever the pump frequency was 2000 RPM or 3000 RPM. The curves of the relationship between total head and discharge were identical between 2000 RPM and 3000 RPM, but the total head of 3000 RPM was much higher than the one with 2000 RPM. Secondly, the efficiency was fluctuant as the discharge increased. Whereas, the efficiency was direct proportional to the discharge for both speed settings when the discharge was less than 0.5 l/s. And for the pump speed of 2000 RPM, the efficiency peaked when the discharge was about 1 l/s, for the pump speed of 3000 RPM, the efficiency peaked when the discharge was about 0.9 l/s. The highest value of efficiency for 3000 RPM was 64%, and the peak efficiency for 2000 RPM was 18 percentages less, which was 46%. Overall, the higher speed pump worked more efficient than lower speed pump. Thirdly, input power was direct proportional to the discharge for both speed settings, but the gradient of the relationship with 3000 RPM was greater than the one with 2000 RPM, it indicated that the input power increased faster with higher pump speed.
+Figure 2 in the Appendix 2 showed the relationship among the non-dimensional groups. Firstly, the non-dimensional group  was inverse proportional to the non-dimensional group  for both speed settings, and those two linear lines were parallel, but the one with 3000 RPM was 5 units greater than the one with 2000 RPM. Secondly, the non-dimensional group  decreased as the non-dimensional group  increased, the relationship was a curve, those two curves of 3000 RPM and 2000 RPM were identical, but the non-dimensional group  was greater with higher pump speed.
+From Table 2 in the Appendix 1, two groups of manometer reading were minus, and it caused that some parameters can not be achieved. Two groups of manometer reading were really small, which was only 1 mm Hg, and it caused that some parameters were inaccurate. Therefore, two or three points were far away from the graphs that showed in both Figure 1 and Figure 2 in the Appendix 2, but they were ignored during drawing. A likely explanation was that the level of the spring was not properly balanced during the experiment.
 Standard error propagation methods showed that measured values of suction and delivery pressure were not accurately the total pressure needed in the fundamental calculation, because there was friction in the suction and delivery valve, and dissipated energy was not considered when the suction and delivery pressure were read from pressure meters.
 The experiment yielded the following conclusions:
 The efficiency of a single stage centrifugal pump at high pump speed (3000 RPM) is better than it at low pump speed (2000 RPM).

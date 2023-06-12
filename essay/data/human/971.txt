@@ -6,21 +6,27 @@ This analysis will examine assumptions that can be used to model the bipedal gai
 People have compact bodies; legs are massless.
 Gait choice is based on energy optimisation.
 Energy cost muscle work.
-Treat the body as a point mass
+Treat the body as a point mass m at a position (x,y) at a time t (figure 2).
 Assume no dependence on elastic storage; assume no springs (tendons).
-Stance phase is when at most one foot can be in contact with the ground at a time (
-Flight phase is when neither leg touches the ground (
+Stance phase is when at most one foot can be in contact with the ground at a time (figure 3).
+Flight phase is when neither leg touches the ground (figure 3).
 The left and right legs have identical force and length.
 A single step is defined by one stance phase and one flight phase. Thus running would consist of a short stance phase, whilst walking would have a flight phase of zero duration.
-A gait is characterized by the position and velocity of the body at the start of a stance phase relative to the stance foot, the step period, and F(t); the force along the leg (
-Resolving forces vertically and horizontally, Newton's Law gives, for stance (i.e. when at least one foot is in contact with the ground) with duration
+A gait is characterized by the position and velocity of the body at the start of a stance phase relative to the stance foot, the step period, and F(t); the force along the leg (figure 4).
+Resolving forces vertically and horizontally, Newton's Law gives, for stance (i.e. when at least one foot is in contact with the ground) with duration t
+s,
 where
-Time The initial conditions are At
-For given Now mechanical work is given by d
-where []+ is non-zero only for positive values, i.e. [ This problem cannot be solved by elementary methods since The resulting solution (Figure 6) shows that inverted pendulum walking is the preferred gait for low speeds and running is preferred at high speeds, as expected.
-According to the article, real biological legs approximately simulate an elastic spring during running. Define Then
- Since Solving this gives,
-Now, given
+Time t = 0 is the beginning of a stance phase with foot-contact point x
+c = 0. The initial conditions are , , , and . At , periodicity requires that , ,  and .
+For given l
+max, d and v, we need to find the optimal strategy  that minimizes work. Now mechanical work is given by d W = Fd l, giving effective cost:
+.
+where []+ is non-zero only for positive values, i.e. [p]+ = p if p &gt; 0 and [p]+ = 0 if p &lt; 0. This problem cannot be solved by elementary methods since l depends on x, y and t, but can be solved using numerical methods (Srinivasan and Ruina, Nature 439). The resulting solution (Figure 6) shows that inverted pendulum walking is the preferred gait for low speeds and running is preferred at high speeds, as expected.
+According to the article, real biological legs approximately simulate an elastic spring during running. Define e to be the extension of a leg. Then e can be modelled as a simple harmonic oscillator:
+, with a frequency . Since k and m are constant, this is independent of e. Solving this gives,
+Now, given l = l
+0 at t = 0,
+.
 The biped gait can also be linked to the quadruped gait. While the pronk is similar to standing in terms of leg movement, the gaits with a single line of symmetry can be modelled to the biped gait. Imagine two bipeds of equal mass and height moving alongside each other at constant distance. Pair the legs of the quadruped that are 0.5, i.e. half a phase out. These are the legs of the bipeds. By taking the average of their leg positions, we can find the position of the centre of mass that we need to model the quadruped to the biped.
 We can model the transverse gallop, the rotary gallop, and the walk in the same way, but the two 'bipeds' would be moving out of sync with each other.
 The canter, on the other hand, is more difficult as the legs move in unequal periods.

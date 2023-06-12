@@ -13,8 +13,8 @@ Ductility is the ability of a material to sustain large amounts of plastic defor
 Strength is shown as the height of the curve on the graph, higher is stronger.
 Stiffness can be shown as the steepness of the elastic line on the graph, steeper is stiffer.
 The calculations that will need to be used are:
-Stress = load/area
-Strain = change in length/original length
+Stress = load/area  = l/A
+Strain = change in length/original length  = L/L
 Obtain a mean diameter for the specimen by measuring the diameter at three different points along the specimen and taking the average
 Obtain a gauge length by measuring the thinner part of the specimen
 When program returns to start unlock the bottom grips

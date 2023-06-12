@@ -6,7 +6,7 @@ By the Tensometer Type W Testing Machine, six force-extension graphs were obtain
 P.S. The scale of the force is 2.5KN; the scale of extension is 16:1.
 (1). Carbon steel AN, 0.1% C Normalised, 900
 (2). Carbon steel N, 0.8% C, Normalised, 830
-Analysis the measurements that showed in the last part, values of the yield stress (
+Analysis the measurements that showed in the last part, values of the yield stress (), tensile strength () and ductility () for each of these two specimens could be worked out.
 In terms of Carbon steel AN, applying equation 2.5.
 Applying equation 2.6
 Applying equation 2.8

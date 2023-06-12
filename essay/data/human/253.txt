@@ -14,30 +14,31 @@ Finally, it should be noted that the imposition of direct, personal liability on
 Given the advantages and disadvantages of the various means of compensation, the 'conclusions'of the Pearson Commission 24 were to be expected. Yet there was some disappointment at its failure to respond to the popularity of New Zealand's extra-legal 'No-Fault' compensation scheme. 25
 Certainly, there are valid criticisms of vicarious liability. There is a need to clarify its scope and to acknowledge that 'policy choices are being made all the time.' 26 If we are to avoid a US-style litigation explosion, there is also a need to at least maintain, if not increase, the availability of extra-legal compensation. However, on balance, vicarious liability is the best compromise as it finds the middle ground between individualism and socialism. It derives compensation from as close to the tortfeasor as is
 feasible, redistributing costs within the sphere of those who freely choose to engage with the business which generated the harm.
-1 N.H.V. Rogers,
-2 Hepple, Howarth & Matthews,
-3 [1862] 1 H&C 526, per Wiles J
-4
+1 N.H.V. Rogers, The Law of Tort (2 nd edn., 1994), Sweet &amp; Maxwell, at p30
+2 Hepple, Howarth &amp; Matthews, Tort: Cases and Materials (5 th edn., 2000), Butterworths, at p1017
+3 Limpus v London General Omnibus Co. [1862] 1 H&amp;C 526, per Wiles J
+4 Hamilton v Farmers [1953] 3 DLR 382
 5 op cit, n1, at pp30-40
-6 J.G. Fleming,
+6 J.G. Fleming, The Law of Torts (9 th edn., 1998), LBA Information Services, at p411
 source.
-7 c.f Glanville Williams (1951) 4 CLP 137; Richard Posner,
+7 c.f Glanville Williams (1951) 4 CLP 137; Richard Posner, The Economics of Justice (1981), Harvard University Press
 8 op cit, n1, at p32
 9 John Keeler, 'Thinking Through the Unthinkable: Collective Responsibilities in Personal Injury Law', Common Law World Review, 2001, LexisNexis
-10
-11 Civil Liability (Contribution) Act 1978 e.g
+10 Joel v Morison [1834] 6 C&amp;P 501; General Engineering Services v Kingston and St Andrew Corpn [1988] 3 All ER 867
+11 Civil Liability (Contribution) Act 1978 e.g Lister v Romford Ice and Cold Storage Co. Ltd [1957] AC 555
 12 op cit, n2
 13 op cit, n1, at p32
-14 e.g
-15 e.g
-16 e.g
-17 e.g
-18 c.f Peter Cane,
-19 e.g
+14 e.g Compton v McClure [1975] ICR 378
+15 e.g Rose v Plenty [1976] 1 All ER 97
+16 e.g Racz v Home Office [1994] 2 AC 45
+17 e.g Mersey Docks and Harbour Board v Coggins and Griffith (Liverpool) [1947] AC 4
+18 c.f Peter Cane, Atiyah's Accident's, Compensation and the Law (6 th edn., 1999), Butterworths, at p190
+19 e.g Lister v Hesley Hall Ltd [2002] 1 AC 215
 20 op cit, n16, at p189
-21 c.f P.S. Atiyah,
-22 c.f
-23 e.g
+21 c.f P.S. Atiyah, The Damages Lottery (1997), Hart Publishing
+22 c.f Broom v Morgan [1953] 1 QB 597; Elliott v Bickerstaff [1999] 48 NSWLR 214
+23 e.g Barrett v Enfield London Borough Council [1999] 3 All ER 193 - local authorities
+Waters v Metropolitan Police Comr [2000] 1 WLR 1607 - police
 24 Royal Commission on Civil Liability and Compensation for Personal Injury, Cmnd 7054, 1978: recommended retention of the 'mixed system' of accident compensation from tort law, social security and insurance.
 25 Appendix
-26 B. Markesinis & S. Deakin,
+26 B. Markesinis &amp; S. Deakin, Tort Law (4 th edn., 1999), Oxford University Press

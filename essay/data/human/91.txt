@@ -1,28 +1,35 @@
 The objective of this exercise is to find, by experimental means, the moments of inertia of three steel discs. These values will be compared to those found using a known theoretical relationship. Estimates of errors incurred (by simplifications or otherwise) shall be made and their effects described and accounted for.
 The method used involves a falling mass turning an axle by unravelling a string as it descends. The torque generated shall be applied to the disc, which starts with zero angular velocity and acceleration. The falling mass will be timed on its journey over a fixed distance. With measurements of the time taken, distance fallen, radii of discs and applied torque, the moment of inertia of each discs can be calculated.
 The main conclusions drawn from this experiment will refer to the moments of inertia of the discs and the accuracy of those results. Their accuracy will be evaluated by comparing experimental results to theoretically derived values, and after scrutiny of the errors incurred.
-There are two strands to the purpose of the experiment. They are, firstly, to understand how the linear and rotational versions of Newton's second law relate and, secondly, to gain experimental experience about the 2
+There are two strands to the purpose of the experiment. They are, firstly, to understand how the linear and rotational versions of Newton's second law relate and, secondly, to gain experimental experience about the 2 nd moment of mass.
 The objectives of the experiment are;
 Consideration will be given to the accuracy of the quantities measured following objective one, and the impact errors have on the moment of inertia calculated.
 The conclusions drawn will refer to the moments of inertia calculated from experimental results and the accuracy of those results in comparison to those calculated using mechanics theory.
 The illustration left shows the steel disc and falling mass arrangement with the quantities that are important in the experiment.
-From basic motion equations
+From basic motion equations 1:
+(1)
 (where v is velocity and is angular speed)
 Differentiating with respect to time gives
 (where is angular acceleration)
 Therefore
+(2)
 Now using the constant acceleration equation
 it can be shown that with zero initial velocity
+(3)
 Newton's second law states that
 This law in angular terms converts to
 (where T is torque, I is inertia and angular acceleration - 'a' from the diagram)
 On inspection of the diagram, it can be seen that
 and therefore, using (2)
+(4)
 Using (3) in (4) gives
 hence
 Now, given that the mass 'M' in the diagram falls much more slowly than it would do purely under the force of gravity, a good approximation of mg is
+(5)
 Rearrange (5) to give
+(6)
 Using (6) a good approximation for the moment of inertia of each of the discs can be obtained. The theoretical formula this experimental approximation will be compared with is
+(7)2
 Where M is the mass of the disc and R is its radius.
 With this knowledge it is possible to devise a method to gather experimental data.
 The experiment showed the discs to have moments of inertia:

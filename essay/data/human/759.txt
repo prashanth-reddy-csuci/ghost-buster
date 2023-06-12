@@ -13,4 +13,4 @@ The same procedure was followed to obtain the coefficient of friction of the oth
 When it was 8.5
 When it was 8.0
 When it was 7.5
-Since the coefficient of friction should lie between the range And since as mentioned in the in the briefing sheet the value is approximately 0.3 to one significant figure, therefore the value is accurate.
+Since the coefficient of friction should lie between the range  this value is reasonable. And since as mentioned in the in the briefing sheet the value is approximately 0.3 to one significant figure, therefore the value is accurate.

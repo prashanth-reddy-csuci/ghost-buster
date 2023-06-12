@@ -1,4 +1,4 @@
-In addition silicon is cubic and covalent rather than ionic and non-centro symmetric. Hence piezoelectric materials such as crystalline quartz which have charge asymmetry and hence the anisotropic characteristics are used as piezoelectric materials.
+Solution 4.1 Silicon is not used as piezoelectric material because in order to translate deformation into an electrical signal using piezoelectric effects we need a thin film material. In addition silicon is cubic and covalent rather than ionic and non-centro symmetric. Hence piezoelectric materials such as crystalline quartz which have charge asymmetry and hence the anisotropic characteristics are used as piezoelectric materials.
 The problems that may arise from their application in real sensors are as follows
 Piezoelectrics are not good dielectrics. In fact piezoelectric materials are leaky. In other words charge placed on a pair of electrodes gradually leaks away. Hence there is a time constant for the retention of a voltage on the piezoelectric after the application of a force. This time constant depends on the capacitance of the element, and the leakage resistance. As a result they cannot be used to measure static quantities such as weight.
 Materials such as PZT ceramics have sensitivity that is at least two magnitudes higher than single crystal materials. However their high sensitivity goes hand in hand with lack of long term stability. Hence their application is restricted to less precise measurements.
@@ -21,6 +21,7 @@ Microgyrometers: It used to measure the change in orientation of an object. It w
 The limitations of microgyrometers are
 The bandwidth is very narrow
 There are no MEMS bearing so friction force is high
+Solution 5.1 The parameters necessary for the design of SH-Saw device are as follows:
 The fabrication process
 Mask preparation- the IDT structures are written on a positive resist material deposited with a thin a layer of chromium. The resist is then developed and the chromium is etched leaving behind the required IDT structures.
 Wafer preparation- this is an important step which involves the cleaning of the quartz wafer. This is done to obtain good adhesion and a uniform coating of the metallic film used in the making of IDT's.

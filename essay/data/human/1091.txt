@@ -1,4 +1,4 @@
-Hyperfine interactions within the nuclei of Magnetite [Fe Zeeman Splitting and Isomer and Quadrupole shifting was observed in the Magnetite and Barium Ferrite samples. It was determined that both sources produced two spectra from their respective A and B sites with Hyperfine fields; Quadrupolar shifts were observed to be minor contributors to the overall spectra.
-This experiment made use of a 10mCi
-These rays were used to create absorption spectra for Magnetite [Fe
-Upon entering the octahedral site the iron p-orbitals split from their degeneracy to form an upper pair of orbitals d
+Hyperfine interactions within the nuclei of Magnetite [Fe 3O 4] and Barium Ferrite [BaFe 12O 19] were studied using the Mssbauer effect at s.t.p with a 10mCi 57Co gamma ray source. Zeeman Splitting and Isomer and Quadrupole shifting was observed in the Magnetite and Barium Ferrite samples. It was determined that both sources produced two spectra from their respective A and B sites with Hyperfine fields; , , ,  and relative isomer shifts (A-B); , . Quadrupolar shifts were observed to be minor contributors to the overall spectra.
+This experiment made use of a 10mCi 57Co source that decayed to produce 57Fe in its excited state which, in turn, will produce gamma rays of 14.4keV.
+These rays were used to create absorption spectra for Magnetite [Fe 3O 4] and Barium Ferrite [BaFe 12O 19] and hence determine the hyperfine interactions present in these materials.
+Upon entering the octahedral site the iron p-orbitals split from their degeneracy to form an upper pair of orbitals d z2 and d x2 y2 and a lower triplet d yz, d xy, d xz due to the proximity to negative charges in the crystal [9].

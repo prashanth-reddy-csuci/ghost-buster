@@ -6,10 +6,11 @@ But as stated earlier banks also give out loans. Loans given out by banks are fu
 This proportion of money kept as reserves out of the total cash deposit is called the reserve ratio. This ratio may be set by the banks itself, depending on the banks desire to make the maximum amount of profit (hence giving out more loans) while remaining sufficiently liquid (to meet the demand of people who want to withdraw their money).
 Governments, through central banks, also usually set regulations to ensure that a minimum reserve ratio exists for reasons such as to ensure that the bank possesses enough liquidity, and also for monetary policy, which will be explained later.
 Assume that the reserve ratio is 10%. Hence from that initial $1000 deposit, the bank will set aside $100 and keep it as reserves. The other $900 will be given out as a loan. That $900 given out will be deposited in the borrower's bank account. With that deposit, the bank will again set aside 10% of that amount ($90) and distribute the other 90% ($810) as loans. This cycle will continue, and the total amount of money 'created' each time a loan is given out is:
+which is actually the sum to infinity of a geometric progression:
 It can be seen that the amount of money has increased to $10000 from $1000, which is by 10 times, and this value is known as the money multiplier, which has already been defined earlier. This process of banks 'creating' money is also known as credit creation, and in general, the total increase in money supply due to a deposit is:
-where M is the amount of money, H is the monetary base (in this case the cash deposited), and
+where M is the amount of money, H is the monetary base (in this case the cash deposited), and  the reserve ratio.
 In general, given that people also use currency notes in addition to bank deposits for monetary transactions, the money multiplier is given by the equation:
-where M, H and
+where M, H and  are the same as before, and c being the proportion of money held in currency.
 How this multiplier was derived would be impossible to explain in this essay. But it can be seen that in general an increase in the value of the reserve ratio will cause credit creation to be less 'potent', since a smaller proportion of a deposit can be lent out in loans.
 It should also be noted that the lower the value of c, the higher the multiplier value. If more of the money lay in the banks' hands, the more loans they can give out.
 The ability of central banks to regulate reserve ratios of banks allows the central bank to conduct monetary policy. Since monetary policy is all about controlling the amount of money in the economy and interest rates, reserve requirements imposed on credit creation is an instrument of monetary policy.

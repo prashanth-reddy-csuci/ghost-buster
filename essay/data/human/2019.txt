@@ -1,17 +1,16 @@
-By calculating your This is calculated by dividing your weight in kilograms by your height in metres squared . 20-25 is the desirable range ,27-30 is slightly overweight and values over 30 are associated with obesity .
-On starting a diet , the reduced amounts of food you are consuming may not be meeting your body's normal needs. Your body has the ability to override the mechanism which controls energy intake when food supply is unpredictable or reduced suddenly and your basal metabolic rate ( the energy needed to maintain basic body functions such as breathing and heart beat, body heat ) is lowered to correspond with this decrease in food intake.
-During the first few weeks there is a loss of stored carbohydrate (glycogen) and its water that it is bound up in This can be as much as 4kg after which the fall in weight slows down . Your fat stores, however , remain unchanged. Fat is lighter than glucose and water and it takes more time to lose weight by burning fat .
-Also as you lose weight , your smaller body, requires less energy to sustain it and the difference between the energy you need to take in and energy your expending decreases
-Losing weight gradually can be advantageous because you will not have to make drastic reductions to your food intake so it is easier to accommodate and this allows you time to get accustomed to and maintain a new style of eating.
-It is recommended that you exercise as you lower your calorie intake. This way , you can improve blood supply to the muscles, and as you exercise your body is gradually transformed to burn fat more efficiently and as energy requirements from exercise demand . Physical activity has benefits not only for controlling body weight over the long term, but also in controlling appetite.
-Estimated Average Requirement = Basal Metabolic Rate x Physical Activity level
-When we consume substantially more energy than is required, excess energy is stored in the body as fat
-This can be done by The extent to which you need to pursue each of these depends on your average daily energy requirement which is largely determined by your BMR and levels of physical activity.
-The average UK recommended daily energy intake is 2000kcal a day
-Identifying your current average weekly It will allow you to plan how much you may need to cut down and how much more exercise you might need to do.
-This can be done by keeping a food diary and noting down calorific values of foods where available. Remember to take into account any drinks or alcohol you may consume .Many pre-prepared foods now have detailed nutritional information and though these are average typical values they area useful guide.
-A nutritionist can use your diary or a more accurate 'weighed food diary' to calculate exact intake using computer software. Alternatively, nutritionist's indirect calorimetry facilities can be used to measure your energy
-Eat a variety of foods so as to achieve the right balance of proteins, carbohydrates and fats and vitamins and minerals to promote health. Instead of cutting out fat, limit your fat intake to no more than a third Taking in too much protein could also have a detrimental effect on your bones health on future.
-Smoking affects your taste preferences and your diet tends to improve after you quit
-i.e. you have increased appetite this may result in weight gain .
-There are anorectic drugs that help weight loss by decreasing appetite Pills and preparations to lose weight should never be taken except on medical advice.
+Sodium chloride content in foods can be determined by titrating the chloride ion with silver, and excess silver ions with potassium chromate. The end point occurs when all the chloride ions are complexed and the excess silver ions react with the chromate ion to form the orange color of silver chromate. The endpoint in this reaction is therefore at the first hint of an orange color.
+The method was completed after following the instructions of the Laboratory handout, without any alterations.
+We first had to do a determination of the concentration of a standard sodium chloride solution. This was done after titrating 20 ml of the sodium chloride solution provided, with standard silver nitrate solution using potassium chromate indicator (5% solution), until the red colour formed begins to fade more slowly.
+Actual concentration of sodium chloride solution:
+For the determination of salt in a sample of butter we weighed 3.0520 g of butter and followed the procedure described in the handout. After the 3 extractions of salt from the fat using hot water, we titrated 25 ml aliquot of the diluted extract (adding 1 ml of potassium chromate indicator) with standard silver nitrate.
+The results of this titration was:
+To calculate the percentage of NaCl in the butter:
+Total salt:
+The result obtained for the % of salt in the butter is considered as satisfactory as most butter have a concentration of 1.5-2.0 % of salt.
+An error that may have altered the results is based on the fact that during the extractions, it has been calculated that you get only the 90 % of the amount that you are required to extract. As the number of extractions grows, so does the percentage of error. So, in the 1 st extraction we get the 90% of the aqueous phase, in the 2 nd extraction we get the 90% of the 1 st extract and in the 3 rd extraction we get the 90% of the 2 nd extract. In this case, when we refer to an error, we refer to the amount of the liquid phase (aqueous phase) that we were not able to extract.
+Some other errors may also occur. A common error is the sampling error which is partly avoided by the use of more than one sample when titrating.
+Limitations due to the uncertainty of the instruments also exist but we consider them as not significant when doing our calculations.
+After obtaining the results from the other teams, we constructed a diagram showing the differences in the percentages of salt in butter found by all teams in terms of 95% confidence limits (+/- 2 SE).
+, where  = standard deviation and n = sample number
+So we had:
+As we can see most of the results are between these confidence limits. For the critical values, such as the one in sample 8 (2.1%), we can justify them by referring to the error that is described above and is referring to the extraction method error.

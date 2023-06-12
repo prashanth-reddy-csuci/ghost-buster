@@ -7,19 +7,33 @@ At the beginning of the pipe there is a lever that can be manoeuvred to place an
 The experiment required a comparison between laminar and turbulent flow along the pipe. The system was set up to provide laminar flow and the pressure was measured at points along the pipe by recording the height of the mercury in each tube of the manometer. The mass flow rate was measured by allowing the container to fill with a known mass of oil and noting how long it took for this to occur. This was repeated because it is not a particularly accurate way of recording measuring mass flow rate.
 The system was then set to cause turbulent flow in the pipe. The same measurements of pressure and mass flow rate were taken to that the two types of flow could be processed for calculation of the flow velocity, Reynolds number and skin friction coefficient.
 We can use the hydrostatic pressure formula and apply it to the diagram show in Figure 1.
+,
+,
+.
+.
 If we substitute the densities of the fluids that we are using in this experiment (oil and mercury) we can express the pressure change as follows:
-The diagram in figure 1 is not an exact representation of the way in which the pressure will be recorded in this experiment. The tubes that measure the pressure at each point along the tube feed directly to a glass tube containing mercury that is sealed at the bottom end. We need to find equivalent values for h This can be done by recording the height from the top of the mercury in the glass tube to a fixed point at the top of the glass. We can use any point as the fixed point as long as there is some oil in each of the glass tubes between the mercury and this fixed point.
-In this experiment we need to calculate the Darcy friction factor ( It is a non-dimensional number that represents a measure of the resistance offered by a wall to the flow going through a pipe
+.
+The diagram in figure 1 is not an exact representation of the way in which the pressure will be recorded in this experiment. The tubes that measure the pressure at each point along the tube feed directly to a glass tube containing mercury that is sealed at the bottom end. We need to find equivalent values for h 1 and h 2. This can be done by recording the height from the top of the mercury in the glass tube to a fixed point at the top of the glass. We can use any point as the fixed point as long as there is some oil in each of the glass tubes between the mercury and this fixed point.
+In this experiment we need to calculate the Darcy friction factor (). It is a non-dimensional number that represents a measure of the resistance offered by a wall to the flow going through a pipe  is given by the following equation:
+.
 For horizontal pipe flow:
-If we substitute for
-where
+,
+.
+If we substitute for  into the equation for  and also substitute the diameter for the radius (R):
+,
+where  is the mean velocity of the fluid.
 The Reynolds number is a dimensionless parameter which represents the ration of inertial forces to viscous forces. It is given by the following equation:
-In the case of this experiment,
+.
+In the case of this experiment, L is the diameter of the pipe.
 Poiseuille flow describes the flow of a fluid in a circular tube. It is defined as follows:
 The principle that the volume of a homogeneous fluid passing per unit time through a capillary tube is directly proportional to the pressure difference between its ends and to the fourth power of its internal radius, and inversely proportional to its length and to the viscosity of the fluid.
 Poiseuille flow is only a valid description of laminar flow. The mean velocity can be expressed as follows:
+,
 where Q is the volumetric flow rate
-An alternative method for calculating The result is a simple equation where we can relate
+,
+.
+An alternative method for calculating  can be derived by the parameters of Poiseuille flow. The result is a simple equation where we can relate  to the Reynolds numbers based on the diameter:
+.
 The experiment has shown that there is a larger pressure gradient for turbulent flow. The average velocity of the fluid in turbulent flow is lower than for the fluid in laminar flow. The Darcy friction factor is higher for turbulent flow.
 The most interesting thing result is that we find the Reynolds number to be lower for turbulent flow than for laminar flow. To make sense of this we must consider what is going on in the pipe at the wall surface.
 In laminar flow we have a parabolic velocity profile inside the tube. The maximum velocity occurs at the centre and there is zero velocity at the wall surface due to the no-slip condition. In turbulent flow we can't accurately picture what is happening inside the pipe. We know that the fluid will be approaching the walls from many different directions and at varying velocities. We have found that, although the turbulent flow has a lower Reynolds number, it is still similar to that of the laminar flow. For the same Reynolds number, turbulent boundary layers experience a greater skin friction than laminar boundary layers. This statement is bourn out by the results since we have indeed found that the turbulent flow has a greater value for the skin friction coefficient. A greater skin friction results in more resistance to the fluid flow therefore a lower mean velocity. The result is that the turbulent flow would have a steeper pressure gradient, i.e. a greater pressure drop over the length of the pipe.
@@ -27,7 +41,8 @@ If we plot the friction factor of 0.0225 and Reynolds number of 2487 for laminar
 There are errors associated with this experiment. They are all related to the machine that was used and the two measuring devices. The manometer used mercury as the measuring fluid. There were however many air bubbles in each of the mercury tubes. This will have made the pressure reading inaccurate to varying degrees since some tubes had more air bubbles than others.
 The method for measuring the mass flow rate was also not entirely satisfactory. The fluid was allowed to flow into the measuring chamber and the time it took for a certain mass to accumulate was recorded. The timing was not that accurate however as the time recorded for the same mass of fluid to accumulate was not always the same.
 The effect of these errors needs to be considered. This can be done by considering what each measurement was used for. The aim of the experiment was to calculate the friction factor. This is given by the following equation:
-The manometer readings were used to calculate the pressure gradient ( The mass flow readings were used to calculate the volumetric flow rate which in turn was used to calculate the mean velocity We can see that This means that the effects of the errors associated with the mass flow rate measurements are magnified due to the squared term. We can say that the errors associated with the recording of the mass flow rate are the most significant.
+.
+The manometer readings were used to calculate the pressure gradient (). The mass flow readings were used to calculate the volumetric flow rate which in turn was used to calculate the mean velocity . We can see that  is proportional to the pressure gradient  and proportional to one over the square of the mean velocity . This means that the effects of the errors associated with the mass flow rate measurements are magnified due to the squared term. We can say that the errors associated with the recording of the mass flow rate are the most significant.
 We have found that there is a higher resistance to the fluid flow in the turbulent case. This is shown by the fact that the Darcy friction factor is higher for the turbulent flow. The higher friction in turbulent flow results in a steeper pressure gradient i.e. a greater pressure drop and also a lower average velocity. Interestingly the Reynolds number was found to be lower for turbulent flow than it was for laminar flow. This is because the flow was not turbulent in the sense that one of the factors that define the Reynolds number was not changed. i.e. the diameter of the pipe was the same, the viscosity and the fluid density remained the same. The only factor that changed was the velocity, the change being caused by an obstruction in the pipe. The fluid was still pumped down the pipe at the same rate.
 The errors associated with this experiment stem from the manometer and the device for the mass flow rate being of a poor standard. The manometer had lots of air bubbles and the device for measuring mass flow rate was inconsistent. The errors associated with the recording of the mass flow rate were carried through to the calculation of the mean velocity and then magnified by squaring this term to find the friction factor.
 The results would be more accurate if the manometer was calibrated more accurately by removing the air bubbles from the mercury. A more consistent way of measuring the accumulation of the fluid would help us to get a more accurate value for the mass flow rate. The main problem was mostly due to the device being old and sticky thereby making the scales that record the weight ineffectual. A renovation of the machine would therefore make the experiment more accurate.

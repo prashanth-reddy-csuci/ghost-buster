@@ -2,13 +2,13 @@ The maximum number of predicted records is 200 with occasional insersertions and
 It is expected that the database size remains fairly constant.
 Assuming 200 records is 80% of the total table size so the efficiency is not degraded, the table size is:
 Initially the closest prime number to 250 was selected as the table size.
-(prime numbers near 250 are {.., 223, 227, 229, 233, 239, 241,
+(prime numbers near 250 are {.., 223, 227, 229, 233, 239, 241, 251, 257, 263, ..})
 This is makes sure the records are evenly distributed throughout the hash table so possibility of collisions is greatly reduced.
 However there's the power of 2 close by which is 256.
 (Powers of two near 250 are {..,128, 256, 512,..})
 191 is the ideal prime number since it is best positioned between 128 and 256, however is it too low if load factor is to be less than 80% in the worst case scenario of 200 records in the catalogue.
 So the table size was reduced to a prime number few positions below 256. (we can afford compromise the table size a little since we took the maximum database size of 200 to be 80%).
-After all the adjustments the final
+After all the adjustments the final table size is 223.
 Coincidently this value closely matches with the concept of "Size should be about 10% larger than the maximum number of entries". Source: lecture notes: Slide 33, U08020 Lecture Notes - week 6
 However it is just a coincident as the table size calculation is a bit more bias to performance issues than resources issues. The table size is specifically tuned to this specific plant online catalogue.
 "Division method" using the modular function is used as the hash function. This is so the hash function is made simplest as possible and minimum amount from statements so it does to steal too many CPU cycles. The even distribution of values and collision reduction of the index is dependant on choosing the right of the values themselves. Collisions are inevitable but selection of the quadratic probing and keeping the maximum load factor around 80% makes sure the collisions are kept at a minimum.

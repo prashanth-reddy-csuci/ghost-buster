@@ -2,17 +2,19 @@ The laboratory session was carried out to find the moment of inertia of three me
 Two graphs were drawn for each disc and the theory used for this method used is further described below.
 Below is the theory used for the calculations done and for taking the readings:-
 And,
-(Note:
+(Note: )
 Therefore:
+and
 Therefore:
+(but , )
 Therefore:
 The above equation is the main equation used to calculate inertia of the each disc and the graphs are plotted in accordance with the equation to make it easier to fit the values derived right in to the equation.
-For the graphs to be sketched the
-Then two graphs (a maximum timings graph and a minimum timings graph) of mass
+For the graphs to be sketched the  value was required, the table below shows the  values for the maximum and minimum timings for each disc;
+Then two graphs (a maximum timings graph and a minimum timings graph) of mass  'm' versus  are plotted for each disc;
 The graphs of small disc;
 The graphs of medium disc;
 The graphs of Large disc;
-Then the gradients (
+Then the gradients () of each line (min and max) was found which is equal to .
 Then by substituting these values in the main equation the inertia of the discs are found;
 For the small disc (min);
 For the small disc (max);

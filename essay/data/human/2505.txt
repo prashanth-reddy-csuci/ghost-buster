@@ -1,20 +1,3 @@
-The purpose of this report is to evaluate the usability of the current way-finding system for Armstrong Siddeley building and based on this evaluation prepare the prototype of the redesign.
-The way-finding systems are designed in order to give people clear and appropriate directions in places they are unfamiliar with. The most important attribute of such system is its usability and satisfaction it gives to the user. It is crucial that the way can be found as quickly as possible. In case of our prototype the target time for locating the person / room does not exceed 2 minutes.
-The idea of introducing the way-finding system for Armstrong Siddeley building was to help the following people to find the way without help of reception (which might be closed):
-It appears that the current system is not usable and does not meet user requirements.
-It appears that the current system is a very good example of a bad design therefore we are not going to concentrate on finding solutions to improve it but we will consider all the usability issues that were found to make redesign of the system more usable.
-The way-finding system is supposed to assist the user in locating appropriate rooms or staff members.
-I have asked potential users what tasks they would expect the system to perform. Basing on the most frequent answers I decided to create five main tasks (each of them will have a separate menu). Most of the tasks will contain different options to make searching more successful and flexible.
-For any search request the system should respond not only with the room/floor number or name of staff member but also should give the directions how to get there (display a map of the floor with desired room).
-In the process of developing the prototype I based on task analysis performed in previous section as the most important attribute of the system is meeting user requirements. I have also considered and tried to avoid all usability problems described in section 3. The system will be compliant with usability heuristics by Benyon, Turner & Turner.
-There is menu on the left hand side displaying the system features. This solution makes the system easy to navigate. When a user clicks on any of the links, the relevant page will be displayed in the main window. " There is no need to place any
-The main page of designed system is shown at
-On the main page I have placed the "search" option. It is a general search which enables to search for any phrase within the way-finding system.
-"
-"
-" " page is shown at
-To choose the floor the user needs to click on the floor link. The map of the chosen floor will then be displayed (see The legend and floor links will still be available (so that the user does not have to memorize what the colour means etc.). In the future the user should also have option to print the map with the legend but this option will not be available at the first release as there is no printing device.
- We searched for a person, by name:"Hodder".
-The system displays information concerning the searched person including his role, room number, phone number, email address and working hours. System also shows a map of the relevant floor with the route marked on it. It also gives the directions in text form (useful in case of any higher floors as it is impossible to show on the map e.g. "take a lift to 3
-The proposed prototype seems to meet all user requirements. It is simple and therefore easy to use. It does not contain any irrelevant information which would make it less visible. All main features of the system have their links on the left hand side menu which is available all the time.
-Proposed solution is compliant to the set of heuristics.
+I have carried out a usability test of a way-finding system for the Armstrong Siddeley building at Coventry University. The test has been carried out on the initial interface of the website which is still under construction.
+To identify the way-finding tasks that are useful for the "MIS Staff/Room Localizator" I did a research among my family and friends and asked them what information they will find useful in searching the way to a room or staff member in a building.
+From all the answers I managed to create the list of 5 tasks which appeared most often.

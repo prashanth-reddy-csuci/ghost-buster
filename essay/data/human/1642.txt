@@ -1,7 +1,8 @@
-To count the required loops, and to keep track of the current number, I use this variable to store an integer that increments by one with every loop. Note that 'Counter' is given the value of '1' before the while loops starts-this is to ensure the correct number of loops and to indicate what the current number is at the start of the program.
- To keep the amount of coding down and to simplify the program, I chose not to have a variable for every number entered (Num1, Num2, Num3 etc.). Instead, this variable stores the number input, adds to the appropriate totals and then is recycled to store the next number.
- Thus, variable 'Total' stores the sum of all numbers entered.
- This variable holds the total of all negative numbers input.
+Description: My program makes use of a 'while' loop. To count the required loops, and to keep track of the current number, I use this variable to store an integer that increments by one with every loop. Note that 'Counter' is given the value of '1' before the while loops starts-this is to ensure the correct number of loops and to indicate what the current number is at the start of the program.
+Description: This variable stores the input of the user, i.e. numbers one through to ten. To keep the amount of coding down and to simplify the program, I chose not to have a variable for every number entered (Num1, Num2, Num3 etc.). Instead, this variable stores the number input, adds to the appropriate totals and then is recycled to store the next number.
+Description: In order to make the program user friendly and easy for someone else to understand, I chose variables with names that closely resemble their purpose. Thus, variable 'Total' stores the sum of all numbers entered.
+Description: As mentioned above, the name of the variable matches its purpose. This variable holds the total of all negative numbers input.
+Description: This variable holds the total of all positive numbers input by the user.
 1. Initialise variables.
 2. Prompt user to enter ten numbers, and check they are within correct number range.
 3. Keep running totals of all numbers entered, all negative numbers and all positive numbers. 4. Print results.

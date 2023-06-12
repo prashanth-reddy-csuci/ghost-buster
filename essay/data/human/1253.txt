@@ -2,22 +2,22 @@ The main aim of this project was to design a circuit model for lasers based on t
 For further development using simulation, the following steps were followed:
 For obtaining the graph of (f):
 The stimulation used voltages to represent current variables; for example, the drive current was entered using a voltage source of the appropriate type and a magnitude of the appropriate size in mV.
-In the new circuit designed in multisim, the major difference was that there were 3 adders and one multiplier used. Here, as the adder block allowed the input and output gains to be entered into them, so that there was no need for separate gain blocks. The adder A1 had 3 input ports and one output. The port B was connected to ground, Port A had the output gain of K For some reasons the K The output of adder1 went in the input of the multiplier and adder A3, after going through a virtual diode. As shown in figure1
-The multiplier had 2 inputs, K The output of the multiplier was the input of the port A of Adder A3 and A4. For adder A4 port A had the gain of -1, port B was connected to ground and port C had the pulse input voltage source which actually represented the drive current I in mA. Hence, the output of the adder A4 was actually For adder A3, port C had the input of the multiplier and output gain of The output of the adder A3 actually represented
-The circuit was built in multisim taking in mind of some points. As from the calculations of paper design it can be noted that But, For simplicity the value of R
+In the new circuit designed in multisim, the major difference was that there were 3 adders and one multiplier used. Here, as the adder block allowed the input and output gains to be entered into them, so that there was no need for separate gain blocks. The adder A1 had 3 input ports and one output. The port B was connected to ground, Port A had the output gain of K 1 =1555.2A and port C was connected to a DC voltage source representating x 0 =8.391mA (Normalised transparency carrier density), and had the gain of -1. For some reasons the K 1 was made to be before the virtual diode, for the circuit to work. The output of adder1 went in the input of the multiplier and adder A3, after going through a virtual diode. As shown in figure1
+The multiplier had 2 inputs, K 1(x-x 0) and y (from the RC filter) which gave the output of K 1(x-x 0)y. The output of the multiplier was the input of the port A of Adder A3 and A4. For adder A4 port A had the gain of -1, port B was connected to ground and port C had the pulse input voltage source which actually represented the drive current I in mA. Hence, the output of the adder A4 was actually  which was feeder back into the R nC n filter. For adder A3, port C had the input of the multiplier and output gain of , port A had the input of K 1(X-X 0) and gain of . The output of the adder A3 actually represented  which was feeder back into the R pC p filter.
+The circuit was built in multisim taking in mind of some points. As from the calculations of paper design it can be noted that  and . But,  and . For simplicity the value of R p was chosen as  and hence, C p = 5.8pF. But the best possible value nearest value of capacitor is 5.6pF, hence C p = 5.6pF. Similarly the value of  and C n =2.4nF were obtained.
 After the circuit was built, it was double checked for any fault.
 The pulse source used had been defined the following characteristics as shown in figure2.This change in characteristics of the pulse source was done to observe lasing and to get the stimulation going.
-Transient analysis was performed to observe the graph of the input current, the carrier and photon densities. The maximum time-step was forced to be no more than 10 As shown in figure3 the properties of the transient analysis were changed.
+Transient analysis was performed to observe the graph of the input current, the carrier and photon densities. The maximum time-step was forced to be no more than 10 -11 seconds for the stimulation to converge. As shown in figure3 the properties of the transient analysis were changed.
 The graph obtained showed the required characteristics.
 For obtaining the graph of (g)
 The pulse source characteristics were changed so that it had zero level that was negligible and one level above threshold, 20mA to observe the turn on delay before there is significant photon output.
-In order to look at the graph more accurately, for transient analysis initial conditions were "set to zero", for parameters, start time =0 and end time =3e
+In order to look at the graph more accurately, for transient analysis initial conditions were "set to zero", for parameters, start time =0 and end time =3e -8 seconds.
 Transient analysis was performed and the graph was obtained with the turn on delay and compared to the calculated one in paper design part(c). The graph obtained is shown in Figure(f)
 The pulse source zero level was now increased to 9mA and during transient analysis initial conditions were changed to "Automatically determine initial conditions", but the parameters were kept the same. (as shown in figure3)
 Transient analysis was performed and the graph was obtained with the turn on delay and compared to the calculated one in paper design part(c).
 For obtaining the graph of (h)
 The pulse voltage used earlier was changed to triangular wave form which sweep from zero to some value substantially above threshold. This change was made by changing the characteristics as shown in figure1 and 2
-Transient analysis was than performed, which the characteristics Initial conditions were "Automatically determine initial conditions" and the parameters were start time= 0 and end time =3e
+Transient analysis was than performed, which the characteristics Initial conditions were "Automatically determine initial conditions" and the parameters were start time= 0 and end time =3e -7 seconds.
 The graph obtained showed the input current, normalised photon output, normalised carrier output.
 The graph data was than exported to excel using this function
 on the toolbar of transient analysis
@@ -27,7 +27,14 @@ AC voltage source (set to 20mA) was placed instead of pulse voltage (as shown in
 An AC sweep was performed having the characteristics: Start frequency: 100MHz, Stop frequency:10GHz, Sweep type: linear, Number of points 1000, Vertical scale Linear( as shown in figure7)
 The graph obtained showed the position of the resonance which was than measured with the calculations in part (d) of the paper design
 The results obtained are as shown in the following table:
+To stimulate the following equations P and N were normalized by substituting 
+
+ and 
+.
 Hence,
+the above equations were obtained were 
+
+ and
 Each of these equations represents a simple low pass RC circuit whose input is either f (x, y)1 or f (x, y)2 , producing output y or x.
 Hence, for all the graphs the photon output and carrier output obtained is actually normalized photon output y and normalized carrier density x.
 The stimulation has used voltages to represent current variables; hence on all the graphs the voltage source represents the input current.

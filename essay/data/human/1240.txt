@@ -1,4 +1,4 @@
-The Objective of the experiment was to use the given apparatus to measure the experimental value of the moment of inertia of various discs using suitable measurements & graphs and finally comparing it with the theoretical values.
+The Objective of the experiment was to use the given apparatus to measure the experimental value of the moment of inertia of various discs using suitable measurements &amp; graphs and finally comparing it with the theoretical values.
 The Apparatus consisted of a wooden plate with a drum with a helical groove on one side and a disc holder n the other side. There was a string attached to the drum and the string could be wound around the groove. The other side of the string had a lasso which could be used to suspend weights.
 A disc was attached to the holder and various weights were suspended on it. They were allowed to fall from the maximum possible height and the time they took to fall to the ground was measured using a stopwatch. This process was performed on two different discs with different radii. Then a graph was plotted between the mass suspended against the reciprocal of the square of the time taken to fall to the ground. The slope of the line of best fit obtained in the graph was used experimental value of the moment of inertia of the disc using Newton's equations of motion. This value was then compared with the theoretical value of moment of inertia obtained using the Formula
 The experimental error was then judged using the difference in the values obtained. The percentage error was found to be very high and hence I personally don't think that this method can effectively measure the moment of inertia of the discs.
@@ -10,25 +10,29 @@ The total kinetic energy in the body is the sum of the individual energy of all 
 Looking at this equation in a rotational context, the angular velocity replaces the linear velocity in the linear context and the summation replaces the mass in the rotational context and is better known as the moment of inertia.
 Hence
 Since the summations are similar to integrals. In order to derive an integral equation for the moment of inertia
-Let us divide the body into a number of smaller pieces of equal mass
+Let us divide the body into a number of smaller pieces of equal mass 
+m.The summation now gives the value of I but it still wouldn't be as accurate as the integral hence let us divide the body into a number of infinitely small particles of mass dm.Hence the integral equation for I would be
 This integral equation can now be used to derive a linear equation for the moment of inertia of a disc that we are going to work on in this experiment.
 A disc can be considered as a cylinder in 3 dimensions. Hence
-If
-Since volume of a cylinder in 2
+If 
+is the density of the of the cylinder and V be the volume of the cylinder then,
+Since volume of a cylinder in 2rh, expressing the volume as a function of the radius with a constant height
 Substituting this value in the initial integral and solving it
 Since the density is the ratio of the mass and volume.
 Substituting this in the new integral,
 This is the theoretical derivation of the value of the moment of inertia of a disc.
 Hence
-Every individual disc was tested with 5 different weights and the experiment was repeated thrice for every single weight. The graph was then plotted between 1/t2 and mass. Excel was then used to draw the line of best fit and generate a linear equation for the line of best fit in the form of y = mx + c.The value of m represents the slope of the graph which in other words is the value of mt
+Every individual disc was tested with 5 different weights and the experiment was repeated thrice for every single weight. The graph was then plotted between 1/t2 and mass. Excel was then used to draw the line of best fit and generate a linear equation for the line of best fit in the form of y = mx + c.The value of m represents the slope of the graph which in other words is the value of mt 2.Shown below is the table of readings and corresponding graphs for the two discs used for experimentation.
 This table represents the readings of the large disc of radius 7.6 cm and mass 0.696 kg.
 This table represents the readings of the small disc of radius 5.05 cm and mass 0.314 kg.
 Thus from the equation of the line of best fit obtained from the graphs above
-For the
-For the
+For the large disc,
+Slope of the line =
+For the small disc,
+Slope of the line =
 From the formula derived to obtain the value of I from the experiment in the Theory section of this report,
 The values of the other terms were measured
-g = 9.8 m/s
+g = 9.8 m/s 2
 r = 7.6 cm for large and 5.05cm for small
 s = vertical displacement of weights = 30 cm
 Hence,
@@ -36,8 +40,8 @@ The Moment of Inertia I for the large disc (Experimental)=
 The Moment of Inertia I for the small disc (Experimental) =
 The theoretical value of the Moment of Inertia of a disc is calculated by the formula
 Hence
-The Moment of Inertia I for the large disc (Theoretical)= 20.1 * 10
-The Moment of Inertia I for the small disc (Theoretical) =4.003 * 10
+The Moment of Inertia I for the large disc (Theoretical)= 20.1 * 10 -4
+The Moment of Inertia I for the small disc (Theoretical) =4.003 * 10 -4
 The disc has to be well lubricated to avoid errors due to friction
 Choose a fairly inextensible string that doesn't stretch a lot when pulled.
 The weights holder should be as light as possible but should still be string and durable enough to perform it's functions.

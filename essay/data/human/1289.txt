@@ -1,16 +1,18 @@
 This experiment involves the preparation of two different ligands and an initiator for transition metal mediated radical polymerization/atom transfer radical polymerization (ATRP). These products will then be used in polymerization reactions to prepare 5 polymers with a range of different methods. Comparison of these 5 polymers will be made to determine the effects of changing the metal binding ligand and changing the addition time of the monomers to the rate of the reaction.
 To a stirred solution of pyridine-2-carboxaldehyde (0.15mol, 14.270mL) in diethylether (15mL) cooled in an ice bath was added excess octylamine (0.19mol, 20mL) drop wise. After complete addition of amine, anhydrous magnesium sulphate was added, and slurry stirred for two
-hours at 25 First few mL collected at 80 Yellow oil collected at 125
+hours at 25 oC. The solution was filtered, solvent removed and product purified by distillation under reduced pressure, with lagging. First few mL collected at 80 oC was discarded. Yellow oil collected at 125 oC.
 The method is the same as for the Octyl ligand, however with the following changes:
-2-methyl phenol (5.07g), triethylamine (6.2mL), DCM (200mL) and acid bromide (15.98g) were stirred for 1 hour. The solution was then washed twice with water (200mL) and then twice with saturated sodium carbonate (200mL). Then finally washed with dilute HCl, which was made up by using HCl (2M) and diluting with water in a ratio of 1:2000 resulting in a HCl concentration of 0.001 mol dm A flash column was then used to remove any impurities using toluene as the solvent. The resulting solution was rotary evaporated to remove the solvent.
+2-methyl phenol (5.07g), triethylamine (6.2mL), DCM (200mL) and acid bromide (15.98g) were stirred for 1 hour. The solution was then washed twice with water (200mL) and then twice with saturated sodium carbonate (200mL). Then finally washed with dilute HCl, which was made up by using HCl (2M) and diluting with water in a ratio of 1:2000 resulting in a HCl concentration of 0.001 mol dm -3. A flash column was then used to remove any impurities using toluene as the solvent. The resulting solution was rotary evaporated to remove the solvent.
 Yield: 10.9g, 42mmol, 90.5%
 IR:
+1H NMR:
+13C NMR:
 Toluene carbon shifts present at: 21.52, 125.36, 128.29, 129.09.
 Acid anhydride carbon shifts present at: 30.05, 165.80.
 Acid bromide carbon shifts present at: 31.09, 170.50.
 The 5 polymers were made with a mixture of the reactants previously mentioned and a mixture of either methyl methacrylate (MMA), butyl methyacrylate (BMA) and benzyl methacrylate (BzMA) to produce a block copolymer or a single component polymer:
 For each of the polymers a graph was plotted of Mn versus percentage conversion, this is shown in figure 1 below:
 As you can see from figure 1 each polymer results in a straight line graph when its respective Mn is plotted versus percentage conversion, this is characteristic of a living radical polymerisation and so confirms the type of polymerisation involved in all these polymer reactions.
-A first-order kinetic plot of ln[Mn]
+A first-order kinetic plot of ln[Mn]o/[Mn] versus time (mins) for each of the polymers as shown in figure 2 below enables the rate of the reaction to be calculated from the gradient of the line of best fit of the data.
 The rate constants calculated for each polymer are shown in table 9 shown below:
 These rate constants for each of the different polymers enable comparisons to be made and so determine the effects of different ligands and time of addition on the rate of the reaction of these polymerizations.

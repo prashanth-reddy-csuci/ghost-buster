@@ -1,10 +1,16 @@
-The aim of the practical was to illustrate and give practical learning on the principles involved in the production of clarified fruit of vegetable juice.
-Another objective was to determine and compare the effectiveness of different clarifying agents on haze control.
-Fruit juices have become a quick and convenient way for many people to obtain at least one of their five portions of fruit and vegetables every day.
-It is therefore important that very high quality and safe products are formed. High quality referring to both the sensory characteristics, as well as the nutritional value.
-In this practical we prepared and considered apple juice, orange squash, grapefruit and lemon juice.
-The cloudy nature of juices is due to the presence of collected cell tissues and constituents. Most of these are colloidal and are removed from solution by destroying or hydrolyzing the pectin e.g. using pectin enzyme pectolase. This allowed for the finely divided, insoluble particles (cloud) to settle out, leaving a clear juice. (Pectin stabilizes other components and its presence causes haze or browning.)
-Later attempts were made to stabilise the pectin. Pasteurisation stabilises the pectin but not for very long as was observed in the control.
-The most effective clarifier was Pectic enzyme which was the 'clearest' juice after 1 week.
-Gelatin was correspondingly best clarifier in terms of its ability to precipitate polyphenols which prevents the formation of brown insoluble compounds and off-flavours during storage. However, the enzyme and other clarifiers were not tested together.
-It can however be deduced from the tests carried out that a combination of Pectic enzyme and 4% gelatine solution would yield the best quality product.
+UHT is a continuous process which involves rapid heating to high temperatures about 140C holding for a short period of time (1-10 seconds) and cooling rapidly to produce a sterile product .
+The direct UHT process is usually carried out above 135C and can be used for any product provided it's pumpable e.g. custard.
+It consists of 4 steps
+The product is then placed in aseptic packaging that is commercially sterile and has a shelf life of approximately 6 months .(The aseptic packaging is sterilized using 30-35% hydrogen peroxide at 70-80C; this decomposes to give harmless oxygen and water afterwards)
+Prior to milk treatment the tube is sterilized by pumping hot water at 130C for 30 minutes .Steam / water at 140 C which is cooled before being released to the atmosphere .
+Safety of the product is key.
+The Z value for Clostridium botulinum, one of the most resistant pathogenic organisms is 10C. Typically processors aim for a spoilage rate of less than 1 in 10,000. Alternative processing conditions would be 131C for 18 sec
+141C for 1.8 sec
+'Ideally the processor would want a product that does not cause a lot of fouling, and which has little sedimentation with no gelation of the product after processing'
+Preventing fouling is a major problem because of high temperatures used often result in a great deal of fouling
+Steam tables are important because they enable one to establish an equilibrium temperature - pressure where the milk is heated to the necessary temperature without it boiling since temperatures greater than 140C are required .
+Please see procedure detailed in practical bookle t
+The mean freezing point depression of milk is often quoted as -0.535H, which is taken as an appropriate standard for estimation of added water. (Coveney L, 1993)
+Raw milk gave a value of 517mC which warrants no action according to the Code of practice for the assessment of milk quality (Joint committee (1985) Code of practice for the Assessment of milk quality) UHT milk however gave a reading of 516mC which warrants a warning letter then a check of the premises if repeated.
+The in-container sterilised product is of lower quality because the product heats and cools relatively slowly; furthermore the temperatures are limited by the internal pressure generated.
+Selection of the optimum equipment , raw materials and processing conditions is a key factor in the success of any UHT treatment .

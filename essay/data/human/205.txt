@@ -2,10 +2,12 @@ A configuration comprising a sodium iodide scintillator crystal and photomultipl
 The MCA displayed the distribution of energy levels, separating them differentially into discreet channels in order to create a visual representation of the response function which was then outputted to the monitor.
 Aside
 Throughout this experiment references are made to flux or counts measured by the detector. This refers to the actual reading minus the background reading (measured with no radioactive source present).
-Key features of the gamma-ray energy spectra were identified as well as the energy levels at which they appeared. The Poisson nature of radioactive emission was proven via calculating
-The mean
-These 2
+Key features of the gamma-ray energy spectra were identified as well as the energy levels at which they appeared. The Poisson nature of radioactive emission was proven via calculating  statistically and experimentally:
+The mean  and the 2 values for  were found:
+, ,
+These 2  values are in agreement to within 1%
 Features of the detector were calculated that affect the shape of the spectrum:
 The errors associated with these results are small as a result of a long exposure time and hence count values are large.
 By comparison of the energy levels of the key features, Source A was identified as Sodium-22 and Source B was found to be Cobalt-60. In each case the two photopeaks were easily matched up with the theoretical energies, making identification straight-forward. The two values for the attenuation coefficient of lead (Pb) found using these two sources were:
+&amp;
 Although these values seem to be of the correct order of magnitude it is difficult to compare due to the different energy levels. The problems with the lead plate orientation and ambiguity in the theoretical values that arose from the quartic equation fit have limited the accuracy of these results.

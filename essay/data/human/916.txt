@@ -16,11 +16,12 @@ The layout of the plant is in such a way that it allows up to maximum of 10 lorr
 The biggest congestion is seen during the timing around 10:30 am at the weighbridge zone and check-in points.
 The management has plans to add some extra check-in points and some offloading points in order to enable all lorries to finish their work by 4:30 pm. Under current operation the lorries usually finish by about 5:30 pm.
 The motivation to do this project came from personally worked in the firm as Software Development trainee and knowing the problem they were facing at their north Delhi plant.
- 17
+Office Address:2994/4, Street No. 17
 Ranjeet NagarNew Delhi-110008
 India
+Office Phone:91-11-5701203, 5703041
 Website:
-The objective is to determine the number of check-in points and off-loading points required so that all lorries finish their tasks by 5pm. The maximum number of check-in and off-loading points allowed is 5. ( All aspects of the model were continuously refined (including objectives). The report presents the final version of the model.)
+The objective is to determine the number of check-in points and off-loading points required so that all lorries finish their tasks by 5pm. The maximum number of check-in and off-loading points allowed is 5. (Conceptual model development is an iterative process. All aspects of the model were continuously refined (including objectives). The report presents the final version of the model.)
 The main report is 14 pages with 10 pages of appendices.
 The lorries arrive full.
 Lorries are never refused at Entry or Exit points.
@@ -35,5 +36,5 @@ Operation of only one day is being modelled in this project because the amount o
 The breaks taken by the staff member is not modelled in this project. In real life scenario the staff takes a break when their work centres are usually waiting for operation.
 Travel time vary very little, so fixed values are being used to represent travel times between various activities.
 Empirical Data are presented in the Appendix, page 20.
- The analytical distributions for each operations processes times where chosen by analysing the Distribution Viewer of Stat::Fit was used to calculate mean and SD.
+Stat::Fit was used to fit automatically analytical distributions into gathered data. The analytical distributions for each operations processes times where chosen by analysing the Stat::Fit summary of statistics, parameters estimates and most importantly goodness of fit tests and by comparing between the estimated distribution and the input data. Distribution Viewer of Stat::Fit was used to calculate mean and SD.
 Verification and validation of model has been important part of this problem. Verification has been performed continuously in the model in order to obtain accurate model. In most cases comparing the computer model results with the conceptual model does it.

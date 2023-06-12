@@ -1,19 +1,19 @@
-48 year old gentleman admitted on
+48 year old gentleman admitted on  for an elective day-case angiogram due to a 16 month history of palpitations and feeling 'not-quite-right'.
 Hyperthyroidism can cause palpitations, however, this cause would have been already identified in earlier admissions if this was the cause.
 Anaemia can cause ventricular ectopics, again this would have already been identified.
-Psychological element; Mr
+Psychological element; Mr  stated that he does suffer from stress and this can cause palpitations and could be exacerbating the current situation.
 Electrolyte imbalance (low serum K+ or Mg+) can cause ventricular tachycardia and needs to be looked at further. There is no recent history of vomiting or diarrhoea, which makes this diagnosis less likely.
-Excess caffeine/alcohol can cause either or junctional tachycardias/ventricular ectopics/alcoholic cardiomyopathy. The reported alcohol intake by Mr
+Excess caffeine/alcohol can cause either or junctional tachycardias/ventricular ectopics/alcoholic cardiomyopathy. The reported alcohol intake by Mr  and reported trigger of excess alcohol the preceding evening, would indicate that alcohol could be a cause for this presentation.
 Dilated cardiomyopathy can cause tachycardia, ventricular ectopic beats and AF.
 Arrhythmogenic right ventricular dysplasia (ARVD) - A rare form of cardiomyopathy, which can cause ventricular tachycardia and can be the presenting feature. Diagnosis of ARVD can often be difficult and the diagnosis is based on investigations including ECG, echo, myocardial biopsy and the gold standard investigation an MRI scan [1].
 A slim man who was sitting comfortably on the bed
 No evidence of clubbing, peripheral cyanosis, splinter haemorrhages, xanthomata, palmar erythema or dupuytren's contracture on his hands.
-Pulse = 60 bpm and irregularly irregular, BP 122/70, RR = 16, O
+Pulse = 60 bpm and irregularly irregular, BP 122/70, RR = 16, O 2 sats = 100% on air, apyrexial
 No evidence of jaundice, anaemia, central cyanosis, oedema or lymphadenopathy
 JVP was not raised
 On examination of the chest there were 4 spider naevi evident superior to the nipples, nothing else of note.
 There was no evidence of hyperthyroidism, anaemia or dehydration on examination, which makes hyperthyroidsim, anaemia, and low K+ or Mg+ less likely as the primary cause of the episodes of VT. However, these conditions could exacerbate the primary cause and TSH, T3/T4, FBC and electrolyte levels need to be checked on routine blood tests.
-Excess caffeine/alcohol can cause either or junctional tachycardias/ventricular ectopics/alcoholic cardiomyopathy. The reported alcohol intake by Mr
+Excess caffeine/alcohol can cause either or junctional tachycardias/ventricular ectopics/alcoholic cardiomyopathy. The reported alcohol intake by Mr  and the admission that these events occur the morning after a heavy night, still indicate that alcohol could be the primary cause for this presentation.
 Dilated cardiomyopathy can cause tachycardia, ventricular ectopic beats and AF, an echocardiogram will be able to assess the likelihood of this diagnosis.
 ARVD cannot be ruled out at this stage as diagnosis is based on investigations not on clinical examination of the patient.
 The patient was quite an anxious man who has had a history of alcohol abuse, which was probably higher than he stated. His partner, who was present during the history, intimated that the estimate of 60 units per week was a conservative one. This history of alcohol abuse and recent need to cut down his alcohol intake will be impacting on him socially, psychologically and physically, if the reason for his presentation is due to alcohol.
@@ -22,12 +22,12 @@ A description of the progress of the patient as far as possible. This should inc
 The prognosis of the patient will very much depend on how well he is able to curb his drinking habits. The management is one of watching and waiting with appropriate advice to the patient if a further episode occurs. If these episodes do not diminish with reduced alcohol intake then further medical or surgical management may need to be considered in the guise of anti-arrhythmic drugs or an implantable cardioverter defibrillator.
 A brief consideration of the evidence base required for the diagnosis and management of the patient's problem(s)
 One study has shown that patients with alcoholic cardiomyopathy, who abstain from alcohol, or control their drinking to less than 60g of ethanol per day (four standard drinks), improved their cardiac function [5]. Individuals with mild manifestations of cardiac dysfunction who stop all alcohol consumption can markedly improve their prognosis and even return to normal cardiac function [6]. However, caution has to be made with withdrawal of alcohol as atrial arrhythmias have been shown to occur during the early ethanol withdrawal phase in patients without other clinical evidence of heart disease [7].
-There are few papers in the literature regarding the diagnosis and management of SVT due to alcoholic cardiomyopathy. It Mr
+There are few papers in the literature regarding the diagnosis and management of SVT due to alcoholic cardiomyopathy. It Mr  does not stop having these episodes of ectopics and SVT with his abstention from alcohol, then other possible causes need to be investigated.
 An interesting recent paper on the use of radiofrequency catheter ablation for a tachycardiomyopathy on a 26 year old female, described the successful treatment on a phenomenon that is rarely diagnosed. This female presented with an incessant supraventricular tachycardia, which was not reversible with electrical cardioversion. Echocardiogram showed a severe LV systolic and diastolic dysfunction. After ablation her left ventricular function returned to normal. This case shows that early treatment for tachycardiomyopathy - considered the most frequently unrecognised curable cause of heart failure - can prevent irreversible structural cardiac damage [8].
 A commentary on issues of epidemiology, psycho-social, health care delivery, ethical issues or disability relevant to the patient and/or problem
 Ventricular tachycardia is associated with underlying coronary, ischaemic, or hypertension, as well as, cardiomyopathies (dilated, hypertrophic, restrictive) [2]. The underlying mechanism is thought to be enhanced automaticity, leading to re-entry circuit as in other tachycardias. In VT there is a group of ischaemic or electrically non-homogeneous cells.
 Excessive alcohol consumption is one of the commonest causes of dilated cardiomyopathy in the Western world. Myocardial damage may arise by three basic mechanisms:
 Stopping alcohol consumption can halt the progression of the disease and in some cases can improve ventricular function [3].
-Medical management of VT is most commonly with amiodarone or
+Medical management of VT is most commonly with amiodarone or  blockers.
 Describe what you have learnt from this case
 Presentation, differential diagnosis, subsequent investigations and management of tachyarrhythmias. The impact of alcohol on the myocardium. Arrhythmogenic right ventricular dysplasia. Witnessing the wiring up of a 24-hour ECG monitor, watching an echocardiogram and ETT.

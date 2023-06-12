@@ -1,27 +1,28 @@
-Mr
-Mr
-Elaborating on his dysarthria He has no history of vocal problems. He stated his speech had not changed since then, and had no diurnal variation. Volume and content of speech were normal.
-Approximately 3-4 weeks ago, Mr He finds it more difficult to swallow solids rather than liquids. Material painlessly sticks at the level of his larynx. He was prescribed antibiotics, and this helped. When his problems swallowing began, he also suffered from a general left-sided weakness, which lasted one day with no persistent sequalae. There is variation in his dysphagia, although he could not elaborate further.
-Mr He has a good appetite, and tries to eat when he can. He has not recently suffered from abdominal pain, experienced a change in bowel habit, there is no change in stool colour, and there has been no overt rectal bleeding. Mr He does not drink.
-Mr He can no longer climb a flight of stairs. He has a wheeze he attributes to asthma, which was diagnosed one year ago, for which he is prescribed Combivent and Salbutamol. Mr He has not recently suffered from a productive cough, haemoptysis, or recent chest pain. There have been no night sweats or fever.
+Mr  is a 65-year-old right-handed male admitted routinely on  for dysarthria.
+Mr  had three presenting complaints; dysarthria, dysphagia and weight loss.
+Elaborating on his dysarthria  said it came on suddenly 3/12 ago; he woke in the morning with a more nasal tone, and had problems pronouncing certain words (e.g. constitution). He has no history of vocal problems. He stated his speech had not changed since then, and had no diurnal variation. Volume and content of speech were normal.
+Approximately 3-4 weeks ago,  began having problems swallowing. Mr  said it occurred when he attempted to swallow quickly; doing so caused him to cough. He finds it more difficult to swallow solids rather than liquids. Material painlessly sticks at the level of his larynx.  said he finds the regurgitation of phlegm especially troublesome. He was prescribed antibiotics, and this helped. When his problems swallowing began, he also suffered from a general left-sided weakness, which lasted one day with no persistent sequalae. There is variation in his dysphagia, although he could not elaborate further.
+Mr  has unintentionally lost more than 2 stone (13kg) over the preceding 3 months. He has a good appetite, and tries to eat when he can. He has not recently suffered from abdominal pain, experienced a change in bowel habit, there is no change in stool colour, and there has been no overt rectal bleeding. Mr  is a former smoker of 200 pack-years. He does not drink.
+Mr  also complains of shortness of breath on exertion. He can no longer climb a flight of stairs. He has a wheeze he attributes to asthma, which was diagnosed one year ago, for which he is prescribed Combivent and Salbutamol. Mr  was also diagnosed with emphysema 4 years ago. He has not recently suffered from a productive cough, haemoptysis, or recent chest pain. There have been no night sweats or fever.
+was also diagnosed with angina 1 year ago.
 He is currently prescribed:
 He has no known allergies.
-Mr He has three children, one of whom lives locally.
+Mr  is a retired labourer who lives at home with his wife. He has three children, one of whom lives locally.
 There is no significant family history.
 A systems review was unremarkable.
-Mr He has limited social support with his wife at home. The clinical picture is strongly suggestive the amytrophic lateral sclerosis type of motor neurone disease, with bulbar invlovement.
+Mr  is a 65 yr-old gentleman who has had little contact with the heath service, and has presented with a confusing constellation of trouble enunciating his words, then trouble swallowing with weight loss. He has limited social support with his wife at home. The clinical picture is strongly suggestive the amytrophic lateral sclerosis type of motor neurone disease, with bulbar invlovement.
 Discharged home with a 4/52 OPD.
 Motor Neurone Disease is a degenerative disease of unknown cause that affects predominantly motor neurons of the spinal cord, cranial nerve nuclei and motor cortex. It therefore affects both upper and lower motor neurones. Its incidence is approximately 2/100 000, except in endemic areas such as Guam. Prevalence is 5-6/100 000. It is twice as common in males. The mean age of onset is 55 years, although the youngest recorded case was 16, and the eldest 77 years of age. Diagnosis is clinical; it is usually an easily identifiable condition.
 It has three classifications:
- Results from lesions to the corticospinal tract and the anterior horn cells and produces the characteristic feature of tonic atrophy - brisk reflexes and fasciculations. AML may have bulbar involvement.
- The presentation is with asymmetrical limb wasting and weakness progressing to a condition where lower motor neurone signs predominate.
+Amytrophic lateral sclerosis- The most common form, accounting for 65-85% of cases of MND. Has both UMN and LMN features. Results from lesions to the corticospinal tract and the anterior horn cells and produces the characteristic feature of tonic atrophy - brisk reflexes and fasciculations. AML may have bulbar involvement.
+Progressive muscular atrophy- PMA accounts for 15-35% of cases of MND. Progressive muscular atrophy results from a lesion of anterior horn cells. The presentation is with asymmetrical limb wasting and weakness progressing to a condition where lower motor neurone signs predominate.
 Bulbar or pseudobulbar palsy/ mixed. Either a spastic, flaccid or mixed presentation of MND.
 It should be noted that the above are not distinct aetiological or pathological variants; they usually merge as the condition worsens.
 The two commonest presentations of MND are dysarthria (25%) and hand wasting (10%). Other presentations are equally vague. Combined UMN and LMN signs are present in 65% cases. Lower limb weakness with spasticity commonly occurs, as dose respiratory difficulty. Important negative features of MND include no sensory/cognitive loss (cf MS), no sphincter involvement or ocular invlovement (cf myasthenia gravis).
 The aetiology of MND is not understood, but two theories have been hypothesised:
- Toxins interacting with glutamate receptors result in cellular Ca Riluzole works by glutamate activity.
- Motor neurone damage by a cascade of reactions initiated by electron capture by oxygen free radicals e.g. superoxide and peroxide.
+Excitotoxicity. Toxins interacting with glutamate receptors result in cellular Ca 2+ overload. Riluzole works by glutamate activity.
+Oxidative damage due to free radicals. Motor neurone damage by a cascade of reactions initiated by electron capture by oxygen free radicals e.g. superoxide and peroxide.
 The latest thinking on this progressive, degenerative disease is that relentless degeneration of motor nerve cells is programmed genetically, and combines with the above processes. Abnormal RNA splicing of the excitatory amino acid transporter EAAT2 gene was once thought to be specific for MND, although non-sufferers have recently been discovered with this gene. There is a familial form of MND with mutations on 21q encoding for free radical scavenging copper/zinc superoxide dismutase (SOD-1).
 Management of MND is symptomatic, and only one treatment had been shown to halt progression. Riluzole is a sodium channel blocker that inhibits glutamate release. It slows progression slightly (3-5 months) and is more effective in those with bulbar onset. Survival may be prolonged by ventilatory support and feeding via gastrostomy. Outlook for MND is bleak; remission is unknown. The disease exhibits a gradual progression and usually causes death from bronchopneumonia or respiratory failure. Survival for more than 3 years is unusual, although there are some variants in which patients survive for a decade or longer. Giving accurate advice to MND patients is especially difficult.
 Bulbar and pseudobulbar palsy; presentation of MND, end of life issues. Difficulty communicating uncertain prognoses to patients.
-Riluzole for Motor neurone disease-full guidance. NICE.
+Riluzole for Motor neurone disease-full guidance. NICE. .

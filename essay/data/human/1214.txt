@@ -1,17 +1,23 @@
-For the ES180 Technological Science module it is a requirement that the Dimensional Analysis laboratory is carried out. This laboratory is concerned with fluid mechanics, and more specifically analysis of fluid flow in a V-notch weir. Dimensional analysis is a necessary requisite because of the complex nature of fluid flow. The objective of this report is to show that  This being done by using a V-notch weir layout (outlined in the report).
+For the ES180 Technological Science module it is a requirement that the Dimensional Analysis laboratory is carried out. This laboratory is concerned with fluid mechanics, and more specifically analysis of fluid flow in a V-notch weir. Dimensional analysis is a necessary requisite because of the complex nature of fluid flow. The objective of this report is to show that Eq. 1 
+ where Q= volumetric flow rate in m 3s -1, and h=the depth of fluid over the V-notch. This being done by using a V-notch weir layout (outlined in the report).
 This laboratory was designed to test derived formula for flow rate empirically: its objective is to assess the accuracy of the formula, Eq. 1 via empirical means.
-Eq.
-(where Q= volumetric flow rate in m Substituting k= 2.
-Eq.
+Eq. 1
+(where Q= volumetric flow rate in m 3s -1, and h=the depth of fluid over the V-notch.) Substituting k=5/2 gives Eq. 2.
+Eq. 2
 Taking logarithms will lead to Eq.3
-Therefore, if Eq. 1 is correct then the gradient of a graph depicting Eq. 3 will have a gradient, This report will determine a value of
+Eq.3
+Therefore, if Eq. 1 is correct then the gradient of a graph depicting Eq. 3 will have a gradient, k, of 5/2. This report will determine a value of k.
 The theoretical implications impact upon the design of dams and weirs. The V-notch method of determining flow rate was used because it is accurate and simple, leaving little room for human error in carrying it out.
-After completion of the practical laboratory it was concluded that the value of
-Eq. 1 was derived from application of dimensional analysis and the Buckingham The Buckingham It states that if there is 'a physically meaningful equation involving a certain number, For the purposes of the experimenter, different systems which share the same description in terms of these dimensionless numbers are equivalent.'
+After completion of the practical laboratory it was concluded that the value of k calculated in this laboratory, 1.14, was incorrect due to inaccuracies in taking down the results.
+Eq. 1 was derived from application of dimensional analysis and the Buckingham  theorem, following the process set out in pages 8 to the end of Appendix 1. The Buckingham  theorem is key in dimensional analysis. It states that if there is 'a physically meaningful equation involving a certain number, n, of physical variables, and these variables are expressible in terms of k independent fundamental physical quantities, then the original expression is equivalent to an equation involving a set of p = n 
+
+k dimensionless variables constructed from the original variables. For the purposes of the experimenter, different systems which share the same description in terms of these dimensionless numbers are equivalent.'1
 In this experiment the relevant dimensions were length, time and mass.
-Fig. 1 is a picture of the equipment used and Fig.2 is a schematic of the apparatus. Initially the pump was turned off so that new fluid flowed and there was a state of equilibrium whereby the water in the tank was still and at a level just below the V-notch. At this point the scale (on the side of the blue tank) was set to zero by moving the submerged hook to the same height as the water. This set a reference point for height difference,
-The pump was then switched on and water flowed at a rate determined by the how far the valve was opened. This discharge rate, 5 readings were taken.
-The manometer reading and
+1
+ 13/02/06
+Fig. 1 is a picture of the equipment used and Fig.2 is a schematic of the apparatus. Initially the pump was turned off so that new fluid flowed and there was a state of equilibrium whereby the water in the tank was still and at a level just below the V-notch. At this point the scale (on the side of the blue tank) was set to zero by moving the submerged hook to the same height as the water. This set a reference point for height difference, h: it was then measured relative to this zero point.
+The pump was then switched on and water flowed at a rate determined by the how far the valve was opened. This discharge rate, Q, was calculated by equating the height difference in the 2 manometers to the corresponding value for Q on a graph. 5 readings were taken.
+The manometer reading and h were calculated by a manometer and gauge (respectively) which had a minimum 0.001m division so the above figures have an accuracy of 0.0005m.
 The graph produced by the results has a gradient of 1.14, which is not close to the expected value of 2.5. From the graph it is evident that the gradient is closer to 2.5 at the beginning of the experiment. This enforces my belief that the inaccuracies arise because the readings taken were averaged over a period of time and not instantaneous as the readings diverge more from the expected gradient as the flow rate increases. These inaccuracies render the results as a whole not especially useful, but the earlier results are more indicative of what one would expect.
 In the class results were varied, however some came closer to the expected results. This could be because other groups used a slower flow rate.
 In order to improve the reliability of these results a high resolution, low shutter speed camera could be used to ensure that results are instantaneous, rather than averaged over a period of time.
