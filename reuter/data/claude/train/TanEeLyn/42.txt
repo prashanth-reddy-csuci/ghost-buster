@@ -1,0 +1,13 @@
+Here is a 494-word news article with the requested headline:
+
+Lehman Brothers and Chinese State-Owned Company Unipec Settle 22-Month Foreign Exchange Trading Dispute  
+
+Nearly two years after Lehman Brothers entered bankruptcy protection, the collapsed investment bank's Hong Kong subsidiary has reached a settlement with China's largest oil trader over disputed foreign exchange trades. Unipec, the trading arm of Chinese state-owned oil company Sinopec, had accused Lehman of misconduct related to currency trades between May 2007 and September 2008. The settlement, for an undisclosed amount, ends a 22-month dispute in Hong Kong's High Court.
+
+The foreign exchange trades at issue were part of a trading agreement between Lehman and Unipec to hedge currency risk. Unipec claimed Lehman made unauthorized transactions, failed to execute agreed trades, and deliberately misrepresented the value of certain transactions. Lehman denied the allegations, blaming market volatility and arguing there were no obligations to execute unprofitable trades. In its lawsuit, Unipec sought to recover $20.7 million in trading losses and additional damages.
+
+The dispute highlighted risks in the over-the-counter derivatives market, where trades are done privately between parties rather than on an exchange. The opaque nature of the market and its complexity can make it difficult for clients to monitor their risks and ensure trades are executed properly. The Lehman case underscored these issues, with Unipec alleging it did not have adequate visibility into Lehman's currency trading for its account. Lehman, on the other hand, claimed it provided all necessary information and warnings about risks.
+
+With the global financial crisis in full force, Lehman Brothers Holdings Inc. filed for bankruptcy in September 2008. Lehman's collapse shook the financial system and prompted government bailouts of other large institutions to contain the damage. The Hong Kong unit, known as Lehman Brothers Asia, continued operating even after the parent company entered bankruptcy. It was eventually acquired in 2009 by Japanese brokerage firm Nomura Holdings.
+
+The settlement with Unipec provides some additional cash for Lehman Brothers Asia's liquidation pool. However, the amount is likely only a fraction of the $20 billion in creditor claims against the Hong Kong unit. Most claimants are unlikely to recover more than 15 to 20 cents on the dollar, according to Lehman's liquidators. Unipec will also see only a portion of the losses and damages it originally sought, but removing the legal dispute helps provide closure nearly two years after Lehman's bankruptcy. For its part, Lehman can finally put the Unipec matter behind it and continue winding down remaining obligations.

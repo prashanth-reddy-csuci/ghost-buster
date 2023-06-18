@@ -1,0 +1,15 @@
+Here is a 500-word news article with the headline "Networking Stocks Take a Hit After Cascade Communications Corp's Sell-Off":
+
+Networking Stocks Take a Hit After Cascade Communications Corp's Sell-Off 
+
+Shares of major networking companies fell sharply today following Cascade Communications Corp's announcement that it plans to sell nearly half of the company. Cascade Communications, a maker of networking equipment, said it will sell 45% of the company to a group of private investors for $2.1 billion. The deal values the entire company at $4.7 billion, well below analysts' estimates of $6-8 billion.
+
+The lower than expected valuation and partial sale of Cascade Communications sent shares of other networking companies tumbling. Cisco Systems stock dropped nearly 8%, Alcatel fell 9%, 3Com was down 11%, and Lucent Technologies declined over 6%. Investors fear that the weak valuation for Cascade Communications suggests that the networking equipment market may be slowing down more than thought. 
+
+"This is raising concerns about the overall health of the networking sector," said Tom Nolte, a telecommunications analyst at investment bank Donaldson, Lufkin & Jenrette.  "If a premier company like Cascade can only fetch this type of valuation, what does that say about other players in the networking space?"
+
+Cascade Communications executives defended the deal and claimed the sale price reflects unique circumstances at the company rather than industry-wide issues. "This transaction is about Cascade's desire to diversify its shareholder base and raise capital to invest in our business," said John Chambers, Cascade's CEO. "It is not an indication of softening demand or a slowdown in the networking market."
+
+However, Cascade Communications also reported earnings and revealed sales growth slowed to 9% last quarter compared to over 30% growth the prior year. The company blamed part of the slowdown on customers delaying purchases ahead of the planned release of key new networking products next month. But analysts said the results still add to concerns of decelerating sales across the sector.
+
+With tech stocks under pressure recently due to warnings of slowing growth, the Cascade Communications news appears to be the catalyst that led the networking sector to plummet today. Investors will now be closely monitoring results from other leading networking companies to determine if Cascade's troubles reflect industry headwinds or company-specific issues. Overall, technology stocks declined by 2.3% today amid the broader sell-off in networking shares.

@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the given headline:
+
+Iomega Corp. to Revolutionize Electronic Devices with New Reusable Data Storage System, "n-hand"  
+
+Tech giant Iomega Corporation announced today the release of a revolutionary new data storage system that could transform how we interact with electronic devices. Called "n-hand", the new system allows any digital device to have essentially unlimited reusable storage that users can simply pick up and move from one device to another.
+
+"For too long, consumers have been frustrated by the limitations of storage on their phones, tablets, laptops, and other electronics," said Iomega CEO Jonathan Faison. "n-hand solves this problem by giving people a simple way to store, access, and reuse data across all their devices." 
+
+The n-hand system consists of a series of lightweight, integrated circuit chips that can store up to 256 terabytes each of data, photos, videos, and other digital information. The chips are enclosed in a durable case about the size of a credit card that users can touch to instantly connect with any compatible electronic device. Once connected, the n-hand chip appears as another storage drive that users can save to, access, and move files from freely.
+
+When connected to a phone or tablet, n-hand provides more storage than most devices offer. But the real power is the ability to remove the chip and connect it to another device to access all the same data and files. No longer do users need to manually transfer data between electronics or rely on often frustrating cloud-based storage options. Your data can now instantly and securely go wherever you go.
+
+While n-hand may take a bite out of the market for traditional hard drives and other storage technologies, analysts predict the convenience and flexibility it offers will drive rapid mainstream adoption. Iomega plans to introduce the first n-hand chips in 256TB and 512TB versions within the next year, with larger sizes to follow. The company also hopes to work with leading electronics makers to integrate n-hand compatibility into new devices. With n-hand, the era of abundant and utterly portable digital storage may finally be upon us.

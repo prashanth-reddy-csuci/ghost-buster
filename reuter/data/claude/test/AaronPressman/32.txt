@@ -1,0 +1,15 @@
+Here is a 500-word news article with the given headline:
+
+House Judiciary Committee Approves Bill to Relax Export Restrictions on Computer Encoding Technology 
+
+The House Judiciary Committee today approved controversial legislation that would ease export restrictions on advanced computer encryption technology. The bill, known as the Export Freedom Act, passed by a vote of 22 to 15 despite objections from intelligence and law enforcement officials.
+
+The Export Freedom Act would allow U.S. technology companies to sell sophisticated encoding software and devices to foreign buyers without first obtaining a special license. Supporters argue this will boost technology exports and help U.S. companies better compete in foreign markets. However, critics warn it could undermine national security by making it easier for adversaries to hide communications and store data securely.
+
+Encryption technology scrambles digital information like emails, texts, and data files to make them unreadable without a decryption key. Strong encryption is used to protect sensitive communications and defend against cyberattacks, but it also allows criminals and terrorists to evade law enforcement.
+
+The Judiciary Committee debate highlighted this tension between privacy, security and business interests. Rep. Henry Waxman (D-CA), the bill's sponsor, said current export controls were outdated and harmed the tech sector. "We must allow U.S. companies to compete globally instead of ceding markets to foreign competitors," Waxman said. 
+
+But Rep. Mike McCaul (R-TX), called it "a dangerous mistake" that would "only benefit authoritarian regimes like China, Russia and others who seek to penetrate our national security systems.” The Director of National Intelligence and Attorney General also urged lawmakers to vote against the bill, saying it posed "real risks to public safety and national security."
+
+The legislation still needs approval by the full House and Senate before it can become law. However, with tech companies ramping up lobbying efforts and public support for encryption growing in the wake of privacy scandals, the bill has momentum coming out of committee. If passed, it would represent a major policy shift that provides companies more discretion on export controls but handing a defeat to intelligence agencies fighting to limit the spread of unbreakable encryption technology.

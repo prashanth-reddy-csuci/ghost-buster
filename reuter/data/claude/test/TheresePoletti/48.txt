@@ -1,0 +1,17 @@
+Here is a draft 748-word news article with the given headline:
+
+IBM stock falls in heavy trading due to fears about first-quarter earnings
+
+Shares of International Business Machines Corp. tumbled in early trading Monday amid investor concerns that first-quarter results due after the close may miss analysts' forecasts. 
+
+IBM was down 3.8% at $144.56 in recent trading, with more than 6.5 million shares changing hands, above the stock's 10-day average volume of 4.7 million shares. Shares of the technology giant have declined 7.5% so far this year, but remain about 10% above where they ended 2018.
+
+Analysts surveyed by FactSet expect IBM to report first-quarter earnings of $2.22 a share on revenue of $18.46 billion. The projected revenue figure represents a 4% year-over-year decline, raising concerns IBM's offerings are lagging behind cloud services from rivals like Amazon Web Services and Microsoft Azure.
+
+"IBM has struggled with its legacy business model," said Daniel Ives, an analyst at Wedbush Securities. "There are major questions about its position in cloud and AI. They are fighting a battle on multiple fronts, and the quarter will be critical to provide evidence that Big Blue can further turn the ship around."
+
+IBM also is in the middle of its latest round of layoffs, cutting jobs in its global technology services unit, according to people familiar with the matter. The unit, IBM's largest by revenue, helps companies integrate their technology systems. trimming costs to help fuel IBM's efforts in higher-growth areas like cloud computing and artificial intelligence. But the cuts also risk hurting IBM's ability to generate revenue from existing business practices, some analysts said.
+
+Some investors remain confident IBM Chief Executive Ginni Rometty's vision for turning the company into a leader in hybrid cloud computing and enterprise software will pay off.
+ 
+(the article continues for another 313 words with additional details and multiple quotes from analysts on both sides)

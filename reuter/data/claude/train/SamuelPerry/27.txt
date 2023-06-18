@@ -1,0 +1,17 @@
+Here is a draft 500-word news article with the given headline:
+
+Lotus Unveils SmartSuite 97 with Eye on Internet Functionality and Competitive Pricing  
+
+Lotus Development Corporation today unveiled the latest version of its office productivity software suite with Lotus SmartSuite 97. The new release aims to boost Lotus’ competitive position versus Microsoft Office with improved Internet functionality, bundled web authoring tools, and lower pricing.
+
+Lotus SmartSuite 97 includes enhanced versions of 1-2-3 spreadsheet, Ami Pro word processor, Freelance Graphics presentation software, Approach database, and ScreenCam. The suite also now bundles Lotus’ FastSite web authoring tool and Cybermedia’s First Aid 95 desktop utility software. 
+
+According to Lotus, SmartSuite 97 simplifies web publishing by allowing users to save documents in HTML format suitable for posting on web pages. The FastSite web authoring tool provides an easy way to create and maintain web sites without knowledge of HTML. SmartSuite 97 also offers tighter integration with Lotus Notes for easy sharing of documents across workgroups.
+
+In a nod to competitive pressures from Microsoft Office, Lotus cut the estimated retail price of SmartSuite 97 to $395, down from $495 for the previous version. Lotus is also offering a $99 competitive upgrade to SmartSuite 97 for users of Microsoft Office and Corel's WordPerfect Suite.
+
+"With this release, we're delivering the Internet functionality, tight integration, and affordable value that customers have been asking for," said John Landry, chief product officer at Lotus. "SmartSuite 97 provides a simple way for mainstream business users to leverage intranets as well as the broader Internet."
+
+Industry analysts view the bundling of FastSite and the price reduction as a sign that Lotus faces challenges in the competitive office suite market. “Lotus needed to take aggressive action to counter Microsoft's dominance,” said Chris Le Tocq, an analyst with Dataquest. “Whether these moves will be enough to revive interest in SmartSuite remains to be seen.”
+
+SmartSuite 97 will be available at the end of this month. Lotus will be exhibiting the new suite at the Internet World trade show next week and demonstrating its web capabilities. The company hopes that the new Internet focus, bundled tools, and competitive pricing will garner more attention and sales in the coming year after a few years of declining market share.

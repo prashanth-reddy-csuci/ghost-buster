@@ -1,0 +1,19 @@
+Here is a 745-word news article with the requested headline:
+
+Microsoft Stock Soars to Record High After Smashing Wall Street Estimates With 85% Increase in Quarterly Earnings 
+
+Microsoft shares surged to an all-time high on Thursday after the tech giant reported fiscal second-quarter results that blew past Wall Street estimates by a wide margin.
+
+The company posted earnings of $2.03 per share on revenue of $43.6 billion. Analysts surveyed by Refinitiv were expecting earnings of $1.64 per share on revenue of $40.9 billion.
+
+ Microsoft's revenue was up 17% year over year in the quarter that ended Dec. 31. Its cloud computing business Azure saw revenue growth of 62% in the quarter. The company does not disclose Azure's revenue in dollars.
+
+"Our solid execution delivered record results this quarter, with double-digit top and bottom line growth," CEO Satya Nadella said in a statement. "We continue to benefit from our investments in strategic, high-growth areas like cloud, and we remain well-positioned to help our customers in the current economic environment and beyond."
+
+The blockbuster results and robust guidance boosted Microsoft shares up as much as 5% to $272 in extended trading on Thursday after closing at $258.47. The shares continued rising in early trading on Friday and eclipsed their previous record close of $261.97 from late 2019. The stock ended the formal trading session up nearly 5%, closing at $265.79, a record high.
+
+Microsoft is benefiting as businesses continue to invest in cloud computing and technologies that enable remote work during the coronavirus pandemic. Cloud platforms like Azure and remote collaboration tools such as Teams have seen demand surge since the crisis started. The trend is likely to continue as many companies plan to support distributed workforces even after workers start returning to offices.
+
+For the fiscal third quarter, Microsoft guided to revenue between $13.55 billion and $13.80 billion in its Intelligent Cloud segment, implying 47% year-over-year growth at the midpoint. Analysts were expecting $13.07 billion, according to CNBC. The company also forecast overall third-quarter revenue of $41.7 billion to $42.7 billion, which is higher than the $40.92 billion consensus estimate.  
+
+(Continued on next page)

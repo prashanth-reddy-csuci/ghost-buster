@@ -1,0 +1,15 @@
+Here is a draft 743-word news article with the requested headline:  
+
+Federal Appeals Court Delays FCC Rule on Opening Local Phone Monopolies to Competition
+
+A federal appeals court today issued an order delaying the implementation of a Federal Communications Commission rule aimed at introducing more competition into the local telephone market. The U.S. Court of Appeals for the District of Columbia Circuit granted a request by incumbent local exchange carriers (ILECs) for an indefinite stay of the FCC's rule.   
+
+The FCC rule, adopted in December, would have required ILECs like AT&T, Verizon, and CenturyLink to begin sharing their networks with competitors on January 1. Under the FCC's approach, competitive local exchange carriers (CLECs) could lease parts of ILEC networks to reach customers more quickly and cheaply. By relying on already-built ILEC networks, upstart CLECs could enter new markets faster to offer alternative choices for phone and Internet service. 
+
+ILECs petitioned the court in March to block the rule, arguing that mandated network sharing at government-set rates amounted to an improper government "taking" of private property without just compensation. In their request for an emergency stay, the ILECs said that beginning to share their networks on January 1 as the FCC required would cause them "irreparable harm" that could not be remedied even if they ultimately prevailed in court.
+
+In its short order today, the three-judge D.C. Circuit panel granted the stay without explanation, canceling the January 1 start date for network sharing under the FCC's rule. The move is a victory for ILECs hoping to maintain control over their networks, but a setback for CLECs and consumer advocates pushing for more competition in local phone markets.
+
+The FCC adopted its network-sharing rule by a 3-2 vote last December, with a goal of spurring new investment and innovation in local telecom infrastructure. FCC Chairman Tom Wheeler, who supported the rule, expressed disappointment with today's court order. In a statement, Wheeler said the stay "unnecessarily delays the promise of more competitive choices and lower prices for consumers." The Chairman pledged to work to "convince the court to allow this critical competition policy to move forward."
+
+The stay issued by the D.C. Circuit panel will remain in effect until the court issues its opinion on the merits of the ILECs' underlying challenge to the FCC's network-sharing rule. The court set an expedited briefing schedule, with final briefs due in April and a hearing potentially in September. However, there is no fixed timeline for when the court may ultimately issue its decision.

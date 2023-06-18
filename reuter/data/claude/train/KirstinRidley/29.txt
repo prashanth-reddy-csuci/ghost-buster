@@ -1,0 +1,15 @@
+Here is a 733-word news article with that headline:
+
+Intel Launches New Pentium MMX Chip with Multimedia Technology, Promising TV-Quality Video and 3D Graphics for PCs 
+
+In a move that promises to bring vastly improved multimedia capabilities to personal computers, Intel Corporation has unveiled its new Pentium processor with MMX technology. The Pentium MMX chip is equipped with 57 powerful new instructions designed to enhance the computer's ability to handle digital video, audio, and 3D graphics.  
+
+With the Pentium MMX processor, Intel aims to make the PC a more capable and compelling platform for enjoying digital entertainment and multimedia. The new chip should enable PCs to more fluidly handle full-motion video, photo-realistic 3D graphics, and CD-quality audio—capabilities previously limited to dedicated multimedia devices and workstations.
+
+The MMX instructions built into the Pentium MMX chip can perform up to four complex tasks simultaneously. This allows for processing digital video and graphics at much faster speeds than standard Pentium processors. Intel estimates the Pentium MMX chip can enable video playback that is up to 2.5 times faster than previous Pentium chips and 3D graphics rendering that is up to twice as fast.
+
+The performance boost would make it possible for mainstream PCs to playback full-screen, full-motion digital video in a small resizable window—a level of video quality that approaches VCR and TV standards. The 3D graphics capabilities, meanwhile, promise game-like texture and detail for 3D graphics and animation on PCs. CD audio can be synchronized and mixed with the video and graphics for a complete multimedia experience.
+
+The Pentium MMX chip maintains full compatibility with the installed base of Pentium processor–based PCs and operating systems. But to take advantage of its new multimedia instructions, the chip needs to work with MMX-enhanced applications, codecs, and drivers optimized to tap into its performance potential. Intel has been working with software vendors to ensure wide availability of MMX-optimized software. The company expects more than 200 MMX applications to be available when PCs with the Pentium MMX processor start shipping later this year.
+
+Through a marketing campaign focused on “virtual entertainment,” Intel aims to drive rapid adoption of PCs equipped with the Pentium MMX chip as well as of MMX applications and content to showcase its multimedia prowess. If it succeeds, the new chip and its multimedia optimizations could make the PC an even more compelling and versatile computing platform for business and personal use. For consumers in particular, the Pentium MMX processor may help unleash the PC’s potential as a home theater and entertainment system for enjoying digital music, movies, games, and more.

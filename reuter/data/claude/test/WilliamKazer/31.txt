@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the given headline:
+
+China Reveals Cause of Failed Satellite Launch: Electrical Problem with New Generation Launcher 
+
+China's space agency announced today that an electrical malfunction caused last week's failed launch of a new satellite. The Long March 7A rocket was attempting to lift the GF-3B Earth observation satellite into orbit when it veered off course shortly after takeoff from Wenchang Space Launch Center on Hainan Island. Ground controllers had to initiate the self-destruct mechanism to avoid potential damage.
+
+According to the China National Space Administration (CNSA), preliminary analysis points to a short circuit in the rocket's guidance system that caused it to malfunction and go off course. The Long March 7A rocket is China's latest generation of launch vehicle and has only had one previous successful launch. The GF-3B satellite was designed to monitor ocean wind speeds and directions to improve weather forecasting. Its loss is a setback to China's ambitious space program.
+
+"We deeply regret the failure of this launch," said CNSA spokesperson Wu Yanhua. "The Long March 7A rocket and GF-3B satellite were critical to improving our meteorological monitoring and forecasting capabilities. Our engineers are working closely to determine the exact cause of the short circuit in the rocket so we can make corrections before the next launch window opens."
+
+The failure comes at a sensitive time for China's space program. Next month, China is scheduled to launch the core module for its planned permanent space station. The module launch will be carried to orbit aboard a Long March 5B rocket, a variant of the Long March 5. Any issues with the new Long March 7A rocket could potentially impact the space station plans. China is aiming to complete assembly of the space station by 2022.
+
+No casualties or damage to infrastructure have been reported from the failed launch. Debris from the rocket is believed to have fallen into the ocean without affecting inhabited areas. China's ambitious space plans, including a Mars mission next year and a mission to bring samples back from the moon by 2030, highlight its aim to become a major space power. But setbacks like last week's satellite loss underscore the risks and technical challenges inherent to space activity. CNSA said it will continue to investigate the cause of the electrical malfunction thoroughly to ensure safe flight operations going forward.

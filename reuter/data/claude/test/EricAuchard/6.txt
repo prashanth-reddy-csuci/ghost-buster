@@ -1,0 +1,13 @@
+Here is a 250-word news article with the given headline:
+
+Cascade Communications Corp's Frame-Relay Business Continues to Grow at Hyper-Growth Rates Despite Concealment in Other Areas
+
+Cascade Communications Corp announced another quarter of hyper-growth for its flagship frame-relay business. The division grew 47% year-over-year, continuing its rapid expansion. However, the company's overall revenue growth was only 22% due to declines in other aging divisions.  
+
+Frame relay is a packet-switching telecommunications service designed for cost-efficient data transmission for intermittent traffic between local area networks. Cascade Communications is the market leader in frame-relay networking equipment and has ridden the wave of growth in this market segment. "Our frame-relay solutions continue to gain traction as more companies upgrade their networks to handle increased data traffic," said CEO Mark Johnson.
+
+Meanwhile, Cascade's ATM or asynchronous transfer mode business has stalled as customers move to newer networking technologies like frame relay and IP networking. Revenue from ATM products declined 18% from a year earlier. The company's dial-up modem division also continues to shrink as broadband internet access proliferates.
+
+To offset weakness in other areas, Cascade began an aggressive campaign last year to cross-sell frame-relay equipment to its installed base of ATM and dial-up customers. This strategy appears to be working as frame-relay sales to existing clients now make up 43% of total revenue in that division. However, some analysts worry the company is too reliant on a single product line and not diversified enough. 
+
+The market seemed to validate those concerns, with Cascade shares dropping nearly 7% on the quarterly report. Investors may be spooked by the sharp declines in the company's legacy businesses that were not fully offset by the frame-relay unit. Cascade management raised its forecast for the current quarter but analyst Richard Nelson at InfoTech Markets said, “We remain cautious given their dependence on frame relay and the lack of new growth drivers on the horizon.” Overall, Cascade continues its transition from a telecom equipment maker to a networking powerhouse, but not without some bumps along the way.

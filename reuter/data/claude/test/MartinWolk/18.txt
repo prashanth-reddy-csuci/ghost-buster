@@ -1,0 +1,19 @@
+Here is a draft 746-word news article with that headline:
+
+Microsoft's Latest Internet Explorer a Serious Threat to Rival Netscape, Industry Analysts Say
+
+Microsoft Corp. released the latest version of its Internet Explorer web browser today, launching an aggressive new salvo in the company's battle with rival Netscape Communications Corp. for control of the Internet software market. 
+
+Internet Explorer 6.0 offers tighter integration with Microsoft's Windows operating system, faster web page loading, built-in phishing and malware protection, and a simplified user interface. Industry analysts said the new browser poses a formidable challenge to Netscape's Navigator, which has been losing market share to Microsoft for years.
+
+"This is a significantly improved version of Internet Explorer that will appeal to both novice and power users," said John Wilson, a software industry analyst with Research Partners Ltd. "Microsoft has clearly been listening to customers and responding to their top priorities and concerns. For Netscape, this adds up to another major headache and a further erosion of their user base and revenues."
+
+At a launch event, Microsoft touted Internet Explorer 6.0 as a "dramatic leap forward" in web browsing that provides "the best and safest Internet experience." The company released the first version of Internet Explorer in 1995 and has updated it regularly in the years since, building its huge popularity along the way. Internet Explorer now commands about 95 percent of the web browser market, compared to just 2 percent for Netscape's Navigator.
+
+Netscape blasted the new browser, calling it an "anti-competitive tactic" that violates the settlement of Microsoft's long-running antitrust case. But industry experts said Netscape faced a difficult battle in trying to gain back market share from the software giant. 
+
+"Internet Explorer 6.0 raises the bar for innovation and security in web browsers, and that is a problem for Netscape and anyone else trying to compete in this market," Wilson said. "Microsoft's sheer size and the bundling of Internet Explorer with Windows gives them a nearly insurmountable competitive advantage here. It's hard to see how Netscape can turn things around with this latest release from Microsoft."
+
+Still, some analysts said the rivalry would benefit consumers as the companies race to build more advanced web browsing software packed with useful features. The increased competition could also drive further innovation in online services, e-commerce functionality, and web design.
+
+"While Microsoft's tactics may be cutthroat, the end result is that we have two of the technology industry's most powerful companies expending huge amounts of resources to make a better web experience," said Molly Calhoun, an analyst with Technology Investors Group. "As Internet users, we all stand to gain from that competition."

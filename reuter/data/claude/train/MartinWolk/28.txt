@@ -1,0 +1,13 @@
+Here is a 502 word news article with the requested headline:
+
+Netscape Launches Navigator Software with New E-mail Feature and Content Partnerships, as Microsoft Poses Threat with Internet Explorer 3.0  
+
+Software company Netscape Communications Corp. today released the latest version of its popular Netscape Navigator web browser. Version 3.0 of the browser software includes a new integrated e-mail feature called Netscape Messenger as well as content partnerships with several major media companies. The release comes as rival Microsoft Corp. prepares to launch version 3.0 of its competing Internet Explorer browser.
+
+Netscape Navigator 3.0 provides a single interface to access both the World Wide Web and e-mail. The integrated Netscape Messenger e-mail package allows users to automatically link from web pages to send e-mails, as well as search e-mails for addresses and web links to easily access online information. “Netscape 3.0 is the first internet client software to seamlessly integrate access to both web content and communications like e-mail into a single application,” said Netscape CEO Jim Barksdale.
+
+To provide more content for users, Netscape has also teamed up with companies like Disney, Time Warner, and CNN to offer news, entertainment, and sports sections within the Navigator interface. “We're delivering real value to internet users by bundling access to compelling content right within the browser,” Barksdale said. 
+
+However, the new release comes amid increased competition from Microsoft, whose Internet Explorer 3.0 browser is slated for release next month with many similar features aimed at gaining market share from Netscape. Microsoft has succeeded in bundling Internet Explorer with its dominant Windows operating system, enabling the company to gain significant browser market share in recent years. Microsoft's browser also comes bundled with content from partners like ESPN, Fortune, and USA Today.
+
+With its latest browser release, Netscape hopes to stem the loss of users to Internet Explorer by providing an integrated e-mail and content experience that requires only a single open application. The competition for the internet browser market is intensifying, as each new software version from Microsoft and Netscape aims to become the primary way that people access the World Wide Web and online information. Internet browsers are increasingly becoming a platform for a variety of internet software and services, making them a strategic product for both companies vying for control of the internet experience.

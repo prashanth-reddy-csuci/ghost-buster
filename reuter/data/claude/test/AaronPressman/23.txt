@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the given headline:
+
+Senate Banking Committee Chairman Warns Federal Reserve and Banks About Y2K Precautions 
+
+The Chairman of the Senate Banking Committee issued a stern warning today to the Federal Reserve and major U.S. banks about the need to take adequate precautions for the year 2000 computer problem, also known as Y2K. Senator John Doe (D-NY) said that with less than 18 months until the turn of the century, the Federal Reserve and banks have not made sufficient progress assessing and fixing systems that could threaten operations and compromise customer data.
+
+"The Y2K problem is real and it is serious," said Senator Doe at a committee hearing today. "The Federal Reserve and U.S. banks have a responsibility to alleviate fears about potential disruptions and ensure that systems continue to function properly into the next century." The Senator pointed to a recent report from the General Accounting Office that found many midsize banks have not even begun assessing Y2K compliance.  
+
+Federal Reserve Chairman Alan Greenspan assured the committee that the central bank has made Y2K compliance a top priority and has allocated significant resources to identify and fix any systems that could malfunction in the year 2000. However, Greenspan acknowledged that the Federal Reserve is still finding problems and that testing key systems will likely continue into next year. 
+
+Executives from Citigroup, JPMorgan Chase, Bank of America, and Wells Fargo also testified at the hearing about their plans for addressing the Y2K issue. The bank executives said they have been working on Y2K programs for over two years and expect to have the vast majority of systems ready before 2000. However, they cautioned that some work is ongoing and that not all potential risks can be eliminated.
+
+Senator Doe urged the Federal Reserve and banks to share information about Y2K problems to help accelerate the compliance process for smaller banks and credit unions. He also pressed the executives on whether fees or service disruptions were possible if all systems were not fully compliant in time. The executives declined to make guarantees but said they aim to minimize any negative impact on consumers. Senator Doe concluded the hearing by saying he plans to introduce legislation to hold financial institutions accountable if they fail to meet adequate Y2K standards and customers suffer harm as a result.

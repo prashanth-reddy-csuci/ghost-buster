@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the given headline:
+
+U.S. and European firms develop world's first system for Internet money transactions using smart cards and GSM network 
+
+Leading technology companies from the U.S. and Europe today announced the development of a new electronic payment system that allows consumers to make secure purchases on the Internet using smart cards and mobile phones. The new system, called SEMPRE, is the world's first end-to-end solution for card and mobile payments over the Internet.
+
+SEMPRE was created through a partnership between major players in the payments industry, including Visa, Mastercard, American Express, Nokia, Ericsson and others. The system uses near-field communication (NFC) technology to enable contactless payments using smart cards and NFC-enabled phones. To make a purchase on the Internet, a consumer simply taps their card or phone at an NFC reader connected to their computer. The payment details are then transmitted securely over the Internet using the GSM digital mobile network.  
+
+The SEMPRE system addresses key concerns around security and privacy that have prevented the widespread adoption of "card-not-present" transactions on the Internet. All sensitive payment data is encrypted and authenticated using public key infrastructure to prevent fraud and ensure that payment details cannot be compromised. The NFC technology also provides additional security through the physical tap of the card.
+
+Executives from the SEMPRE partners hailed the new system as a breakthrough that will accelerate the growth of e-commerce. "By combining smart cards, mobile payments and the GSM network, SEMPRE provides unprecedented levels of security and convenience for customers," said John Smith, CEO of ABC Payments Solutions, one of the founding members of the consortium. Jane Doe, Director of Mobile Commerce at Nokia, said "SEMPRE is the missing link that will allow mobile payments to go mainstream and propel the mobile commerce ecosystem."
+
+The SEMPRE payment system will undergo live trials over the next 12 months in several European countries before a wider commercial launch across Europe and in the United States. The companies plan to make the system available for licensing to banks, merchants, and other players in the payments industry. If broadly adopted, SEMPRE could handle billions of transactions within the next few years, marking a turning point in the small but fast-growing world of "tap-and-go" mobile and smart card payments.

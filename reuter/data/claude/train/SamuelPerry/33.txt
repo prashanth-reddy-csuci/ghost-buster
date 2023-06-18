@@ -1,0 +1,17 @@
+Here is a 487 word news article with that headline:
+
+High Technology Venture Fund Investment Increases 50% in Q3 as Overall U.S. Venture Investment Rises 25% From Year-Ago Levels   
+
+U.S. venture capital investment in high technology companies surged 50% in the third quarter of this year compared to the same period last year, according to the MoneyTree report from PricewaterhouseCoopers and the National Venture Capital Association, based on data from Thomson Reuters. The strong growth in tech startup funding highlights the optimism in the venture capital community about disruptive new technologies that could shape the future.
+
+Venture capitalists invested $20.2 billion in U.S. startups during the third quarter, up 25% from a year ago. The most active sectors were software and biotechnology.  More than half of that total, $10.8 billion, went into tech companies, making it the largest quarter for tech funding since 2000. Artificial intelligence, virtual reality, and self-driving car technologies were among the hottest areas of investment.  
+
+“VC investment in new technologies is accelerating as firms race to invest in the next generation of startups,” said Tom Ciccolella, U.S. Venture Capital Leader at PwC.  “AI and machine learning are permeating into businesses from transportation to healthcare, creating opportunities for startups to solve key challenges.”
+
+The surge in VC funding reflects the competition among investors to identify and back fast-growing startups, especially those with the potential to disrupt industries.  Investors are eager to find the next Uber, Airbnb, or other so-called “unicorns”—private companies valued at $1 billion or more. 
+
+“Despite rising geopolitical and economic concerns, the U.S. venture industry remains optimistic about its prospects for the next generation of startups,” said Bobby Franklin, President and CEO of NVCA. “Robust investment in new technologies and young companies will drive innovation and job growth for the overall economy.”
+
+The largest deals of Q3 included a $440 million round for self-driving truck startup TuSimple and a $325 million investment in Relay Therapeutics, a biotech company developing protein motion drugs. Other major funding recipients were business commerce platform Shopify, car marketplace Vroom, and cybersecurity firm Netskope.
+
+While venture funding surged, the number of new startups receiving funding declined slightly. Venture firms seem to be concentrating bigger bets on more mature, later-stage companies with proven business models and momentum, rather than spreading investments across many new young startups. Overall, the venture landscape remains tilted toward more competition and bigger deals.

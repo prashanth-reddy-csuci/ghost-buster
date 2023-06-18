@@ -1,0 +1,15 @@
+Here is a draft 500-word news article with the given headline:
+
+Intel finds flaw in new Pentium chips, assures fix with software 
+
+Intel Corp. announced today that it discovered a design flaw in its latest Pentium computer chips that could allow hackers to access personal data stored on the chips. However, the company said it has developed a software update that will fix the vulnerability and it expects to make the update available for download next week.
+
+The flaw was found in Intel's newest Pentium Silver and Pentium Gold chips that were released in January of this year. The chips power many of the latest desktop computers, laptops and tablets. Intel said the flaw could potentially allow an attacker to access encrypted information stored on the chip, such as passwords, financial data or personal health information. 
+
+"As soon as our engineers discovered this issue, we began developing a fix and validation process to ensure it resolves the problem appropriately," said Greg Bryant, Intel's general manager of platform security. "We take security issues extremely seriously and we regret any impact this may have on our customers or partners."
+
+The software update will be made available on Intel's website for owners of devices with the affected chips to download and install next Tuesday, the company said. Intel is also working with device manufacturers to ensure the update is made available through Operating System patches and other methods. The company said no data breaches have yet been reported related to the newly discovered flaw.
+
+Some security experts criticized Intel for the design mistake and said computer chips are an attractive target for hackers and intelligence agencies looking to access sensitive data. "Backdoors like this are the Holy Grail for hackers and state actors," said Cris Thomas, a cybersecurity researcher. "The fact that a flaw like this made it through Intel's architecture review process does not inspire confidence."
+
+While software updates can patch vulnerabilities, more permanent fixes typically require replacing the hardware components that contain the flaws. Replacing millions of Pentium chips would be a monumental and expensive logistical challenge and Intel said there are currently no plans to do so. The company said it expects the software update will fully resolve the issue without significantly impacting the performance of devices.

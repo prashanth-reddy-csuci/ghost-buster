@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the given headline:
+
+Sun Microsystems and Partners Launch New Initiatives to Speed up Java Platform on All Devices
+
+Sun Microsystems today announced new initiatives aimed at accelerating the Java platform across all devices, especially mobile phones and consumer electronics. Speaking at the JavaOne conference in San Francisco, Sun CEO Jonathan Schwartz unveiled a series of partnerships and new technologies designed to make the Java platform faster, more powerful and available on more devices.
+
+The centerpiece of the announcements is a new partnership with ARM, the leading chip designer for mobile devices. The two companies will work together to optimize the Java Virtual Machine and libraries for ARM's family of processors which power over 95% of the world's mobile phones. The goal is to significantly boost the performance of Java applications on billions of mobile phones and other devices. Developers will be able to utilize the popular Java ME platform to write applications that run more smoothly and powerfully on ARM-based devices.
+
+Sun also announced a new version of JavaFX, its rich client platform for building web applications. JavaFX 1.2 includes optimizations that improve startup time and graphics rendering, as well as support for ARM chips. The improved performance means developers can build more powerful user experiences for mobile devices and desktops alike using JavaFX. The company showed several visually-intensive JavaFX applications running on mobile phones to demonstrate the capabilities of the platform.
+
+To further expand the reach of Java, Sun announced a partnership with Adobe to integrate the Java platform with Adobe's Flash and Flex technologies. The collaboration will make it easier for developers to leverage the two platforms together to build rich Internet applications for PCs, mobile devices and set-top boxes. Sun also announced relationships with LG Electronics, Toshiba and other consumer electronics makers to ship the Java platform on new televisions, Blu-ray disc players and other devices.
+
+The announcements at JavaOne are aimed at fulfilling Sun's vision of ubiquitous Java in a post-PC era where billions of consumer gadgets and embedded systems are seamlessly connected. With over 3 billion mobile phones and 1 billion Java-powered devices already in use, today's news will help accelerate the pace of innovation for developers targeting these new platforms. Overall, the partnerships and technologies unveiled today by Sun promise to enhance the Java experience for end users on phones, set-top boxes, desktops and a whole range of embedded systems.

@@ -1,0 +1,17 @@
+Here is a 500-word news article with the provided headline:
+
+Corel CEO says company set to take more market share from Microsoft with new deals  
+
+Corel Corporation announced today a series of global partnership deals that CEO Michael Gougheny says will allow the company to significantly expand its customer base at the expense of Microsoft. Corel makes popular word processing and graphics software, including WordPerfect and CorelDRAW.
+
+Speaking at the opening of Corel's new Ottawa headquarters, Gougheny said the company has signed major deals to bundle its software with hardware from three top PC makers - Dell, HP and Lenovo. The partnerships will see Corel's software pre-installed on millions of new consumer and business PCs sold around the world.
+
+"These deals represent a massive opportunity for Corel to get our software into the hands of more customers than ever before," said Gougheny. "Many people still don't realize the powerful and affordable alternatives we offer to Microsoft's expensive subscription software models."  
+
+Corel is offering PC makers flexible and low-cost licensing options to pre-install its software, according to Gougheny. The company is betting that once new PC owners start using WordPerfect, CorelDRAW and other tools, they will opt to pay for upgrades and added features rather than switch to Microsoft's subscription-based Office 365 and other services.
+
+"The average consumer and business spends a huge amount of money each year on Office subscriptions they don't fully utilize," said Gougheny. "We aim to show people that you can own powerful productivity and graphics tools outright for a fraction of the cost."
+
+However, technology analyst Carmi Levy warns there are risks to Corel's strategy. "Corel faces an uphill battle against the dominant Microsoft Office suite," said Levy. "PC bundles are a good start, but they need to offer clearly differentiated products at much lower price points if they want to truly grab market share from such an entrenched competitor."  
+
+Still, Gougheny remains confident the new deals will spur growth at Corel, which has reported flat software sales in recent years as more people gravitate to subscription services. The partnership announcements came as Corel also revealed a new version of WordPerfect Office that tightens integration with Microsoft's Azure cloud platform—despite the companies being longtime rivals. Corel shares rose 4.2% on the news, closing at $43.21.

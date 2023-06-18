@@ -1,0 +1,17 @@
+Here is a 747-word news article with the requested headline:
+
+IBM Disappoints Investors With Lack of Growth in Fourth Quarter 
+
+IBM reported its fourth quarter earnings after the closing bell today and the results fell well below analysts’ expectations. The tech giant reported revenue of $19.2 billion, down 4% from the year-ago quarter and below Wall Street estimates of $20 billion. Profits were also disappointing, with earnings per share of $4.62, down nearly 20% from last year and below the $4.69 expected by analysts.
+
+The weak results were driven by continued struggles in IBM’s legacy business areas like mainframes and hardware. Revenue from systems sales plunged 25% compared to a year earlier. The systems unit, which includes mainframes and servers, has declined for six straight quarters. IBM’s hardware sales have been hit hard in recent years by companies shifting more of their computing needs to cloud services. 
+
+IBM’s cloud and services businesses continued to grow in the quarter but not enough to offset the steep declines in other areas. The company’s cloud revenue was up 30% in the fourth quarter while its global business services unit grew 6%. However, with the rapid growth of cloud leaders like Amazon Web Services and Microsoft Azure, IBM has failed to gain a leadership position in the cloud infrastructure market.   
+
+“While we continue to make progress in areas like cloud and AI, our revenue growth remains a challenge,” said Ginni Rometty, IBM chairman, president and CEO. “We have work to do, but we remain confident in IBM’s long-term strategy – focused on innovative solutions in AI, hybrid cloud, quantum and blockchain.”
+
+IBM’s shares plunged over 4% in after-hours trading following the earnings announcement. The stock has declined more than 25% over the past year as investors have worried about the company’s struggles to achieve meaningful top-line growth. IBM faces an uphill battle as its legacy businesses continue to fade while it tries to scale new technologies and services. With the disappointing fourth quarter results, IBM will need to show significant progress in 2020 to regain investor confidence and prove its long-term strategy is working.
+
+The earnings report caps off a difficult year for IBM which struggled with leadership changes and restructuring in addition to its ongoing business challenges. Rometty has come under fire for her handling of IBM’s business transformation and the company reshuffled several of its top executives in October. Big Blue also began another round of job cuts, aiming to shed over 2,000 employees in its service delivery business to cut costs.
+
+IBM will likely face tough questions from analysts on its earnings call later today about its strategy to drive sustainable revenue growth across its portfolio. The fourth quarter results highlight the scale of the challenges facing Rometty and her leadership team heading into 2020. IBM needs a breakthrough year to reassure investors but that is looking increasingly unlikely given the headwinds buffeting its legacy business lines.

@@ -1,0 +1,15 @@
+Here is a draft 750-word news article:
+
+Microcom and Rockwell Join Forces to Develop High-Speed Modems  
+
+Microcom, a leader in high-speed modem technology, announced today that it has signed an agreement with Rockwell International's Electronics Devices Division to jointly develop and manufacture advanced 56-kilobit per second high-speed modems for use in digital telephone central office switch equipment.
+
+The modems will utilize Rockwell's recently announced RC96AC quad modem chip set, which incorporates Rockwell's proprietary digital signal processing technology and programmable logic. By teaming with Rockwell, Microcom gains immediate access to this advanced technology and the manufacturing capacity required for high-volume production of the new modems.  
+
+"This is an important strategic move for Microcom that will significantly strengthen our position in the modem market for central office switches," said Robert Growney, Microcom's president and chief executive officer. "Rockwell is the world's leading supplier of modem chip sets and by working together we will be able to bring higher performance, more cost-effective modems to market much faster than if we were developing the technology on our own."
+
+The new Microcom/Rockwell modems will operate at 56 kilobits per second, twice the speed of today's standard high-speed modems used in central office switches. They will provide advanced features such as built-in diagnostics, line probing, and equalization that will allow telephone companies to maximize the performance of their digital switching systems and support new advanced calling services. Volume production of the modems is expected to begin by mid-1989.
+
+“We are delighted to be partnering with Microcom, a proven innovator in high-speed modem technology and a leader in the central office switch market,” said Donald Beall, Rockwell's chairman and chief executive officer.  “This relationship is a prime example of Rockwell's strategic intent to ally with key customers to develop customized standard products that meet their needs for high performance and cost efficiency.”
+
+Microcom and Rockwell expect the new modems to gain widespread acceptance from telephone operating companies looking to upgrade the performance of their digital switches and provide new high-speed services to business and residential customers. The significantly higher speed and advanced features of the new modems will allow telephone companies to handle more calls simultaneously and offer value-added services such as high-speed facsimile, local area networks, and new wideband services. The partnership is a major step forward in moving more sophisticated communications technology into the network and out to customers.

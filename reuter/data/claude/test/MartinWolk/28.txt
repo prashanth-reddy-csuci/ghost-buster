@@ -1,0 +1,17 @@
+Here is a 744 word news article with the given headline:
+
+Microsoft Launches Sidewalk, A New Online Venture for Local News and Information  
+
+Microsoft today announced the launch of Sidewalk, a new online platform dedicated to local news and community information. Sidewalk aims to provide hyperlocal news coverage for neighborhoods and towns across the United States.
+
+The Sidewalk initiative is part of Microsoft's broader commitment to supporting trusted, accurate journalism. "Local news is the backbone of journalism, yet the economics of local media have been under significant pressure in recent years," said Satya Nadella, Microsoft's CEO. "Sidewalk is an innovative new platform combining human journalism with advanced AI to democratize access to credible local information and help foster civic engagement."
+
+Sidewalk has started recruiting journalists across the country to cover news and events in their local communities. They will contribute news articles, photos, and videos to build a comprehensive picture of what's happening at a neighborhood level. Artificial intelligence tools will also aggregate local public data on traffic, real estate listings, weather, sports scores, and events to supplement the journalism. 
+
+Microsoft is developing Sidewalk in partnership with its subsidiary NBCUniversal and will draw on NBC News's experience in breaking news coverage and television and digital video production. "Sidewalk is reimagining local news for the digital age," said Andy Lack, Chairman, NBC News Group. "By combining boots-on-the-ground journalism with the power of AI, this new platform will tap into a thirst for community connection and help democratize access to information."
+
+The initial phase of Sidewalk's rollout will focus on a pilot program in Seattle, WA; Des Moines, IA; and Tampa, FL. Microsoft expects the platform to expand to more than 50 cities across the U.S. and eventually cover over 200 million Americans with dedicated local news coverage of their neighborhoods and communities. Content on Sidewalk will be free to access, with revenue generated through online advertising and sponsored content from local businesses, organizations, and public service announcements.    
+
+"Sidewalk has the potential to become a vital community resource," said Sally Clark, Seattle City Councilmember. "Keeping our citizens informed about issues happening in their local area promotes civic participation and brings communities together."
+
+Sidewalk is available on the web at www.sidewalknews.com as well as through dedicated apps on both iOS and Android mobile devices. The service officially launches on October 23.

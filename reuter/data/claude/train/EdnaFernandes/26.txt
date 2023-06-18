@@ -1,0 +1,11 @@
+Here is a 250-word news article with the given headline:
+
+Sea Launch Project to Fire Its First Satellite From a Sea Platform in June 1998  
+
+The Sea Launch consortium announced plans today to launch its first commercial satellite from a floating platform in the Pacific Ocean on June 22, 1998.  The consortium, made up of Boeing, Russia’s Energia, Ukraine’s PO Yuzhnoye, and Norway’s Kvaerner, has spent the past eight years and over $2 billion developing the innovative sea launch concept.
+
+Rather than launching satellites from a fixed land-based site, Sea Launch will use a mobile platform stationed on the Equator in the Pacific. The consortium is retrofitting a Norwegian North Sea oil platform to serve as the launch site, placing it about 1,400 miles south of Hawaii. The sea launch platform offers unique advantages for satellite operators. The equatorial location is ideal for launching payloads into geostationary orbits. And sea launches can take place year-round, unimpeded by weather. 
+
+For its maiden launch, Sea Launch has partnered with Hughes Space and Communications, which has contracted to place a 4.6-ton direct broadcast satellite in geostationary orbit. Once in orbit, the satellite will be renamed DirecTV-1R and provide television broadcast services to subscribers across the U.S. 
+
+The inaugural launch will use a Ukrainian Zenit-3SL rocket with a Russian-built Block DM upper stage. The two-stage Zenit and Block DM vehicle is capable of lifting payloads of up to 6.1 tons to geostationary orbits. If the initial launch goes successfully, Sea Launch aims to conduct three more satellite launches from the platform by early 1999. Boeing, which manages the program, hopes that with additional launches Sea Launch could capture 10% of the commercial launch services market over the next decade. However, the risky and complex sea launch concept still needs to prove itself to satellite operators and insurers to gain broad commercial acceptance. The success or failure of this first launch in June will go a long way in determining the viability and future of this new satellite launch system.

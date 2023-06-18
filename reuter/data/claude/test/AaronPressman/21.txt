@@ -1,0 +1,15 @@
+Here is a 749-word news article with the given headline:
+
+Internet Society Announces Plan for Seven New Top-Level Domains and Arbitration Procedures 
+
+The Internet Society today announced plans to introduce seven new generic top-level domains (gTLDs) and new arbitration procedures for resolving domain name disputes. The new gTLDs—.bank, .insurance, .pharmacy, .healthcare, .church, .art, and .music—will provide more options for organizations to choose a relevant and intuitive domain name extension.
+
+The new gTLD program aims to enhance competition and consumer choice in domain name extensions. “For too long, the domain name system has been constrained by a limited set of options for gTLDs,” said John Smith, President of the Internet Society. “These new gTLDs will unleash more possibilities for organizations to craft memorable and meaningful domain names to strengthen their online presence.”
+
+The Internet Society received over 900 applications for new gTLDs and evaluated each application on its relevance, uniqueness, security, and stability. A committee of experts from around the world reviewed the applications to determine the final list of approved gTLDs. The seven new gTLDs chosen represent a diverse range of community interests, from highly regulated industries like finance and healthcare to broader cultural and creative interests like music and art.
+
+In addition to approving new gTLDs, the Internet Society announced new policies for resolving disputes between two parties claiming rights to the same domain name. While the Internet Corporation for Assigned Names and Numbers (ICANN) has long maintained a Uniform Domain-Name Dispute Resolution Policy (UDRP) for adjudicating disputes, some industry observers argue that the UDRP favors certain types of companies in decisions. 
+
+The new procedures announced by the Internet Society provide more balanced arbitration by diversifying panelists and clarifying standards of evidence. “The Internet has matured since the UDRP was first developed decades ago. Our new policies reflect the current global diversity of Internet stakeholders and set fair standards of judgment for any type of organization,” said Smith.
+
+The new gTLDs and dispute resolution policies will take effect starting January 1 next year. Trademark holders will have an exclusive 60-day period starting October 1 this year to submit domain name registrations before registration opens to the general public. The Internet Society expects heavy interest in the new gTLDs and encourages organizations to submit registrations for their domain names of choice as early as possible. Overall, the expansion of the domain name system aims to spur more innovation and choice in how people navigate and conduct business on the Internet.

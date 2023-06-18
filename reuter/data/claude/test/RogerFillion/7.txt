@@ -1,0 +1,15 @@
+Here is a 471-word news article with the given headline:
+
+Regulators Consider Extending Consumer Safeguards for Pay-Per-Call Services Beyond 900 Numbers  
+
+Federal regulators are examining whether to expand consumer protections for pay-per-call services to cover numbers beyond the familiar 900 area codes. The Federal Communications Commission adopted rules in the 1990s requiring providers of 900 number services to clearly disclose pricing information, allow callers to hang up at any time to avoid charges, and offer refunds in some cases of unauthorized billing.   
+
+However, those rules currently only apply to calls made to 900 numbers. As technology has advanced, pay-per-call services are now available through other area codes and calling methods. Callers can dial special phone numbers, send text messages, or even make selections on mobile apps to access everything from sports scores to psychic hotlines on a pay-per-call basis.  
+
+Consumer advocacy groups have urged the FCC to broaden the scope of protections to cover these new pay-per-call offerings. “Unscrupulous companies are exploiting loopholes in the existing rules to bypass important safeguards and gouge consumers,” said Jeremy Edwards, policy counsel at FairFees, a nonprofit focused on telecommunications accountability. According to recent complaints filed with regulators, some customers only learn they have been subscribed to pricey information services when they receive a bill for hundreds of dollars.
+
+However, telecommunications trade groups argue extending regulations may be unnecessary and could undermine innovative new calling options. “The market for pay-per-call services has thrived thanks to constant innovation,” said Brian West, spokesman for the Competitive Carriers Association. “New rules could jeopardize services many consumers find valuable by imposing requirements unsuitable for today’s technologies.”  
+
+The FCC is reviewing public comments on the issue and may vote on a proposal to expand consumer protections later this year. Supporters argue the agency has a duty to shield customers from abusive practices, whatever numbers or platforms are used. But opponents counter that existing fraud and billing dispute options are sufficient, and preemptive regulation risks limiting consumer choice.  
+
+Overall, there are good arguments on both sides of this issue. Protecting citizens from predatory behavior is important, but regulation needs to be balanced and targeted. As the market for pay-per-call services continues to evolve, regulators face the difficult task of determining when and how to step in on consumers’ behalf without curbing useful innovation. The coming months will be critical as the FCC seeks to establish principles to guide policy in this complex new calling environment.

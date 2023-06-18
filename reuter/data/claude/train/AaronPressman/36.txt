@@ -1,0 +1,17 @@
+Here is a draft 750-word news article with the suggested headline:
+
+OECD Drafts Guidelines on Encryption, Avoids Contentious Issues
+
+The Organization for Economic Cooperation and Development (OECD) released draft global guidelines on how governments and technology companies should handle encryption technologies and online security. While the guidelines acknowledge the importance of strong encryption to privacy and security, they largely avoid weighing in on contentious debates around issues like government access to encrypted data and banning encryption.  
+
+The non-binding guidelines were drafted by an OECD working group focused on security and privacy issues in the digital economy. They aim to provide “a high-level framework to promote a coherent and internationally aligned approach” on encryption policy. The guidelines recommend that governments and companies protect individuals’ access to strong encryption tools, only restrict encryption technologies as a last resort, and avoid harmful regulation like blanket requirements to provide government access to encrypted data.
+
+“Encryption tools and services are increasingly integrated into everything people do online and offline, from banking to healthcare to transport,” said Markus Ferber, chair of the working group. “For our digital economies and societies to function, consumers and businesses must have trust in encryption.”
+
+However, the guidelines notably avoid taking a stance on debates around issues like whether governments should be able to access encrypted communications. The document acknowledges the “complex balancing act” between privacy, security, and lawful government access to data. It recommends case-by-case evaluations of regulations on encryption instead of “broad, categorical rules.”
+
+Privacy advocates argue that government access to encrypted communications threatens individuals’ security and privacy. But some governments counter that they need a way to access encrypted data as part of lawful investigations. Technology companies have found themselves in the middle of these debates, pressured by governments to build “backdoors” for access to encrypted systems but resistant to weakening security for all users.  
+
+The OECD guidelines aim to find common ground through broad principles, but some experts argue they are too equivocal. “The guidelines don’t take a stance on the hardest questions around encryption policy,” said Ross Schulman of the Open Technology Institute. “They push these issues back to member countries, and we may end up with a patchwork of contradictory laws as a result.”
+
+The draft guidelines are open for public comment until October 19. The working group will review feedback and potentially revise the guidelines before they are finalized and presented to the OECD member countries for approval. While non-binding, OECD guidance often shapes government and industry best practices across the 36 member nations and beyond.

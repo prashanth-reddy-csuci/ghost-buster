@@ -1,0 +1,33 @@
+Here is a 750-word news article with the given headline:
+
+Microsoft Beats Analysts' Expectations with 85% Jump in Profit 
+
+Microsoft Corp reported an 85% rise in third-quarter profit on Tuesday, buoyed by a jump in its Azure cloud computing revenue and Office 365 productivity suite.
+
+The results benefited from remote work and learning trends during the COVID-19 pandemic. The software maker’s market value now exceeds $1.7 trillion US.
+
+Net income rose to $13.19 billion, or $1.71 per share, from $7.05 billion, or 90 cents per share, a year earlier. Analysts had expected $1.27 per share, according to IBES data from Refinitiv.
+
+Revenue and profit surpassed analysts' estimates. Revenue rose 14% to $33.72 billion, above analysts' estimates of $32.17 billion.
+
+"The acceleration of digital transformation across the globe was once again highlighted in our strong financial results this quarter," said Chairman and Chief Executive Officer Satya Nadella.
+
+Microsoft's biggest business segment, Cloud Computing, reported 29% growth in revenue to $10.09 billion. Azure cloud-based services for businesses was up 50% from a year ago. Microsoft does not break out revenue for Azure but listed it as the primary driver of the category growth.
+
+The personal computing business including Windows software and Xbox gaming consoles reported revenue of $11.52 billion, up 9% from a year ago. The unit benefited from sales of gaming consoles and launched the new Xbox Series X in November 2020.
+
+“Windows grew modestly, PC maker licenses grew double digits, and OEM Pro was up solid double digits, which is great to see in a COVID work-from-home environment,” Chief Financial Officer Amy Hood said on an earnings conference call.
+
+Microsoft's Professional Networking services including LinkedIn saw revenue increase 19%, driven by advertising and jobs revenue. Microsoft acquired LinkedIn for $26.2 billion in 2016.
+
+Microsoft forecast fourth-quarter revenue between $35.15 billion to $36.05 billion, with margins of 36.5% to 37.5%. Analysts expect $35.49 billion in revenue and a 36.7% gross margin, according to Refinitiv. Its forecast includes deferred revenue expected on Windows 10 licenses, Xbox consoles and cloud services.
+
+The tech giant has benefited from a global shift to working and studying from home during the health crisis. Nadella said last month it expects many of these trends to become permanent.
+
+"I think of it more as stepping into the new normal, rather than going back to anything," Nadella told the RECODE Decode podcast. 
+
+Revenue in Microsoft's Productivity and Business Processes segment, including Office commercial products grew 14% to $11.32 billion, beating analysts' estimates of $10.88 billion.
+
+Microsoft shares rose about 5% in after-hours trading following the results, after closing 3.5% higher at $196.84 per share in regular Nasdaq trading.
+
+In the third quarter, Microsoft returned $9.5 billion to shareholders in the form of share repurchases and dividends. The company said its board of directors approved a 5% increase in its quarterly dividend to $0.56 per share.

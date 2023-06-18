@@ -1,0 +1,17 @@
+Here is a draft 500 word news article with the given headline:
+
+Microsoft Corp Reports Modest Earnings Growth in Second Quarter Despite Tough Comparisons and Sales Slowdown Ahead of Software Bundle Upgrade 
+
+Microsoft Corp reported a modest increase in quarterly earnings on Wednesday, beating Wall Street estimates despite tough comparisons from a year ago and slowing sales of its Windows software ahead of an upgrade to its Office productivity bundle.
+
+The world's largest software company said fiscal second-quarter profit rose to $8.82 billion, or $1.14 per share, from $8.51 billion, or $1.08 per share,  a year earlier. Analysts on average had expected Microsoft to earn $1.12 per share, according to Thomson Reuters I/B/E/S.
+
+Revenue climbed nearly 8 percent to $28.92 billion, helped by strong sales of Microsoft's Azure cloud services and the company's collaboration software including Teams. Analysts had expected revenue of $28.80 billion.
+
+Microsoft's growth has been fueled by its Azure cloud services and subscriptions to software such as Office 365. But the company faces tough comparisons after a surge in usage during the early stages of the pandemic. It has also seen a slowdown in sales of Windows software ahead of the October launch of Windows 11.
+
+Windows licenses dropped by 11% year on year, in part reflecting the tough comparison with a strong quarter last year for PCs. Chief Financial Officer Amy Hood told analysts on a conference call that Windows revenue would remain roughly flat in the current fiscal third quarter as well, in line with normal trends ahead of a new release.
+
+Despite the modest revenue and profit growth, shares of Microsoft fell slightly in extended trading. The stock has risen about 40% over the past year, gaining on the pandemic-fueled move to working and learning from home.
+
+"Overall, solid quarter for Microsoft as it navigates the post-pandemic world," said Dan Morgan, a portfolio manager at Synovus Trust Company. "Clearly the growth story is its cloud franchise and it continues to perform well."

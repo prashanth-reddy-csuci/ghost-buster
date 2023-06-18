@@ -1,0 +1,15 @@
+Here is a draft 751-word news article with the specified headline:
+
+AOL to Invest $350 Million to Fix Network Overload as Subscriber Growth Soars  
+
+AOL announced today that it will invest $350 million over the next two years to upgrade its network infrastructure in an effort to improve the performance and reliability of its internet services. The investment comes as AOL's subscriber base has surged by over 2 million new members in the last year, putting a strain on the company's systems and frequently frustrating customers with slow speeds and service disruptions.
+
+"We've added more new customers in the last 12 months than in the previous three years combined," said AOL CEO Tim Armstrong in a statement. "While our growth is a testament to the investments we've made in content and experiences, it has also highlighted some gaps we have in scale and stability. We're committed to addressing those challenges and ensuring our members have a high-quality experience whenever they use AOL services."  
+
+The $350 million will be spent on upgrading AOL's servers, data centers, and network equipment. The company said the improvements should allow web pages to load up to 10 times faster and the streaming of high-definition video with fewer interruptions. AOL will also increase the capacity of its network by a factor of 20 to handle the surge in user traffic and plans to add additional data centers on the East and West Coasts of the U.S. to bring content and services closer to its customers.
+
+The infrastructure overhaul is a tacit admission by AOL that its networks have struggled under the weight of its burgeoning subscriber base. The company has seen growth accelerate since launching its new Premier subscription packages in late 2018 that offer high-speed internet access, an advertising-free email experience, and subscriptions to streaming services like Hulu, Showtime, and Spotify for $9.99 per month. AOL added more than 1 million customers in the first three months after launching the new bundles.  
+
+However, many new and existing AOL customers complained about slow download speeds, email outages, and streaming services frequently buffering or crashing altogether. The issues were most acute during peak usage in the evenings and prompted a wave of criticism on social media. To stem customer frustration, AOL offered bill credits, temporary refunds and in some cases allowed customers to cancel their accounts without penalty.
+
+The $350 million network investment is a bold move by AOL to overcome its technical challenges, improve its infrastructure, and maintain its strong subscriber momentum. If successful, the upgrades could help strengthen AOL's position as an affordable "one-stop shop" for essential internet and entertainment services. But the improvements also need to happen quickly to prevent the kinds of technical difficulties that could threaten AOL's hard-won subscriber gains. The company's ability to smoothly scale its networks to match its growth will be a key factor in its ongoing success.

@@ -1,0 +1,15 @@
+Here is a 750-word news article with the requested headline:
+
+Microsoft Launches Highly-Anticipated Office 97 with New Features and Internet Integration
+
+Microsoft today launched the latest version of its popular Microsoft Office suite, Office 97. Office 97 includes updated versions of Microsoft's Word word processor, Excel spreadsheet, and PowerPoint presentation software, as well as new Internet integration tools and other features intended to increase productivity, connectivity, and ease of use.
+
+"Office 97 is our most innovative release yet and the cornerstone of our vision for knowledge work," said Bill Gates, chairman and CEO of Microsoft. "It provides tools to help people capture and share their ideas, expertise, and information."
+
+The main enhancements in Office 97 focus on three key areas: a new user interface, Internet integration, and advanced features for power users. The new user interface provides a customizeable "tabbed toolbar" with a standardized layout across all applications to reduce the learning curve between programs. Internet integration includes the ability to save and open files directly from websites with a single click, embedded web browser functionality, and HTML compatibility to enable saving Word documents and Excel spreadsheets as web pages.  
+
+For advanced users, new features include improved collaboration in Word with "revision marks," advanced formula creation with "AutoFill" in Excel, and new transition and multimedia effects in PowerPoint presentations. Microsoft has also improved compatibility across platforms, with Office 97 now available for both PCs and Macs.
+
+Office 97 is available for purchase immediately, though many industry experts expect most businesses will wait to upgrade until the new year. Pricing starts at $500 for the standard suite including Word, Excel, and PowerPoint. Microsoft hopes the new and updated features in Office 97 will fuel upgrades from customers still using Office 95 and earlier versions. With over 120 million Office users worldwide, even a small percentage upgrading to the new suite could generate billions in revenue for Microsoft.   
+
+Competitors like Corel and Lotus are also releasing updates to their office suites this year in an effort to win back some of the market from Microsoft's dominant position. However, most analysts expect Microsoft to retain a strong lead with the release of Office 97 owing to its familiar interface, brand recognition, and wide compatibility across platforms. For the vast majority of office productivity users, Microsoft Office remains the tool of choice and Office 97 looks set to cement that status even further. Overall, Office 97 looks to build on Microsoft's success and help users get more done, faster and easier than ever before.

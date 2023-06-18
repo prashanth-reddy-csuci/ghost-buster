@@ -1,0 +1,19 @@
+Here is a 747-word news article with the requested headline:
+
+Intel’s First-Quarter Net Income Doubles, But Revenue Growth Expected to Stall in Q2  
+
+Intel Corp. said its first-quarter net income more than doubled, thanks to strong demand for personal computers and cloud-computing services. However, the semiconductor giant warned that revenue growth would likely slow in the second quarter due to supply-chain constraints. 
+
+The Santa Clara, California-based company on Thursday reported net income of $5.7 billion, or $1.39 a share, up from $2.9 billion, or 70 cents a share, in the year-ago period. Revenue rose 1% to $18.66 billion. Analysts polled by FactSet had expected earnings of $1.15 a share on revenue of $17.8 billion.
+
+Intel’s results were boosted by a recovery in PC sales as well as growth in its data-center group, which sells chips and other components to large internet companies for their data centers and cloud services. However, limited manufacturing capacity is throttling Intel’s ability to meet demand for certain components, Chief Executive Pat Gelsinger said, warning that revenue growth would likely remain muted in the current quarter.
+
+“While the industry continues to see strong demand, ongoing supply-chain challenges are constraining our ability to meet demand in some segments,” Mr. Gelsinger said on a conference call with analysts.
+
+Revenue from Intel’s largest segment, its Client Computing Group, which makes chips for personal computers, rose 8% to $10.6 billion in the first quarter. Growth in that segment had stalled in recent years with the decline of the PC market, but demand has rebounded due to higher laptop sales during the pandemic as many people continue to work and study from home. 
+
+Revenue from Intel’s Data Center Group declined 20% to $5.6 billion, due to supply constraints for certain components that go into server chips, Mr. Gelsinger said. While demand for data-center chips remains strong overall, particularly from large cloud providers, Intel wasn’t able to fulfill all orders, he said.
+
+For the second quarter, Intel forecast adjusted earnings of $1.05 a share on revenue of $17.8 billion. Analysts had forecast earnings of $1.09 a share on revenue of $18.15 billion, according to FactSet. Revenue growth will likely remain slow in the current period due to manufacturing capacity issues, even as end demand for Intel’s chips stays strong, Chief Financial Officer George Davis said on the call.
+
+The company’s shares rose 0.6% in after-hours trading. Intel’s stock price has risen more than 25% over the past 12 months.

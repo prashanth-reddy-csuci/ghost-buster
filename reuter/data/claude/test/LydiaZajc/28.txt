@@ -1,0 +1,15 @@
+Here is a 500-word news article with the given headline:
+
+Toronto Stock Exchange's switch to decimal trading hasn't boosted trading volume, study shows  
+
+The Toronto Stock Exchange's shift to decimalization of stock prices in 1996 was intended to make trading more accessible to small investors and boost trading activity. However, a new study shows that the move to pricing shares in increments of one cent rather than 12.5 cents has not led to a significant or sustained increase in trading volume on the TSX.
+
+Researchers at the University of Toronto analyzed trading data from 1991 to 2001 to assess the impact of decimalization on the TSX. They found that in the first two years after decimalization was introduced in 1996, trading volume did increase substantially, by over 50% compared to the period immediately before. However, this effect was short-lived. Within a few years, trading volume returned to levels consistent with the pre-decimalization era.
+
+"Our findings show that the move to decimal pricing on the TSX did not fundamentally or permanently alter trading behavior," said lead researcher Aaron Sofo. "While it initially stimulated more trading activity, likely due to increased interest from small investors, this did not translate into a sustained boost in liquidity."  
+
+The results stand in contrast with studies of decimalization's impact on U.S. stock exchanges, where trading activity rose sharply and permanently after the switch to penny pricing. The difference may reflect the more retail-oriented nature of U.S. markets. In Canada, institutional investors dominate, and they are less swayed by small price increments.  
+
+"For the TSX, which has a higher proportion of large traders, decimal pricing appears to have been a superficial change," said Sofo. "The main determinants of trading volume remained company fundamentals, volatility, and macroeconomic factors—not the minimum tick size."
+
+The study authors argue that their findings should discourage expectations that other market structure changes, like extended trading hours or new order types, will necessarily lead to a significant boost in trading volume or liquidity. The impact of any market reforms depends greatly on the composition and behavior of traders in the market.

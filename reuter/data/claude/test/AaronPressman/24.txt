@@ -1,0 +1,15 @@
+Here is a draft 500-word news article with the given headline:
+
+National Research Council Report Chairman Says Key Recovery Still Not Ready for Widespread Use
+
+The National Research Council (NRC) today released a report on the feasibility of "key recovery" or "key escrow" encryption systems that would allow encrypted communications to be decrypted under certain circumstances. The chairman of the committee that produced the report said key recovery technology is still not ready for widespread implementation and poses risks to digital security and privacy.
+
+Key recovery or key escrow systems involve storing copies of encryption keys or parts of keys with trusted third parties who can decrypt communications if legally authorized to do so. Proponents argue this could help law enforcement and intelligence agencies access encrypted data when needed to support investigations. However, technical experts have long argued that introducing "backdoors" into encryption systems weakens security and privacy overall. 
+
+The NRC report, titled "Decrypting the Encryption Debate: A Framework for Decision Makers," found numerous challenges to implementing key recovery on a large scale. "The committee concluded that key recovery comes with risks to privacy, security, and commerce that are not justified by the needs of law enforcement and national security agencies,” said committee chairman Charles Clancy, an electrical and computer engineering professor at Virginia Tech. 
+
+The report noted that encryption algorithms and key lengths would need to be standardized to work with key recovery systems, limiting flexibility and innovation. Keys would need to be securely stored and managed, and audit mechanisms put in place, to minimize risks of unauthorized access or misuse. There would also likely be high costs to design, implement, and maintain key recovery systems on a national scale.
+
+Overall, the NRC committee said widespread key recovery is not feasible given current technical capabilities and risks. They recommended more limited, targeted approaches to accessing encrypted data instead of broad key escrow mandates. The report also suggested policymakers focus on non-technical solutions, such as developing new legal authorities, providing more resources to law enforcement, and fostering cooperation between agencies and tech companies.
+
+The report provides the most authoritative analysis of the key recovery debate to date. Its findings suggest that despite calls from some government officials, mandatory key escrow is not the solution to the growing challenges of encryption and data privacy. This debate is sure to continue as technology and policies in this complex space continue to evolve.

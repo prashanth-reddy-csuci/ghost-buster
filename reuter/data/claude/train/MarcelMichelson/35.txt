@@ -1,0 +1,17 @@
+Here is a draft 502 word news article with the requested headline:
+
+French Government Consults on Interconnection Costs for Telecommunications Sector Ahead of France Telecom Share Market Entry  
+
+The French government has launched a public consultation on the regulation of interconnection costs between telecommunications operators in France. The consultation comes ahead of the planned partial privatization and share market listing of incumbent operator France Telecom.
+
+The government is seeking input from industry stakeholders on the framework for regulating the wholesale fees that telecoms operators charge each other to connect and exchange traffic between their networks. These interconnection fees are a key component of the overall costs for operators providing telecom services to end users. 
+
+France's telecommunications regulator ARCEP currently sets maximum interconnection rates that operators can charge each other. The rates are designed to promote competition in the retail market by making sure interconnection fees are not set at a level that acts as a barrier to new market entrants or smaller operators.
+
+With France Telecom set to sell shares to private investors for the first time, the government wants to ensure the regulatory framework will continue to support effective competition after the company's privatization. France Telecom retains a large market share in the retail mobile and fixed-line markets in France, so interconnection rates and other wholesale access regulation remain important mechanisms for enabling challenger operators to compete.
+
+The consultation poses a series of questions around whether the current model for regulating interconnection should be maintained, what specific changes could be made to interconnection pricing approaches, and how regulation can continue to balance the interests of operators and consumers. Submissions will be accepted from operators, industry groups, public interest organizations and individual consumers until mid-December.
+
+ARCEP will consider the submissions and provide recommendations to the French Digital Ministry, which has ultimate responsibility for setting telecommunications policy and regulation. New rules for interconnection could be issued by mid-2020, ahead of France Telecom's share market listing planned for late 2020 or early 2021.
+
+The consultation highlights the balancing act facing French regulators. Effective oversight of France Telecom's wholesale market power will remain crucial for competition and consumer choice, even as the state's direct control of the company is loosened through privatization. Getting the framework right will be key to securing affordable, high-quality telecom services for people and businesses across France in the years ahead. Overall, the consultation recognizes that private investment and competitive intensity must go hand in hand in France's evolving telecommunications landscape.

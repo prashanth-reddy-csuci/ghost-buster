@@ -1,0 +1,17 @@
+Here is a 500-word news article with the requested headline:
+
+Computer Associates International Inc. Stock Drops Over 6% Following Unexpected Decline in Mainframe Computer Revenues 
+
+Shares of Computer Associates International Inc. fell over 6% today after the software company reported a surprise drop in revenues from mainframe computers in its fiscal first quarter. CA, as the company is known, has historically generated a significant portion of its revenues from mainframe software and maintenance. However, revenues from CA's mainframe segment declined 3% to $561 million in the latest quarter. 
+
+Investors were caught off guard by the decline given that CA's mainframe business has been stable and growing in recent years. The drop in mainframe revenues offset stronger gains in CA's cloud computing and IT infrastructure management software segments. Overall, total quarterly revenues were flat at $1.69 billion, slightly below analysts' estimates.
+
+"The mainframe revenue decline was unexpected and disappointing, especially given what our competitors in that market have reported," said CA CEO Mike Gregoire. "We are taking action to improve sales execution and demand generation for our mainframe solutions."
+
+CA is working to lessen its dependence on mainframes by diversifying into faster-growing segments including cloud software and cybersecurity. However, mainframes still account for about one-third of CA's total revenues. IBM, the leading mainframe vendor, recently reported growth in its mainframe business. Some analysts are concerned CA may be losing market share.
+
+"CA's miss this quarter highlights the risks of their business model which still relies heavily on legacy mainframe systems," said Rajesh Jha, an analyst at investment research firm Morningstar. "Transitioning to cloud, software as a service and other subscription models is taking longer than expected."
+
+CA reduced its full-year revenue and profit forecast to reflect softer mainframe sales. The company now expects revenues between $4.72 billion to $4.77 billion, down from previous guidance of $4.8 billion to $4.85 billion. CA also lowered its earnings per share projection to between $2.75 to $2.80, from $2.80 to $2.85 previously.
+
+The weaker guidance and mainframe results sent CA shares tumbling. The stock was down $3.02 or 6.3% to $45.18 in afternoon trading on the Nasdaq stock market. CA shares have declined nearly 8% over the past 12 months.

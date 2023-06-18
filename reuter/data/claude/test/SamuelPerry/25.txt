@@ -1,0 +1,13 @@
+Here is a 500-word news article with the requested headline:
+
+Novell Inc. Names Eric Schmidt, Former Sun Microsystems Strategist, as CEO to Take on Microsoft
+
+In a surprise move today, Novell Inc. announced that it has hired Eric Schmidt as its new CEO, replacing Robert Frankenberg, who resigned in January. Schmidt joins Novell after spending nearly a decade as a strategic advisor to Sun Microsystems. His mission will be to turn around the once-dominant networking company and take on Microsoft in the battle for computer network dominance. 
+
+Novell has struggled in recent years as Microsoft's Windows NT operating system has challenged Novell's NetWare for control of computer networks in businesses and organizations. Under Frankenberg's leadership, Novell attempted a strategy to match Microsoft's vision of "PC-centric" computing but was unable to regain the market share it had lost. Novell's stock price has dropped over 50% in the past two years as revenues and profits have declined.
+
+In announcing Schmidt's hiring, Novell's board expressed confidence that his technical vision and business experience could get the company back on track. "Eric has a proven track record of identifying new technology trends and bringing innovative products to market," said Novell board member Joseph Costello. Schmidt previously helped launch Sun's Java programming technology and oversaw the development of networked workstations at Sun. 
+
+For his part, Schmidt said he sees opportunities for growth at Novell if the company can deliver new networking and collaboration tools tailored for how people now use mobile devices and cloud computing. "While Microsoft focused on centralizing technology in servers and PCs, users and devices have become decentralized," Schmidt said. "There's an opportunity to better connect technologies and provide more seamless experiences for customers across platforms."
+
+Schmidt's hiring is a bold step that acknowledges Novell needs a fresh direction and approach in order to regain relevance. With his experience competing against Microsoft at Sun, Schmidt appears well suited to help Novell craft a new strategy focused on open systems and cross-platform integration. The only question now is whether it's too late for Novell to rebuild its networking empire and truly take on its old nemesis once again.

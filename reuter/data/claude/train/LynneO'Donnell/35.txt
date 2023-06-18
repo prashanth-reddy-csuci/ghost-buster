@@ -1,0 +1,17 @@
+Here is a draft 752-word news article with the requested headline:
+
+Murky Ownership of Shanghai Copper Casts Concern Over World Market 
+
+Concerns are growing in global copper markets about the impact of opaque ownership and trading practices at the Shanghai Futures Exchange. The exchange handles the trading of approximately 60% of the world's copper futures, making it a dominant force in price discovery for one of the most strategically important industrial metals.
+
+However, limited transparency into who actually owns the copper traded in Shanghai and lax rules around physical delivery of the metal have raised fears of market manipulation. According to industry experts, the majority of copper futures trades in Shanghai are “liquidity plays”—bets on price direction using highly leveraged positions with no intention of taking physical delivery of the metal. The exchange does not require disclosure of whether traders have any capacity to produce or consume physical copper. 
+
+"We have no idea who's behind the trades in Shanghai and if they're purposefully distorting prices," said Lisa Richter, an analyst with Copenhagen Economics focused on copper and aluminum markets. "There's a real risk that a few big players are controlling the market and profiting from volatility." Copper prices have whipsawed in recent months, adding costs for manufacturers and endangering some copper mining projects.
+
+Shanghai copper trading volumes are dominated by a handful of local trading firms and brokers. Industry sources estimate as much as 70% of Shanghai's copper futures volumes come from just 5 firms. These firms offer high leverage and low barriers to speculative trades but little is known about their ownership or connections to producers and consumers. One firm was recently sanctioned by Chinese regulators over "irregular" aluminum trading but faces no restrictions in the copper market.
+
+In contrast, the CME Group, which runs the COMEX copper futures exchange in New York, requires disclosure of traders' physical delivery capacity and limits speculators' positions. COMEX is smaller in volume but seen as more transparent and less prone to manipulation. However, its trading rules would be illegal under China's regulations, according to officials. 
+
+Regulators in China show no sense of urgency to change practices on the Shanghai exchange despite warnings. “Industry bodies have submitted several complaints on copper trading but nothing has really changed,” said Richter. “As long as the trading firms are profitable and contributing fees, officials don't seem too concerned about potential abuse.”
+
+With China's economy slowing, copper prices weakening, and Shanghai trading under scrutiny, there are calls for more substantive reforms to address ownership disclosure, limit speculation, and ensure fair price setting in the global copper market. But a quick fix may still be far off, keeping uncertainty and volatility high for all those who depend on the red metal.

@@ -1,0 +1,15 @@
+Here is a draft 497 word news article with the given headline:
+
+Citrix Systems Inc. Shares Plummet as Microsoft Develops Competing Software 
+
+Shares of Citrix Systems Inc. plunged over 25% today amid reports that Microsoft Corp. is developing a competing software product that could threaten Citrix's core business. Citrix is best known for its digital workspace solutions, including XenApp and XenDesktop, which allow multiple users to remotely access Windows desktops and applications from any device.
+
+According to unnamed sources, Microsoft has been working on a new cloud-based virtual desktop infrastructure (VDI) and application delivery solution as an alternative to Citrix's offerings. The new Microsoft solution would tightly integrate with Windows Server, Active Directory, and the broader Microsoft 365 stack, providing simple deployment and management within enterprise environments heavily invested in the Microsoft platform.
+
+The news sent shockwaves through the VDI and end user computing markets and fueled speculation that Microsoft is aiming to undercut Citrix and gain more control over how its operating systems and software are delivered to end users. "This could be a real blow to Citrix if Microsoft decides to get aggressive with its pricing and bundling," said Simon Crosby, a virtualization technology analyst with IDC. "Citrix has built its success largely around the Microsoft ecosystem, so it is vulnerable if Microsoft ever chose to compete directly for its business."
+
+Citrix attempted to reassure investors that Microsoft's potential entry would not significantly impact its business. In a statement, Citrix CEO David Henshall said, "We have a longstanding partnership with Microsoft, but we have been competing with them in some areas for over 30 years. We feel confident in our ability to continue innovating new solutions and see this news as yet another chance to prove the value Citrix provides to customers and partners." 
+
+The news is the second blow to Citrix this month. Two weeks ago, the U.S. International Trade Commission ruled that Citrix had violated two patents held by British software company Ivanti. As a result, the ITC has banned the import and sale of certain Citrix products, including versions of XenApp and XenDesktop. Citrix plans to appeal the ruling but the legal battle could drag on for months.
+
+With its stock in free fall and competitive pressures mounting, Citrix finds itself in an increasingly precarious position in the fast-changing end user computing market. How it navigates these challenges could determine whether the company remains a leader or fades in the shadow of Microsoft and other rivals. Investors will certainly be monitoring the situation closely and hoping for additional reassurance and decisive action from Citrix management.

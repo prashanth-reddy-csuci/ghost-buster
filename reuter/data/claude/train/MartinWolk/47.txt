@@ -1,0 +1,15 @@
+Here is a draft 505 word news article with the specified headline:
+
+Microsoft CFO Expects Sequential Rise in Earnings and Revenues in Q3 and Q4  
+
+Microsoft's Chief Financial Officer Amy Hood stated in an investor call yesterday that she expects both earnings and revenues to increase sequentially in the company's fiscal third and fourth quarters. Hood cited continued demand for Microsoft's cloud computing services and Office productivity software as key drivers of growth in the coming months.
+
+For the fiscal third quarter ending in March, Hood said she forecasts earnings per share of $1.14 on revenues of $26.8 billion. That would represent a 7% increase in earnings and a 14% rise in sales from the same quarter last year. In the fiscal fourth quarter ending in June, Hood expects earnings per share of $1.22 on revenues of $28 billion, up 11% and 15% respectively. 
+
+The forecast reflects confidence in Microsoft's fast-growing commercial cloud business, which includes the Azure public cloud and Office 365 cloud-based productivity services. "Azure revenue growth remains very strong, driven by strong overall demand, consumption commitments, and an increase in larger long-term Azure contracts," Hood noted. She expects commercial cloud revenues to jump 35-37% in the fiscal third quarter and 38-40% in the fiscal fourth quarter.
+
+Office 365 also continues its impressive growth, with seat additions and increasing average revenue per user. Hood projected Office 365 commercial seats to climb to 258 million by the end of the fiscal year, up 30% from last year. Microsoft Dynamics, the company's customer relationship management software, is benefitting from the growth in Office 365 and Azure as well, Hood said.
+
+While the PC market remains weak, Microsoft's Windows licensing revenues have stabilized thanks to a growing mix of multi-year agreements that provide more predictable revenue streams. Gaming revenues will face tough comparisons due to lockdowns last year but remain strong overall. 
+
+Barring any unforeseen events, Microsoft appears well-positioned to end its fiscal year on a high note with accelerating growth in its cloud and software businesses. The company's stock rose 2% in after-hours trading following the investor call. Hood's bullish outlook suggests Microsoft's commercial cloud momentum is building, even as the global economy starts to emerge from the pandemic.

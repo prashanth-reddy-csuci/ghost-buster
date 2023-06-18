@@ -1,0 +1,13 @@
+Here is a draft 479-word news article with the given headline:
+
+Informix Corp aims to increase revenue by 30 percent with new database software products 
+
+Informix Corp, a leading provider of enterprise database software, announced an ambitious plan today to increase its revenue by 30% over the next fiscal year through the launch of three new database products. The new products are aimed at the fast-growing big data, cloud, and Internet of Things markets which Informix believes will drive its future growth.
+
+The company's flagship database product, Informix Ultimate, has dominated the mid-sized database market for over 20 years. However, growth in that market segment has slowed as companies have increasingly turned to larger "big iron" database systems from Oracle and open-source databases like MySQL. To revive growth, Informix is moving upmarket by releasing Informix Hyper, a high-performance database built for managing and analyzing huge volumes of data. Informix Hyper can scale up to handle millions of transactions per second, making it suitable for applications like fraud detection, recommendation engines, and real-time personalization.
+
+Informix's second new product, Informix Cloud, is a database-as-a-service offering aimed at software engineers building cloud-native applications. Informix Cloud delivers the company's database engine as a managed service in the cloud, freeing developers from the hassles of configuring and maintaining database servers. The on-demand, pay-as-you-go model of Informix Cloud is designed to appeal to startups and software-as-a-service vendors.
+
+The final new product, Informix Edge, is an embedded database for edge devices and gateways in the fast-emerging Internet of Things. Informix Edge provides a tiny 50 kilobyte footprint database that can run on devices with minimal memory and storage, enabling data persistence on the edge of the network. The tiny embedded database sends summary data and alerts up to the cloud where Informix's larger databases can aggregate, analyze, and act on insights from millions of devices.
+
+Through these new products, Informix expects to add over 5,000 new enterprise customers over the next year, which the company believes can lift its revenues by at least 30%. The big data, cloud, and IoT markets are predicted to drive a large portion of growth in the database sector, and with today's announcements Informix has established itself as a leading provider of modern data platforms for these segments. If Informix's ambitious growth plans pay off, it will cement the company's position for decades to come in the evolving enterprise data market.

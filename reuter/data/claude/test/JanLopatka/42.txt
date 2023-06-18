@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the given headline:
+
+Unisys Appeals Czech Army Contract Decision to Economic Competition Office 
+
+Unisys Corporation announced today that it has filed an appeal with the Czech Economic Competition Office regarding the recent decision to award a $250 million IT infrastructure contract to a rival bidder. Unisys claims that the selection process for the network modernization project for the Czech Army was unfair and non-transparent.
+
+The contract to upgrade and manage the Czech Army's IT network was awarded last month to CS Technologies, a Czech IT company. Unisys alleges that the selection criteria were unclear, the bid requirements were changed during the process, and CS Technologies was given preferential treatment. Unisys bid on the multi-year project in partnership with Czech telecommunications company O2.
+
+“We invested heavily in our proposal for the Czech Army network upgrade and believe we offered the best solution based on our global experience in defense IT projects,” said John Adams, Unisys' regional vice president for Europe. “However, the selection process lacked the clarity, consistency and transparency we would expect for a government contract of this size and strategic importance. We owe it to our shareholders, partners and personnel to pursue legal means to protest this flawed decision.”  
+
+In its appeal to the anti-trust regulator, Unisys claims the Czech defense ministry showed bias towards the winning bidder, including sharing confidential information about the Unisys/O2 bid with CS Technologies. Unisys is demanding the contract award be invalidated and a new transparent bidding process be conducted. The appeal also alleges that the ministry's actions counter internal EU market rules on fair competition for government tenders.
+
+The Czech Ministry of Defense defended its tender, saying the selection process was "open, transparent and non-discriminatory." A spokesperson said Unisys' appeal appears to be a delay tactic and its claims are "completely baseless." The contract with CS Technologies is due to start next month, but may be delayed pending the outcome of Unisys' appeal. The multi-year project is a key part of the Czech Army's strategic plan to modernize its IT infrastructure.

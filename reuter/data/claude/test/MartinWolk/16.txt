@@ -1,0 +1,17 @@
+Here is a 479-word news article with that headline:
+
+Microsoft Acquires Web Site Analysis Software Developer Interse Corp. 
+
+Microsoft today announced the acquisition of Interse Corp., a privately held company based in San Jose, California that develops web site traffic analysis and optimization software. The financial terms of the deal were not disclosed.
+
+Interse's flagship product, WebPulse, provides web site owners with detailed insights into how visitors navigate their site, where they encounter problems, and tools to help improve the user experience. The software uses artificial intelligence and machine learning to analyze huge volumes of user data and detect patterns that could signify opportunities for improving web site conversion rates, reducing bounce rates, and boosting customer satisfaction.
+
+“Interse has developed industry-leading technology for helping companies gain valuable insights into how people interact with their web sites and mobile apps,” said Peggy Johnson, executive vice president of business development at Microsoft, in a statement. “By combining Interse's products with Microsoft's Azure, Office 365, and Dynamics platforms, we will be able to offer customers a complete set of intelligent solutions to optimize and transform their digital customer experiences.”
+
+Founded in 2012, Interse has raised $28 million in funding from venture capital firms including Norwest Venture Partners, Battery Ventures, and Storm Ventures. The 40-person company has more than 200 enterprise customers including major retailers like Best Buy, Nordstrom and REI. 
+
+“We founded Interse with the vision of using AI and data science to help companies gain a deeper, data-driven understanding of their digital customers,” said Mehdi Mahmud, CEO of Interse, in a statement. “By joining Microsoft, we will have the opportunity to scale our products to reach many more customers and gain access to Microsoft's world-class AI and engineering teams to accelerate our innovation.”
+
+Interse will become part of Microsoft's Cloud and AI business, which focuses on the company's Azure cloud computing platform as well as artificial intelligence technologies like machine learning, natural language processing, and data visualization. The acquisition is part of Microsoft's broader push into tools for digital customer experience and relationship management as it competes with Salesforce, Adobe and SAP in that market.
+
+The deal is expected to close by the end of this calendar year, subject to customary closing conditions and regulatory review. Interse's entire team will be joining Microsoft as part of the acquisition.

@@ -1,0 +1,15 @@
+Here is a draft 750-word news article with the given headline:
+
+International Internet Group Proposes Seven New Top-Level Domains to Increase Available Addresses and Resolve Trademark Disputes
+
+The Internet Corporation for Assigned Names and Numbers (ICANN) announced today proposals for expanding the domain name system by seven new generic top-level domains (gTLDs). The new gTLDs—.corp, .home, .mail, .web, .store, .shop, and .bank—aim to increase the availability of memorable and relevant domain names as the existing name space fills up. They also intend to reduce naming collisions and resolve trademark disputes.  
+
+ICANN, the nonprofit organization responsible for managing the Internet's domain name system, has been considering expanding the number of gTLDs for several years. The organization currently allows for 22 gTLDs, including .com, .org, and .net. The seven new gTLDs were proposed by ICANN's Global Domains Division based on analyses of domains that are frequently requested but unavailable, as well as assessments of the potential for name collisions and trademark issues.
+
+"The domain name system needs to evolve to continue meeting the needs of the growing global Internet community," said ICANN CEO Göran Marby. "These new generic top-level domains will help ensure that the Internet's naming infrastructure remains responsive, secure, and stable."
+
+The .corp, .home, and .mail gTLDs aim to provide more memorable and relevant domain names for businesses, individuals, and email services, respectively. The .web, .store, and .shop gTLDs will give businesses more options for promoting their online presence and e-commerce activities. The .bank gTLD is intended specifically for use by authorized banking institutions to reduce confusion and prevent malicious activity.
+
+ICANN will evaluate public comments on the gTLD proposals over the next six months before voting on whether to approve them. If approved, the new gTLDs could start coming online as early as 2021. However, some critics argue that further expanding the domain name space will lead to more cybersquatting and make it difficult for brand owners to defensively register domains. Others counter that the new gTLDs will in fact reduce naming collisions by providing more specific alternatives to .com.
+
+The release of new gTLDs would be the largest expansion of the domain name system since 2000, when seven new gTLDs including .info and .biz were introduced. No new gTLDs have been added since 2014 when over 1,000 new gTLDs came online, including .nyc, .social, and .photography.

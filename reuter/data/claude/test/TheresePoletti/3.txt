@@ -1,0 +1,15 @@
+Here is a 508-word draft news article with the requested headline:
+
+America Online hit with lawsuits and network outage 
+
+Internet service provider America Online suffered a major blow this week as it grappled with dual crises. The company faced a barrage of customer lawsuits over service outages and interruptions, even as its network infrastructure failed for 12 hours, cutting off access for over 10 million subscribers across the U.S. and Canada.
+
+The network outage began at approximately 4:15 pm Eastern Time on Tuesday and lasted through the night until 4 am Wednesday morning. America Online said in a statement that the issue was caused by a "software bug" that overwhelmed its network servers and caused a "cascading failure" in its infrastructure. The outage impacted America Online’s dial-up, broadband and mobile internet services, as well as its web properties like AOL Mail, AOL Desktop and AOL Instant Messenger. 
+
+As the company worked to restore service, its customer support lines were inundated with over 250,000 calls complaining about the loss of access. The hashtag #AOLDown also began trending on Twitter as users vented their frustration about the disruption. Meanwhile, prominent attorney firms announced the filing of class-action lawsuits on behalf of America Online subscribers for allegedly failing to provide contracted services and not issuing refunds and credits in a timely manner.
+
+“America Online promised our clients internet access and service, and they failed to deliver while continuing to charge full fees and providing no transparency or reasonable support,” said John DeStefano, an attorney with one of the firms filing suit. America Online has faced a string of network problems and legal issues over the past year, including three previous multi-hour outages and a data breach exposing over 100 million customer email accounts.
+
+Sources within America Online said CEO Tim Armstrong called an emergency meeting of top executives Wednesday morning to address how the company can avoid future technical and legal crises. They have pledged a "thorough review" of network software and emergency communication procedures. The company may also face intervention from the Federal Communications Commission, which said it is "looking into" America Online's poor service record over the past year and the company's efforts to provide redress to affected consumers.
+
+In a video statement released after service was restored, Armstrong said, “We let our customers and our company down, and we apologize. We are conducting a full technical review and doubling down on our commitment to deliver consistent, reliable service. We are working day and night to win back our customers’ trust and resolve outstanding issues.” The company has offered subscribers credits for two days of service to compensate for the outage.

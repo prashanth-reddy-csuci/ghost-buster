@@ -1,0 +1,15 @@
+Here is a 487 word news article with the suggested headline:
+
+Netscape Stock Plummets Again After Cautionary Comments by Analyst 
+
+Netscape Communications Corporation's stock price fell sharply again today after a leading industry analyst issued a pessimistic forecast for the internet software company. The stock dropped by over 20% in heavy trading, continuing a downward slide that has seen Netscape lose over two thirds of its value since the start of the year.
+
+The latest plunge came after Mary Meeker, a managing director at Morgan Stanley and one of the most influential analysts covering internet stocks, published a research note advising investors to avoid Netscape shares. Meeker cited increasing competitive pressures, slowing growth in the internet software market, and strategic missteps by Netscape management. 
+
+"Netscape has failed to keep up with larger rivals like Microsoft in developing the next generation of internet technologies," Meeker wrote. "Meanwhile, the company's flagship web browser is losing ground to Microsoft's Internet Explorer, and Netscape has not shown that it can build a meaningful business around its web server or enterprise software products."
+
+Meeker's comments echo criticisms by other analysts in recent months. They have argued that Netscape has failed to adapt to changes in how companies and individuals access the internet. In particular, analysts point to Netscape's sluggishness in moving from packaged software to "cloud-based" services, and from desktop to mobile platforms.
+
+Netscape spokesperson John Miller responded to Meeker's research note by defending the company's strategy and product roadmap. "Netscape has been transitioning to an internet-centric cloud company for several years now," Miller said. "We have a robust pipeline of innovative products and services targeted at both consumer and business audiences. While the growth of our browser and web server businesses have slowed with the overall market, we see significant opportunities to gain market share in areas like cloud-based services and mobile applications."
+
+Continued on next page...

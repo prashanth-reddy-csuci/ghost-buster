@@ -1,0 +1,11 @@
+Here is a draft 500-word news article with the given headline:
+
+Versant Object Technology Corp expects to continue business with MCI despite stalled project, says CEO  
+
+Versant Object Technology Corp announced today that it expects its business relationship with telecommunications giant MCI to continue, despite MCI's recent decision to halt a multi-million dollar software project with Versant. In a statement, Versant CEO John Valenta said "While we are disappointed that MCI had to suspend our current project due to their integration challenges, we have a long-standing relationship with MCI and anticipate working with them on future projects. Our technology remains a key part of their infrastructure and we are the leading provider of object database technology."
+
+The software project, which began 18 months ago, was meant to upgrade MCI's customer service databases using Versant's object database technology. The project had been delayed several times due to shifting priorities at MCI, which recently completed a merger with WorldCom. Last week, MCI notified Versant that the project would be put on indefinite hold due to technology integration issues arising from the merger. The loss of the MCI project will reduce Versant's revenue by nearly $2 million this quarter.  
+
+Versant's stock price plunged over 30% on the news, reflecting investor concerns about the company's loss of its biggest customer. However, analysts said that the long-term impact is unlikely to be severe. "MCI has been a major customer for Versant for over 10 years, so this appears to be a temporary setback, not a devastating loss," said Kevin Elliot, a software analyst at JMP Securities. "Versant's technology remains essential to MCI's operations, so once MCI gets past their current integration issues, future business from MCI is still likely." 
+
+Versant Object Technology Corp, based in Menlo Park, California, develops and markets distributed object database management systems for global 2000 companies and government agencies worldwide. MCI Communications Corp, headquartered in Ashburn, Virginia, is a global communications company, providing Internet backbone, wireless, voice and data services to businesses and consumers.

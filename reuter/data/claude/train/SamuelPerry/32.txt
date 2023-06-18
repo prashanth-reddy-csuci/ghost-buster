@@ -1,0 +1,17 @@
+Here is a draft 478-word news article with the given headline:
+
+U.S. High-Tech Venture Fund Investment Soars 50% in Q3, Software Leads the Way
+
+Investment in U.S. high-tech startups surged in the third quarter of this year, increasing 50% over the previous quarter, according to a new report from PitchBook, a Seattle-based venture capital and private equity research firm. Venture funds invested $33.2 billion in U.S. tech companies in the third quarter, the highest total since 2000. 
+
+The software sector accounted for nearly half of the investment, raising $14.9 billion across 894 deals. Funding and deal volume were up 57% and 23%, respectively, from the previous quarter. Several large rounds drove the increase, including $2 billion raised by Southwest Airlines to invest in improving its reservation system, as well as $1 billion by the cybersecurity company Illumio. Artificial intelligence startups were particularly hot, raising $4.6 billion in funding.
+
+“Investors have a huge appetite for high-growth tech companies right now, especially in areas like software, AI, and cloud services that have been thriving during the pandemic,” said PitchBook analyst Asad Hussain. “Valuations are rising, and more mature 'unicorn' startups are staying private longer, allowing them to raise mega-rounds to fuel their growth.”
+
+Healthcare tech companies raised $4.5 billion, a 67% increase over the previous quarter. E-commerce and mobile startups saw funding jump 38% to $3.2 billion. The financial tech sector, however, saw a drop of 22% to $2.5 billion amid greater scrutiny from regulators.  
+
+San Francisco solidified its status as the nation's tech hub, attracting nearly a third of total U.S. tech investment with $10.2 billion in funding across 384 deals according to PitchBook. New York City was second with $3.8 billion raised, while Boston companies attracted $3.6 billion in new funding. 
+
+National venture investment has now exceeded $100 billion for the third year in a row and is on pace to top $130 billion for the full year, according to PitchBook. However, some analysts worry that the record level of investment has inflated valuations and that some startups may struggle if funding slows in the coming quarters. The tech-heavy Nasdaq has also seen significant volatility in recent weeks, suggesting that public markets may have some concerns about overly ambitious tech valuations.  
+
+Venture firms have raised nearly $50 billion so far this year to invest in startups, indicating sustained interest in tech investing. But as the pandemic continues to impact the broader economy, capital could tighten, and investments may moderate, according to experts. The coming quarters will be closely watched to see if the tech funding boom continues unabated or pulls back to more historical levels.

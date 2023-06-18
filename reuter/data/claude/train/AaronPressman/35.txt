@@ -1,0 +1,15 @@
+Here is a potential 500-word news article with that headline:
+
+Commerce Department Allows Export of Stronger Encryption Software
+
+The U.S. Commerce Department announced today that it will allow companies to export stronger encryption software overseas. The move lifts limits that have been in place for decades on the export of powerful encryption technologies.
+
+The decision rolls back a law from the Clinton administration that restricted companies from exporting software with stronger encryption methods from 128 bits to 256 bits and higher. Supporters argued those restrictions were necessary for national security to allow U.S intelligence agencies to monitor communications. However, technology companies have long argued those policies were outdated and made U.S. businesses uncompetitive in global markets.
+
+“Technology has changed, and access to strong encryption is now widespread publicly available around the world,” said Commerce Secretary Wilbur Ross in a statement. “Therefore, restricting its export from the U.S. no longer makes sense.”
+
+The new rules allow companies to freely export software using encryption methods of up to 512 bits or higher after completing a short approval process. The Commerce Department estimates the move could boost U.S. tech exports by up to $1.5 billion annually.
+
+Privacy groups and technology champions applauded the decision. “This is a victory for privacy advocates who have long argued individuals should have access to strong security tools to safeguard their digital information,” said Nate Cardozo, a senior staff attorney with the Electronic Frontier Foundation. However, some national security experts warned that lifting export restrictions could hamper the intelligence community's ability to curb criminal plans and activities.
+
+The new rules go into effect in 90 days and follow years of ongoing policy review in the Commerce and State Departments. They continue the Trump administration's broader push to relax regulations on U.S. companies to boost economic growth. The technology industry lobby group TechNet praised the Commerce Department for "taking this crucial step to ensure U.S. technology companies can compete in the global market.”

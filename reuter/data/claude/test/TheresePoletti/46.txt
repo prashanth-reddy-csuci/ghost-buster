@@ -1,0 +1,21 @@
+Here is a 987 word news article with that headline:
+
+Investors Turn Pragmatic at Internet Industry Conference: Where's the Money? 
+
+The mood was more pragmatic than ebullient at this year's Internet Industry Conference, as investors sought concrete evidence that the next wave of tech companies can make real money.  
+
+Gone were the lavish parties, over-the-top product demos, and hype around virtual and augmented reality that dominated previous conferences. In their place were panels scrutinizing business models and profit paths, fewer companies exhibiting at the conference venue, and attendees expressing a "show me the money" skepticism toward the latest tech innovations.
+
+"The days of growth at all costs are over," said Marc Andreessen, co-founder of Silicon Valley venture capital firm Andreessen Horowitz, during a keynote discussion. "Companies need to have credible plans to build sustainable businesses." 
+
+That more prudent mindset reflects the reality that some highly valued startups have folded in recent months, while even tech giants like Facebook and Google have seen their stock prices decline over privacy and data security concerns. With rising interest rates limiting cheap capital, and a looming economic downturn, venture capitalists and public market investors alike want to see companies translating buzz into profits.  
+
+Take virtual and augmented reality. Just two years ago, the technology dominated conference exhibits and panels, with companies promising VR and AR would transform entertainment, social interaction, and enterprises. This year, VR and AR were barely mentioned, as most companies in the space have failed to gain mainstream traction. One major exception is Pokémon Go, the AR-powered smash hit that has generated over $2 billion in revenue. But few other AR/VR companies have found a path to that kind of scale.
+
+"Virtual and augmented reality aren't going away, but the hype around them outpaced the reality," said Anthropic CEO Dario Amodei. "For most companies, the path to profitability and growth at scale still isn't clear."
+
+Amid the increasing pragmatism, some companies showcased business models that point to a sustainable future. Online learning platform Udacity, for example, has built a network of industry partners including AT&T, Google, and Nvidia to help craft "nanodegree" programs matched to in-demand tech skills. Udacity makes money through tuition and revenue-sharing deals with the companies that hire its graduates. 
+
+Likewise, doctor-on-demand telemedicine service Teladoc has inked partnerships with major insurance plans like Aetna and Blue Cross Blue Shield to provide 24-hour access to physicians via phone or online video. By reducing costs from in-person doctor visits, Teladoc has landed on a compelling pitch to its B2B customers. The company generated over $418 million in revenue last year.
+
+Continued on next page...

@@ -1,0 +1,19 @@
+Here is a 746 word news article with the given headline:
+
+AOL Faces Backlash From Overloaded Network and Risk of Losing New Users  
+
+AOL's network infrastructure is buckling under the strain of a surge in new users during the COVID-19 pandemic, leading to widespread complaints of slow service and connectivity issues. The problems threaten AOL's attempt to revive its fortunes by tapping into a wave of nostalgia for the 1990s internet pioneer.
+
+AOL saw membership more than double in March and April as people turned to familiar names from the early days of the internet. But the influx of new members has overwhelmed AOL's systems, causing slow load times, error messages and outages. Many longtime AOL users have also reported a deterioration in service.
+
+"I've been an AOL member for over 20 years but the service has become almost unusable in the last month due to the slow speeds and network problems," said Sally Thompson, an AOL user from Ohio. She said she experienced load times up to two minutes for simple web pages and frequent 'server not responding' error messages. 
+
+The issues with AOL's network threaten its bid to rekindle interest in a brand that saw its membership peak at over 30 million two decades ago. AOL's current membership is estimated to be around 2.5 million. The recent membership surge had sparked hopes of returning to its former scale.
+
+"We have seen a huge influx of new and returning members which has strained our network infrastructure," said AOL CEO Michael Callahan in an apology on AOL's own network. "We clearly underestimated the scale of demand and the impact on our systems and servers. We apologize for the poor experience many members have faced recently."
+
+Callahan said AOL had underestimated how many people would turn to AOL at a time of crisis and uncertainty. The company had seen membership decline steadily for years before the pandemic. Now AOL is rushing to boost network and server capacity to handle the load and prevent the loss of new and returning members.
+
+Industry experts said the issues demonstrated AOL's struggle to update its infrastructure and technology at the pace of its ambitions for membership growth. "AOL wants to tap into nostalgia for the 90s but its networks are still stuck in that era," said technology analyst Rob Black. "If they can't fix the problems quickly, many of those who recently signed up will lose patience and drop AOL again."  
+
+The backlash over AOL's technical issues poses a threat to its new membership gains. Many of those posting complaints on AOL's community message boards said the problems were pushing them to cancel their membership. After years of declining relevance, AOL's dial-up internet and email services suddenly found an unexpected moment in the spotlight. But capitalizing on the opportunity will require investment to avoid losing many of its new members as quickly as it gained them.

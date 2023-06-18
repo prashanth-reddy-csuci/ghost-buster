@@ -1,0 +1,19 @@
+Here is a 494-word news article with the given headline:
+
+America Online Announces $250 Million Expansion of Online Network to Meet Surge in Demand 
+
+America Online, the world's largest online service, announced today plans to invest $250 million to expand its network infrastructure over the next two years. The expansion is aimed at meeting surging demand for its interactive services from millions of new customers.
+
+"The Internet is experiencing an explosive period of growth, and America Online continues to lead the way," said Steve Case, Chairman and CEO of America Online. "This investment will ensure that we have the network capacity to match our ambition and meet the high expectations of both new and existing members."
+
+America Online currently serves more than 30 million members, having added over 15 million new members in the last two years alone. However, some members have recently experienced sporadic slowdowns and access issues during peak usage periods, straining the limits of America Online's current network capacity. 
+
+The $250 million network expansion plan includes upgrading AOL's data centers with advanced caching systems and servers, expanding internet connectivity and broadband capacity, and implementing new load balancing and traffic management systems. These upgrades and improvements are designed to support over 50 million members at fast connection speeds, reduce latency, and enable a wider range of interactive experiences.
+
+"While growth creates challenges, it also creates opportunities," said Case. "Our role as an interactive pioneer is to stay ahead of the curve, envision the possibilities of this new medium, and build to make them real. That's what this expansion will enable us to do."
+
+In recent months, America Online has been beta testing several new interactive features, including live streaming audio and video, multiplayer gaming, and interactive education services. These types of high-bandwidth offerings are expected to drive continued strong demand and membership growth over the next several years.
+
+Analysts see America Online's network expansion as a strategic move to cement its leadership position and differentiate itself from competitors. "AOL recognized very early on that the key to winning in the online space would be offering the premier experience," said Amy Parker of J.P. Morgan. "Investments like this are what enable AOL to keep that promise to members and stay several steps ahead of the competition."
+
+America Online's network expansion initiative is expected to begin rollout in early 2020 and to be substantially complete within 24 months. The company says members can expect to see continuing performance improvements and new service offerings start to come online by mid-year 2020.

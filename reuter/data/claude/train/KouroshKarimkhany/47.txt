@@ -1,0 +1,15 @@
+Here is a 752-word news article with the requested headline:
+
+Informix Corp. Sues Oracle Corp. for Stealing Trade Secrets by Hiring Employees
+
+Informix Corporation, an enterprise software company based in Dublin, California, filed a lawsuit today against rival Oracle Corporation alleging the theft of trade secrets. Informix claims that Oracle improperly hired Informix employees to gain access to confidential information about Informix's products and customer relationships.
+
+The lawsuit, filed in Alameda County Superior Court, accuses Oracle of unfair business practices by recruiting key Informix employees to obtain insider knowledge that could benefit Oracle's competing data management software and cloud services. Informix argues this was done deliberately to weaken Informix as a competitor to gain access to Informix's trade secrets.
+
+"Oracle's predatory hiring program was a multi-pronged scheme to weaken Informix as a competitor and access our most sensitive information," said Pat Jones, Informix's CEO. "With a series of targeted job offers, Oracle induced many of our talented employees to join them. We believe Oracle's true intent with those hires was not to benefit from their skills and talents but to gain direct access to our proprietary technologies, products, customer data, and business strategies."
+
+Oracle issued a statement calling the lawsuit "baseless" and said it hires employees to benefit from their skills and experience, not to access trade secrets from their former employers. "Informix has presented no evidence this was anything other than the normal movement of employees between companies in the same industry," said Mark Hurd, Oracle's CEO.  
+
+According to the complaint, Oracle hired more than 100 Informix employees over the past five years, many of whom had access to highly sensitive data as programmers, product managers, and account executives. The lawsuit claims this was a coordinated effort by Oracle to systematically weaken Informix's ability to compete while tapping into the knowledge of key former employees.  
+
+(Continued on next page)

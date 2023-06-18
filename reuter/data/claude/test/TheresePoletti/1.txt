@@ -1,0 +1,17 @@
+Here is a 758-word draft news article with the specified headline:
+
+Microsoft Launches Highly Anticipated Office 97 Software With New Features for Seamless Internet Integration  
+
+Microsoft today released the latest version of its popular Office suite of productivity software, Office 97, marking one of the company's most important product launches in years. Office 97 introduces new features aimed at seamlessly integrating the Internet experience into Microsoft's market-leading word processing, spreadsheet, and presentation applications.
+
+The release of Office 97 comes as Microsoft faces increasing competitive pressure, especially from rival web browsers and office suites optimized for the Internet. With Office 97, Microsoft is signaling a new focus on embracing Internet technologies within its core Office products. The new version of Office includes tools for publishing documents to the web, built-in support for web standards like HTML and XML, and "applets" that enable interactive web content within Word, Excel and PowerPoint.
+
+"Office 97 is the first office productivity suite that is truly 'web-ready,'" said Bill Gates, chairman and CEO of Microsoft. "By building Internet technologies deeply into Office, we're empowering people to tap into the benefits of connectivity and collaboration right within the familiar Office experience."     
+
+The crown jewel of Office 97 is Word 97, the updated version of Microsoft's word processing software. Word 97 includes new HTML capabilities that allow people to save Word documents as web pages and publish them to the Internet. Users can now also open and edit HTML documents, including web pages, directly within Word. The new version of Excel, Microsoft's spreadsheet software, includes similar web publishing and HTML editing features.     
+
+PowerPoint 97, Microsoft's presentation software, introduces "web slides" that enable presentations to include hyperlinks, video, and animation. Presentations can be saved in HTML format and viewed over the Internet as interactive slideshows. Access 97, Microsoft's database product, also gains new web capabilities, including the ability to publish Access tables, queries and reports on the Internet in an interactive format.  
+
+With the Office 97 launch, Microsoft is also introducing a new web site, Office Online, that offers free access to web-enabled Office 97 tools, templates, and other resources. Office Online provides a central portal through which Office 97 users can publish and share documents over the Internet.  
+
+Continued on next page...

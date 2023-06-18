@@ -1,0 +1,15 @@
+Here is a 491-word news article with the given headline:
+
+Microsoft Releases Highly-Anticipated Office 97, Expected to Increase Revenue by 15-20%  
+
+Tech giant Microsoft today released the latest version of its popular Office productivity suite, Office 97. After months of anticipation and several public beta tests, Office 97 is now available for purchase by businesses, students, and home users. Industry experts expect Office 97 to generate a significant boost in revenue for Microsoft, estimating sales will increase the company's profits by 15-20% over the next year.
+
+Office 97 includes refreshed versions of Microsoft's stalwart applications like Word, Excel, and PowerPoint. The updated software features an overhauled user interface with a simplified ribbon toolbar, making the programs easier to navigate. Office 97 also has tighter integration between applications, allowing users to easily embed Excel charts in Word documents or add PowerPoint slides to Outlook email messages. 
+
+"We built Office 97 to be the most intuitive and integrated Office experience yet," said Microsoft CEO Bill Gates at the product launch event. "These new SmartOffice applications learn how people work and make it faster and easier to create, analyze and share information."
+
+The high-margin Office division is Microsoft's largest business segment, accounting for over 30% of the company's revenue and nearly 60% of profits last fiscal year according to analysts. Due to its dominance, each new version of Office is a major event in the technology industry. Office 95 and Office 2000 introduced innovative features like the all-digital Assistant "Clippy" and XML-based file formats that drove those versions to over 100 million copies sold apiece.
+
+Office 97 is launching with an MSRP of $399 for the Home & Student edition and $479 for the Professional edition. But through Microsoft's volume licensing programs, most corporate customers pay significantly less than retail pricing. Businesses also commonly skip versions of Office, so the release of Office 97 is expected to trigger a massive wave of upgrades from companies still using older editions like Office 95 or Office 2003.
+
+With an enormous 500 million Office users worldwide and at least tens of millions of customers eager to upgrade to the latest features, analysts are bullish on the impact Office 97 will have on Microsoft's bottom line. If sales meet Microsoft's projections, revenue from Office alone next year could surpass $30 billion for the first time, reinforcing the irreplaceable role it plays in how the world gets work done. For Microsoft, that is the real power behind Office.

@@ -1,0 +1,17 @@
+Here is a 472 word news article with the given headline:
+
+IBM and 15 banks team up to form new electronic banking company in North America 
+
+IBM today announced a partnership with 15 leading North American banks to establish a new electronic banking company called finQ. The new company will provide digital banking and payment services to customers across the U.S. and Canada.
+
+The finQ platform will allow customers to send and receive money, pay bills, apply for loans, and access other banking services through digital channels like mobile apps, websites, and voice assistants. The goal is to provide customers a seamless experience across different banks and financial services.
+
+The 15 bank partners include Bank of America, Citibank, Wells Fargo, HSBC, TD Bank, and 10 other major consumer banks. Together they represent over 200 million retail customers in North America. IBM will build and manage the finQ technology platform, while the banks will market finQ's services to their existing customers and continue to own customer relationships.
+
+"By working together, these banks are poised to deliver an advanced digital experience that rivals any in the market today," said Raj Ratnaparkhi, Global Managing Director of IBM's Financial Services Sector. "finQ will set a new standard for integrated banking and payments that puts the customer first."  
+
+The formation of finQ comes at a time when traditional banks face increasing competition from financial technology companies like PayPal, Venmo, and digital banks like Chime. According to Lou Paskalis, SVP Customer Experience at Bank of America, "Teaming with IBM and our bank partners, we will deliver innovative financial solutions at scale while maintaining a superior customer experience. Our customers want banking on their terms and finQ is how we'll achieve that."
+
+With banks pooling their resources and customer bases together, finQ seems poised to gain significant market share. However, some analysts caution that major technology integrations can be challenging. "There are a lot of big egos and competing priorities at play here," said JPMorgan Chase analyst John Arfstrom. "If finQ works, it could be a game changer. But the execution risks are high and there's no guarantee of success."
+
+The new company will be headquartered in Austin, Texas and led by CEO Pat Smith, a former PayPal and Charles Schwab executive. finQ is planning to launch its first set of banking and payments services to customers starting in early 2022.

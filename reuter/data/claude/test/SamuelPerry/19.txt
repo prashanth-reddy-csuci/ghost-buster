@@ -1,0 +1,13 @@
+Here is a 500-word news article with that headline:
+
+Sun Microsystems Enters Supercomputing Market, Aiming to Compete with Cray and Silicon Graphics Inc.  
+
+Sun Microsystems announced today that it is entering the supercomputing market with plans to compete directly with established leaders Cray Inc. and Silicon Graphics Inc. Sun unveiled a new line of high-performance computing systems called the Sun Constellation that the company says will offer substantial performance and efficiency gains for data centers running complex modeling and simulation workloads.
+
+The Sun Constellation line includes both air-cooled and liquid-cooled models that can scale up to thousands of nodes and provide petaflop-level performance, according to Sun. The systems leverage Sun's SPARC64 X processor architecture as well as an interconnect called X-Connect that provides high bandwidth and low latency for inter-node communication. Sun is aiming the Constellation line at both government research facilities and large enterprise customers in industries such as aerospace, automotive, energy, finance, and pharmaceuticals.
+
+Sun's entry into the supercomputing market comes at a time when high-performance computing systems are achieving new levels of performance and efficiency. Cray recently announced its Shasta supercomputer platform, which will provide exaflop performance, while NVIDIA continues to push accelerated computing with its graphics processing units. However, Sun believes its systems will provide superior performance and energy efficiency through tight integration of components and optimization of the stack.
+
+The move also reflects Sun's strategy to diversify beyond its core business of selling servers and services to private companies. The supercomputing market provides more stability through long-term government and research institution contracts. However, Sun faces intense competition from well-established players. Cray and SGI have built up reputations and customer relationships over decades. Sun will have to prove its supercomputing credibility and the advantages of its Constellation platform.   
+
+The competitiveness and performance claims from all parties are difficult to verify independently, so the success of Sun's new platform remains to be seen. But its entry promises to raise the bar for supercomputing and benefit organizations that depend on modeling, simulation and data analysis to gain insights and drive innovation. With more choices and continuing progress in performance and efficiency, supercomputing is poised to expand its impact on both science and society.

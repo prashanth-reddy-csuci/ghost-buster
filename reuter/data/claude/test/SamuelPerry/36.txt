@@ -1,0 +1,17 @@
+Here is a 750-word news article with the suggested headline:
+
+Legal Battle Between Netscape and Microsoft May Dampen Investors' Enthusiasm for Both Stocks 
+
+The ongoing legal battle between technology giants Netscape Communications and Microsoft Corp. threatens to undermine investor confidence in both companies. On Tuesday, Netscape filed an antitrust lawsuit against Microsoft, alleging that the software maker has used illegal tactics to gain a dominant position in the market for Internet browsers and other software.
+
+The lawsuit comes at a sensitive time for both companies. Netscape's share price has declined over 50% this year due to slowing demand for its flagship Navigator web browser and increased competition from Microsoft's Internet Explorer, which is included free with Microsoft's dominant Windows operating system. Microsoft's stock has also stagnated recently due to legal and regulatory pressures facing the company.
+
+The antitrust suit alleges that Microsoft illegally bundles Internet Explorer with Windows to undermine competition and gain market share. Netscape claims that Microsoft's actions have cost Netscape millions of dollars in potential revenue. The lawsuit asks the court to force Microsoft to separate Internet Explorer from Windows and pay unspecified damages.
+
+For its part, Microsoft denies any wrongdoing and says that its browser integration benefits consumers. The company argues that Windows and Internet Explorer are part of an integrated platform, and there are many competitors to Navigator, including Internet Explorer. Legal experts say Netscape faces an uphill battle proving that bundling software products together constitutes an illegal "tying" arrangement under antitrust law.
+
+The legal wrangling comes at a time of transition for both companies. Netscape was acquired last month by AOL for $4.2 billion but has struggled in the face of competition from Microsoft. Microsoft is awaiting regulatory approval of its $400 million purchase of eShop Inc. The deal would boost Microsoft's e-commerce offerings, but regulators will likely scrutinize how it affects competition. 
+
+The Netscape lawsuit is not Microsoft's only antitrust headache. The US Department of Justice is preparing to file a sweeping antitrust lawsuit against Microsoft related to its Windows software. Some analysts say the barrage of legal attacks threaten to distract Microsoft management at a time when the industry landscape is rapidly changing.
+
+Continued uncertainty around the legal and regulatory issues facing both companies may give investors pause. Netscape's lawsuit is unlikely to be resolved quickly and could drag on for years through appeals. As the browser wars rage on in the courtroom, consumers and investors would be better served if the companies focused on innovating and competing in the marketplace. If litigation becomes the main driver of these firms' business strategies, it may dampen shareholder enthusiasm for their stocks over the long run. Overall, the latest legal skirmish highlights the tumultuous competitive environment in high technology and overshadows the exciting changes rippling through this industry.

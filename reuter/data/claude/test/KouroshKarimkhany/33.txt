@@ -1,0 +1,19 @@
+Here is a draft 748 word news article with that headline:
+
+Advanced Micro Devices Reports Surprising First-Quarter Profit Thanks to Strong Chip Sales   
+
+Advanced Micro Devices (AMD) reported first-quarter results Tuesday that surprised analysts and investors with a profit and a revenue beat, thanks to strong sales of its chips for data centers and gaming PCs.   
+
+The chipmaker reported earnings of 6 cents a share, on revenue of $1.27 billion. Analysts had expected it to report a loss of 2 cents a share on revenue of $1.26 billion, according to Yahoo Finance. AMD's stock jumped over 7% in after-hours trading Tuesday on the results.   
+
+AMD has been gaining ground against its far larger rival Intel in the market for chips that power data centers and cloud computing. Revenue from AMD's enterprise, embedded, and semi-custom segment, which includes data center and gaming console chips, jumped 68% to $532 million. AMD now has Google, Microsoft, and other major cloud providers as customers for its Epyc server processors.   
+
+On AMD's earnings call Tuesday, CEO Lisa Su said Epyc chip sales more than doubled sequentially in the quarter, and the company has now shipped more than 50 models of Epyc-based servers. "We believe we can continue gaining share in the data center over the coming quarters based on the strength of our product portfolio," she said.  
+
+Revenue from AMD's computing and graphics segment, which includes PC chips and graphics cards, rose 26% to $744 million. AMD's Ryzen processors and Radeon graphics cards are finding their way into more gaming PCs and mainstream laptops. Personal computer sales have been unexpectedly strong recently, which is helping lift AMD's business. 
+
+AMD still faces risks, including the threat of a slowing PC market and a trade war with China that could increase costs. But for now, Su said the company sees continued "strong demand signals" for its products in major markets like data center, commercial PCs, and gaming.   
+
+For the second quarter, AMD projected revenue growth of 3% quarter over quarter at the midpoint of its guidance. Analysts were modeling a 7% revenue decline for the quarter. Su cautioned there is uncertainty around how the COVID-19 pandemic and macroeconomic environment may affect results. 
+
+The first-quarter profit and raised guidance are a sign of the progress AMD has made, and the resilience of its business in an uncertain economy. After years struggling in Intel's shadow, AMD has a range of competitive products that are allowing it gain share in strategic markets like data center and gaming. If it can keep executing, AMD is shaping up to be well positioned for when markets recover and growth returns. For now, its rally continues.

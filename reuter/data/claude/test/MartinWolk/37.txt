@@ -1,0 +1,15 @@
+Here is a draft 501 word news article with that headline:
+
+Microsoft Expected to Show 40% Earnings Jump on Strength of Office Upgrade and Core Business  
+
+Microsoft Corp. is expected to report a 40% increase in quarterly earnings after the market closes today, boosted by sales of its Office product suite and strong growth from its Azure cloud computing service and other business offerings.
+
+Analysts forecast Microsoft to report fiscal fourth-quarter earnings of $1.21 a share, up from 87 cents a share a year earlier. Revenue is projected to rise 12% to $29.2 billion. The results would cap another solid year for Chief Executive Satya Nadella, who took over in 2014 and has overseen Microsoft’s transition to cloud-based services and a subscription-software model.
+
+Much of the sales and profit growth is anticipated to come from Microsoft’s productivity and business processes segment, which includes Office products like Excel, Word, PowerPoint and Outlook. Revenue from that unit is forecast to climb about 15% to $9.7 billion in the quarter. The rise reflects increased subscriptions for Microsoft 365, which includes Office apps, and the October release of Office 2019. The new Office likely spurred many companies and consumers to upgrade or subscribe for the first time.
+
+Azure, Microsoft’s flagship cloud-computing service, is expected to continue its torrid growth, with sales likely up more than 75% from a year ago. Azure helps power everything from corporate software to mobile apps to server systems. The cloud platform has been winning more large corporate customers as companies move more of their operations to the cloud.
+
+The intelligent cloud segment overall, which also includes server products, could post a 20% revenue increase to $10 billion. The personal computing unit, including Windows software and Surface devices, may see a 5% bump in sales. But the PC market has been volatile, and a decline in Windows revenue could weigh on the company’s results.
+
+While Microsoft faces competitive pressures, the company enters its new fiscal year with strong momentum and a sturdy foundation in growing markets like cloud services and business software. Steady demand for those offerings is fueling confidence in Microsoft’s ability to gain market share and boost sales and profits for years to come.

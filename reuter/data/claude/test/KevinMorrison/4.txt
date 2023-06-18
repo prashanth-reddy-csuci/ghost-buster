@@ -1,0 +1,17 @@
+Here is a 753-word news article with the given headline:
+
+OzEmail Launches World's First Long-Distance Telephone Calls Over the Internet at a Quarter of the Cost of Telstra and Optus
+
+Pioneering Australian internet service provider OzEmail today made telecommunications history by launching the world's first commercial long-distance telephone calls over the Internet. The new service, called OzEmail Phone, allows customers to make calls to landlines and mobile phones around the world at rates up to 75% cheaper than traditional telcos like Telstra and Optus. 
+
+OzEmail Phone leverages voice over Internet protocol (VoIP) technology to transmit calls over the Internet rather than the traditional phone network. Customers can access the service using a web browser on their PC, or via a mobile app on their smartphone. To make a call, users simply enter the phone number of the person they want to reach. OzEmail's systems then connect the call over the Internet and complete it on the traditional phone network.
+
+"This is a revolutionary day for telecommunications," said OzEmail CEO Craig Erskine. "Using the Internet to make long-distance phone calls has been the holy grail for decades. We are proud to be the first telecommunications company in the world to offer this commercially."
+
+OzEmail is launching the service at rates far lower than existing telcos are able to match. Calls to landlines in Australia will cost A$0.05 per minute, compared to a standard rate of A$0.20 per minute from Telstra. Calls to the UK, the US, and New Zealand will cost just A$0.10 per minute, compared with rates of over A$0.30 per minute from Optus. Rates for calls to mobiles are also up to 75% cheaper.
+
+The drastically lower rates are possible because the Internet has far greater capacity and lower costs than the traditional phone network. OzEmail expects the new product to save Australians over $1 billion per year in call charges. The company believes the lower rates will drive massive uptake of the new service, with over 1 million Australians expected to be using OzEmail Phone within 12 months.
+
+Telstra and Optus have been left behind by OzEmail's world-first offering. The traditional telcos have only just started testing VoIP call services and are understood to be at least 18 months away from launching. Today's announcement poses a major strategic challenge and risks disrupting their business models. 
+
+OzEmail Phone is available from today for all OzEmail residential and business internet customers. Non-OzEmail customers will be able to access the service from October. The launch of OzEmail Phone marks the next stage in the internet's revolution of global communication. OzEmail expects it will ultimately transform the way we make telephone calls, just as the internet has already radically changed so many other aspects of our lives.

@@ -1,0 +1,17 @@
+Here is a 416-word news article with the requested headline:
+
+Hewlett-Packard slashes workstation prices by up to 41% to take back market share from Sun Microsystems  
+
+Hewlett-Packard Co. yesterday announced aggressive price cuts of up to 41% on its high-end technical workstations in an attempt to win back market share lost to rival Sun Microsystems Inc. over the past year.
+
+The price cuts on HP's workstation line are the largest in recent memory and reflect the company's determination to regain leadership in the $6 billion global workstation market. In fiscal 1992, which ended Oct. 31, Hewlett-Packard's share of the workstation market slipped to about 25% from 35% a year earlier, according to market researcher Dataquest Inc.
+
+The steepest price reductions are on HP's top-of-the-line 400 series workstations, including a model that until yesterday sold for $38,500 but now retails for $22,500. At the low end, HP cut prices on its Model 350 series workstation by 20% to 25% and now offers models starting at less than $10,000.
+
+Company executives said the price cuts, which took effect immediately, are intended to fuel demand among engineering, design and research users in such fields as aerospace, automotive design and biotechnology. 'We intend to win back our dominant share of this market through a combination of lower prices, new products and marketing programs targeted at key customer segments,' said Allan D. Wilks, director of marketing for HP's technical computer group.  
+
+Analysts said the price cuts reflect HP's gross profit margin, which rose to 33% in fiscal 1992 from 31% the year before. They noted that HP, unlike Sun, designs and manufacturers all the components in its workstations, giving the company more flexibility to cut prices. 'HP's profit margins can absorb these kind of price cuts more easily than Sun's,' said Paul Johnson, a securities analyst with Robertson Stephens & Co. 
+
+In contrast, most of Sun's earnings come from reselling workstations made by other companies, primarily desktop models from Next Inc. and Apple Computer Inc., as well as Sparc-based servers from various manufacturers. As a result, Sun's profit margins tend to be lower at around 28%. Sun officials yesterday declined to comment on HP's price cuts or whether Sun would match the new lower prices.
+
+The workstation war between HP and Sun is the latest battle in the companies' long-running rivalry. In the minicomputer market of the 1970s, HP was dominant but lost significant share to Sun's low-cost Unix-based servers in the 1980s. The workstation fight is a key test for HP's new chief executive, Lewis Platt, who took over this year and has pledged to boost HP's revenue and market share.

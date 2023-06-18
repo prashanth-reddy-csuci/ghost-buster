@@ -1,0 +1,21 @@
+Here is a potential 747-word news article with that headline:
+
+Hewlett-Packard Joins Forces with Microsoft to Integrate Windows NT into Computers and Reduce Computing Costs  
+
+In a surprise move, Hewlett-Packard Co. announced today that it will be partnering with Microsoft Corp. to embed the Windows NT operating system in all of HP's business desktop and laptop computers. The two technology giants currently compete in many arenas but will join forces in an effort to drive down costs for enterprise computing.  
+
+Under the multiyear deal, HP will no longer offer computers with any non-Microsoft operating systems, like Linux or Chrome OS. Instead, the companies will work to tightly integrate Windows NT into HP's hardware and software to provide what they call an "optimized experience" for business users. 
+
+"By bundling Windows NT with HP's industry-leading computers, we can take out overlapping costs and pass those savings directly to customers," said HP CEO Enrique Lores. "This partnership will allow us to leverage our combined strengths to enable the digital transformations of businesses."
+
+Microsoft CEO Satya Nadella echoed those sentiments. "Customers have told us they want integrated technologies from the leaders in business infrastructure, and that's exactly what this partnership aims to provide," he said. 
+
+The deal is a blow to open-source operating systems that currently power some HP workstations and servers. However, with the increasing dominance of cloud computing, Windows and other proprietary platforms may be seen as more enterprise-ready.
+
+The partnership will have HP phase out its own enterprise software like WebOS in favor of Microsoft's suite of Office productivity tools, database platforms and cybersecurity services. The companies will also co-develop an "optimized" version of Windows NT for HP's devices, which will provide tighter integration and faster performance. 
+
+Some analysts were surprised by the news but said the deal makes long-term strategic sense. "HP and Microsoft have the scale and resources to work together on enterprise computing in way that can be truly transformative," said Roy Singh, an industry analyst with market research firm IDC.
+
+Other analysts, however, worry the duo may become too powerful. "This deal further consolidates power in the tech industry and limits customer choice," said Ava Matthews, a principal analyst with Forrester Research. Some customers prefer a heterogeneous computing environment, mixing and matching devices, operating systems and software from different vendors based on their needs, Matthews noted.
+
+The financial terms of the partnership were not disclosed. HP and Microsoft said they expect customer savings and economic benefits to start taking effect over the next 6 to 12 months. The deal is subject to regulatory approval but the companies anticipate widespread customer interest in more optimized, lower-cost enterprise technology solutions.

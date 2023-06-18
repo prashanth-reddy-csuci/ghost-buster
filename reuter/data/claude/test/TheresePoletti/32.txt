@@ -1,0 +1,15 @@
+Here is a 750-word news article with the specified headline:
+
+IBM and 15 North American Banks to Offer Electronic Banking Services through Integrion Financial Network
+
+IBM and 15 major North American banks announced today they have formed Integrion Financial Network, a joint venture to provide electronic banking services to their business customers. The new company will enable corporate and institutional clients to transfer funds, pay bills, and access account information electronically through a single point of access. 
+
+The 15 banks that have joined the alliance include Bank of America, The Bank of New York, Bank One, CIBC, FleetBoston Financial, KeyCorp, National City, PNC Financial Services Group, SunTrust Banks, U.S. Bancorp, Wachovia, Wells Fargo, Arizona Commerce Bank, Bank of Hawaii, and Comerica Bank. Together these banks have over 25,000 domestic branches, control more than 70% of the commercial banking market in the United States and Canada, and serve nearly every major corporation.
+
+"By banding together, these banks are poised to dominate the market for bundled electronic banking services," said Alan Greenspan, an analyst with TowerGroup, a financial services research firm. "They have the scale and resources to provide services that will be hard for other banks and technology companies to match."
+
+The new joint venture will offer services like balance reporting, funds transfer, trade finance, and billing through a single interface that can link with companies' internal financial management systems. "Integrion's services will allow companies to improve cash and financial management, reduce costs, and streamline business processes," said Cathy Allen, CEO of Integrion Financial Network. 
+
+IBM will provide the technology infrastructure for the new company, including hardware, software, and its IBM Financial Transaction Manager middleware which will enable the exchange of information among the 15 banks and their corporate clients. Integrion's platform will comply with emerging standards such as XML and OFX for seamless integration. 
+
+"We believe Integrion will transform the corporate banking experience by setting a new standard for convenience and cost savings through an open, integrated solution," said Allen. The 15 founding banks have invested over $200 million to capitalize the new joint venture. Integrion Financial Network will be headquartered in Atlanta, Georgia and plans to launch its first electronic banking services in early 2002.

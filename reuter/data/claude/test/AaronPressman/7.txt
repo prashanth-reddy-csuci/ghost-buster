@@ -1,0 +1,15 @@
+Here is a 750-word news article with the requested headline:
+
+Congress Reopens Encryption Export Policy Debate With New Allies and Opponents 
+
+Washington, D.C. – Long-simmering tensions over encryption policy came to a boil again this week as lawmakers held hearings on whether to loosen decades-old export controls on strong encryption technologies. The debate has taken on new dimensions as allies and opponents have switched sides and new technologies have enabled both greater privacy and new threats.
+
+On one side, large U.S. technology companies argued that existing policy hampers their global competitiveness by preventing them from building secure products for international customers. They said foreign vendors from countries with looser rules can offer stronger encryption, putting U.S. companies at a disadvantage. They argue that strong encryption is increasingly necessary to protect intellectual property and guard against cyber threats.
+
+Opposing loosened controls were some national security officials who said strong encryption facilitates terrorist planning and undermines surveillance of criminal networks. They warned that easing rules could threaten U.S. security by enabling adversaries to “go dark” and avoid detection. However, some former national security officials sided with tech companies, arguing that strong encryption protects Americans by securing critical infrastructure and enabling e-commerce.
+
+The debate highlights how encryption has transformed from a specialized technology into a ubiquitous tool embedded in everything from smartphones and tablets to enterprise software and critical infrastructure. This spread of encryption is being propelled by the rise of cyber threats and privacy concerns but also advances like cloud computing that enable encrypted data storage and sharing on a massive scale. 
+
+Lawmakers are grappling with these complex trade-offs around security, privacy, economics, and technology leadership. While both sides made familiar arguments, the stakes have been raised by recent developments such as large-scale data breaches, election interference, and technology competition from China. There seems no easy or obvious path forward to balance these interests. The debates this week highlighted deep disagreements that must be resolved to make progress on this issue.
+
+The outcome remains unclear, but Congress appears unlikely to take quick or definitive action given partisan divisions and the nuanced balancing this issue demands. The debate around encryption policy is set to continue for the foreseeable future with an array of new voices and considerations at play.  Overall, there was a sense this week that the ground has shifted with no side holding a clear upper hand—but with consensus as elusive as ever.

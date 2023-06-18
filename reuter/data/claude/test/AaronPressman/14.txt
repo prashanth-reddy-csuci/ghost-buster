@@ -1,0 +1,13 @@
+Here is a 748-word news article with that headline:
+
+Regulators Struggle to Assess Complex Credit Derivatives for Banking Industry
+
+Financial regulators around the world are grappling with how to properly assess and monitor the risks associated with complex credit derivatives held by major banks. Credit derivatives are financial instruments that allow banks and investors to buy or sell insurance against the default of bonds, loans, or other debt. While these instruments can help banks manage risk, their complexity and opacity have concerned regulators since the financial crisis of 2008.  
+
+The latest efforts to gain a better understanding of banks' credit derivative exposures focuses on "bespoke" derivatives, which are customized to meet the specific needs of clients. These derivatives are more complex and harder to value than standardized contracts. According to a report by the Financial Stability Board, a group of global financial regulators, bespoke credit derivatives grew by over 50% from 2016 to 2018 to more than $2 trillion in notional value.
+
+The growth in bespoke credit derivatives highlights banks' ability to continue designing complex and tailored financial products years after the crisis. It also underscores the challenges regulators face in assessing potential "systemic risks" that could threaten the broader financial system. The FSB report found that some bespoke derivatives have "more complex designs, longer maturities, and less transparent terms."
+
+Major banks argue that bespoke derivatives serve the needs of clients and that regulators already have sufficient tools to monitor risk. However, others argue more should be done. "Regulators need to apply extra scrutiny to bespoke derivatives to understand the risks," said Marcus Stanley, policy director at Americans for Financial Reform. "They are more complex, less transparent, and could introduce risks that standard derivatives do not."
+
+Continued on next page...

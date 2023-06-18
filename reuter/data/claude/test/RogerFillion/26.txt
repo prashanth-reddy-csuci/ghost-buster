@@ -1,0 +1,15 @@
+Here is a 490-word news article with the given headline:
+
+Regulators Auction Spectrum for Wireless Communications Service
+
+Federal regulators opened bidding today in an auction of spectrum licenses that could reshape the landscape of wireless communications in the country. The Federal Communications Commission is auctioning licenses for radio spectrum in the 600 MHz band that can be used for mobile data and voice services. 
+
+The spectrum is highly coveted by wireless carriers looking to boost their coverage and capacity to meet the surging demand from customers using smartphones and other connected devices. The 600 MHz band is valued because its signals can travel long distances and penetrate buildings. The licenses up for auction cover the entire country and could be critical for extending wireless broadband service to rural and suburban areas currently underserved by carriers.
+
+"This auction is a once-in-a-lifetime opportunity for carriers to secure beachfront spectrum that can help them deliver wireless services for years to come," said FCC Chairman Tom Wheeler. The FCC expects the auction to raise tens of billions of dollars for the federal government and notes the funds will be used to reduce the deficit. The auction is scheduled to run for several weeks.
+
+Verizon Communications and AT&T, the nation's two largest wireless carriers, are expected to be active bidders in the auction. Smaller rivals T-Mobile US and Sprint also plan to participate to boost their networks. One unknown is if any large technology companies will bid on the spectrum. Companies such as Alphabet, Facebook, and satellite TV provider Dish Network have expressed interest in wireless spectrum and services in the past but it's unclear if they will be direct participants in this auction.
+
+Some public interest groups have raised concerns about the concentrated power of the largest wireless companies and want the spectrum licenses to be distributed to multiple carriers to spur competition. The outcome of the auction will shape the competitive dynamics of the wireless industry for years to come. Winning bidders will have access to spectrum that isn't available in such a large block very often. But no matter the winners, consumers stand to benefit from the enhanced connectivity and features made possible by this new spectrum, supporters of the auction say.
+
+The auction is underway and bids are sealed, so it's unclear which companies have taken an early lead in the process. The identities of winners won't be revealed until after the auction concludes several weeks from now. FCC officials say the entire process could take six to 18 months to complete as companies work through the regulatory review and spectrum clearing process before launching new services. Consumers eager for more bandwidth and coverage will have to wait to reap the rewards of the spectrum auction. But the future of wireless connectivity looks brighter thanks to this much-needed infusion of new airwaves.

@@ -1,0 +1,17 @@
+Here is a 512 word news article with the given headline:
+
+Sybase to Revamp Flagship Database Software and Releases Improved SQL Server System 11 to Boost Sales Growth, Says CEO  
+
+Sybase Inc. announced today that it is launching an overhaul of its flagship database software and released SQL Server System 11, the latest version of its relational database management system. The new database software marks one of the biggest upgrades in years and aims to boost Sybase's slowing sales growth, according to CEO John Chen.
+
+"We have invested over 25 million hours of engineering time to deliver a database platform that will propel our customers into the next decade," said Chen. "System 11 delivers breakthrough performance, scalability and analytics capabilities that are unmatched in the industry."   
+
+System 11 offers up to five times performance improvement over the previous version which was released three years ago. The speed boost will allow customers to run more transactions and queries on the platform. Sybase has also expanded the number of processing cores in System 11 from 24 to 48, enabling the software to handle more data and a higher volume of customer interactions.
+
+On the data analytics front, System 11 comes with built-in machine learning algorithms and predictive models that can provide real-time business insights. The platform is able to analyze data on its own and deliver automated data modeling. It uses artificial intelligence to learn user behavior and preferences over time.
+
+In addition to improved analytics, the new database software delivers up to 50 percent reduction in storage space required for customer data. This could help lower the overall cost of ownership for clients, according to Sybase. The software also simplifies database management by automating key administrative tasks like data partitioning, database replication, and load balancing.
+
+With the new and improved features, Sybase expects the latest update to resonate well with its global customer base of over 100,000 organizations including banks, financial services firms, telecommunications companies, and governments agencies. However, some analysts are skeptical whether System 11 can revive Sybase's slowing software license and service revenue growth, especially with the intensifying competition from Oracle, Microsoft and IBM in the database market. 
+
+Sybase's software license and service revenue grew just 2 percent in 2019, a sharp decline from 11 percent in 2018 and 15 percent in 2017. CEO Chen remained optimistic that the new flagship database platform would help accelerate Sybase's sales growth in the coming quarters. System 11 is available now with prices starting at $50,000 per CPU license.

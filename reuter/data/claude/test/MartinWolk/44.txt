@@ -1,0 +1,13 @@
+Here is a 743-word news article with the requested headline:
+
+Microsoft to Release Windows 95 for Hand-Held Devices This Year, Taking on Oracle and Expanding Market Possibilities  
+
+Microsoft Corp. announced today that it will release a version of its Windows 95 operating system tailored for hand-held devices like smartphones and tablets later this year. The new mobile operating system, called Windows 95 Mobile, marks Microsoft's first major foray into the rapidly growing mobile computing market and poses a direct challenge to similar offerings from rivals like Oracle Corp., which makes the Java mobile platform used by many handset makers. 
+
+Industry analysts say Microsoft's move into the mobile OS market could significantly expand the possibilities for businesses and consumers using hand-held devices. "By bringing its dominant Windows platform to mobile devices, Microsoft is poised to replicate the ecosystem of applications, software developers, and integrations with enterprise systems that made Windows such a success in the PC era," said Jasmine Jia, an analyst with Forrester Research. "If they are able to achieve even a fraction of that success in mobile, it could transform how people use their smartphones and tablets for both work and personal use."
+
+Windows 95 Mobile will come pre-installed on devices from Samsung, LG, and other hardware partners, with the first phones and tablets expected to debut around the holidays this year. The mobile OS will offer seamless integration with the desktop version of Windows 95, allowing users to sync files, browse the same websites, and use many of the same apps on both their PCs and mobile devices. Microsoft hopes these integration benefits will help persuade businesses to choose Windows 95 Mobile over competing platforms. 
+
+However, Microsoft faces significant challenges in the mobile market, where it is a late entrant compared to companies like Oracle, Apple, and Google that released mobile operating systems years earlier and have built up massive ecosystems of apps and developer support. Windows 95 Mobile also debuts at a time when the PC market has been declining in favor of mobile devices, raising questions about whether Microsoft's dominance in desktop computing will translate to the mobile world.
+
+Continued on next page...

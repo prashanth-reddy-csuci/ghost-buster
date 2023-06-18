@@ -1,0 +1,13 @@
+Here is a draft 500 word news article with the given headline:
+
+Intel CEO Predicts 100,000 MIPS and 1 Billion Transistors by 2011 
+
+In a keynote address at the Intel Developer Forum today, Intel CEO Paul Otellini predicted that Intel microprocessors will reach processing speeds of 100,000 million instructions per second (MIPS) and contain up to 1 billion transistors by 2011. Otellini said these advances will enable exciting new capabilities in areas such as artificial intelligence, machine learning, and virtual reality.
+
+Otellini emphasized Intel's commitment to sustaining the pace of Moore's Law, which predicts a doubling of transistors on a microchip roughly every two years. "Intel has consistently delivered on the promise of Moore's Law through relentless innovation in transistor technology, architecture, and software," said Otellini. "We have some of the brightest minds in the industry focused on overcoming technical hurdles and ensuring the continuation of these massive increases in computing power."
+
+To achieve 100,000 MIPS and 1 billion transistors, Intel is developing several new technologies. The company recently announced new dielectric materials and transistor gate designs that improve both processing speed and energy efficiency. Intel is also experimenting with new 3D chip stacking techniques that allow for more transistors in the same space. "We have some promising research projects underway that give me confidence we'll get to these milestones by 2011 and well surpass them in the following years," Otellini said.
+
+Software developers and consumers will benefit greatly from chips with such immense capabilities, according to Otellini. Artificial intelligence systems will be able to process complex algorithms and huge datasets to identify patterns and gain insights. Virtual and augmented reality technologies will be able to create stunningly realistic experiences by simulating the interaction of light with digital objects. And scientific researchers will have access to vastly more compute power to solve some of humanity's most pressing problems.
+
+While technical challenges remain, Otellini expressed enthusiasm about the future and Intel's role in driving continued progress.  "History has shown time and again that as computing power increases, innovation accelerates," said Otellini. "Intel looks forward to delivering the technologies to power the next generation of breakthroughs." Overall, Otellini's predictions paint an exciting picture of what's to come in just a few short years. With the pace of change in the technology industry, 2011 and beyond promise to bring dramatic new capabilities made possible by advances in computing power and microprocessor technology.

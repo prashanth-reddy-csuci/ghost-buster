@@ -1,0 +1,15 @@
+Here is a 750-word news article with the given headline:
+
+Cisco CEO John Chambers Confident in Networking Industry's Growing Business Despite Recent Market Worries  
+
+Cisco Systems CEO John Chambers expressed confidence in the networking technology sector's prospects for growth despite recent market volatility and concerns about slowing global economies. Speaking at the annual Cisco Live event in San Francisco, Mr. Chambers said "the networking industry and our business remain strong, and we are well-positioned for continued success." 
+
+Mr. Chambers pointed to several factors fueling his optimism. First, global internet traffic continues to rise exponentially, driven by trends such as streaming video, social networking, cloud computing and digital commerce. Cisco estimates that over the next five years, global internet traffic will triple. All of this traffic needs to be routed and managed by networking equipment and software, which plays directly into Cisco's core business.
+
+Second, demand for cybersecurity products and services also continues to increase dramatically as companies struggle to keep their networks and data safe from threats. According to a Cisco survey, nearly half of companies have experienced a cyberattack over the past year. "Cybersecurity is now a critical boardroom issue, and we are the leader in this space," Mr. Chambers said.  
+
+Third, 5G wireless networks are on the horizon, which will require massive investments in new networking infrastructure. Mr. Chambers said Cisco is already working with major telecom companies on 5G field trials and commercial deployments. "5G will be a defining technology of the 2020s," he said, "and we aim to do for 5G what we did with 3G and 4G."
+
+While Mr. Chambers acknowledged macroeconomic concerns, especially around the U.S.-China trade war, he said Cisco continues to see strong demand across its major geographic regions and customer segments. "Of course, we always keep an eye on the ups and downs of the global economy," he said. "But the trends driving our business—the growth of internet traffic, the need for security, the rise of new technologies like 5G—are powerful and unrelenting."
+
+Mr. Chambers has served as CEO of Cisco for over 20 years, guiding it to become the world's largest networking company with over 70,000 employees and $50 billion in annual revenue. Though he stepped down as CEO in 2015, he continues to serve as executive chairman of the board. His remarks at Cisco Live suggest that even as he enters the twilight of his leadership, Mr. Chambers remains highly optimistic about Cisco's opportunities for continued success and innovation.

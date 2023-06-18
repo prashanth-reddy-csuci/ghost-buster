@@ -1,0 +1,13 @@
+Here is a draft 500-word news article with the requested headline:
+
+House Judiciary Committee Approves Bill to Relax U.S. Encryption Export Restrictions  
+
+The House Judiciary Committee today approved a bill that would significantly relax restrictions on the export of encryption software and tools from the United States. The "Promoting Digital Privacy Act" aims to update existing laws that limit the export of encryption technology, especially to foreign individuals and governments.
+
+Supporters of the bill argue that existing export control laws are outdated, do not reflect the realities of software and the Internet today, and disadvantage U.S. technology companies trying to compete in international markets. "Strong encryption is a technical reality today and essential for both privacy and security," said Rep. Zoe Lofgren (D-CA), the bill's sponsor. "Current export controls do more harm than good by preventing U.S. companies from selling the most secure software and systems internationally."
+
+Opponents counter that easing export restrictions could undermine national security by making powerful encryption tools more readily available to foreign adversaries. "We need to be very careful about undercutting the government's ability to access encrypted communications," said Rep. Doug Collins (R-GA). "While privacy and commerce are important, national security must come first."
+
+The bill approved today would remove most encryption software and tools from the list of technologies that are regulated under U.S. export control laws. It would allow companies to sell and distribute encryption technology internationally with few restrictions, as long as the companies take standard precautions to prevent illegal re-exports to embargoed nations. The bill does not change laws regarding the export of encryption technologies specifically designed for military use.
+
+The bill still needs to be approved by the full House of Representatives and the Senate before it can be signed into law by the President. However, supporters believe there is bipartisan support for the reforms, especially given a 2019 report that found export restrictions have failed to prevent the spread of strong encryption and have damaged the U.S. technology sector. If passed, the bill would bring major changes to encryption export policy for the first time in over 20 years. Both privacy advocates and technology companies are closely watching the progress of this landmark legislation.

@@ -1,0 +1,13 @@
+Here is a potential 481-word news article with the specified headline:
+
+Corporate Coalition Pushes for Relaxed Export Restrictions on Computer Encoding Technology 
+
+A coalition of U.S. technology companies is lobbying regulators to relax export controls on certain computer encoding technologies in an effort to boost overseas sales. The group, calling itself the Technology Trade Alliance or TTA, contends that existing export restrictions on some encryption methods and other encoding technologies are outdated and negatively impacting American businesses.
+
+Encryption controls have been in place since the 1990s to regulate the overseas sale of technologies that can be used to encode communications and data. The regulations aim to balance economic interests with national security concerns. However, the TTA argues the rules are now overly broad, restricting even technologies with commercial uses like video streaming and digital rights management.  
+
+“The existing export controls lump all encoding technologies together and don’t distinguish between those with real national security risks and those that are essential for operating in today’s connected global marketplace,” said TTA spokesperson Jessica Watts. “Our coalition members are losing revenue and global competitiveness due to these outdated rules. It’s time for a more reasonable and focused approach.”
+
+The TTA, which includes major tech companies like Cisco, Dell, and IBM, is petitioning the U.S. Departments of Commerce and State to narrow the scope of export-controlled technologies to only include encryption methods that could pose a “real and demonstrated” threat to national security. They propose splitting existing broad categories of controlled technologies into subcategories and loosening restrictions on those predominantly used for commercial and civilian purposes. The group argues this approach would balance security and economic concerns by focusing controls on technologies most likely to be misused, while freeing up those that support lawful international commerce.
+
+Critics argue loosening controls could still increase security risks by making some advanced encryption methods more widely available. However, others including some security experts as well as export industry groups support modernizing the rules to adapt to technological changes and align with international standards...

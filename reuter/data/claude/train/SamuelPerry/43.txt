@@ -1,0 +1,17 @@
+Here is a draft 489 word news article with the given headline:
+
+WebTV Introduces New Technology for High-Quality Video Streaming over Conventional Phone Lines 
+
+WebTV Networks, Inc. announced today the launch of a new technology that allows for high-quality video streaming over standard telephone lines. The new "Streaming Media" technology compresses and encodes video signals so they can be transmitted over conventional copper phone lines at up to 10 times the speed of previous technology.
+
+"Streaming Media represents a breakthrough that will allow us to deliver VHS-quality video over normal phone lines," said Jason Ford, Chief Technology Officer at WebTV. "This opens up new opportunities to provide video on demand, streaming news channels, and other interactive video services to the millions of WebTV customers across the country."
+
+The Streaming Media technology uses advanced compression algorithms, including MPEG-4, to shrink video files by a factor of 10 to 50 times while still maintaining high image quality and full-motion action. The compressed video files are then modulated for transmission over standard phone lines using technology similar to that of high-speed modems. Special software and buffers at the receiving end decompress and decode the signals for display on a standard television screen.
+
+According to Ford, Streaming Media transmits video at up to 10 megabits per second over standard phone lines, which is 5 to 10 times faster than previous streaming video options. This means WebTV can now offer video on demand for movies and streaming channels with content including news, sports, and comedy shows. WebTV previously was limited to lower-quality and lower-motion video options due to bandwidth restrictions of phone lines.
+
+WebTV anticipates offering several new channels of streaming on-demand video content in the coming months as it continues to partner with major media companies. The faster video streaming will also enhance WebTV's online gaming capabilities, allowing for more interactive multi-player gaming over the service.  
+
+"Streaming Media represents the future of interactive TV and on-demand video delivery," said John Porter, CEO of WebTV. "It opens up a whole new set of options for our subscribers and gives WebTV a competitive advantage as we strive to provide the most innovative interactive television experience."
+
+WebTV Networks, Inc. currently provides internet access and interactive television services to over 1 million subscribers across the United States. The company was acquired by Microsoft Corp. earlier this year for $425 million in an effort by Microsoft to incorporate interactive TV features into its Windows operating system.   Shares of WebTV rose over 9% on the news of the Streaming Media technology release.

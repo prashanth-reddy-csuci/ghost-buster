@@ -1,0 +1,17 @@
+Here is a 500-word news article with that headline:
+
+Lotus Development Corp. CEO Focuses on $1 Billion Market for Collaborative Internet Software by 1999 
+
+Jim Manzi, the chief executive of Lotus Development Corp., believes the market for collaborative software tools that work over the Internet could reach $1 billion by 1999. In an interview, Manzi said Lotus is aggressively developing a new generation of lightweight, easy-to-use groupware products tailored for the Internet. 
+
+“There is a huge opportunity here that plays into Lotus’ historic strengths,” Manzi said. “We think groupware over the Internet could be as big a business as spreadsheets were in the 1980s.”
+
+Lotus rocketed to fame and fortune on the success of its Lotus 1-2-3 spreadsheet. But in recent years, the company has struggled amid competition from Microsoft and others. Now Manzi is betting much of Lotus’ future on a vision of ubiquitous groupware — software that enables teams of people to work together, even if they are scattered in different locations around the world.
+
+At the center of this push is a new product called Notes Release 5, expected to ship later this year. The software allows people to access a shared electronic workspace over the Internet, exchange email, schedule meetings, and work on documents together in real time. “Notes 5 erases the boundaries between local and wide area networks,” Manzi said. “It is designed to make working as a group over the Internet as easy as it is in person.”
+
+Manzi believes strong demand already exists for these collaborative capabilities, and that it will only grow as more people gain access to the Internet and learn how to tap its potential as a business tool. He envisions a giant “collaborative cloud” over the Internet, with millions of people working together in virtual meetings, sharing ideas, and innovating.  
+
+“The rise of the Internet means we can create software that brings people together in an amazingly rich fashion,” he said. “We're just scratching the surface of what's possible.”
+
+Lotus clearly faces competition in this market from other established software companies like Microsoft, as well as a new breed of startups. But with a 30% share of the $2 billion market for groupware today and Notes Release 5 ready to ship, Manzi believes Lotus can establish an early lead in the race to provide collaborative software for the Internet. If he's right, it could mean a new era of growth for the company that helped ignite the PC revolution.

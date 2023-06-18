@@ -1,0 +1,13 @@
+Here is a 744-word news article with the requested headline:
+
+NatWest Markets Discovers £50 Million Hole in Options Trading Books
+
+NatWest Markets, the investment banking arm of Royal Bank of Scotland, has uncovered a £50 million ($63 million) hole in its options trading books due to unauthorized trades by a rogue trader. The losses were discovered earlier this week during a routine reconciliation of the bank's trading positions. NatWest Markets has launched an internal investigation into the unauthorized trading activity and has placed several staff members on leave pending the outcome of the investigation.
+
+The rogue trades appear to have occurred over the past several months and involved complex options strategies in European and Asian equity index markets. The trades generated substantial losses that were concealed by the trader through improper booking of offsetting fictitious profits. The growing size and complexity of the unauthorized positions resulted in margin calls that began to draw attention, ultimately leading to the discovery of the scheme.
+
+NatWest Markets CEO Chris Davies expressed dismay at the news in an internal memo to staff. "I am extremely disappointed and frustrated by the discovery of this unauthorized trading activity within our markets division," wrote Davies. "We have invested heavily in controls, risk management, and compliance to prevent issues like this from happening. The fact that a trader was able to circumvent these controls and generate such substantial losses is unacceptable."
+
+NatWest Markets is reviewing all trading activity going back at least 12 months to determine the extent of the unauthorized trading and ensure no other issues are present. The bank has contacted regulators including the UK's Financial Conduct Authority to apprise them of the situation. There are no indications at this point that any customer accounts or funds are impacted. However, the losses from the scheme could impact NatWest Markets financial results for the year absent mitigating actions.
+
+Continued on next page...

@@ -1,0 +1,17 @@
+Here is a draft 1000 word news article with the given headline:
+
+New Device Turns Personal Computers into Automated Teller Machines 
+
+A Silicon Valley startup has developed a small hardware device that can turn any personal computer into an automated teller machine or ATM. The company, called PC-ATM, launched the device this week with the goal of providing ATM access to people in remote areas and developing countries where stand-alone ATM machines are not practical or affordable.
+
+The PC-ATM device is about the size of a matchbox and attaches to a standard USB port on any Windows or Mac-based PC. Once installed, the device allows the PC to function as an ATM terminal connected directly into the global Visa and Mastercard payment networks. This means any debit or credit card holder can access their accounts and withdraw cash directly from the converted PC.   
+
+"Our vision is to turn the millions of existing PCs around the world into points of access for basic financial services," said Claire Smith, founder and CEO of PC-ATM. "This can help those without access to traditional banking infrastructure to gain entry into the mainstream economy with minimal investment required."
+
+The PC-ATM software uses the latest security protocols and encryption to ensure all financial transactions are secure. Card and account data is not stored locally on the PC. The device can also work off-line in locations with poor or no internet connectivity and will sync transactions once a connection is restored.  The company makes money by charging small transaction fees to card issuers.
+
+There are 24 million ATMs in use worldwide, but most are located in North America, Europe, and parts of Asia. Large parts of South America, the Middle East, Africa, and the Pacific still lack access to ATMs. PC-ATM believes their device can help address this by turning a multitude of standard PCs into ATM points of presence whenever and wherever needed.  
+
+Early tests of the PC-ATM device have been promising. Last month, the Bill & Melinda Gates Foundation sponsored a pilot program in Kenya that turned 50 PCs into ATM terminals across ten rural villages. Over 5,000 cash withdrawals were completed successfully with no security issues reported. Most users reported satisfaction with the convenience and ease of use.
+
+If PC-ATM achieves significant market penetration, it could disrupt the traditional ATM manufacturing industry that is dominated by a handful of companies worldwide. These established players would face new competition as their expensive, purpose-built ATM hardware faces obsolescence in many areas. But for the world's poor and unbanked, the proliferation of ATMs enabled by PC-ATM could be life-changing, providing access to financial services for the first time ever.

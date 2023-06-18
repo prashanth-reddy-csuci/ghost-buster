@@ -1,0 +1,21 @@
+Here is a 750-word news article with the given headline:
+
+Netscape Raises Prices and Introduces New Support Program as it Readies to Release New Products  
+
+Netscape Communications Corp. announced today that it is raising commercial licensing fees for its Navigator Web browser and other key products for the first time in two years. The price increases, which range from 10 percent to over 50 percent depending on the product and services package, will take effect March 1.
+
+The price hikes come as Netscape readies the release of Version 6 of its Navigator browser, its Netscape Directory Server product, and the first components of its new Netscape ONE open network environment platform. Netscape officials said the company's increasing investment in research and development of its growing product line necessitated the pricing changes. 
+
+"We have not raised our fees since early 2010, but our costs and the complexity of our products have increased substantially since then," said Netscape CEO Jim Barksdale. "The new pricing reflects the value we're delivering now and helps ensure we continue to drive forward Internet innovation."
+
+Under the new pricing, Netscape's flagship Navigator 6 browser suite, including Composer, Messenger and SmartDownload, will now start at $129, up from $49. The Standard version of Directory Server will increase to $995, a 58 percent increase. Fees for Netscape servers and Netscape ONE services are also going up by double-digit percentages.
+
+At the same time, Netscape announced a new support program with tiered service levels starting at $175 per year that will provide technical support via phone, email and the web 24 hours a day, 365 days a year. The support program will give customers access to software upgrades for the duration of their contracts.
+
+The increases may spur some customers to switch to Microsoft Corp.'s rival Internet Explorer software, which dominates the browser market. Microsoft last year began bundling Internet Explorer for free with its ubiquitous Windows operating system software. 
+
+However, Barksdale said many enterprise customers prefer software from vendors dedicated to Internet infrastructure like Netscape. He expressed confidence that Netscape can maintain its position as a leading supplier of open software for e-business based on the strength of its new product line.
+
+"Netscape has always been at the forefront of innovation," Barksdale said. "With Navigator 6, our growing directory and ONE services, we continue to pioneer technologies that enable companies to operate transparently across the extended enterprise. Our dedicated focus on this vision is why customers continue to work with us." 
+
+Netscape expects to release final versions of Navigator 6 and Directory Server 6 within the next 45 to 60 days, with other components of the Netscape ONE platform to enter beta testing soon. The company said it would announce specific availability dates and licensing terms for new products closer to their release.

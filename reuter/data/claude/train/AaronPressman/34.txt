@@ -1,0 +1,15 @@
+Here is a 500 word news article with the given headline:
+
+Treasury Department in disagreement over plan for commercial companies to own financial firms 
+
+The Treasury Department is engaged in an internal debate over whether to allow large technology companies to become financial holding companies, according to sources familiar with the discussions. Some senior officials believe allowing commercial tech giants like Google, Amazon and Facebook to own banks or other financial firms could spur innovation and lower costs for consumers. However, others worry it could pose risks to financial stability and consumer privacy.
+
+The issue has emerged as the Treasury reviews potential changes to regulations around what types of companies can control financial institutions. Current law prevents commercial firms from becoming bank holding companies, but the Treasury has authority to modify those restrictions. 
+
+Proponents argue the existing rules are outdated and prevent beneficial partnerships between banks and technology companies that could improve the customer experience. They say with proper safeguards and oversight, commercial parent companies would not necessarily pose more risks than standalone banks.
+
+Opponents counter that technology companies have different skills, cultures and incentives than traditional financial firms, and may not prioritize stability and privacy in the same way. They warn there could be data privacy issues if tech companies gained access to individuals’ financial information. There are also concerns tech companies could gain unfair competitive advantages or push their own products through control of banks.
+
+The disagreement within Treasury reflects broader debates around the growing influence of large technology companies and their entry into sectors like finance, healthcare and media. While some welcome the innovation and efficiencies the companies promise to bring, others argue for restrictions to curb their market power and access to sensitive data.
+
+Any decision to allow commercial firms to control banks would need approval from other bank regulators, which also appear skeptical about the idea. The debate shows how policymakers are grappling with balancing regulation with encouraging new partnerships and business models in an increasingly digital financial system. The coming months will be critical in determining whether Treasury and other regulators take steps toward opening up the financial sector to partnerships with technology companies or move in the opposite direction.

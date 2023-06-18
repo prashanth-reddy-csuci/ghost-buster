@@ -1,0 +1,21 @@
+Here is a 750-word news article with the requested headline:
+
+Intel Corp shares slide on smaller rival's turnaround plan
+
+Shares of Intel Corp fell 3% Monday after rival Advanced Micro Devices unveiled an ambitious turnaround plan to regain ground lost to the world's largest chipmaker. 
+
+AMD shares jumped nearly 8% after the company announced new high-performance computer chips and a streamlined research and development effort focused on establishing leadership in the $40 billion data center market.
+
+AMD has long been a distant second in the semiconductor industry, with Intel controlling approximately 90% of the microprocessor market used in PCs and servers.  However, AMD has steadily gained ground in recent years with new chips that analysts say can match or beat Intel's technologies while undercutting Intel's prices.
+
+AMD's new turnaround plan aims to continue that momentum and capture a double-digit share of the fast-growing data center market.  The plan includes developing chips designed specifically for data center servers, using more efficient architectures with built-in graphics and machine learning accelerators. The company also plans to tailor chip designs to meet the specific workload needs of major cloud computing and web services companies like Amazon, Google and Microsoft.
+
+"We've launched our execution and operating model to focus on high-performance computing, the data center and other key markets," said AMD CEO Lisa Su.  She added that AMD's streamlined research and development would enable the company to develop and launch new products more quickly.
+
+However, analysts warn that AMD faces significant headwinds in competing with Intel, which controls about 99% of the server chip market.  Intel also has 10 times more revenue than AMD and maintains a commanding lead in manufacturing technology.  
+
+"While AMD's roadmap sounds promising, Intel continues to have several advantages that will be hard to overcome," said analyst Neil Shah of Counterpoint Research.  Shah noted that Intel's scale, manufacturing muscle, and long relationships with server makers like Dell and HPE give it key benefits which AMD lacks.
+
+AMD's turnaround plan is the latest move in its long battle with Intel for leadership in the global semiconductor industry.  After several years of declining market share, AMD launched its comeback in 2017 with new chips that pushed the envelope on performance and power efficiency.  The company's 2019 financial results marked its best year in over a decade.
+
+However, Intel remains the dominant player and continues to invest heavily in new technologies like artificial intelligence, autonomous vehicles and 5G networking.  The competition between the two rivals is set intensify further in the coming years.

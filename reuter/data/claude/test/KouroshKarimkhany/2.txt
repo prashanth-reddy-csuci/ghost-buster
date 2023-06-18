@@ -1,0 +1,17 @@
+Here is a draft 750 word news article with the given headline:
+
+Sequent Computer Systems Expects Huge Revenue Increase in 1997 with New NUMA-Q Computer  
+
+Sequent Computer Systems announced today that it expects revenues to increase by over 50% in 1997 fueled by strong sales of its new NUMA-Q enterprise server. The NUMA-Q system was launched in late 1996 and leverages Sequent's expertise in scalable symmetric multiprocessor systems and non-uniform memory access (NUMA) architecture.
+
+"We are seeing tremendous interest in the NUMA-Q from our customers and partners," said Casey Powell, Sequent's CEO. "The system is ideally suited for data warehousing, online transaction processing, and other memory-intensive applications that require maximum performance, scalability, and availability."
+
+The NUMA-Q system can scale up to 512 Intel Pentium Pro processors and 32 gigabytes of memory, making it one of the most powerful x86-based servers on the market. The system is built on Sequent's proven DYNIX/ptx NUMA operating system which provides a single system image for efficient scalability.  Initial customers of the NUMA-Q include several large financial services, telecommunications, and retail companies.
+
+Sequent's revenues were $712 million in 1996. The company expects revenues to grow to over $1 billion in 1997 based on increasing demand for the NUMA-Q as well as service and support contracts for its installed base. Sequent also expects to return to profitability in 1997 after posting a small loss last year during the development of the NUMA-Q system.
+
+Some analysts are bullish on Sequent's prospects given the performance and scalability of the NUMA-Q. "Sequent has a window of opportunity as one of the premier scalable system vendors," said Chris Le Tocq, an analyst with market research firm Dataquest. "If they can continue their momentum with the NUMA-Q, they stand to regain a leadership position."
+
+However, Sequent faces significant competition in the enterprise server market from much larger rivals such as IBM, Hewlett-Packard, and Digital Equipment Corporation. These competitors also offer high-end NUMA and symmetric multiprocessor systems and have substantially greater resources than Sequent. Sequent's challenge will be to compete on the basis of providing superior price/performance, flexibility, and customer service.  
+
+Overall, Sequent seems poised for a strong year in 1997 if it can successfully market and sell the NUMA-Q system to large enterprise customers. With a 50% increase in revenues, Sequent would gain market share against its larger competitors and re-establish itself as an innovative scalable systems leader. The company's future beyond 1997 still depends on continuing gains in the competitive enterprise computing market.

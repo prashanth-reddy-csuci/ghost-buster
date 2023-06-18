@@ -1,0 +1,15 @@
+Here is a 746-word news article with the requested headline:
+
+Intel Invests in European Satellite Multimedia Content Delivery  
+
+Tech giant Intel today announced a strategic investment in Lynk, a European startup focused on delivering multimedia content via satellite. Lynk has developed technology that allows the company to broadcast content to any location with coverage from geostationary satellites, including areas with limited connectivity options like remote towns, ships at sea, and commercial aircraft.
+
+Intel’s investment amount was not disclosed but is reported to be in the tens of millions of dollars. In a statement, Intel said the investment in Lynk will “help accelerate the future of connectivity and enable new experiences with satellite delivered content.” Lynk’s technology could complement Intel’s own initiatives around 5G wireless networks and edge computing, allowing the companies to explore bundling connectivity and content delivery services.
+
+Lynk was founded in 2017 by a team of satellite and media industry veterans. The company has offices in the UK, France, and Italy and has raised $15 million in funding prior to the Intel investment. Lynk CEO Mike Lawton said, “Intel shares our vision for seamlessly and cost-effectively delivering digital content anywhere. This investment will allow us to scale our unique technology platform and work with more content creators and distributors to reach users wherever they are.” 
+
+Lynk’s proprietary technology allows the company to efficiently broadcast content over satellite using the DVB-S2 standard, the same standard used for direct-to-home satellite TV services. However, unlike traditional satellite TV, Lynk focuses on streaming on-demand content as well as live linear programming. The company has deals in place with several major content companies, sports leagues, and TV channels to license programming and beam it directly to Lynk-connected devices.  
+
+For users, Lynk provides a set-top box that connects to a satellite dish as well as integrations with smart TVs, tablets, and phones. The company offers tiered subscription packages including a free ad-supported package as well as ad-free packages ranging from $5 to $20 per month. Lynk apps are available on major streaming platforms allowing users to access content on almost any device.  
+
+Satellite-delivered streaming is an emerging model that provides an alternative to traditional terrestrial networks for beaming content into hard-to-reach locations. Similar to how satellite radio reached audiences before streaming music became widely available, companies like Lynk are using satellite infrastructure to deliver digital content in areas underserved by broadband connectivity. With investments from major tech companies like Intel, satellite-based streaming could eventually become a mainstream delivery mechanism for entertainment and information worldwide.

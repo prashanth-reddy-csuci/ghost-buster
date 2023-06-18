@@ -1,0 +1,15 @@
+Here is a 500-word news article with the requested headline:
+
+Unisys Corp Appeals Czech Defence Ministry Decision on Army Contract
+
+Unisys Corp announced today that it has filed an appeal with the Ministry of Defence of the Czech Republic regarding the recent decision to award a $250 million contract for a new information management system for the Czech army to Hewlett Packard Enterprise. Unisys claims that the selection process was flawed and non-transparent.
+
+ In a statement, Unisys Chairman and CEO Peter Altabef said, "We have serious concerns about how this contract was awarded and believe strongly it should be re-competed to ensure the Czech army receives the best technical solution at the best price. We have formally filed our appeal with the Ministry of Defence and look forward to a fair review of our position."
+
+ The contract in question aims to modernize the Czech army's information infrastructure over the next 10 years. Unisys had been invited by the Ministry of Defence to submit a bid for the project along with HPE and two other companies. According to sources close to the bidding process, Unisys offered a solution based on its proprietary Stealth software for data protection and analytics, promising significant cost savings and efficiencies.
+
+ However, on March 12, the Ministry of Defence surprised observers by announcing it had selected HPE to supply the new system without specifying the reasons for the choice. Unisys believes HPE's bid did not meet certain technical requirements listed in the Ministry's original call for proposals and that the decision was made solely on the basis of price without due consideration of capability and security.  
+
+ In filing its appeal, Unisys requested that the deal with HPE be suspended pending an open re-compete of the contract. The company also hopes to obtain further details on how the Ministry evaluated the bids and reached its conclusion. If the appeal is denied, Unisys will consider further legal options to challenge the contract award.
+
+The case is a sensitive one for the Czech government as it seeks to modernize critical IT infrastructure for national security and defence. The new army information system needs to be operational by January 2021, so any delays put that timeline at risk. The Ministry of Defence has declined to comment on Unisys's appeal at this stage.

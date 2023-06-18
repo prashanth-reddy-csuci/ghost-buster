@@ -1,0 +1,17 @@
+Here is a 494-word news article with the requested headline:
+
+America Online's flat-rate pricing plan could make it a major media player, but analysts warn of network capacity threat
+
+America Online (AOL) announced a bold new pricing plan this week that could disrupt the media industry and usher in a new era of all-you-can-eat media consumption. However, some analysts warn AOL may face network capacity issues if the offering becomes too popular. 
+
+AOL said it will charge users a flat monthly fee of $49.95 for unlimited access to music, movies, TV shows, books, magazines, and more from a range of media partners. The plan, called AOL Unlimited, allows users to stream and download as much content as they want from AOL's content partners, which include major music labels like Universal and Warner Music, movie studios such as Sony Pictures and 21st Century Fox, and magazine and book publishers like Condé Nast and Penguin Random House.
+
+"This is an unprecedented offering that gives consumers unfettered access to a diverse range of media and entertainment for an affordable monthly price," said AOL CEO Tim Armstrong. "We believe this will appeal to the majority of media consumers and reshape how they experience and pay for premium content."
+
+However, some analysts warned that AOL has not proven it can handle the network capacity demands if the new offering becomes hugely popular. "Streaming huge amounts of audio and video requires massive bandwidth and storage, and we have yet to see if AOL can scale its infrastructure accordingly," said Dan Rayburn, a telecommunications analyst at Frost & Sullivan. 
+
+AOL will need to ensure it has robust content delivery networks and server infrastructure in place to handle what could be tens of millions of simultaneous music and video streams, Rayburn added. If capacity issues emerge, it may significantly impact the user experience and force AOL to limit usage or increase prices.
+
+AOL's shares climbed 4 percent on the news, as investors anticipate strong demand for an all-in-one media plan at a budget-friendly price. However, analysts cautioned investors that network capacity constraints pose risks, and advisedwaiting to see AOL execute successfully before evaluating the long-term financial impact. 
+
+The bold pricing move is a gamble for AOL, but if executed well, could transform how media is consumed and paid for in the coming decade. With one reasonably-priced monthly fee, AOL is hoping users may cut the cord and opt into an all-digital diet of content that could turn the company into a major media power almost overnight. Still, the challenges in delivering such a vision are enormous, and only time will tell if AOL Unlimited lives up to its name.

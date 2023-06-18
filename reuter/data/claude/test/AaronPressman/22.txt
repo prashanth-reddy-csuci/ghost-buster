@@ -1,0 +1,17 @@
+Here is a draft 1000-word news article with the requested headline:
+
+U.S. Government Races to Update Computer Systems Ahead of Y2K Bug 
+
+The U.S. government is undertaking a massive effort to update its computer systems to avoid disruption from the so-called "Y2K bug" that could cripple systems when the year 2000 arrives. Many older computer systems and software were designed to use two-digit codes to represent years, meaning they will not properly recognize the year 2000. Without upgrades, systems could fail or malfunction due to the date change.
+
+The Y2K bug poses risks to governments, businesses and individuals around the world. In the U.S., the federal government has spent over $8 billion to identify and fix potential problems, according to the U.S. Senate Special Committee on the Year 2000 Technology Problem. Independent experts estimate total costs to the U.S. could reach $100 billion.
+
+"The Y2K problem is the electronic equivalent of a ticking time bomb," said Committee Chairman Robert Bennett. "The only way to fix it is to reprogram vulnerable systems and software. And we are in a race against time to get it done before January 1, 2000."
+
+The Social Security Administration (SSA) is one of many agencies urgently addressing the issue. "If we do not address this in time, the worst-case scenario is that the checks do not go out," said John Yasutake, SSA's Deputy Executive Director of Systems. The SSA has over 60 million lines of COBOL code - an outdated programming language used in many mainframe systems - that must be checked and corrected if needed.  
+
+The Pentagon has identified over 2.1 billion lines of code that must be assessed across hundreds of systems. "This is a massive undertaking, probably larger than any single information technology project ever undertaken," said John Hamre, Deputy Secretary of Defense. The military has set up a Y2K emergency command center in case of any failures. 
+
+Not all experts are as alarmed, however. "I think there's a lot of hype around the Y2K issue," said Peter de Jager, a Canadian consultant who was among the first to warn of the Y2K problem in the 1990s. "Of course, there will be some disruptions and inconveniences ... but planes will not fall from the sky, and nuclear missiles will not launch themselves."
+
+With time running out, federal agencies are increasingly concerned about "Y2K denial" from those who have not adequately prepared. "The clock is ticking," said Bennett. "The time for casual concern is over. It is time for action." The next months will reveal whether the massive efforts to avoid a technological meltdown were enough. For now, all eyes are on the U.S government's race to overhaul its systems before the year 2000 arrives.

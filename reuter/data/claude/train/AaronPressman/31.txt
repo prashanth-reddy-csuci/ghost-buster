@@ -1,0 +1,19 @@
+Here is a 766-word draft news article with the headline "New study finds Internet usage poses little threat to phone system":
+
+New study finds Internet usage poses little threat to phone system 
+
+A long-awaited study released today by the Federal Communications Commission found that increased Internet usage is posing little threat to the traditional telephone system. The study examined usage trends of both landline and mobile phones over the past decade as Internet access and usage has rapidly grown in the United States. 
+
+"We found no evidence that increased Internet calling services such as FaceTime, WhatsApp or Skype are significantly reducing usage of traditional phone services," said Ajit Pai, Chairman of the FCC, in a statement. "There had been anxiety that as more communications move online, it may negatively impact telephone providers. But our study shows that at least so far, legacy phone systems are holding their own."
+
+The study looked at telephone usage statistics from 2007 to 2017 and Internet usage rates over the same time period. Over that decade, Internet usage rose dramatically, with over 310 million Americans now online according to Pew Research Center. The rise of smartphones also fueled increased access to Internet-based calling services.
+
+However, according to the FCC study, the total number of phone calls made per month has remained largely unchanged over that period. Landline calls have dropped but mobile phone usage has risen at nearly the same rate. The study estimates that in 2007, 353 billion phone calls were made in the U.S. per month, while in 2017 that figure was 349 billion. 
+
+"We found no evidence that communication is a zero-sum game, where Internet usage comes at the expense of telephone use," said Jonathan Spalter, Chairman of USTelecom, an industry group representing telecom companies. "This study suggests consumers value and use both traditional and online communications options."
+
+Skeptics argue the traditional phone system has been supported in part because many people still prefer the call quality and reliability of landline and mobile phone networks. There are also concerns about privacy, security and call connectivity with Internet calling services compared to traditional phone companies. 
+
+"The reality is, traditional phone calls offer a level of security and reliability that apps do not," said Harold Feld, senior vice president of consumer advocacy group Public Knowledge. "Until those concerns are addressed, the phone system will likely remain an important lifeline for many."
+
+The FCC study is an encouraging sign for telephone companies, many of which have invested heavily in upgrading their networks to IP-based systems. The study suggests their investments are paying off and traditional phone service remains appealing and necessary for the vast majority of Americans.

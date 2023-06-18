@@ -1,0 +1,19 @@
+Here is a 468-word news article with that headline:
+
+Synopsys Inc. to Acquire Epic Design Technology Inc. for $428.1 Million in Stock, Gaining Edge in Semiconductor Design Business  
+
+Synopsys Inc., a leader in electronic design automation software, announced today that it has agreed to acquire Epic Design Technology Inc., a privately held company focused on advanced physical verification technology, for $428.1 million in stock. 
+
+The acquisition expands Synopsys' offerings for physical verification, which is used to ensure semiconductor designs will function correctly when manufactured. Epic's machine learning-based physical verification tools, especially its eDRC+ technology, deliver higher accuracy and faster runtime compared to traditional physical verification solutions.
+
+"The addition of Epic's differentiated technology and talented team will strengthen our capabilities for physical verification and accelerate the delivery of next-generation innovations to address our customers' needs," said Aart de Geus, chairman and co-CEO of Synopsys.
+
+The deal is expected to close in Q2 of this year, subject to customary closing conditions and regulatory approval. Under the terms of the agreement, Synopsys will issue about 1.59 million shares of Synopsys common stock to acquire Epic. Synopsys does not expect the deal to materially impact its Q2 and fiscal 2021 guidance.
+
+Epic's solutions are used by nearly all of the top semiconductor companies for advanced node designs. Epic, founded in 2013, is based in San Jose, California and has approximately 145 employees. The team will join Synopsys and Epic technology will be integrated into Synopsys' verification platform.     
+
+"We are excited to join the Synopsys team," said Moongil Lee, CEO of Epic. "By combining our technology with Synopsys' leadership in EDA, we can accelerate development of next-generation physical verification solutions to help design the most complex chips."
+
+With this acquisition, Synopsys aims to gain a competitive edge in the electronic design automation (EDA) software market, which enables the design and verification of integrated circuits and electronic systems. The EDA market is growing due to rising semiconductor design starts and increasing design complexity. According to research firm Markets and Markets, the EDA software market is projected to reach $16.7 billion by 2025.   
+
+Physical verification is a critical part of the EDA flow to ensure integrated circuit designs can be manufactured correctly and function as intended. As chip designs become more complex with smaller geometries, physical verification tools need to scale to identify more defects using new methods like machine learning and artificial intelligence. The combination of Synopsys and Epic brings together complementary expertise and technology to accelerate innovation in this key area of the EDA flow. With Epic's solutions and team, Synopsys is poised to gain market share and solidify its leadership in the competitive EDA tools market.

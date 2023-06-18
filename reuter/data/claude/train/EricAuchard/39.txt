@@ -1,0 +1,15 @@
+Here is a draft 434-word news article with the specified headline:
+
+Texas Instruments and Samsung Reach $1 Billion Licensing Pact 
+
+Texas Instruments Inc. and Samsung Electronics Co. announced a broad licensing agreement today that will provide Samsung with access to TI's patent portfolio for wireless communications technologies and applications. Under the terms of the agreement, Samsung will pay TI $1 billion over the next 10 years for a non-exclusive license to certain wireless standards-essential patents and some non-standards-essential patents in TI's portfolio.
+
+The licensing deal covers patents related to 3G, 4G, and future generation wireless technologies that are critical for smartphones, tablets, and other mobile devices. By reaching this deal, Samsung will gain essential intellectual property to continue advancing its wireless products and Texas Instruments will boost its licensing revenue. 
+
+"This agreement highlights the significant investments that TI has made in developing innovative technologies and the global leadership we have established in wireless technologies fundamental to devices and networks," said TI CEO Brian Crutcher. "The addition of Samsung, a world leader in mobile technologies, expands our already extensive list of 3G and 4G licensees and demonstrates the importance of TI's broad wireless patent portfolio."
+
+The $100 million annual licensing payment from Samsung will provide a meaningful boost to TI's revenue from its patent licensing activities. In 2020, TI generated $982 million, or about 7% of its total revenue, from patent licensing deals and royalties. The company has a portfolio of over 45,000 global patents, many related to wireless technology standards like 3G and 4G cellular as well as Wi-Fi and Bluetooth.
+
+Samsung depends on access to certain patented technologies to design and build its mobile devices, which represent a major part of the company's business. By entering this agreement, Samsung will avoid potential litigation over intellectual property and ensure its phones and tablets have continued access to wireless standards necessary to remain competitive in the market. Samsung can now devote more resources to bringing innovative products to customers rather than fighting legal challenges.
+
+The licensing pact between Texas Instruments and Samsung highlights the significant role that intellectual property and patents play in the global technology industry. By fostering cooperation and access to foundational technologies, such deals aim to promote continued progress in wireless communications that benefit both companies and consumers. Overall, the agreement reinforces the value of TI's strong history of innovation in developing fundamental wireless technologies and Samsung's position as a leading manufacturer of mobile devices.

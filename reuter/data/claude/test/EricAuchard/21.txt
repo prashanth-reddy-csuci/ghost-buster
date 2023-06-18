@@ -1,0 +1,19 @@
+Here is a 477-word news article with the requested headline:
+
+Tech Giants Unite to Develop Common Standard for Faster Modems, U.S. Robotics Missing from Coalition 
+
+A coalition of the world's largest technology companies announced today that they are joining forces to develop a new industry standard for high-speed modems and routers. The group includes heavyweights such as Samsung, Qualcomm, Intel, and Cisco but notably excludes U.S. Robotics, a major player in modem and router technology.
+
+The new standard aims to enable modems and routers that can deliver speeds of 10 gigabits per second, more than 10 times faster than the fastest currently available consumer modems. The companies say a common standard is needed to help simplify and accelerate the rollout of the next generation of high-speed internet connectivity into homes and offices around the world.
+
+"By working together on a single standard, we can seamlessly integrate super-fast connectivity into people's lives without the complexity of multiple different standards and technologies," said Dinesh Paliwal, CEO of Harman International, one of the companies in the coalition.
+
+The proposed standard would be available for any technology or internet service provider to implement royalty-free. The companies say they will submit it to recognized international standards organizations in early 2021. If approved and broadly adopted, it could help address many users' needs for faster upload and download speeds to enable bandwidth-intensive activities like streaming 4K video, gaming, and video conferencing.
+
+However, the glaring absence of U.S. Robotics from the coalition raises questions about whether the standard will achieve truly widespread adoption. As one of the leading makers of modems and routers, U.S. Robotics's buy-in is seen as crucial for the success of any new connectivity standard.
+
+"U.S. Robotics not being part of this initiative is a problem," said Chenxi Wang, an analyst at Forrester Research. "It could undermine the coalition's goal of a single unified standard if U.S. Robotics chooses to continue to do its own thing."
+
+U.S. Robotics did not respond to a request for comment on why it is not part of the coalition or whether it intends to adopt the proposed new standard. The company is the maker of popular modems like the Sportster and Courier models as well as range of routers and other connectivity devices. It commands about 25% of the overall modem and router market, according to estimates.
+
+The new standard aims to be compatible with a range of connectivity technologies from fiber optic to cable to cellular networks. The coalition said the specification will be available for both wired and wireless modems and routers.
