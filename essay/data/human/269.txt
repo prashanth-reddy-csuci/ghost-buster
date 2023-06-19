@@ -17,7 +17,7 @@ There is considerable identity between this translated sequence and the T4 gene 
 NP_049772 gp13 neck protein [Enterobacteria phage T4].
 Score = 58.5 bits (140), Expect = 1e-08
 Identities = 76/319 (23%), Positives = 122/319 (38%), Gaps = 73/319 (22%)
-The MACAW alignment shown below confirms homology of this protein to the gp13 neck protein family. The sequences all show similar identity motifs for the first ~70 amino acid residues but appear to vary considerably after that. Pair scores are shaded, with scores &gt;50% showing blue and scores &gt;90% appearing indigo.
+The MACAW alignment shown below confirms homology of this protein to the gp13 neck protein family. The sequences all show similar identity motifs for the first ~70 amino acid residues but appear to vary considerably after that. Pair scores are shaded, with scores >50% showing blue and scores >90% appearing indigo.
 Fig.1The PHD results for this protein from the predict protein program (below) show five predicted -helices (highlighted red), a few short -strands (blue) and many loop regions (green).
 ORF 1076 - 1954: Product pI = 3.98, Mw = 33141.23
 Translation="MPTSPYFPSYYSGYSGEQNLVQDLVDEQIKLFGTDIYYLPRTILRDNTLDDVIYNKFERQFQVEMLLQNVEGFGSPSEFISKFGLRITDEVRFIVSQRRWDEEAVNYDLNVNGRPNEGDLLYFPLTQDIYEIKFVEREDPFYQLGKNYFYIMTAEIYEYGSDNISTGVEEIDELETLFSSAIAIALSIGGTGDFDLGEIVTGGISGTEAEVKSWDSSSRILQVINRTGTFEEGESVTGNDSGSVWVVDSFDTLNNTNSEYDQNREIESTADTIIDWSESNPFGEYGNFTGSI"

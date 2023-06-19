@@ -265,7 +265,7 @@ If C is not all of A, then it contains a subalgebra Q which is isomorphic to H. 
 
  do not belong in the same subalgebra C then the set Q of elements of the form 
 
- forms a subalgebra isomorphic to H. In C we choose an element b such that , and in a subalgebra C we choose b' fulfilling the same condition. b, b' are scalar multiples of a, a! so Q, with elements , and Q', with elements , coincide. Let c = b and c = kb + k'b'. Then, unless k' = 0, the set of these elements Q" coincides with Q' and Q. We assume that bb' + b'b = ke for real k and b2 ,b'2 = - 1 since this is easily proved. We choose d = kb + 2b' so c 2 = (k2 - 4)e. So k2 - 4 &lt; 0.
+ forms a subalgebra isomorphic to H. In C we choose an element b such that , and in a subalgebra C we choose b' fulfilling the same condition. b, b' are scalar multiples of a, a! so Q, with elements , and Q', with elements , coincide. Let c = b and c = kb + k'b'. Then, unless k' = 0, the set of these elements Q" coincides with Q' and Q. We assume that bb' + b'b = ke for real k and b2 ,b'2 = - 1 since this is easily proved. We choose d = kb + 2b' so c 2 = (k2 - 4)e. So k2 - 4 < 0.
 Let  and we see . We also have
 .
 Then . So , ,  and to show that Q" is a subalgebra we need only evaluate the following products. We have , ,  and . Thus, any product is a linear combination of the elements so Q" is a subalgebra. It is isomorphic to H by the following.

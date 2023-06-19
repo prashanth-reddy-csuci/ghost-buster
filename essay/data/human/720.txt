@@ -6,7 +6,7 @@ The mean age of each sex shows they're almost exactly the same. The men and wome
 To compare the relationship between age and frequency of visits I have produced a scatter graph for each sex
 Regarding Figure 1 and Figure 2, although there appears to be a relationship for the male data this cannot be said for the female data. Because of this I feel it isn't justifiable to link the two data together in a relationship. Due to this I will simply focus on the frequency of visits for each sex.
 The health of an individual of course will determine how much they visit the doctor. I believe that the only reason why an individual would visit the doctor is if they had bad health. In the data set 5/42 (or approximately 11.90%) of men were classed as having bad health compared to the female equivalent of 14/58 (or 24.13%) which is approximately double that of the male value.
-Finally, after putting the data into a histogram it's clear that both sets of data are right skewed i.e. Mean&gt;Media&gt;Mode.
+Finally, after putting the data into a histogram it's clear that both sets of data are right skewed i.e. Mean>Media>Mode.
 By using a population of 40 million per sex (this is approximately the population of Germany, the source of data) I calculated the distributions using Poisson
 Both populations appear to follow a normal distribution. The female data is perhaps more bell shaped and follows the standard normal distribution. However, the male data has remained skewed
 Using my existing data I can comment on what I would expect with the new sample from the same population.

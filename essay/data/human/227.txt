@@ -2,7 +2,7 @@ Stem: 10's leafs: units split x5-9 . 0-4
 sample mean = x = 12.70
 sample median = m = 10
 sample mode = 3
-mode &gt; median &gt; mean
+mode > median > mean
 Median is useful in this case because it tells us that half the sample has more money than this with them and half has less. It is not influenced by outliers as the mean is. For example if we had a very high value such as 200 this would increase the mean greatly so that it is no longer as representative of the sample as the median.
 The mode is of a varying degree of usefulness - it tells us the most common value but here this is very low and not representative of the sample values as a whole. If we look at various major peaks in the data set then this is a fairly useful tool. For example, here the data is bimodal - there is a split between people carrying a relatively large amount of money and a small amount.
 By themselves the mean, mode and median are of varying degrees of usefulness however, together they form powerful statistics for analysis,

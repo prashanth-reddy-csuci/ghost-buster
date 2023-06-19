@@ -13,14 +13,14 @@ Physical - Mrs  found it difficult to mobilise herself prior to admission. She h
 Psychological - On admission, Mrs  was verbally unresponsive but following admission and some degree of recovery she became upset regarding about her poor mobility and loss of independence. Mrs  exhibited a fear about her death.
 Social - Mrs 's social situation is stable and well supported. She gets full-time care from her nursing home and requires help dressing, washing and some support mobilising.
 Mrs  was admitted to the ward and began responding verbally but remained unable to mobilise. Sadly, Mrs  passed away 2 days after her admission to the ward.
-Respiratory failure occurs when there is an inadequate gas exchange, which results in hypoxia (pO 2 &lt;8kPa). Respiratory failure is subdivided into two types according to the pCO 2.
-Type I Respiratory Failure is defined as hypoxia (pO 2 &lt;8kPa) with a normal or low pCO 2. It is primarily caused by a ventilation/perfusion mismatch.
-Type II Respiratory Failure is defined as hypoxia with hypercapnia (pCO 2 &gt; 6.5kPa). It is caused by alveolar hypoventilation with or without ventilation/perfusion mismatch. (1)
+Respiratory failure occurs when there is an inadequate gas exchange, which results in hypoxia (pO 2 <8kPa). Respiratory failure is subdivided into two types according to the pCO 2.
+Type I Respiratory Failure is defined as hypoxia (pO 2 <8kPa) with a normal or low pCO 2. It is primarily caused by a ventilation/perfusion mismatch.
+Type II Respiratory Failure is defined as hypoxia with hypercapnia (pCO 2 > 6.5kPa). It is caused by alveolar hypoventilation with or without ventilation/perfusion mismatch. (1)
 The management of respiratory failure includes the administration of supplemental oxygen, the control of secretions, the treatment of any underlying pulmonary infection, the control of any bronchospasm and measures to limit pulmonary oedema.
 The management principles are:
 treat the underlying disease
 physiotherapy
-oxygen therapy - try to maintain pO 2 &gt; 8 kPa
+oxygen therapy - try to maintain pO 2 > 8 kPa
 bronchodilators and steroids if there is airways obstruction
 in some circumstances, respiratory stimulants such as i.v. doxapram 1-4 mg / min, may be indicated if the pCO 2 begins to rise
 if arterial O 2 continues to deteriorate or fails to improve then some form of respiratory support should be considered

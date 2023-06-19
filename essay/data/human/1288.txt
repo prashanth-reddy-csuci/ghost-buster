@@ -14,7 +14,7 @@ H 2O 2 (25cm 3, 4vol.) was kept in a separate flask at the required temperature,
 Note 1: the blue colour was due to iodine complexing with starch; the iodine being formed by H 2O 2 oxidising I- and so being consumed. The immediate addition of thiosulphate reduced the iodine back to I- rendering the solution colourless again until more H 2O 2 oxidised I- to reform iodine. Thus the cumulative volume of thiosulphate was inversely proportional to the concentration of H 2O 2 remaining in the reaction flask.
 Note 2: Towards the end of run 2, the appearance of the blue/green colour was not so sharp, so the individual error in time recorded will be greatest here.
 By the time all 4 runs had been completed (~2hrs) reaction flask 1 was assumed to have gone to completion and reaction flask 3 (left standing for 1.25 hours) was heated in a 45 oC water bath for 20mins to achieve completion, i.e all H 2O 2 used up.
-Reaction flasks 1 &amp; 2 were simultaneously titrated with sodium thiosulphate in 0.5cm 3 portions as before until no blue/green colour appeared for 20minutes. The final thiosulphate titre volume was proportional to the initial concentration of peroxide: [H 2O 2]t=0
+Reaction flasks 1 & 2 were simultaneously titrated with sodium thiosulphate in 0.5cm 3 portions as before until no blue/green colour appeared for 20minutes. The final thiosulphate titre volume was proportional to the initial concentration of peroxide: [H 2O 2]t=0
 and
 Therefore, H 2O 2: S 2O 3
 2- ratio is 1:2mol. S 2O 3

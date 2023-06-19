@@ -6,7 +6,7 @@ where ,
 Hence the simplest ARX model can be written as
 Without going into too much detail the formulae involved here in order to make the Recursive Least Square algorithm work can be summarized in four equations below where our objective is to get the estimated value of (from now on referred to as hat) .
 The RLS algorithm can be modified for tracking time varying parameters . One approach is the RLS algorithm with a forgetting factor .
-In this a term  called forgetting factor is introduced to (9) . &lt;1 and is usually 0.99 or near that value . This means that as n increases , the measurements obtained previously are discounted . Older data has less effect on the coefficient estimation and hence forgotten.
+In this a term  called forgetting factor is introduced to (9) . <1 and is usually 0.99 or near that value . This means that as n increases , the measurements obtained previously are discounted . Older data has less effect on the coefficient estimation and hence forgotten.
 Hence (9) is modified so that
 In our given case we have to modify crib.m in such as way that it works as a recursive least square program . As required by our Assignment instructions we have to choose a stable second order system as our model. In other words
 Here
@@ -18,6 +18,6 @@ From equation (4)
 In other words if the disturbance is described as a moving average of a white noise sequence e(t) .
 Then the resultant model is
 also known as ARMAX model (AutoRegressive Moving Average and eXogenous variable)
-The model which I am going to demonstrate here (for the sake of simplicity and to keep in check the length of this report) is the one where n a=n b=3 &amp; n c=1 . Reasons for this being that these give the best way to compare the two different approaches we have covered .Hence our model can be summarized as
+The model which I am going to demonstrate here (for the sake of simplicity and to keep in check the length of this report) is the one where n a=n b=3 & n c=1 . Reasons for this being that these give the best way to compare the two different approaches we have covered .Hence our model can be summarized as
 The last observed value of  we get is [-1.3286 0.0802 0.2631 0.0000 0.0034 0.0111 -0.4698] which is very interesting as the values of 'b's quite closely matches to xp30d07 with  = [a 1 a 2 a 3 b 1 b 2 b 3 ] but not the values of 'a's . Hence the only value of c we get here is -0.4698 . Not only does ARMAX add an moving average error term it also further reduced the difference between y and yhat (from the corresponding ARX based model)in this case and is therefore a better model for prediction . This is also stable as all the values of a lie in the unit circle .
 The last observed value of  we get is [-1.2965 -0.1792 0.4905 0.0001 0.0056 0.0090 -0.2233] which is very interesting as the values of 'b's quite closely matches to xp40d03 with  = [a 1 a 2 a 3 b 1 b 2 b 3 ] but not the values of 'a's . Hence the only value of c we get here is -0.2233 . Not only does ARMAX add an moving average error term it also further reduced the difference between y and yhat (from the corresponding ARX based model)in this case and is therefore a better model for prediction . This is also stable as all the values of a lie in the unit circle .

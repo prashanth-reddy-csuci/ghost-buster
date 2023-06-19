@@ -21,7 +21,7 @@ c = 0. The initial conditions are , , , and . At , periodicity requires that , ,
 For given l
 max, d and v, we need to find the optimal strategy  that minimizes work. Now mechanical work is given by d W = Fd l, giving effective cost:
 .
-where []+ is non-zero only for positive values, i.e. [p]+ = p if p &gt; 0 and [p]+ = 0 if p &lt; 0. This problem cannot be solved by elementary methods since l depends on x, y and t, but can be solved using numerical methods (Srinivasan and Ruina, Nature 439). The resulting solution (Figure 6) shows that inverted pendulum walking is the preferred gait for low speeds and running is preferred at high speeds, as expected.
+where []+ is non-zero only for positive values, i.e. [p]+ = p if p > 0 and [p]+ = 0 if p < 0. This problem cannot be solved by elementary methods since l depends on x, y and t, but can be solved using numerical methods (Srinivasan and Ruina, Nature 439). The resulting solution (Figure 6) shows that inverted pendulum walking is the preferred gait for low speeds and running is preferred at high speeds, as expected.
 According to the article, real biological legs approximately simulate an elastic spring during running. Define e to be the extension of a leg. Then e can be modelled as a simple harmonic oscillator:
 , with a frequency . Since k and m are constant, this is independent of e. Solving this gives,
 Now, given l = l

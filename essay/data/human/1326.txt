@@ -29,10 +29,10 @@ The half bottom part of the table will be the compute expected number of y=0 and
 Finally to add into additional monitoring of the effectiveness of this model we run the goodness of fit test by Andrews and Hosmer- Lemeshow.
 We try to measure the H-L value, null hypothesis is that deviations between the expectations and actual observations are zero which means the model predicts perfectly. Rejection of the hypothesis referred that the models predicts poorly since the expectations and actual observations are actually derived.
 Chi squared critical region=10-2, 5% significance level =8, 0.05 = 15.50731
-H-L statistics from the table= 12.2649 &lt;15.50731
-P-value=0.1398&gt;0.05
-Andrew statistics=15.4119&lt;15.50731
-P-value= 0.1177&gt;0.05
+H-L statistics from the table= 12.2649 <15.50731
+P-value=0.1398>0.05
+Andrew statistics=15.4119<15.50731
+P-value= 0.1177>0.05
 Since both of the statistics show that they are below the critical value and the p-value are both greater than 0.05, we can accept the null hypothesis which means that the expectations and actual observations will not derive, the model fits closely to the actual data at an acceptable level.
 Towards the primary finding from our result, it turns out peer influence has the strongest risk impact on teenage smoking uptake. With living people who smoke is associated with the second most significant susceptible risk. Teenage who have a poorer academic orientation, do not process an interest in schooling are likely to be the third significant factor towards for smoking behaviour. Having a higher income is associated as the fourth potential risk. However the two protective factors anti tobacco smoking advert, discussion of dangers of tobacco use in schooling are only shown to be weakly significant and only have a small effect on reducing teenage smoking uptake.
 As a result policy implications may suggest that control tobacco strategies should be simultaneously working along with each other in order to generate a larger effect. Comprehensive interventions should placed upon on school education programs included helping students to identify the dangers of tobacco use, teaching for self control and refusal skills against negative influences . However the positive effects of these programmes are most tend to be short run and it will only be sustained when it is coordinated with community efforts such as promoting a healthy living environment at home, reducing accessibility for teenage among tobacco use, enforcing a stricter parental attitude among their children. Together with broad based community efforts in which individual negative attitudes and behaviors are targeted for change, continue promoting media interventions to convey anti tobacco smoking messages to teenagers, increasing prices for tobaccos can then actually led to a more substantial long term success in reduce youth smoking.

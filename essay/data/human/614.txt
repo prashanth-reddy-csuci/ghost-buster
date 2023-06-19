@@ -4,7 +4,7 @@ The shirking model is founded upon many assumptions, of which the first one is t
 It has always been difficult to observe each individuals' effort to ensure that they do not shirk, but in more recent times it has proved increasingly so. Teamwork, use of initiative and flexibility have become more important skills in the workplace, but the quantity of effort put into these is very difficult to measure in comparison to, for example, the speed of a production line. To be able to perfectly monitor each individuals effort in the workplace is a very rare thing. Supposing that perfect monitoring did exist, it would not, in itself, prevent shirking. The cost of being caught shirking has to be associated with dismissal as alternatives to this such as cutting their wage, will, as I will show later, encourage further shirking.1
 Workers choose not to shirk if and only if the value of working is greater than the value of shirking. If VE is equal to the lifetime utility of working and putting in effort, and VS is equal to the lifetime utility of working but shirking, then:
 - This is the basic No Shirking Condition (NSC).
-Employers will choose to pay at the level where VE = VS , known as the critical wage, and not any higher as workers could not "shirk less" but if they paid at a lower rate where VE &lt; VS then workers would choose to shirk.
+Employers will choose to pay at the level where VE = VS , known as the critical wage, and not any higher as workers could not "shirk less" but if they paid at a lower rate where VE < VS then workers would choose to shirk.
 The equations for VE and VS can be calculated 2
 rVS is given by
 rVE is given by  where

@@ -16,7 +16,7 @@ Interesting to see 20 yr data not jus 2 yr
 Data may look diff if vaccination intro.
 Summary of data:
 See above
-2 erroneous values where the height of the cross fertilized plant &lt; self fertilized. Both cross values are 96- has some rounding taken place?
+2 erroneous values where the height of the cross fertilized plant < self fertilized. Both cross values are 96- has some rounding taken place?
 Constructive Crit
 Height associated with health but are other measures of health of a plant a good/ better indicator?
 Plants that grow best in the field do not necess grow best in lab.

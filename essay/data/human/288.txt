@@ -50,7 +50,7 @@ Errors in the values measured for frequency were estimated from the precision of
 The amplitude was also recorded at each resonant frequency, to aid in the determination of proper resonances from intermediate ones, during the data analysis. These measurements were taken from the y-axis on the oscilloscope. Errors were not applicable, as these readings were not being used in the actual calculations.
 Both the torsional and bending bars for each metal were then measured. The radius was measured with a micrometer, and the length measured using a ruler.
 The errors in these values were estimated according to the accuracy of the device, giving 0.1mm as the error in the radius, and 1mm for the length.
-Values of the density of the various materials were sourced from Kaye &amp; Laby [8]. The error quoted on the value for density in this book, were negligibly small for the purposes of this experiment.
+Values of the density of the various materials were sourced from Kaye & Laby [8]. The error quoted on the value for density in this book, were negligibly small for the purposes of this experiment.
 The raw results were analysed through the comparison of amplitudes, and the plotting of preliminary graphs.
 The 'proper' resonances have higher amplitudes relative to any 'intermediate' resonances, and the first couple of proper resonances have significantly higher amplitudes.
 Plotting graphs of frequency against mode for torsional measurements, and frequency against (2n + 1) for bending measurements, should produce a straight lines passing through the origin. Having identified the first resonances, subsequent resonances can be found by matching them to this line.

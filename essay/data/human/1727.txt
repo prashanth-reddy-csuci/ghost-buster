@@ -1,4 +1,4 @@
-Pumps are used to impart energy in to a fluid, there are two main varieties of pump, axial flow, centrifugal. The Tesla pump is a form of centrifugal pump and was developed by a famous scientist &amp; Inventor called Nikola Tesla.
+Pumps are used to impart energy in to a fluid, there are two main varieties of pump, axial flow, centrifugal. The Tesla pump is a form of centrifugal pump and was developed by a famous scientist & Inventor called Nikola Tesla.
 Tesla patented a new principle which utilised the properties of adhesion and viscous shear as a means to pump a fluid. With this principle he was able to design a new type of pump that used the same principles of a centrifugal pump without employing the typical impeller. This design of pump is still relatively unknown and is used little in industry.
 It is the purpose of this Project to investigate the properties of the Tesla pump to develop an in depth understanding of the pumps operating characteristics.
 The aim of this project is to design, build and test a Tesla pump.
@@ -18,7 +18,7 @@ Little research was done into the design until the 1960's where some technical p
 Much time was spent researching and sourcing relevant literature on the Tesla rotor design, the majority of which has been published for the Tesla Turbine design. However there are some papers devoted to the investigation of the Tesla Pump or compressor.
 Research has also been done around the subject area in fields such as Boundary Layer theory and Fluid mechanics.
 Literature worthy of discussion in this section is briefly reviewed.
-"Fundamentals of Thermal-Fluid" Sciences by Cengel &amp; Turner, 2001
+"Fundamentals of Thermal-Fluid" Sciences by Cengel & Turner, 2001
 This book gives a good understanding of simple fluid mechanics and boundary layer theory
 "Boundary Layer theory" by Herman Schlichting, 1979
 This book is an in-depth review of boundary layer theory. Of particular interest was the exact solution for flow near a rotating disk using the Navier-Strokes equation. This is particularly useful for visualising the flow around the plates in the pump design. Studies of rotating disks enclosed in a housing are also covered in this book.
@@ -30,9 +30,9 @@ It reproduces basic calculations critical in the design of efficient multi-disk 
 "Numerical Solution of the Flow Field in a Friction-Type Turbine" Diploma thesis by Rey Ladino, National University of Colombia, 2004
 This thesis is an in-depth study of flow field around the multi-disk principle. It uses computer simulations to model the flow fields around the designs, and provides detailed results and analysis.
 Of particular interest to this project are two papers in the Journal of Engineering for Power, January 1963. Published in the Transactions of ASME
-"An Analytical &amp; Experimental Investigation of Multiple Disk Pumps &amp; Compressors" by Professor Warren Rice.
+"An Analytical & Experimental Investigation of Multiple Disk Pumps & Compressors" by Professor Warren Rice.
 This technical paper provides quantitive results through theoretical "first approximation" analysis and practical testing of a Multi-disk pump, compressor and blower. The theory predicts maximum pump performance, with practical results indicating achievable performance figures.
-"Investigation of a Shear Force Pump" by S.H Hasinger &amp; L.G Kehrt
+"Investigation of a Shear Force Pump" by S.H Hasinger & L.G Kehrt
 This technical paper follows and in-depth study of the shear force pump design. Mathematical equations are developed to predict the performance of the pump, losses in the system are taken into account in the solution. Practical testes are presentated to confirm the theory.
 In order to explain the Tesla pumps principle of operation it is necessary to cover some basic fluid mechanic principles.
 The actual manufacture of the pump components started early on in the design phase (week 4 semeaster 1) with the workshop working from preliminary drawings showing basic component dimensions. Detailed drawings were passed to the workshop on completion. This was not an ideal design process but working to the tight time schedule meant compromises were necessary. All final design manufacturing drawings were in the workshop by week 7 of semester 1

@@ -5,7 +5,7 @@ This is called  'Water Potential' and is expressed as  ,psi.
 In plant cells, Water Potential is mainly affected by two factors; a solute concentration and the pressure, which is given by the following equation;
 In addition, it is also defined that  is always 0 in pure water. Since 
  decreases with a increase in solute concentration, always has a negative figure. Therefore, the measurement of Water Potential in plant cells is carried out by the calculation of 
- (Campbell. et al,. 1999 &amp; Eichchorn. et al,. 2003).
+ (Campbell. et al,. 1999 & Eichchorn. et al,. 2003).
 The aim of this experiment was to investigate the features of osmosis in plant cells, using a potato tuber, by treating the tissues in sucrose solutions with different concentration.
 Water always flows from the solution in the higher concentration to one in the lower, thus, taking account of the fact that the cell membrane is selectively permeable while cell wall is not, the following consequences were considered.
 Five sucrose solutions in different concentrations of 0.1, 0.3, 0.5, 0.8, 1.0 M and distilled water were prepared.

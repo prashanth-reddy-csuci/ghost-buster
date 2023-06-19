@@ -9,5 +9,5 @@ These 2  values are in agreement to within 1%
 Features of the detector were calculated that affect the shape of the spectrum:
 The errors associated with these results are small as a result of a long exposure time and hence count values are large.
 By comparison of the energy levels of the key features, Source A was identified as Sodium-22 and Source B was found to be Cobalt-60. In each case the two photopeaks were easily matched up with the theoretical energies, making identification straight-forward. The two values for the attenuation coefficient of lead (Pb) found using these two sources were:
-&amp;
+&
 Although these values seem to be of the correct order of magnitude it is difficult to compare due to the different energy levels. The problems with the lead plate orientation and ambiguity in the theoretical values that arose from the quartic equation fit have limited the accuracy of these results.

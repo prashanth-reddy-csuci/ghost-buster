@@ -13,7 +13,7 @@ Also, we know that
 (2)
 And
 (3)
-Where J is the current density, &lt;v&gt; is the average velocity of electrons,  the collision time and  is the conductivity.
+Where J is the current density, <v> is the average velocity of electrons,  the collision time and  is the conductivity.
 Substituting (3) into (2) we get:
 (4)
 The electrical resistivity of a material defines how well the material opposes the flow of electric current. If one can define electrical conductivity as being a measure of how well particles with electric charge can carry electricity within a material, one can be said to be the reciprocal of the other.

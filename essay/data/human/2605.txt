@@ -26,7 +26,7 @@ To find the magnitude of u
 This now tells us that the magnitude of Stokes drift is equal to 0.041382.
 The computer program is then run again, but with the phase speed, c, set to zero.
 The following graph (Figure 2) is the outcome:
-It can be seen that Figure 1 is very similar to Figure 2, however, when t = 50, u &lt; 50, unlike Figure 1 when at t = 50, u = 50. This change in u can be calculated. The gradient of the line in Figure 2 is calculated in the same way as it was for the line in Figure 1. Once again, the value of x at t = 50 was found by typing 'xarr(500)' in the MATLAB prompt screen:
+It can be seen that Figure 1 is very similar to Figure 2, however, when t = 50, u < 50, unlike Figure 1 when at t = 50, u = 50. This change in u can be calculated. The gradient of the line in Figure 2 is calculated in the same way as it was for the line in Figure 1. Once again, the value of x at t = 50 was found by typing 'xarr(500)' in the MATLAB prompt screen:
 A value of 0.950002 was calculated. This now tells us that u
 1cos[k(x-ct)] or Stokes drift is now negative. The value of Stokes drift is therefore u
 1cos[k(x-ct)] = 0.950002 - 1 = -0.049998. This tells us that by setting the phase speed to zero, Stokes drift becomes negative. Although the value of Stokes drift is negative, the magnitude is 0.049998 but in the opposite direction to the wind velocity.

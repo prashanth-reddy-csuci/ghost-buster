@@ -4,7 +4,7 @@ Let's illustrate the authors' argument with an inflation-unemployment example, w
 where u* is the natural rate of unemployment, t is the inflation rate, t
 e is the inflation rate expected by private agents in period t-1 for period t, and  is a positive exogenous parameter.
 The policymaker's objective is to maximise the function social function S(u t, t). Taking an adaptation of the quadratic form specified by Barro and Gordon (1983) we have:
-Where  represents the weight the policymaker assigns to inflation (relative to unemployment) and k &lt; 1 represents some distortion that makes the government target an unemployment rate lower than the equilibrium rate.
+Where  represents the weight the policymaker assigns to inflation (relative to unemployment) and k < 1 represents some distortion that makes the government target an unemployment rate lower than the equilibrium rate.
 The policymaker can use monetary policy in period-t to control t. Since there is no uncertainty in the model, rational expectations imply that t
 e = t and therefore u t = u*. If in period t-1 the policymaker can commit to the inflation rate in period t, then he will choose t = 0, since u t= u* must hold. The ex ante optimal outcome becomes (u*, 0), illustrated in figure 1 below.
 However, the commitment outcome is not time consistent. Ex post, when expectations have already been formed, the government finds it optimal to choose an inflation rate higher than 0 if allowed to change its plan. The optimal policy will increase the inflation rate up to the level at which the marginal gain from lower unemployment equals the marginal cost of higher inflation. This outcome produces an inflation bias, labelled C in figure 1.

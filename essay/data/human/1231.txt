@@ -1,4 +1,4 @@
-The experiment was carried out using a Mitsubishi M16 microcontroller and IER Embedded Workbench. The given incomplete code which was written in C was completed, then debugged using C-Spy and executed via the hardware. This procedure was used to control two 7-segmant LED displays to display a count when SW1 and SW2 (switch 1 &amp; 2) are pressed.
+The experiment was carried out using a Mitsubishi M16 microcontroller and IER Embedded Workbench. The given incomplete code which was written in C was completed, then debugged using C-Spy and executed via the hardware. This procedure was used to control two 7-segmant LED displays to display a count when SW1 and SW2 (switch 1 & 2) are pressed.
 First part was to complete the incomplete code to display an increasing count when SW1 is pressed where the 'tens' are displayed on LED 1 and 'units' are displayed on LED 2.
 The second part of the lab was to add a new section to the completed code to decrease the count when SW 2 was pressed.
 First the IER Embedded Workbench is opened and a new project is opened. This program supports the Mitsubishi M16 microprocessor.

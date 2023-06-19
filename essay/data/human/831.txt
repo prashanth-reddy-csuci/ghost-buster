@@ -1,6 +1,6 @@
 was admitted to  Hospital,  on  with recurrent episodes of dizziness and falls.
 Based on the acute symptoms  presented with, the differential diagnoses of dizziness and recurrent falls are:
-Drug side-effects: anti-hypertensive medication can cause a dizziness as a result of postural hypotension whereby the difference between lying and standing systolic blood pressure is &gt;30mmHg.
+Drug side-effects: anti-hypertensive medication can cause a dizziness as a result of postural hypotension whereby the difference between lying and standing systolic blood pressure is >30mmHg.
 Benign positional vertigo: displacement of the otoconia (otoliths) from the maculae (the receptor for sensing acceleration in the semi-circular canals). Otoconia then settle on the lowest part of the labyrinth.
 Cardiovascular causes: arrhythmias, transient vertebro-basilar ischaemia, hypotension from bleeding, silent MIs and a low cardiac output.
 Dehydration: a possibility in 's as he has difficulty swallowing following his previous strokes.
@@ -8,7 +8,7 @@ Anaemia
 Elderly patients per se are more prone to falls as they become more unsteady on their feet and their body sway increases due to an impaired compensatory mechanism.
 Black-outs: can cause falls, which can be preceded by dizziness. There was no evidence or history of blackouts in 's case.
 On physical examination, it is important to look for a postural drop in blood pressure readings. A full cardiovascular examination should be carried out to determine any arrhythmias such as Atrial Fibrillation for which  is being treated for. Loss of skin turgor and dry mucous membranes will help to determine whether  is dehydrated.
-On general examination  was alert and orientated. There were no signs of jaundice, clubbing, cyanosis, lymphadenopathy. Capillary refill &lt;2 seconds. The conjunctiva looked pale and skin turgor was reduced. complained of itchy eyes. looked cachexic.
+On general examination  was alert and orientated. There were no signs of jaundice, clubbing, cyanosis, lymphadenopathy. Capillary refill <2 seconds. The conjunctiva looked pale and skin turgor was reduced. complained of itchy eyes. looked cachexic.
 History and examination confirm some the initial possible diagnosis of 's presentation. A review of his medication is required, although the change in systolic BP between lying and standing was not significant. Arrhythmias seem an unlikely cause as nothing was noted on examination but an ECG will rule out any cardiac abnormalities. There was nothing else to note of significance on 's physical examination.
 The most likely diagnoses at this stage are iatrogenic causes, dehydration and benign positional vertigo.
 Physical - Physically,  is at risk of injuring himself following his falls. He has on occasions hit his head as he has fallen and as he continues to fall he will find himself becoming less confident about walking and become less mobile. It is important to minimise his risks of falls to help  retain his independence for as long as possible.

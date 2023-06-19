@@ -7,7 +7,7 @@ I would consider the normal distribution to be a reasonable distribution to use 
 Values are different therefore as an approximation of  take (
 LQ+ 
 UQ)/2 = 2.25 (to 2 d.p)
-Therefore, Pr(Y&gt;6) = 0.2296
+Therefore, Pr(Y>6) = 0.2296
 Therefore 3 rd estimate of P = 22.96% (this is considerably higher than the previous estimates)
 The best way to reduce the data would be to number each column inch from 1- 150 and then generate 15 random numbers. Take the countries from each numbered column inch that matches your generated random numbers. This is now a random sample representative of all the countries in the world. The method used in (a) would be the most appropriate as we do not know whether the data fits a normal distribution. However, we could use hypothesis testing to see if the data did fit the normal.
 The "friend" uses an out of date atlas from 1987 as the data source. A more recent atlas should be used as changes such as the reunification of Germany have happened since 1987.

@@ -37,9 +37,9 @@ The ionic radius is larger for ions with more electrons. This is what is expecte
 Using Figure 4 to see the relation of ions in CaF 2, and assuming F- has a radius of 0.131 nm, the radius of Ca2+ is calculated to be:
 For the same-charge ions to be not touching the diameter of the larger negative ion must be less than .
 In LiF the diameter of F- 0.262 nm is less than 0.281 nm
-In NaF the diameter of F- 0.262 &lt; 0.314 nm
-In NaCl the diameter of Cl- 0.358 &lt; 0.382 nm
-In KCl the diameter of Cl- 0.358 &lt; 0.424 nm
+In NaF the diameter of F- 0.262 < 0.314 nm
+In NaCl the diameter of Cl- 0.358 < 0.382 nm
+In KCl the diameter of Cl- 0.358 < 0.424 nm
 So all the ionic radii are consistent with the "hard sphere" model of lattices.
 Finally the diameter of K+ + the diameter of F- must be less than the lattice constant of KF which is 0.532 nm. It is as it values 0.504 (0.046) nm.
 The Laue method produced this photograph:

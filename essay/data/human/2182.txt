@@ -8,9 +8,9 @@ Water has a greater surface tension than most other common liquids. So we say th
 'compounds that reduce the surface tension of a liquid are said to be surface active'
 taken from the top of page 170
 as we mentioned above, water has a very high surface tension value, so:
-If the surface tension value of the liquid &lt; surface tension of water
+If the surface tension value of the liquid < surface tension of water
 This liquid is surface active
-If the surface tension value of the liquid &gt; surface tension of water
+If the surface tension value of the liquid > surface tension of water
 This liquid is surface inactive
 Form the tables6.3 shows on page 171. When the temperature is 20 degree:
 To compare my results with literature values, the values we got are somehow all lower than the literature values. That is because of the temperature.(explain later)

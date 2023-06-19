@@ -10,7 +10,7 @@ The following volumes of 0.3M Fe(NO 3)3 were then added to 7 of these solutions:
 From the equation for the equilibrium concentration quotient (Q) for the formation of iron thiocyanate complexes (equation (1) in the introduction) the following formula may be derived:
 In order to calculate Q the concentrations of the ions are defined in terms of their stoichiometric concentrations as follows:
 Where a, b and c are the stoichiometric concentrations of Fe 3+, SCN- and X respectively. Substitution of these expressions into equation (2) gives:
-This expression may be simplified because this experiment was conducted at low thiocyanate concentrations, in an excess of Fe 3+ ions so a&gt;&gt;c while b and c are comparable. This gives the expression:
+This expression may be simplified because this experiment was conducted at low thiocyanate concentrations, in an excess of Fe 3+ ions so a>>c while b and c are comparable. This gives the expression:
 The conditions of the procedure also ensure that only the simplest of the complex ions were formed, which means that n = 1. This means that equation 4 may be further simplified:
 or
 From equation 6 it can be seen that a plot of logb against logA (see Figure 1) will produce a straight line graph, where the intercept is [log{(1/Qa)+1} - log l] where is the molar absorption coefficient and l is the length of the sample in meters. The gradient of this graph was found to be 1 proving that n=1 and therefore the absorbing species is the simplest iron thiocyanate complex ion: FeSCN 2+.

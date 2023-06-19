@@ -44,8 +44,8 @@ m
 e equals zero and the indifference curve closest to the bliss point B.
 12 Unless an institutional arrangement commits the CB to validate this expectation. A brief description of this situation will be introduced at the end of this section.
 13 Situations where 
-a2&gt;1 might be associated with those cases where either the CB cares much about output stabilisation (given by ) or the CB perceives a high short-run benefit from unexpected inflation (given by a). Since considering such cases does not modify the main results, the analysis only considers the case where 
-a2&lt;1.
+a2>1 might be associated with those cases where either the CB cares much about output stabilisation (given by ) or the CB perceives a high short-run benefit from unexpected inflation (given by a). Since considering such cases does not modify the main results, the analysis only considers the case where 
+a2<1.
 14 It is also possible to consider marginal benefit curves with 
 e greater than 
 ak. However, since we already know that the final equilibrium will be at 

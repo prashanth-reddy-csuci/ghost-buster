@@ -18,18 +18,18 @@ The Danish economy is very dependent on trade with other countries and lacks the
 In 1993, as Finland and Sweden were applying for EU membership, Denmark negotiated separate terms for their existing membership. Denmark had joined the European Community (pre-form of EU) in 1973. In the Edinburgh summit, December 1992, Denmark excluded themselves from the third phase of the EMU (European Monetary Union) thus not taking the Euro as their currency. Denmark allowed the currency to be pegged to Euro later on with a somewhat fixed rate, within a band of +/- 2, 25%.
 Interest rates in Denmark follow a similar pattern to the UK and Netherlands. The beginning of the period was characterised by the European Monetary System crisis. When DEK was pegged to Deutschmark and Germany raised their interest rates, Denmark had to follow, even though this harmed their economy. This crisis resulted in Denmark leaving the ERM and reducing their interest rates to 6%. After this point started the "consumer-lead growth" lasting until the end of the decade. In 1994-1995 Denmark raised their interest rates following the Federal Reserve Bank in United States. In March 1995 Denmark realigned with the ERM and followed the interest rates of other ERM countries. In 1999 the actual exchange rates were fixed between the ERM countries and from this point the Danish interest rates have been almost exactly equal to the Euro zone ones.
 From the graph above we can see that the countries have similar interest rate trends, conducting a hypothesis test will see if their respective population means are equal within a 5% significance level. We will test each nation with each other but not their investment means due to the different relative sizes of the economies. The UK has a significantly higher level of investment than both the Netherlands and Denmark simply due to the size of the economy.
-We will use central limit theorem (n&gt;30) to approximate a normal distribution and decipher if the null hypothesis can be rejected or not within a 5% significance level.
+We will use central limit theorem (n>30) to approximate a normal distribution and decipher if the null hypothesis can be rejected or not within a 5% significance level.
 At the 5% significant level we reject  if
 OR
-Given that Z1 = 0.730548172 &lt; 1.96 we do not reject  at the set significance level of 5%. Therefore the mean interest rates of the United Kingdom and those of Denmark are equal within our set accuracy criteria.
+Given that Z1 = 0.730548172 < 1.96 we do not reject  at the set significance level of 5%. Therefore the mean interest rates of the United Kingdom and those of Denmark are equal within our set accuracy criteria.
 Now a similar hypothesis regarding the United Kingdom and the Netherlands;
 At the 5% significant level we reject  if
 OR
-We find that Z2 = 2.8742665 &gt; 1.96 and so we reject . So, mean interest rates of the United Kingdom and the Netherlands are not equal taking the significance level to be 5%.
+We find that Z2 = 2.8742665 > 1.96 and so we reject . So, mean interest rates of the United Kingdom and the Netherlands are not equal taking the significance level to be 5%.
 Lastly we will compare the final combination from the countries:
 At the 5% significant level we reject if
 OR
-Here Z3 = 2.10177323 &gt; 1.96 and so we reject . The population mean for interest rates in Demark is not equal with that of the Netherlands when using a 5% significance level.
+Here Z3 = 2.10177323 > 1.96 and so we reject . The population mean for interest rates in Demark is not equal with that of the Netherlands when using a 5% significance level.
 We tested the hypotheses using an average of the interest rate over the twelve years. If we look closer there is a divergence of the rates starting from September 1992 caused by crisis within the ERM and subsequently certain nations including Britain and Italy leaving it. At its peak the difference between the rates of the nations was 2% in 1996, after that they began converging and moved together up until they reached a common point with the introduction of the EMU. Even though Great Britain and Denmark did not join the new currency they were within a half a percentage point of Holland from Q1 1999 until Q4 2003.
 We backed up our rationale by mathematical tools, using regression, correlation and descriptive statistics.
 Descriptive statistics show information on each country. The results from Excel:

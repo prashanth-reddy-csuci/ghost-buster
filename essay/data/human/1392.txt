@@ -4,7 +4,7 @@ Schiff bases such N-(n-Propyl)-2-pyridylmethanimine have been shown to be effici
 We investigate the effect of different pyridylmethanimine ligands on the polymerisation of methyl, n-butyl and benzyl methacrylate polymers and co-polymers using a phenolic ester based initiator.
 N-(n-Propyl)-2-pyridylmethanimine and N-(n-Butyl)-2-pyridylmethanimine ligands were to be synthesised and used with 2-bromo-2-methyl-propionic acid phenyl ester as the initiator for the copper(I) bromide mediated polymerisation.
 All manipulations were carried out without the aid of Schlenk apparatus. Molecular weight distributions were measured using size exclusion chromatography (SEC) calibrated with MMA standards. Corrections were made for BMA polymers. Conversions were measured by 1H NMR integration.
-Ligands were synthesised in resonable yields (&gt;65%).
+Ligands were synthesised in resonable yields (>65%).
 Synthesis of the homopolymers proceeded with approximately first order kinetics propducing polymers with a narrow PDI. The rate of BMA polymerisation was greater than that of MMA as expected.
 The longer alkyl chain on the ligand retarded the polymerisation rate. The butyl group provides the transition metal complex with a greater affinity for the non-polar solvent. The propyl group tends to make the complex more soluble in the polar monomers, this possibly leading to a higher local concentration of monomer, aiding the reaction.
 The attempted synthesis of phenyl bromoisobutyrate yielded two products. The 1,5-dibromo anhydride was produced by coupling of bromoisobutyryl bromide. Dropwise addition of the bromide to the phenol during the initiator synthesis resulted in a high local concentration of the bromide and encouraged anyhdride formation.
