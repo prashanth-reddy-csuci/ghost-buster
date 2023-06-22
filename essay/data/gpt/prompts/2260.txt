@@ -1,1 +1,0 @@
-How is the recursive least squares algorithm applied to identify a mechanical robot and what is the role of instrumental variables in the process?

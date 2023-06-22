@@ -1,1 +1,0 @@
-What is the procedure for calculating the cost of an order off an array of records with 3 items?

@@ -1,1 +1,0 @@
-Instead of manually calculating postage rates for bulk mailings, possibly using outdated forms, a bulk mailer will be able to add up the charges using a software application written with Java and posted on the Internet.

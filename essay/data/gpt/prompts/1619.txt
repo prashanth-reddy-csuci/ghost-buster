@@ -1,1 +1,0 @@
-What is the importance of understanding an existing code before modifying it, and what steps should be taken before beginning the modification process? Using dirsync as an example, discuss the analysis and modification process involved in changing the program's structure and architecture.

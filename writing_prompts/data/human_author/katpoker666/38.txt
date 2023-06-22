@@ -1,7 +1,0 @@
-Hey Restser—this is great! Sounds just like a pub conversation! And I’m a sucker for an all dialog piece. 
-
-One small note I have:
-
-With dialog speech tags tend to work better in scripts, as that is what people most often associate them with. They also don’t really give us an insight into how the character sounds. Remember in a conversation a lot of the communication is beyond the words used. So the sound of the voice, how the body moves, etc.
-
-The other thing is in back and forth dialog like this, you don’t need a ton of speech tags or who is speaking. It’s a back and forth between two people, so you can trust the reader with that for the most part. Particularly if you give the characters certain distinguishing speech characteristics. The advantage of those is they can help flesh out the characters and help us to feel more connected to them.

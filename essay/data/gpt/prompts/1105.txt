@@ -1,1 +1,0 @@
-What is ultrasound and how is it used for non-destructive testing and medical purposes? What are the three main methods of acoustic wave propagation in solids and how do they differ? How do variables such as wavelength and diameter of the transducer affect flaw detection in ultrasound testing? What is the piezoelectric effect and how is it used in ultrasound production?

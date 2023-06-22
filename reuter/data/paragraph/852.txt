@@ -1,1 +1,0 @@
-Currently, companies must submit their encryption technology for review by the government before they are allowed to export it. This has allowed the government to restrict the export of technology with a key length of 56 bits or greater, as it could be used by foreign adversaries to develop their own encryption capabilities.

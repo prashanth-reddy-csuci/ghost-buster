@@ -1,1 +1,0 @@
-What role do temperature sensors play in Formula One racing and how do they work in monitoring the temperature of tyres during a race? Discuss the use of piezoelectric devices and surface acoustic waves (SAW) in temperature sensing for automotive applications.

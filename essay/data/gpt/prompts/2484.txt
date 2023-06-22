@@ -1,1 +1,0 @@
-What are the errors associated with the CTCS scheme and how do they affect the numerical solution? How does the square wave compare to the smooth initial function in terms of these errors? What could be done to improve the stability of the scheme?

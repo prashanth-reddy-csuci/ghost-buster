@@ -1,1 +1,0 @@
-What is the objective of the simulation project for Aimil Pharmaceuticals in India and what are the main challenges facing the plant's efficiency? How many check-in and off-loading points are required in order for all lorries to finish their work by 5pm and what are the limitations and assumptions of the model?

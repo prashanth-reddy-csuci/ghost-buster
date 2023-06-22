@@ -1,1 +1,0 @@
-What was the purpose of the simulation experiment using MatLab to study population dynamics with metapopulation dynamics and dispersal rates, and what were the main findings and limitations of the model assumptions at the metapopulation level?

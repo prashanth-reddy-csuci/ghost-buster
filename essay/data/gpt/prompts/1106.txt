@@ -1,1 +1,0 @@
-What are the limitations of the classical Drude model and how does it compare to the Sommerfeld model in explaining the behavior of free electrons? Discuss the phenomena of the Hall effect, magnetoresistance, and cyclotron frequency, and explain how quantum factors impact the distribution of electron speeds in metals.

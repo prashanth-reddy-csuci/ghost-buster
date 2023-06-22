@@ -1,8 +1,0 @@
-This experiment aims to study the mechanical properties of steel and aluminium alloys when subjected to appropriate heat treatment processes.
-The following conclusions are reached from this investigation:
-Alloys are heat-treated in order to vary their mechanical properties.
-Heat treatment can be applied to steel to harden it as well as to improve its strength, toughness or ductility.
-Quenching, depending on the cooling rate, aims to avoid the critical cooling rate (C-curve) in order to produce a hard (but brittle) martensitic structure.
-Fully hardened carbon steel is brittle and the existence of stresses resulting from the quench would especially make it unsuitable for most applications. It is due to this reason that the steel is tempered to release stresses while exchanging brittleness for toughness as hardness drops with tempering temperature.
-The aluminium alloy derives its strength from solid solution and precipitation hardening.
-The properties of strength under precipitation hardening were found to improve over those obtained by natural age hardening, when samples were tempered at 270C for short periods of time.

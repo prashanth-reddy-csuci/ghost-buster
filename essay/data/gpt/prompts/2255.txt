@@ -1,1 +1,0 @@
-What did you learn about using lists in Caml, and how has this coursework impacted your view of programming in Caml?

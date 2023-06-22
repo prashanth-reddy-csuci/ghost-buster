@@ -1,1 +1,0 @@
-Light Rail System	Hirschman-Herfindal Index Sheffield Supertram	0.68 West Midlands Metro	0.83 Manchester Metrolink	0.85 Croydon Tramlink	0.89 Nottingham Express Transit	0.93 Docklands Light Railway	0.93 Midland Metro	0.98  Source: 1. http://www.nationalarchives.gov.uk/environment/public-transport/england-2006/light-rail.htm

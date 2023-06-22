@@ -1,1 +1,0 @@
-What are the advantages of using a 3-phase system compared to a single-phase system, and how do the two different configurations of 3-phase systems reduce the amount of conductors needed? Additionally, how does the equivalent circuit method simplify calculations and what can be concluded from the graphs showing theoretical results?

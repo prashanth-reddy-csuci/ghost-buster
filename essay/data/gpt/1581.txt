@@ -1,8 +1,0 @@
-When it comes to safety-critical project development, selecting the right programming language is paramount. Here are some considerations: 
-1. Reliability: The programming language must be known for its reliability and should have established libraries and frameworks. 
-2. Safety: The language should include safety features such as strong typing, error handling and good memory management. 
-3. Performance: The programming language should be able to give optimal performance during critical situations. 
-4. Accessibility: The language should have a wide range of resources and the support of a thriving community. 
-5. Verifiability: The language must have effective testing and verification tools for ensuring the safety requirements are met. 
-6. Maintainability: The language must have a low learning curve and be simple enough to maintain over the life of the project. 
-Overall, it’s important to weigh all these considerations before choosing a programming language for a safety-critical project.

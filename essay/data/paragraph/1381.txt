@@ -1,1 +1,0 @@
-When we are asked to design a new system it is useful to ask ourselves questions to aid analysis. With these questions in mind, we can then start to write down a specification for what we want from a system. These questions are the first stage in the design technique and come before any research or specification. They are part of the analysis of the problem.

@@ -1,1 +1,0 @@
-What did you learn while completing a set of tasks using functional programming, and how did it affect the way you approach your code?

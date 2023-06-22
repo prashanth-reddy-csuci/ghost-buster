@@ -1,1 +1,0 @@
-The above set-up of the strain gauges therefore would be able to sense, and thus provide us with the information of the shearing stresses on the shaft.

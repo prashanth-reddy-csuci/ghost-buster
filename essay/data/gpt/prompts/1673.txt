@@ -1,1 +1,0 @@
-How has technology like DSL and ISDN allowed for simultaneous phone calls and internet use, and what are the potential issues faced in providing wider access to the internet? Additionally, how do email viruses work and how can users protect themselves against them, with a specific focus on the vulnerabilities of Outlook Express?

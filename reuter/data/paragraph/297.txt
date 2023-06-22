@@ -1,1 +1,0 @@
-The goal is to reduce the likelihood of disputes over Internet addresses because it is often possible to have only one address with each three-letter ending. For example, there can be only one _mtv.com_ site.

@@ -1,1 +1,0 @@
-The numerical data for the engines' torques and compression ratios (CR) are not available in all of the sources. This may because these data have to remain confidential. Following are some examples Formula-1 racing engines:

@@ -1,1 +1,0 @@
-How are Artificial Neural Networks employed to predict abnormal spontaneous electrical activity in the brains of patients suffering from movement disorders, specifically Parkinson's Disease, and how can this be used to create an autonomous system to counteract tremors?

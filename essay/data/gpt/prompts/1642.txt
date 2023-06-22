@@ -1,1 +1,0 @@
-What is the process for keeping track of and totaling ten numbers entered by the user while also keeping track of negative and positive numbers?

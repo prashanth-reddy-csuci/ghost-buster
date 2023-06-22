@@ -1,1 +1,0 @@
-The constant acceleration formula is related to the linear acceleration change. The force equation can be rearranged to To relate the force equation with linear motion equation, FMA can be rearranged giving Where

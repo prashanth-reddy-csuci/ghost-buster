@@ -1,1 +1,0 @@
-Using (6) a good approximation for the moment of inertia of each of the discs can be obtained. The theoretical formula this experimental approximation will be compared with is

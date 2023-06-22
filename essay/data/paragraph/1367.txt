@@ -1,1 +1,0 @@
-Say I was looking to reduce the conductor gauge of a wire by one step, I could reduce the wire size down proportionally, as shown in the chart above.

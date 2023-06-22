@@ -1,9 +1,0 @@
-Program to input the name of the student, calculate mean of 3 marks input, calculate the mean and output grade.
-TRACE TABLE
-Unable to clear screen at the end of the program
-Had to review code as it seemed that the correct grade wasn't output for Set 1 (Had to use 'round' function)
-Ensure that all the values for mark1, mark2, mark3 lie within the range
-Ensure that the name entered consists of characters
-Ensure that the answer to 'Do you want to end the program is really 'Y' or 'N'
-Allow the user more flexibility in the number of marks that he can enter
-Display the average of the marks also

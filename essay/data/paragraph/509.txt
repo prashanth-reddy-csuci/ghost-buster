@@ -1,1 +1,0 @@
-Once the absorbancy of each sample had been determined, the results were plotted onto a graph in order for an isoelectric point for casein to be calculated. To do this measure the absorbance values were placed on the y-axis and the corresponding pH values on the x-axis. This data is displayed on the graph in the results section below.

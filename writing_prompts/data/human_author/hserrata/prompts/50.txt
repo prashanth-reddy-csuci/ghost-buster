@@ -1,1 +1,0 @@
-You are an MMORPG debugger. You’ve fixed many issues that’ve harmed NPCs, such as clipping into walls, being stuck in an animation loop, and issues with skin loading. The NPCs remember your feats, revere your avatar as a deity, and rush to you to explain their grievances whenever you log on.

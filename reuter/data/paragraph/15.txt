@@ -1,1 +1,0 @@
-Cylink Corp is developing a system for the Post Office to use to verify the identity of e-mail senders. The system will enable people to register a digital "signature" with the Post Office that can be compared against electronic mail they send.

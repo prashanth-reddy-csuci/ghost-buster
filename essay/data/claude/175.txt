@@ -1,9 +1,0 @@
-Bacteria growth typically follows a predictable pattern of phases - lag phase, exponential growth phase, stationary phase, and death phase. In this experiment, these phases of growth were measured by quantifying the optical density of the bacterial culture over time using a spectrophotometer. 
-
-Initially, during the lag phase, bacteria are adapting to the environment and not dividing. This phase is evident at the beginning of the growth curve when the optical density remains stable. Once the bacteria have adapted, they enter the exponential growth phase where cell division occurs rapidly. This results in an exponential increase in the number of bacteria and a corresponding exponential rise in the optical density. 
-
-The exponential growth phase continues until nutrients become limited or waste products accumulate. At this point, the growth rate slows and the culture enters the stationary phase. In this phase, the number of new bacteria being formed is equal to the number of bacteria dying. This is indicated in the growth curve by a plateau in the optical density.
-
-Finally, as nutrients deplete further and waste products rise, the culture enters the death phase. In this phase, the number of bacteria dying exceeds the number of new bacteria being formed, resulting in a decline in the overall bacteria population. This is reflected in the growth curve by a decrease in the optical density.
-
-By measuring the optical density of the culture using a spectrophotometer at regular time intervals, we can accurately plot the phases of growth for the bacteria. The initial static optical density indicates the lag phase. An exponential rise signifies the exponential growth phase. A plateau corresponds to the stationary phase, and a decline represents the death phase. In summary, the phases of bacterial growth and division were measured indirectly in this experiment through quantifying the optical density of the culture over time.

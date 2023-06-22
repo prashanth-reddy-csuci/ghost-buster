@@ -1,1 +1,0 @@
-What are the necessary corrections to be made in a program for a robot to draw a frame accurately using linear interpolation and joint interpolation? How does the use of different modes in the program affect the speed and precision of the robot's movements, particularly when dealing with straight sides versus radiused corners?

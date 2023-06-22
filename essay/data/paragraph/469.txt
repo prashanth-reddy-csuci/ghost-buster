@@ -1,1 +1,0 @@
-Graph 4 is an Eadie-Hoftsee Plot to calculate the Michaelis constant. This was calculated from the slope of the graph to be 0.0871. (see Appendix Table 5 for calculation).

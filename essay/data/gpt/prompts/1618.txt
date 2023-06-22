@@ -1,1 +1,0 @@
-Explain how the program is made up of 3 functions and how it allows for parallel execution, using examples. Also discuss the error handling process.

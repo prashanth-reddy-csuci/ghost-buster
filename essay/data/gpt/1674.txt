@@ -1,5 +1,0 @@
-When calculating the cost of an order off an array of records with 3 items, there are certain procedures that need to be followed. To begin with, you need to determine the unit prices of each item. This can be done by looking at the array of records and identifying the price of each item.
-Once you have identified the unit prices of each item, you need to determine the quantity of each item that has been ordered. This information would also be available in the array of records.
-The next step involves calculating the cost of each item by multiplying the unit price by the quantity ordered. Then, you need to add up the costs of each item to obtain the total cost of the order.
-It is important to ensure that the calculations are accurate and that there are no errors while adding up the costs. This is particularly important in commercial settings where even small errors can cost a lot of money.
-In conclusion, calculating the cost of an order off an array of records with 3 items requires the determination of unit prices, the quantity of each item ordered, and accurate calculations to obtain the total cost of the order.

@@ -1,7 +1,0 @@
-Capital 9.776901
-ĠInt 9.002581
-ensity 1.1278306
-Ġrequired 11.3827305
-Ġfor 1.410722
-Ġbusiness 5.6797676
-Ġsetup 7.897109

@@ -1,1 +1,0 @@
-What is the design methodology presented in this report, and for which application was the gearbox designed? Explain the main considerations that had to be taken into account in the design process, and describe the steps taken to determine the gear ratio, design the shafts and bearings, and draw the gearbox in Solidworks.

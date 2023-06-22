@@ -1,1 +1,0 @@
-The pipeline is able to draw more of the flow of the river at low river flow rates, as there will likely be excess capacity in the pipe

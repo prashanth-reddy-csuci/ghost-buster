@@ -1,1 +1,0 @@
-How can x-ray diffraction be used to calculate the lattice constants and ionic radii of crystals? Explain the principles of Bragg's Law and Laue method and provide an example of how they were used to determine the lattice constants and ionic radii of five alkali-halide crystals. Discuss the limitations and assumptions made in this process.

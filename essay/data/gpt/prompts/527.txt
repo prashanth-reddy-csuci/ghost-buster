@@ -1,1 +1,0 @@
-What are the technical aims and objectives for the electronics team of a scoreboard project, and how do they plan to implement them? Additionally, what technical details are provided about the structural analysis and material selection of the satellite scoreboard?

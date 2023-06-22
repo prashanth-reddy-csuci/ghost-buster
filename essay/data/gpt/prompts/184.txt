@@ -1,1 +1,0 @@
-What is the proposed approach to studying inter-pathway communication in E.coli's Two Component Systems and what tasks must be completed for a systems level understanding of the TCS network?

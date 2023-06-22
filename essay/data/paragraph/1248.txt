@@ -1,1 +1,0 @@
-Introduction  The exercise outlined in this report is to calculate, experimentally, the moments of inertia of three steel discs using the properties of torque, inertia and angular acceleration. Comparisons will be made to values of the moments of inertia obtained from theoretical analyses. Errors incurred in the measurement process will be noted and discussed.

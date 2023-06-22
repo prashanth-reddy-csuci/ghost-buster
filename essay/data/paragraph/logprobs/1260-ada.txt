@@ -1,6 +1,0 @@
-Now 6.794373
-Ġusing 7.3132186
-Ġthe 1.8174914
-Ġconstant 10.059668
-Ġacceleration 8.983819
-Ġequation 6.493149

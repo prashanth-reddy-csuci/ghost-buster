@@ -1,1 +1,0 @@
-The questions I asked myself first of all for the analysis of a design for a National Air Traffic Control System were concocted from initial thought without looking at how the analysis might break down to further distance the questions from each other and not create answers or part-answers that exist in more than one question. These questions are:

@@ -1,1 +1,0 @@
-What engine parameters can be monitored through the study of cylinder pressure vs. crank angle data? Provide an example of how this data was analyzed in testing and what practical limitations were discovered through this testing.

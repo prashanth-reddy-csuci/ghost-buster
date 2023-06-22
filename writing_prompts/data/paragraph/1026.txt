@@ -1,1 +1,0 @@
-'No I can only connect through a device.'

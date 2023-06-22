@@ -1,1 +1,0 @@
-What was the aim and process of designing a circuit model for lasers based on the single mode laser rate equations given, and how was computer-based stimulation used to investigate and compare theory-based results to stimulated-based results?

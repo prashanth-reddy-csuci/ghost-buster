@@ -1,1 +1,0 @@
-What were the client's requirements for the SoccerBooker.com website and how were they implemented?

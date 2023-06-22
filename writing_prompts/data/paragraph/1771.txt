@@ -1,1 +1,0 @@
-*Query;* comparing pidgeon DNA profile to human DNA profile.

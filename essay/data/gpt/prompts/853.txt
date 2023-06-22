@@ -1,1 +1,0 @@
-What was the purpose of investigating the performance characteristics of a centrifugal pump and how was it done? What were the optimal operating conditions and efficiency obtained from the experiment, and how were performance curves and non-dimensional groups used to analyze the results?

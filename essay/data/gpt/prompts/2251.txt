@@ -1,1 +1,0 @@
-What are the important features and testing process of a C++ compiler that compiles C code into C compatible three-address code, and what is the flow of control through the program?

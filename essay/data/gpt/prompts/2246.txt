@@ -1,1 +1,0 @@
-What techniques were used to compress 256-pixel square greyscale images and what were the results compared to other techniques?

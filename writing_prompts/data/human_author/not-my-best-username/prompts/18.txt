@@ -1,1 +1,0 @@
-Give me a Full Name, Age, and Occupation.

@@ -1,6 +1,0 @@
-human
-human
-gpt
-gpt
-gpt
-human

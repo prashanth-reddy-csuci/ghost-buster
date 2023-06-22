@@ -1,1 +1,0 @@
-Encryption scrambles information, such as a credit card number, while in transit so that it can be read only by the intended recipient using a password or a software "key."

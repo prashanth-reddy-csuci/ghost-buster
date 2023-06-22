@@ -1,1 +1,0 @@
-Part of the debate revolves around the definition of key recovery. The alliance said key recovery should consist of products which allow the government to decode stored communications, such as an E-mail message saved on a computer hard drive. But products should not be required to allow government decoding of real-time communications.

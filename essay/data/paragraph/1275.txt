@@ -1,1 +1,0 @@
-The accuracy of these numbers is good. They are all within 30% of the value found theoretically.

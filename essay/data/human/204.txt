@@ -1,9 +1,0 @@
-For sample 1 the lattice type was face-centred cubic and the lattice parameter was found to be
-However it was not possible to identify the sample due to the fact that the lattice parameter was higher than the agreed value and so the true match did not appear in the list of possible substances in the ASTM index. When the ranges of as1 were increased to include the accepted value, the list of possible matches became too great to narrow down, even using other parameters such as colour and intensity patterns.
-For sample 2 the lattice type was simple cubic and the lattice parameter was found to be
-which is in agreement with the accepted value.
-The sample was identified as sodium chlorate with the three lines of greatest intensity at
-By analysis of high scattering angles, a more accurate value for a was obtained:
-This result contained a considerably smaller error of 0.037%
-For the mixed sample the lattice parameter was
-The line connecting the two known lattice parameters crossed the error bounds for this point and hence confirmed Vegard's Law.

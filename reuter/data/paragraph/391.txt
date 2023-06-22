@@ -1,1 +1,0 @@
-The final rules also changed a definition of key recovery from one that only applied to government agents to a more general definition which includes private individuals. The rules now say key recovery applies to any agent "designated by the user to store and recover encryption keys."

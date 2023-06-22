@@ -1,1 +1,0 @@
-What is Stokes drift and how does it differ from wind-driven currents? How can computer programming be used to model and analyze the movement of water masses in the ocean, and what insights can be gained from these models? How does the amplitude of the wave field affect the total drift of water and how does this relate to the wind-driven component of drift?

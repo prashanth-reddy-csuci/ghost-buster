@@ -1,1 +1,0 @@
-Assumption made during the experiment will significantly affect the results obtained. Therefore reasonable care should be taken to assure that those assumption made is justifiable and will not introduce a huge error to the experiment.

@@ -1,1 +1,0 @@
-This means that the bridge is balanced. The ability to do this makes it considerably easier to measure small changes in voltage output, V

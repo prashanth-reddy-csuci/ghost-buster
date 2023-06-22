@@ -1,23 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <title>AI Classification</title>
-  <link rel="stylesheet" href="styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Website</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    integrity="sha512-qxQDR2AAwgyHb3Or3ft+YcX98fATvM+mzcuLz6i+PqQNC9Sx3YXPcqEJikwOroC3UnZ8fg6d+cVU1yj9tgM0CQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css"
+    integrity="sha512-Nw45q04xNmqMdaw0fV5+RJih8kWlDgQr2y5ek+U+5ZvCcbEx+KQIXzXAB6Eemjpxd/F6akzNj7K+n4MdxSk0qg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.min.css"
+    integrity="sha512-v1VchUfYgj2nR2dsjrML/TSWAPc39hBWsK9WbROaOSNf5Yp51B11XZ2iQ6oM7xFcO3V5bfECVviXGf4dPd+2Vw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
-  <header>
-    <h1>AI Classification</h1>
-    <p>Enter a document to classify if it's AI-generated or not.</p>
-  </header>
-  <main>
-    <form id="classification-form">
-      <label for="document-input">Enter Document:</label>
-      <textarea id="document-input" rows="10" cols="50" required></textarea>
-      <button type="submit">Classify</button>
-    </form>
-    <div id="result" class="hidden"></div>
-  </main>
-  <script src="script.js"></script>
+
+  <div class="container py-5">
+    <div class="row justify-content-center">
+      <div class="col-lg-6">
+        <div class="card shadow">
+          <div class="card-body">
+            <h1 class="card-title mb-4">Welcome to our Website</h1>
+            <div class="mb-3">
+              <label for="inputText" class="form-label">Enter some text:</label>
+              <input type="text" class="form-control" id="inputText" placeholder="Type something...">
+            </div>
+            <button type="button" class="btn btn-primary">Submit</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.0/js/bootstrap.bundle.min.js"
+    integrity="sha512-PtOiLpjT8hC/RJLVUJjguZzLAlF/xOWgU41Ig7Wk9O6DAdZI1vi+/aU+O3aYtjHjcvLwP6vjFh/kNdi0lK6ibw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.umd.min.js"
+    integrity="sha512-Dy19k7N8tt9Oa5RRZ0NO24lTXn2jMElAOTWYY4hGSa9lqgHtV+eI0txmKn3YpSEjs/hpms5QnFdXAxGQrGMxKQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
+
 </html>

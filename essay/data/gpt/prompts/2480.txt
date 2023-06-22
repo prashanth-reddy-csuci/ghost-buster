@@ -1,1 +1,0 @@
-What were the aims and methods used in an experiment to understand the properties of a 3-phase induction motor as both a motor and generator under stand-alone and grid-connected environments?

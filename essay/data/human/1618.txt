@@ -1,6 +1,0 @@
-This program is made up of 3 functions: ExecuteCommandLine, main and  NumberSpace.
-We can see above that the compilation has no error. There is only one file, so no '.o' file are created.
-In this following printout, we can see several tests in several cases.
-In this example several command line are entered until the user has entered 'exit'.
-Expected results are similar than the results which are obtained. The user can enter commands line with any arguments necessary. He can do that until he enters 'exit'. The command line is executed by an child process and the parent process wait for the end of the child process. If an error has occurred, then child process returns a special integer (2) and then the parent process inform the user about this error.
-The system function fork(), wait() and exec() allow to a process to delegate some tasks to another process (its child process). While the child process executes, the parent process can wait its child process or do another task. It can be very useful when a program has to execute the same task several times. For example, if a program has to execute a task (which can be a program execution) 4 times, it can create 4 child process which will execute this task in the same time (parallel execution).

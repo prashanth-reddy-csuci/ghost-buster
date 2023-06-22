@@ -1,1 +1,0 @@
-1. To experimentally determine the moment of inertia of three steel discs accurately.  2. To compare experimental results to theoretically derived values.  3. To assess the accuracy of the results and identify sources of errors.

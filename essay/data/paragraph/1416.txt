@@ -1,1 +1,0 @@
-Other losses (i.e. air in the pipe) will influence the flow rate of the water in the pipe (Table 1), which cannot be accurately accounted for.

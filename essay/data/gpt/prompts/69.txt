@@ -1,1 +1,0 @@
-How was the torque sensor designed and what circuit was used for measuring changes in resistance of strain gauges?

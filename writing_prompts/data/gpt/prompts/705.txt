@@ -1,1 +1,0 @@
-You've created the first functional AI, and as it's first task you told it to select it's own name. The answer was a lot more unnerving than you thought it'd be.

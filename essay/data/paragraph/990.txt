@@ -1,1 +1,0 @@
-This shows that there is a linear variation between the output and the variation of resistance of the strain gauges.

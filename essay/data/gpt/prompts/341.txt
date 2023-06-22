@@ -1,1 +1,0 @@
-How do two Binary Search algorithms differ in their performance, and how can this be empirically tested through a number-guessing task?

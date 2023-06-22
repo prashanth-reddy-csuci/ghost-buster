@@ -1,4 +1,0 @@
-From 5.7011266
-Ġbasic 9.520593
-Ġmotion 8.888145
-Ġequations 8.504586

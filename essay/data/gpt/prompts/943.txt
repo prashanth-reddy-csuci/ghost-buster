@@ -1,1 +1,0 @@
-What is the process for modulating a carrier signal using an analogue multiplier, and what is the role of DSB/SC and pilot tones in the transmission of the signal? How can the noise figure of a cascaded amplifier system be optimized by arranging the filters in a specific order?

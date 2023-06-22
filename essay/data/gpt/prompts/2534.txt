@@ -1,1 +1,0 @@
-How has the evolutionary algorithm methodology been applied to molecular control, specifically in the use of femtosecond laser pulse shaping and optimal quantum control? Describe the fundamentals of evolutionary algorithms and their application in adaptive femtosecond pulse shaping and optimal quantum control.

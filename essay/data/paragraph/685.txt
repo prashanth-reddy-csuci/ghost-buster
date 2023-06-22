@@ -1,1 +1,0 @@
-A Bonferroni post-hoc test was performed which showed that the mean scores for background noise in general were significantly lower than the mean score for no noise, and that the mean score for related words was significantly lower than the mean score for unrelated noise.

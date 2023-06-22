@@ -1,4 +1,0 @@
-human
-gpt
-gpt
-human

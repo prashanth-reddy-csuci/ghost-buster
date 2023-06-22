@@ -1,1 +1,0 @@
-What is the objective of the video game Thus, and how can a program be used to discover the best way to collect objects within the game? How does the execution time of the algorithm vary based on the distribution of elements within the set, and what is a common application of sets within programs? Provide an example.

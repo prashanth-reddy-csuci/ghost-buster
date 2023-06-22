@@ -1,4 +1,0 @@
-This report presents the result of usability test of  which was conducted in December 2006 and the beginning of January 2007.
-The study investigates how usable the web service is with the strong focus on customer satisfaction. The intention is to provide the Carphone Warehouse with information how to improve their web site to make it more usable.
-The test has been conducted using Heuristic Evaluation Method on the public version of the web site.
-The test pointed out several problems which have been classified into 3 groups in descending order of importance:

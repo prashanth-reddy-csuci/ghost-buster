@@ -1,1 +1,0 @@
-What steps were taken to create an application that allows the user to open and display images and change the background color of the form? What challenges were faced during the development process and how were they addressed? What improvements could be made to the application?

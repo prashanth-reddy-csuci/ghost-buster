@@ -1,1 +1,0 @@
-What was the method used to find the moment of inertia of three metal discs of different sizes during a laboratory session? Explain the theory used for the calculations and how the graphs were used to fit the values derived into the equation. Also, discuss the results obtained and the possible errors.

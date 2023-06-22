@@ -1,1 +1,0 @@
-The conclusions drawn will refer to the moments of inertia calculated from experimental results and the accuracy of those results in comparison to those calculated using mechanics theory.

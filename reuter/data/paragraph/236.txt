@@ -1,1 +1,0 @@
-The vulnerability of government and corporate web sites is an increasing problem. Some companies are now having to hire people to monitor their sites for break-ins and ensure that their networks remain safe. Security experts blame software flaws and poor security practices - such as using easily guessed codes for network passwords - for the daily problems.

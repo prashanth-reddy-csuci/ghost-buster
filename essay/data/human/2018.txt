@@ -1,9 +1,0 @@
-In this exercise our main purpose was to extract, purify and characterize eugenol. This was done by completing the following steps:
-The exercise was completed after closely following the instructions from the Laboratory handout without any alterations, except one. When using the gas chromatography technique, we changed the solvent from iso-hexane to hexane.
-An error that has altered our results when determining the percentage of Eugenol in the cloves is that from the 20.0069 g of sample that was weighed, a very small amount could not be transferred into the distillation flask. Therefore, the result obtained (8.25%) is lower than the real value for Eugenol in the sample.
-It is known that freshly dried cloves contain about 14% of Eugenol. Our result value was far smaller than that, and this can be contributed to the fact that the cloves were not freshly dried, and had probably lost some of their aromatic character (by exposure to air).
-As for the result for the Refractive Index, we have a decline from the result that was from the standard solution and this can be contributed to a possible uncompleted evaporation of solvent using the rotary evaporator.
-The index of refraction normally decreases as the temperature increases for a liquid. For many organic liquids the index of refraction decreases by approximately 0.0005 for every 1 C increase in temperature. Common errors with refractometer measurements include failing to calibrate with distilled water and not making the necessary temperature corrections.
-The chemical Test confirmed that our product is a phenol. This was obvious from the blue color that was formed.
-The infrared spectrum confirmed the phenol structure, and the results from the gas chromatography have also confirmed that our sample is composed only by Eugenol.
-Limitations due to the uncertainty of the instruments also exist but we consider them as not significant when doing our calculations.

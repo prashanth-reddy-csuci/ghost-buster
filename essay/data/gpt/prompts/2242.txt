@@ -1,1 +1,0 @@
-What is the Izhikevich Neuron model and its advantages? How did the author approach developing a simulator for a theoretical board capable of running Izhikevich type neurons, and what were some of the challenges faced during development? What are some potential future enhancements for the simulator, and what lessons did the author learn from working on this project?

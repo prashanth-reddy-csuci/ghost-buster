@@ -1,1 +1,0 @@
-What is the design and calibration process for a measuring system used to quantify forces applied to a cantilever beam?

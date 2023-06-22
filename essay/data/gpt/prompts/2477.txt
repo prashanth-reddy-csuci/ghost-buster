@@ -1,1 +1,0 @@
-Write a prompt that directs the reader to translate pseudo-code into a 'C' program, test it with specific inputs, and identify any potential issues with the implementation.

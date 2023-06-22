@@ -1,1 +1,0 @@
-What is the MMX force field and how is it used to calculate the enthalpy of formation of cyclic hydrocarbons? What is its accuracy compared to experimental results and quantum mechanical methods? What are the limitations of using the MMX force field and what are the implications for using it to calculate the enthalpy of formation of more complex systems?

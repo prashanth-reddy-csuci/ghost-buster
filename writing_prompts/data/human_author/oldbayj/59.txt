@@ -1,6 +1,0 @@
-#Welcome to the Poetry Corner
-
-- Top level comments are for poems only. Low-effort poems and stories will 
-  be removed.
-- Use this comment to chat about poetry, make theme suggestions, or ask 
-  questions.

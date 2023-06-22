@@ -1,1 +1,0 @@
-What is the purpose of this coursework and what is required for completion? How are binary trees used in this project, and what functions do they serve? What methods can be used to traverse the tree and what are their benefits? Additionally, what is the bonus requirement for the project, and how is it achieved?

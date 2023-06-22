@@ -1,1 +1,0 @@
-to be represented by a trigonometric series, it is necessary and sufficient that the function be periodic and integrable over one period. Discuss the significance of Dirichlet's theorem for the study of trigonometric series.

@@ -1,1 +1,0 @@
-What was the procedure for controlling two 7-segment LED displays to display a count when specific switches were pressed, and how did this lab improve the author's knowledge of coding and the M16 development board?

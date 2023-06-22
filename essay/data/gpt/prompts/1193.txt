@@ -1,1 +1,0 @@
-What methods were used to determine the true current flowing in the circuit shown in figure 1 on the handout, and what were the results of these methods? What issues were identified with the original circuit design, and how were these issues addressed?

@@ -1,1 +1,0 @@
-In the near future where every thing is automated, creating CAPTCHAs and their correct answers also become automated. Now, only robots can solve CAPTCHAs and no humans can

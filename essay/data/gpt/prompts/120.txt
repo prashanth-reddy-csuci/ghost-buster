@@ -1,1 +1,0 @@
-Explain the process of designing and manufacturing consumer products using the example of the Nokia 6100 cellular phone. Include the importance of Computer Aided Design (CAD) and Computer Aided Manufacture (CAM), rapid prototyping techniques, analytical results from Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA), and the use of multi cavity moulds.

@@ -1,1 +1,0 @@
-What parameters affect the performance of microneedle arrays and how can computer aided analysis be used to determine the optimal design?

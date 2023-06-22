@@ -1,1 +1,0 @@
-What is Currency Substitution (CS) and how has it been tested empirically in developing countries? Using Argentina as a case study, this paper examines the presence of CS using a VEC model and cointegration analysis. The paper also discusses the demand for money equation in open economies and the implications of the CS phenomenon for monetary policy.

@@ -1,9 +1,0 @@
-Ant 8.447989
-ib 4.0562057
-iotic 0.7827688
-Ġsensitivity 6.0466604
-Ġin 3.076345
-Ġtranscription 12.892525
-Ġand 4.473527
-Ġtranslation 2.1973224
-1 6.869461

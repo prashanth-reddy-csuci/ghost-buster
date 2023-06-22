@@ -1,1 +1,0 @@
-What is the purpose of this laboratory and how was MATLAB used to analyze data from an experiment investigating lateral and longitudinal forces on road tyres? What methods were used to produce suitable visualizations of the data and what patterns were discovered through analysis of the graphs produced using MATLAB?

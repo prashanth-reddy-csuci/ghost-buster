@@ -1,1 +1,0 @@
-What problem is being solved in this coursework and how is a LIFO stack being used to solve it? Additionally, how should the maze be modeled and why?

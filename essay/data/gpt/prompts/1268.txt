@@ -1,1 +1,0 @@
-What are the methods for calculating the natural frequencies of a restrained plate and how does the matrix density affect the results?

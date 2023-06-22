@@ -1,5 +1,0 @@
-If you start a search in Google's address bar with 
-
-`site:https://www.reddit.com/r/WritingPrompts/`
-
-followed by a space and then add your search terms, Google will only return results from this subreddit. If that gives you too many results, put quotation marks around the most important search terms, which will make Google only show results containing that word.

@@ -1,1 +1,0 @@
-Once this test-rig was set up, it had been proposed that the rig was instrumented so that an automatic measurement of the torsion could be given.

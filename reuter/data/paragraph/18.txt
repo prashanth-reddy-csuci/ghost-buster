@@ -1,1 +1,0 @@
-For example, the Post Office is working with developers to write programs in the Java programming language to access rate and delivery information over the Internet.

@@ -1,1 +1,0 @@
-What is the best type of discrete controller to use for a First Order Plus Dead Time (FOPDT) system? Compare the performance of theoretically designed proportional-only, PID, and Dahlin controllers with simulated outputs to determine which controller produces the most accurate and efficient results.

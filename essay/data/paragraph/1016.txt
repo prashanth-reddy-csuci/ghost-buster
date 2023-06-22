@@ -1,1 +1,0 @@
-From the above information, one can completed the performance comparison table in Appendix A. For the missing data such as torque of racing engine, estimates and assumptions were made and detailed as follows:  Formula: torque ≈ 500 lb-ft  Rally: torque ≈ 400 lb-ft  Sports: torque ≈500 lb-ft  Motorcycle: torque ≈ 150 lb-ft

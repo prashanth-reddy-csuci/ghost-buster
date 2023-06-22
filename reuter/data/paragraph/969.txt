@@ -1,1 +1,0 @@
-Currently, the internet relies on the use of Internet Protocol version 4 (IPv4) addresses, which have a finite number and are quickly running out. The new proposal calls for the adoption of IPv6 addresses, which would create trillions upon trillions of new addresses, ensuring the continued growth of the internet.

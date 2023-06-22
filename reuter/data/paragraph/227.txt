@@ -1,1 +1,0 @@
-The draft rules implement an executive order signed by President Bill Clinton last month. Under the order, limits on export of products containing strong encryption would be eased if the products allowed the government to decode encrypted messages by recovering the keys.

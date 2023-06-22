@@ -1,7 +1,0 @@
-Similar hint on formatting-if you want to indent, use several "&amp;nbsp;" (HTML non-breaking space) characters.
-
-This line is not indented.
-
-&nbsp;&nbsp;&nbsp;&nbsp;This line is indented by prefixing by 4 non-breaking spaces.
-
-Hope that helps.

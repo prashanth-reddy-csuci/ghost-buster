@@ -1,1 +1,0 @@
-You are an NPC in an RPG. Normally, your attack is set to 1. However, a player used a cursed item on you, reducing your attack by 2, causing it to underflow, making you the most powerful in the game.

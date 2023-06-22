@@ -1,1 +1,0 @@
-The guidelines suggest that encryption users should have "access to cryptography that meets their needs."  Government controls should be "no more than are essential to the discharge of government responsibilities."

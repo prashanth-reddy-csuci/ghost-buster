@@ -1,1 +1,0 @@
-Fluctuations in the turbines frequency would mean the unit has to be electronically controlled when switching on or off, either by gradually introducing it to the Grid at each switch-on to synchronise the generator, using pulse-width modulation, or rectifying the AC, variable-frequency current to DC and then inverting it to AC at 50Hz.

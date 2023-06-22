@@ -1,1 +1,0 @@
-An uninoculated flask containing 5ml of LB was used to blank the spectrophotometer at 550nm.

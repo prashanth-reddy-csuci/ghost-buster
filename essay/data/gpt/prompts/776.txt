@@ -1,1 +1,0 @@
-What are the basic requirements needed in a torque measurement system and how can these be addressed through the design of a torque sensor measurement system?

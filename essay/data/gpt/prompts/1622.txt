@@ -1,1 +1,0 @@
-What are the potential issues with the auction system program described in the essay, particularly in regards to the reliability of servers? Can a real world system like ebay.com stay alive if one of the servers dies?

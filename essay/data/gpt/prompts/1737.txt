@@ -1,1 +1,0 @@
-What factors were considered in the design of a hash table for a specific plant online catalogue, and why was it chosen over an AVL tree for this application?

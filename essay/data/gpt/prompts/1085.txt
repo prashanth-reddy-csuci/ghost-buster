@@ -1,1 +1,0 @@
-What is the process for calculating the magnitude of the magnetic field around a wire using the Amp Set integration path and the Biot-Savart Law?

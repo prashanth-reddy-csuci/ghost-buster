@@ -1,1 +1,0 @@
-What is the design for a system that measures the surface texture of a given material sample, and how does it work? Discuss the components of the system, including the stylus pick-up system, laser interferometer, optical reader, and displacement sensor, as well as the equations and considerations involved in ensuring accuracy and sensitivity.

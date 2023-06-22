@@ -1,1 +1,0 @@
-The draft "encryption guidelines" stop short of recommending governments impose restrictions on the development and use of cryptography, which scrambles electronic data to protect it from interception.

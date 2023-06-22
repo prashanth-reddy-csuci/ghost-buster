@@ -1,1 +1,0 @@
-The resistance of a conductor (strain gauge element) is given by the equation R = ρL/A where R is the resistance; ρ is the resistivity; L is the length and A is the cross sectional area of the element.

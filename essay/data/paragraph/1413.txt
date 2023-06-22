@@ -1,1 +1,0 @@
-Increasing the effective cross-sectional area of the pipe (from 4 to 5 inch) will increase its flow rate by a factor of 0.4.
