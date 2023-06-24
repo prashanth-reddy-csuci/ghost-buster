@@ -1,0 +1,15 @@
+French Telecoms Minister Grants Operating Licence to State-owned Railroads Group  
+
+The French Minister for Digital Affairs and Communications, Cédric O, today announced that he has granted an operating licence in the telecommunications sector to SNCF, the state-owned operator of rail service in France. The move is aimed at enabling SNCF to provide broadband internet services on high-speed trains across France.
+
+In a press conference in Paris, Minister O said "Granting an operating licence to SNCF is a natural extension of their role as operators of critical infrastructure. It will allow them to provide fast and reliable internet connectivity to customers on TGV and intercity trains, improving the overall travel experience. This is part of the government's wider strategy to foster investment in next-generation networks across France."
+
+The operating licence will allow SNCF to build dedicated mobile connectivity systems along train lines and in railway stations to provide uninterrupted 4G and wi-fi internet access to passengers. SNCF has partnered with cellular network operators Orange and SFR to access their mobile networks for the required connectivity in between stations. 
+
+Eric Denis, Director of SNCF's digital division commented "This new licence allows us to bring our customers the connectivity they need throughout their journey with us. Our goal is for a passenger to be able to board a train in one city, enjoy seamless internet access along the way, and disembark in another city without interruption."
+
+SNCF plans to roll out broadband connectivity on high-speed TGV lines first, starting with the busiest routes in northern France. Connectivity is expected to expand to major intercity routes over the following two years. Passengers will have access to the service for free to start, though SNCF may charge a small fee in future depending on data usage rates.
+
+The move follows the French government's wider agenda to promote next-generation mobile and internet networks, including ruling that all new mobile devices sold in France must be compatible with 4G networks from 2021. While France's network coverage still lags some European neighbours, investments in recent 5G and fibre rollouts aim to close the gap.  
+
+Granting an operating licence to the state-owned SNCF is a pragmatic solution but may raise questions around competition. SNCF dominates rail travel in France, and some critics argue its expansion into telecoms could discourage other operators. However, with this licence limited to providing connectivity on SNCF train lines, the direct impact on other telecoms firms may be limited. Overall, the new service is set to provide benefits to SNCF's customers and support the government's digital ambitions, but its competitive implications will remain a closely watched issue.

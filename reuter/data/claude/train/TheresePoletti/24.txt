@@ -1,0 +1,21 @@
+IBM Unveils New Partnerships While Prioritizing the "Old Fashioned" Way of Making Money 
+
+IBM today announced new partnerships and collaborations focused on hybrid cloud computing and AI, but company executives emphasized that IBM's priority remains on generating revenue and profits through traditional enterprise technology and services.
+
+Speaking at IBM's Think conference, CEO Arvind Krishna said "while we are actively pursuing growth in new areas like hybrid cloud and AI, the majority of IBM's revenue and profit still comes from our core business helping enterprises digitally transform with innovative software and services." Krishna pointed out that IBM's software and services generate over $50 billion in revenue and the vast majority of the company's profits.
+
+The new partnerships highlighted at Think 2022 aim to advance IBM's hybrid cloud and AI ambitions, including:
+
+•A new collaboration with Amazon Web Services to make it easier for customers to run IBM software on AWS and use AWS services on Red Hat OpenShift, IBM's popular enterprise Kubernetes platform. The partnership expands on IBM and AWS's existing relationship.
+
+•An expanded partnership with Cisco to provide more integrated networking, security and management for hybrid cloud deployments that span on-premises and multicloud environments. The joint solution will leverage Red Hat OpenShift and Cisco Intersight.
+
+•New integrations between IBM Cloud Pak for Data and Microsoft Azure IoT, Dynamics 365 and Power BI to help enterprises unlock value from edge devices and gain insights into business operations.
+
+•A new IBM Sterling Supply Chain suite running on Red Hat OpenShift to provide AI-powered multifunction supply chain services in a single development and run-time environment.
+
+While announcing these partnerships, Krishna and other IBM executives frequently returned to discussions of IBM's focus on revenue and profit growth through its existing software, services and solutions portfolio which helps enterprises digitally transform their business. "Partnerships are meant to enhance our hybrid cloud and AI portfolio, not replace our core business," said Krishna.
+
+Analysts noted the tricky balance IBM faces. "IBM's pivot to areas like hybrid cloud and AI is promising, but revenue and profits remain highly dependent on existing software and services" said Sid Sijbrandij, analyst at research firm G2B Insights. "IBM needs to walk the tightrope between investing in new growth engines while maximizing profits from its core business."
+
+The emphasis on IBM's "traditional" profit formula reflects the reality of its financials. For the 2021 fiscal year, IBM reported over $57 billion in revenue from its software and consulting segments. While revenue from cloud computing and data platforms is growing quickly, the majority of IBM's sales and virtually all of its profits still come from its foundational enterprise IT franchise.

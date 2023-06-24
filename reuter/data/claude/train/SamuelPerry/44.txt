@@ -1,0 +1,15 @@
+Netscape Expects to Hold Onto Market Share in Growing Internet and Intranet Market, Critical Approval for New Communicator Software 
+
+Netscape Communications Corp. announced today that it expects to maintain its market share in the growing Internet software market with the release of the latest version of its flagship product, Netscape Navigator. The new Communicator 4.0 software suite, which includes the Navigator browser along with other collaboration tools, has been positively received by industry analysts and early adopters. 
+
+"With this latest release, Netscape has clearly signaled that it intends to remain the market leader in Internet software and services," said John Zalewski, lead analyst at Forrester Research. "The innovation in Communicator 4.0, especially around personalization, email management, and security, will resonate strongly with both individuals and enterprises.”
+
+The Internet software market has been hotly contested in recent years with the entry of Microsoft's Internet Explorer browser, which is included for free within the Windows operating system. Netscape held over 70% market share in 1995 but has seen declines since the introduction of Internet Explorer. However, worldwide Internet usage and the growth of corporate intranets have also expanded the overall size of the Internet software market. 
+
+“While market share numbers will continue to vary over the short term, the long term opportunity for Internet software and services remains robust,” said Jim Barksdale, CEO of Netscape. “With over 100 million Internet users and millions of intranet sites worldwide relying on our products and services, Netscape remains focused on innovations that enhance the online experience for individuals and within companies.”
+
+The key enhancements in Communicator 4.0 include a "personalWeb" feature that learns the interests and preferences of individuals to provide a customized view of Internet content and cobranded services, increased options for managing and filtering email, improved integration with leading desktop and server software, and stronger security features to enable safe electronic commerce and other online activities. The software will also provide a platform for corporate intranets offering group scheduling, project management, and knowledge management tools.
+
+Early reviews from beta testers and analysts have been positive. "Netscape has included many of the capabilities my firm had requested to effectively deploy intranets for internal communication and collaboration," said Lee Johnson, IT director at Chicago-based consulting firm J.F. Smith Associates. Others praised the increased reliability, compatibility, and customization options.
+
+Netscape stock was up over 3% on the announcement. The company will make the English version of Communicator 4.0 available for download at no charge from August 4th, with versions in other languages following within the year. Netscape expects to remain the market leader in Internet software with over 150 million users of products and services by 2000 based on current growth rates, securing the company's strength in the Internet economy of the next century.

@@ -1,0 +1,11 @@
+Informix Corp. Faces Financial Crunch due to Plunging Sales and Refinancing Needs
+
+Informix Corp., a once high-flying database software maker, is facing a financial crunch due to a sharp drop in sales and the need to refinance hundreds of millions of dollars in debt. The company's sales have plunged nearly 50% over the past year as it has lost ground to larger rivals Oracle Corp. and IBM. 
+
+Informix reported that its revenue for the quarter ending June 30 was $108 million, down from $207 million in the same period last year. The company posted a loss of $231 million for the quarter. While part of the loss was due to a $195 million write-down of assets, the company’s operating loss still totaled $36 million compared to an operating profit of $11 million a year ago.
+
+The poor results have alarmed investors and analysts. Informix’s stock price has dropped over 80% in the past year, closing yesterday at $2.81 per share. “Informix is in a very difficult position right now with declining sales, big losses, and a need to refinance debt. Investors have lost confidence in the company’s turnaround plans, and time is running out,” said John Smith, a software analyst at BigBank Securities.
+
+Informix faces significant hurdles in the coming months. The company needs to refinance $350 million in junk bonds that come due in December. With its stock price languishing, raising money in the equity market would lead to massive dilution of existing shareholders. The company also needs to renegotiate a $50 million loan covenant with lenders that could be triggered if its stock price stays below $5 per share.
+
+CEO Bob Jones acknowledged the company's challenges but said that Informix still has a chance to recover with an upcoming restructuring plan. “We have to resize the company to align with current revenue levels, cut more costs, and stabilize sales declines. If we implement these changes aggressively, I believe we can turn this company around, reassure creditors, and reestablish growth,” said Jones. However, with its financial situation precarious, Informix appears to have its back against the wall with few good options. Barring a dramatic turn of events, the outlook looks grim for the once pioneering database software company.

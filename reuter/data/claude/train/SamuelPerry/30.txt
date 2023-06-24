@@ -1,0 +1,13 @@
+Netscape Unveils New Software Allowing Personalized Information Anywhere on Computer Network
+
+Netscape Communications Corp. today announced new software allowing people to receive personalized information anywhere on the Internet computer network. The software, called Navigator 2.0, provides a range of features for customizing how individuals view and navigate the Internet's World Wide Web. 
+
+Using the new Navigator, people can designate specific areas of interest on the Web and then automatically receive updates whenever new information in those areas becomes available. For example, users interested in a particular sports team, entertainment celebrity or news topic can be alerted as soon as related Web sites are updated or new sites become available.
+
+Navigator 2.0 also allows people to customize the appearance and content of their Web access software through the use of "smart bookmarks" and downloadable icons and backgrounds. Smart bookmarks automatically check designated Web sites and alert the user whenever updated content is posted. Downloadable enhancements allow users to change the look and feel of their Navigator software interface.
+
+In addition, the new Navigator enables people to preview Web sites before actually linking to them. By displaying an image of a Web site's home page, users can see at a glance if the site's content is of interest before launching a full connection. Navigator 2.0 also speeds Web access through more efficient handling of data compression, caching and transmission. 
+
+According to James Barksdale, Netscape president and CEO, the features of the new Navigator are aimed at making the Web a more personal experience for every individual user. "Navigator 2.0 puts people in control of the Internet by enabling them to tailor their Internet access to best suit their own interests and needs," said Barksdale. "By providing a range of tools for customizing and accelerating access to the Web, we are helping to fulfill the potential of the Internet to become a personal daily resource for every consumer and business."
+
+The company said the Navigator 2.0 software is available for Microsoft Windows, Apple Macintosh and Microsoft Windows NT platforms. Netscape is based in Mountain View, California. The company's stock price on Wall Street has nearly tripled since its initial public offering in August, reflecting strong demand for Internet-related technologies and the company's rapid growth.

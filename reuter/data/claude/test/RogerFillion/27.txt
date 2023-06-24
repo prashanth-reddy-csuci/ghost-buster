@@ -1,0 +1,13 @@
+Regulators Auction Off Slice of Spectrum for Wireless Internet and Local Phone Networks  
+
+The Federal Communications Commission yesterday auctioned off licenses for airwaves to help boost wireless internet access and bring faster local phone networks to more areas of the country. The spectrum auction netted more than $45 billion, exceeding analysts' expectations and demonstrating strong demand for mid-band airwaves that can both penetrate buildings and carry lots of data.
+
+The auction was for a "mid-band" segment of spectrum ideal for 5G wireless connectivity, offering both geographic coverage and the ability to handle large amounts of data. The largest winners were the nation's three biggest cellphone companies—Verizon, AT&T and T-Mobile—which collectively spent more than $37 billion. Several cable companies also won smaller licenses to help build out their own wireless networks. 
+
+"This auction was a key part of our overall 5G FAST plan," said FCC Chairman Ajit Pai, referring to the agency's strategy for allocating more spectrum for 5G wireless technology. "We're now on the cusp of establishing mid-band spectrum as the standard for 5G."
+
+While the results were a win for major telecom companies seeking more bandwidth for wireless connectivity, they also raised concerns about competition and access. Some small regional carriers and advocacy groups had lobbied for rules that would set aside certain licenses for companies outside the dominant carriers. But the FCC opted for an open auction, and smaller players ended up with just $8.6 billion worth of licenses, around 20% of the total. 
+
+Consumer advocates expressed worry that the concentration of key 5G airwaves could lead to higher prices and slower innovation. But telecom companies have pledged to use the new spectrum to improve wireless connectivity across broad swaths of the country, both in smaller towns and cities as well as commercial corridors from restaurants to manufacturing facilities. 
+
+The licenses cover several chunks of spectrum between 3.4 and 4.2 gigahertz, which will provide faster speeds and lower latency for 5G networks compared with both today's 4G systems and higher-frequency millimeter-wave bands. The telecom giants that won big in the FCC auction will pay out over the next 10 years for the licenses, which are expected to drive more intensive competition and new services around improved mobile connectivity.

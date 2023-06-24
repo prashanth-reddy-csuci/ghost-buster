@@ -1,0 +1,1 @@
+Under current laws, U.S. companies are limited to exporting encryption technology with key strengths of up to 64 bits. This is significantly weaker than the 128-bit encryption key strength allowed by many other countries, making U.S. encryption technology less competitive in the global market.

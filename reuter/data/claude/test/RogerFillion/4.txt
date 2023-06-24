@@ -1,0 +1,15 @@
+Regulators Approve Auction of Licenses for Nationwide Radio Services via Satellite with CD-Quality Reception
+
+The Federal Communications Commission today approved plans to auction radio spectrum in a move that could expand the reach of satellite radio services like SiriusXM. The auction, set to begin next year, will offer licenses for a nationwide radio service delivering CD-quality programming directly to vehicles, homes and portable devices via satellite.   
+
+The FCC voted unanimously to open up portions of the S-band spectrum, between 2 GHz and 4 GHz, for the new satellite radio services. The licenses will allow the winning bidders to provide radio services across the continental U.S., Hawaii, Puerto Rico and the U.S. Virgin Islands. FCC Chairman Ajit Pai said the auction will unleash more competition and benefit consumers with more choice, lower prices and higher quality.
+
+“Today, Americans can choose between two satellite radio providers—SiriusXM and a new entrant called RealNetworks. While competition is better than a monopoly, two competitors is not enough,” Pai said. “By making available nationwide licenses for satellite radio, we hope to attract more entrants into the market. And more competition means more innovation, lower prices, and higher quality service—all of which benefits the American people.”
+
+The satellite radio spectrum has been largely dominated by SiriusXM, which has over 34 million subscribers in North America. The company broadcasts a range of music, sports, talk, news and comedy channels. RealNetworks launched satellite radio services in 2018 but has not gained as much traction. The FCC hopes by opening up more spectrum, additional companies will enter the market to compete with the existing players.
+
+Consumer advocates also praised the FCC’s decision, saying more competition in the satellite radio market will spur investment in next-generation radio technology and more choice for listeners. “This is an important step toward enabling the delivery of digital radio services and giving consumers more listening options via satellite,” said Lynn Follansbee of Consumer Reports. 
+
+The licenses will be available for commercial radio services on a nationwide basis, though winning bidders will have to build and launch satellites to utilize the spectrum. The FCC said it expects bidding on the new licenses to begin in mid-2021, though the timetable could shift. The licenses will have 15-year terms once the spectrum is put into use.
+
+The auction is part of the FCC's broader push to free up more spectrum for 5G and other wireless services. The agency has been working to clear and reallocate spectrum in the mid-band range that is usable for both satellite and terrestrial wireless communications. Opening up this "middle mile" of spectrum is seen as crucial to support the fast, ultra-low latency services promised with 5G technology.

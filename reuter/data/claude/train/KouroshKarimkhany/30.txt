@@ -1,0 +1,13 @@
+Apple Acquires NeXT Software for $400 Million, Reunites with Co-Founder Steve Jobs  
+
+In a stunning move, Apple Computer Inc. announced today that it has acquired NeXT Software Inc. for $400 million in cash. The acquisition brings Apple co-founder Steve Jobs back to the company he helped launch but left in 1985 after being ousted from Apple's leadership.
+
+Jobs founded NeXT in 1985 after leaving Apple. NeXT developed an innovative computer workstation and the NeXTStep operating system, advancing object-oriented programming and graphical user interfaces. Though commercially unsuccessful, NeXT software introduced many breakthrough concepts that influenced and shaped modern computing. 
+
+The acquisition of NeXT is the first major move by Apple CEO Gil Amelio to revitalize the struggling computer maker. Apple has reported steep losses and declining market share over recent years in the face of competition from lower-cost PCs running Microsoft’s Windows operating system. In a statement, Amelio said “Apple’s best days are still to come" and that the company “now has a roadmap for restoring its growth and profitability."
+
+Bringing Jobs back into the fold at Apple has already energized employees and developers, though his exact role remains unclear. Jobs will become an Apple board member as part of the deal, but Amelio said “I am still the CEO of Apple and will remain so." Still, the acquisition fuels speculation that Jobs could return as a company executive in some capacity.
+
+NeXT’s advanced software is expected to accelerate Apple’s next generation operating system strategy. Dubbed Rhapsody, the new OS will incorporate powerful software technologies from NeXTStep, including its object-oriented frameworks and development tools. Apple intends to release Rhapsody for both Macintosh and Intel-compatible PCs, marking its first software foray into the dominant Wintel platform.
+
+The NeXT deal delivers a much-needed infusion of talent, technology and optimism to the beleaguered Apple. More than just computers and software, the acquisition brings Apple’s original visionary back to the company he co-founded to steer it into the future once again. For Apple customers and shareholders, the acquisition signals a potential return to the passion and innovation that built the Apple

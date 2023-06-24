@@ -1,0 +1,19 @@
+IBM to Unveil Third Generation of Low-cost Mainframes: Nearly Twice as Fast as Current Models and Highly Anticipated by Customers and Wall Street  
+
+IBM plans to announce its third generation of lower-cost mainframe computers next week, systems that are nearly twice as fast as current models and have been highly anticipated by customers and Wall Street.
+
+The new systems, called the IBM z15, can process twice as many customer transactions as their predecessors and have significantly more security capabilities, IBM said. The systems are designed for large companies that depend on mainframes to run critical applications like banking transactions, insurance claims processing and retail sales operations.
+
+Mainframes remain an important source of sales and profit for IBM despite being six decades old. Revenue from the company's mainframe division grew 63% in the second quarter, helping overall IBM sales increase for the first time in several quarters. But some industry analysts question how long IBM can sustain that growth amid a broader slump in corporate spending on technology.
+
+IBM aims to keep mainframes relevant with advances in fields like artificial intelligence, cybersecurity and blockchain. The z15 has new features for encrypting data as well as detecting cyberattacks and fraud. It also has more capacity for running AI and blockchain software, which many companies are exploring for uses like streamlining transactions.
+
+A base model of the z15 with a typical configuration costs between $700,000 and $1 million. Additional high-end models with more processing power and redundancy for critical operations can cost tens of millions of dollars. Despite the premium price relative to other server options, mainframes remain attractive to large companies because of their reliability, security and scalability. The systems can support huge volumes of transactions and data.   
+
+The latest z15 is expected to fuel another jump in mainframe sales for IBM, building on the success of the first two generations. Revenue from IBM's systems segment, which includes mainframes, rose 63% to $1.75 billion in the second quarter. Systems drove nearly all of the sales growth in IBM's overall technology services and cloud business, which reported $19.2 billion in revenue.    
+
+Some analysts warn IBM faces challenges sustaining that pace of mainframe revenue expansion. Companies have been slowing technology spending during the economic turmoil of the coronavirus pandemic. And some longtime mainframe customers are moving applications to cloud data centers run by rivals like Amazon and Microsoft. 
+
+IBM CEO Arvind Krishna has said the z15 systems have capabilities that will keep “mainframes relevant for the hybrid cloud era.” The systems were designed to integrate and work with Red Hat software, cloud services and other new technologies that IBM has prioritized following its $34 billion acquisition of Red Hat last year.
+
+The z15 launch could provide clues to IBM's ability to navigate the post-pandemic economy and modernize its business model. If sales continue to surge, it will signal that Krishna's strategy to revive growth by focusing on hybrid cloud and AI is resonating with customers. But a slowdown in mainframe demand could stir doubts about the health and longevity of IBM's legacy businesses.

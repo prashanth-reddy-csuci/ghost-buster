@@ -1,0 +1,13 @@
+Microsoft CFO Expects Growth to Slow Over Next Five Quarters Despite "Sizzling" Q3 Results 
+
+Microsoft reported better-than-expected results for the three months ending December 31, with revenue and profit rising due to strong performance in its cloud computing business. However, the tech giant's CFO, Amy Hood, warned investors not to expect the "sizzling' growth to continue at the same pace over the coming year.
+
+Microsoft posted revenue of $36.9 billion, up 12% from a year earlier, and net income of $11.6 billion, up 26%. The results beat analysts' forecasts for both the top and bottom lines. Microsoft's growth has been fueled by its Azure cloud services and Office 365 productivity suite. Sales of those offerings rose 62% and 23% respectively in the quarter.
+
+The strong quarterly results show Microsoft's steady pivot from traditional software to cloud-based subscriptions and services continues to pay off. However, Hood cautioned growth would likely slow over the next few quarters. She forecast second-quarter revenue growth of 10% to 11% for the three months through March, and "mid-single digit" growth for the full fiscal year. 
+
+"While we expect continued strong growth in our commercial cloud business, at some point that growth will normalize to the overall IT spend," Hood said on a conference call with analysts. Hood forecast Azure revenue growth of 67% in the current quarter but said it is "not realistic nor do we expect that extraordinary growth rate to sustain."
+
+The results offered further evidence Microsoft's bets on cloud computing and software as a service have turned it into a formidable competitor to market leader Amazon Web Services. Still, some analysts worry competition is set to intensify, threatening growth. "Competitive pressure from Amazon, Google and others will likely intensify as cloud growth remains the key for the future of technology," said Haris Anwar, analyst at news site Investing.com.
+
+Microsoft shares, which had risen about 50% over the past year, slipped 3% in after-hours trading following the results and outlook. The stock closed at $167.10 on January 29 before the results were released.

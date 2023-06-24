@@ -1,0 +1,15 @@
+Commerce Department Issues Final Export Rules for Computer Encoding Products Despite Industry Criticism
+
+The U.S. Department of Commerce issued final rules today governing the export of powerful computer encoding and decoding technologies that can be used for both civilian and military purposes. The rules place new licensing requirements on the export of certain advanced encryption products and software, requiring companies to obtain government approval before selling them to foreign customers. 
+
+The rules have been in development for over a year and have faced significant criticism from technology companies and industry groups. They argue that the restrictions are too broad, will hamper innovation, and won’t effectively address national security concerns. However, Commerce officials said the final rules were narrowly tailored to target technologies that pose real security risks if obtained by adversarial nations.
+
+“These updated rules address national security needs while balancing the economic competitiveness of U.S. industry,” said Commerce Secretary Carlos Gutierrez in a statement. “They allow for strong encryption to be developed and used to protect sensitive information, while still protecting America's national security interests.”
+
+Specifically, the new rules apply export controls to computer chips, circuits, and software that provide encoding and decoding functions at very high speeds. The Commerce Department can require companies to obtain licenses if the encryption technology meets parameters for "mass market equivalent strength," meaning it has commercial applications but could also be used by foreign militaries or governments.
+
+The rules do provide some exemptions, including for encryption products that are already widely available on the global market. They also don't apply to encryption used by U.S.-based multinational companies to protect their own internal communications. But industry groups argue the rules are misguided, won't stop bad actors from obtaining the technology from other sources, and will only serve to disadvantage American companies in the global market. 
+
+“The policy allows overreach on technologies that are widely used in commercial products and no meaningful threats to national security,” said Jason Oxman, CEO of the Information Technology Industry Council. “These overly broad controls will hamper U.S. innovation, growth, and competitiveness.”
+
+The rules go into effect immediately, though the Commerce Department will allow a grace period of six months for companies to comply with the new licensing requirements. The department has not estimated how much the new rules might impact U.S. businesses, but said it tailored them to minimize economic harm while still achieving national security objectives. The rules are likely to face legal challenges, but administration officials expressed confidence they were firmly grounded and consistent with export control laws.

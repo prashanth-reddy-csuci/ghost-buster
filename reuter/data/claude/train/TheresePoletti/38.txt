@@ -1,0 +1,15 @@
+Sun Microsystems, Industry Leaders to Standardize Popular Java Programming Language with "100 Percent Pure Java" Initiative
+
+Sun Microsystems today announced a major initiative to standardize Java, the popular programming language used by millions of developers worldwide. The "100 Percent Pure Java" program will work to ensure Java code works consistently across all computing platforms and devices. 
+
+Java has become one of the dominant languages for application development due to its "write once, run anywhere" promise. However, as Java has been implemented in various ways across platforms, it has led to compatibility issues for developers. The 100 Percent Pure Java program aims to solve this problem by defining a strict set of standards that Java environments must follow to be fully compliant.
+
+"Java has tremendous potential to become the universal language for network computing," said Sun CEO Scott McNealy. "But to achieve that potential, we need to ensure that a Java program runs identically on any compliant platform. The 100 Percent Pure Java initiative will allow developers to write an application once and deploy it everywhere without modification."
+
+The new standards will apply to all aspects of the Java environment, including the Java programming language, the Java virtual machine, and the Java API libraries. Vendors must pass all required compatibility tests to receive the "100 Percent Pure Java" certification. Sun will provide free testing and certification to reduce barriers for participation.
+
+The initiative is supported by dozens of leading technology companies, including IBM, HP, Oracle, and Cisco. "Industry collaboration has been key to Java's success," said IBM software executive Ian Story. "The 100 Percent Pure Java program will accelerate that collaboration and innovation. IBM fully supports these efforts to strengthen Java's cross-platform promise."
+
+The first release of the 100 Percent Pure Java standards and tests is targeted for early next year. Sun expects rapid adoption, with many vendors announcing 100 Percent Pure Java-compliant products in 2020 and most new Java environments becoming compliant within two years. The program is aimed at business and consumer markets, spanning mobile, desktop and enterprise computing.
+
+With this new standardization effort, Java hopes to cement its status as the first truly universal programming language, fulfilling the ideal of "write once, run anywhere" and powering the next generation of network applications.

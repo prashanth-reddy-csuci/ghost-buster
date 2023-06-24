@@ -1,0 +1,15 @@
+HP Unveils New Products to Simplify Network Management and Reduce Costs 
+
+HP Inc. announced today several new software and services designed to simplify network management, reduce costs, and enable a seamless transition to cloud and mobility. The new offerings include enhancements to HP's Software Defined Networking (SDN) portfolio, new modules for the HP Flex Management platform, and updates to the HP Network Management Center.
+
+"Organizations today have to deal with unpredictable network demands and a complex array of wired and wireless network technologies," said Joanna Nowak, Vice President and General Manager of HP's Network Management Center. "Our latest solutions are designed to eliminate many of the daily hassles of network management, while driving down operational costs.”
+
+The updated HP Network Management Center has a redesigned user interface that provides a customizable dashboard, predictive analytics to help optimize network performance, and tight integration with the HP SDN controller for simplified management of SDN environments. HP says the new interface can reduce network configuration time by up to 75% compared to manual methods. The HP Network Management Center costs $6,995 and includes one year of software updates and support. 
+
+For simplifying daily network tasks, HP announced several new modules for the HP Flex Management toolkit that works with the HP Network Management  Center. The new HP Client Update Manager lets administrators remotely install updates, patches, and manage settings for all wired and wireless devices across the network. The HP Network Optimizer module uses machine learning to analyze the network and make recommendations to improve performance. It can spot potential issues like network congestion before they impact end users. Pricing for the Flex Management modules starts at $2,500.
+
+To provide unified control of physical and virtual network elements, HP updated its SDN product suite. The enhancements include new options for the HP VAN SDN Controller to manage Wi-Fi access points, routers, and switches. The updates also add support for bare metal switches so the controller can connect with non-HP networking equipment. The HP VAN SDN Controller starts at $9,995 for up to 5 devices. 
+
+"With these new software and services, HP is helping to eliminate network complexity so organizations can shift more resources to digital innovation," said Nowak. "We provide solutions that seamlessly connect from the edge of the network into the cloud—managing the holistic mobility and cloud experience.”
+
+The full set of new network management solutions are available now worldwide. More details are available on HP’s website.

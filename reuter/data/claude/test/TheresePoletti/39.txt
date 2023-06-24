@@ -1,0 +1,13 @@
+IBM Introduces Next Generation Mainframe Family With Systems Twice as Fast as Current Models
+
+IBM today announced the newest version of its mainframe computer, the System z15, with significantly faster processing capabilities than its previous generation models. The new systems can run twice as many customer transactions and have three times faster memory than their predecessors.
+
+With its latest release, IBM is showing that the mainframe—a system that has been in use for decades—remains innovative and suited to handle modern computing workloads like mobile banking, insurance claims processing, and retail transactions. The new z15 systems feature faster microprocessors with more than 9 billion transistors, IBM's largest and most advanced mainframe chip. They also have 12 times more memory and three times the data throughput of the z14 models introduced two years ago.  
+
+“The IBM z15 is engineered with insights from the world's largest clients and designed for the hybrid cloud,” said Ross Mauri, General Manager of IBM Z. “Its industry-leading capabilities in security, data privacy, availability and open innovation are unmatched in the industry. The z15 will help clients achieve unprecedented levels of growth, innovation and business performance.”
+
+With up to 85% more performance per core compared to the previous generation, the z15 can run significantly more workloads, including analytics and machine learning, without additional software optimizations. This allows companies to analyze data where it resides on the mainframe and get insights faster—a process known as "in-memory analytics." The z15 also enables "in-the-moment" insights with support for data virtualization, which allows data scientists and analysts to access data stored across the company in disparate sources.  
+
+On the security front, the z15 comes with the industry's fastest quantum-safe encryption, as well as transparent cloud encryption that encrypts all data automatically before it's sent to the cloud. The z15 also enables "pervasive encryption" to encrypt data associated with specific applications, so customers can choose which data they want to encrypt. And the system's data privacy capabilities allow companies to fully anonymize customer data.
+
+Continued...

@@ -1,0 +1,15 @@
+Hewlett-Packard Launches New Servers, Outperform Rivals 
+
+Hewlett-Packard today announced the launch of its latest generation of high-performance servers aimed at large enterprise clients and cloud computing providers. The new ProLiant DL580 and DL360 servers significantly outperform comparable offerings from Dell and IBM, according to benchmark tests performed by HP.
+
+The new servers are built on Intel's latest Xeon Scalable processors, which offer up to 28 cores per CPU and 112 cores per server. The ProLiant DL580 is a four-socket server ideal for databases, business analytics, and virtualization, while the DL360 is a two-socket server suitable for a wide range of business applications.
+
+In a series of tests running complex simulations modeling real-world customer workloads, the new HP servers achieved performance gains of up to 54 percent over Dell PowerEdge servers and up to 38 percent over IBM System x servers, according to HP. The tests measured factors such as transaction rates, response times, and I/O bandwidth.
+
+“Our new Gen10 ProLiant servers provide a significant performance boost over previous generations and the competition,” said Paul Miller, Vice President of Marketing for HP's Enterprise Servers group. “Customers running demanding enterprise applications will see huge benefits in throughput, productivity, and total cost of ownership from these servers.”
+
+HP has incorporated a number of advanced design features into the new servers to optimize performance, scalability, and reliability. They feature a new modular, flexible architecture for managing components such as fans and power supplies. Up to four GPU accelerators can be installed in the DL580 for high-end graphics and deep learning applications. The servers also offer enhanced cybersecurity features such as HP Sure Start to protect against firmware attacks.  
+
+Pricing for the ProLiant DL580 starts at $12,999, while the DL360 starts at $4,999. HP is offering promotional discounts and extended financing terms for customers who trade in older HP or competitive servers for the new models. The servers are available worldwide starting June 15. HP expects them to drive significant sales growth over the next two quarters, especially among hyperscale data center customers.
+
+The new servers are part of HP's broader push to reestablish itself as a leader in the global business computing market. While HP still holds the number one position in worldwide server shipments, competition from Dell and Lenovo has been intensifying in recent years. The latest ProLiant models are aimed at cementing HP's premium position at the high end of the server market where profit margins are largest. With its new Gen10 server platform, HP is betting that industry-leading performance, not just price, will win over enterprise customers.

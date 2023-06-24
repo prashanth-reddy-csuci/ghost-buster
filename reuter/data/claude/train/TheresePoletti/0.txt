@@ -1,0 +1,17 @@
+Netscape and Microsoft Agree Browser Wars are Silly, But Sparks Still Fly 
+
+In a surprise joint press conference today, executives from Netscape Communications and Microsoft announced that the companies have agreed the ongoing "browser wars" between their flagship internet software has been counterproductive and silly. However, tensions clearly still remain as barbed comments were traded during the event.
+
+"We've been fighting over browser market share for years now, and it's really not benefitting our customers or the technology industry as a whole," said Netscape CEO James Barksdale. "There's no reason we can't have a mature, competitive market with multiple options for users."
+
+Microsoft's Bill Gates echoed the sentiments. "The time has come for us to move past these distracting battles over the browser. Microsoft is committed to providing the best options and freedom of choice for our customers across all our products."
+
+However, the newfound goodwill only went so far. When a reporter asked about Microsoft's alleged anti-competitive practices that were the subject of a long-running antitrust lawsuit brought by the Department of Justice, Barksdale replied "I have no comment on illegal activity by competitors." Gates shot back that "Netscape has sour grapes over being out-innovated in the marketplace."
+
+The browser wars began in the early 1990s with the introduction of the Mosaic web browser, created by Marc Andreessen and others at the University of Illinois Urbana-Champaign. When Andreessen co-founded Netscape in 1994 to commercialize the browser, it began a long battle with Microsoft for browser market dominance. 
+
+Microsoft eventually caught up with the release of Internet Explorer 1.0 and 2.0, but Netscape still held nearly 90% of the market. Everything changed with the release of Windows 95, which came bundled with IE and led to huge user gains for Microsoft's browser. Microsoft was eventually sued by for antitrust violations for bundling IE and abusing its Windows monopoly.
+
+Netscape peaked in the 1990s with Netscape Navigator 3 and 4, but diminishing market share and the disastrous release of Navigator 5 in 1997 marked the beginning of the end. Netscape was acquired   by AOL in 1998 for $4.2 billion but the company and its flagship product faded into irrelevance as Internet Explorer cemented its control over the browser market.
+
+While the surprise announcement of detente and renewed commitment to "browser choice" and innovation from both Netscape and Microsoft is a positive step, observers note there are still many unresolved issues around standards support, default browser settings, and antitrust enforcement that could reignite tensions even as the companies pledge a new era of good feeling. The browser wars may be "silly," but they are far from over. Overall, consumers will benefit if this truce holds and leads to renewed competition and innovation after years of stagnation.

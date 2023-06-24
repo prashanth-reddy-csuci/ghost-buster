@@ -1,0 +1,15 @@
+Texas Launches Antitrust Probe into Microsoft's Market Dominance of Internet Software
+
+The Texas Attorney General's office announced today that it is launching an antitrust investigation into Microsoft Corp to determine if the software giant has engaged in anti-competitive practices to dominate the market for internet browsers and other web-based software. 
+
+The investigation will examine whether Microsoft unlawfully leveraged its dominance in the personal computer operating system market to gain an unfair advantage in emerging areas of business like cloud computing, search engines, and digital assistants. Microsoft's Windows operating system currently powers the vast majority of PCs and laptops worldwide.
+
+"There is significant concern that Microsoft has illegally maintained its monopoly over PC operating systems to stifle competition in other software markets," said a spokesperson for the Texas AG. "We will carefully scrutinize Microsoft's actions to determine if they have manipulated the market, undermined consumer choice, and harmed innovation."
+
+Microsoft expressed dismay at the news of the probe in a statement, asserting that "we compete fairly in the many markets we serve, and we welcome dialogue with anyone who has a concern otherwise." However, some of Microsoft's competitors argue that the company has a long history of anti-competitive behavior, including bundling its internet browser Internet Explorer with Windows to dominate the browser wars of the 1990s and early 2000s.
+
+The antitrust investigation is a blow to Microsoft at a time when it is trying to shift its focus to cloud services and expand into new fronts such as AI and voice assistants. Competitors like Google and Amazon are currently seen as leaders in these emerging areas. The probe also comes on the heels of several high-profile Big Tech antitrust investigations, including probes into Facebook, Google, and Amazon.
+
+Antitrust experts note that for years, US enforcers pursued claims that Microsoft monopolized PC software markets. The company narrowly avoided being broken up following a landmark antitrust lawsuit. However, Microsoft largely dominated during a period of technological upheaval. Now, some experts argue the competition landscape is different, with legitimate rivals to Microsoft in areas like cloud, search, and browsers. The European Union is also investigating Microsoft on separate antitrust claims, further ramping up the legal pressure.
+
+The Texas probe is expected to take 6-12 months. If authorities find evidence of wrongdoing, the state could pursue injunctions, damages, and other penalties against Microsoft. The news sent Microsoft shares down over 4% in midday trading due to uncertainty around the investigation's outcome and impact.

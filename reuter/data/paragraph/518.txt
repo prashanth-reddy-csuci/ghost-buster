@@ -1,0 +1,1 @@
+Companies said products with just 40-bit long keys, the old limit, were too easy to crack. The approvals came just days after Ian Goldberg, a graduate student at the University of California, cracked a message encoded with a sofware key 40-bits long.

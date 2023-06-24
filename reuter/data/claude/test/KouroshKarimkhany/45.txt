@@ -1,0 +1,15 @@
+Apple Plans to Release Operating System for Both Macs and PCs 
+
+In a surprising announcement today, Apple said it will release a version of its macOS operating system that will run on both Macintosh computers and Windows PCs. The new operating system, called "OneOS," will be available as a free download next month for most Mac and PC models released in the last few years.
+
+For decades, Apple's Mac computers have run on the company's proprietary macOS operating system, while most PCs run Microsoft's Windows software. This split has been a source of competition and conflict between the tech giants. Apple's move to make macOS compatible with Windows machines is a bold step toward unifying the desktop computing experience and a sign of Apple's confidence in its own system software.
+
+"We believe OneOS is the world's most advanced desktop operating system, and we want to open it up to more customers than ever before," said Apple CEO Tim Cook in a statement. "OneOS will provide the same simple, elegant experience across both Mac and PC." 
+
+In recent years, Apple has brought more of its services to Windows and Android devices in an effort to reach billions more users. The company released an Apple Music app for Android in 2015 and launched a Windows version of its Apple TV+ streaming service last year. Still, making its flagship operating system available on competing hardware is Apple's biggest olive branch to Windows users yet.
+
+The announcement was cheered by some industry analysts who see it as a way for Apple to dramatically expand its presence in offices and homes. "This could be an opportunity for Apple to gain hundreds of millions of new customers," said Jenny Chan, an analyst with TechInsights. However, others worry it could confuse Apple's brand message and complicate its business model.
+
+Developers will need to make their apps compatible with both Mac and PC systems, which have significant differences. And some longtime Mac users may see the move as compromising the Mac experience they love. However, Apple executives said that OneOS has been designed to work seamlessly across platforms while maintaining the security and privacy standards Apple is known for.
+
+Continued on next page...

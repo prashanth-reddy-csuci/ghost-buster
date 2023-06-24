@@ -1,0 +1,21 @@
+Microsoft Reports Strong Second Quarter Profits, Warns of Slower Growth Next Year
+
+Microsoft reported robust sales and profits for the second quarter of its 2019 fiscal year, beating Wall Street expectations. However, the technology giant warned that growth may slow next year due to weaker demand for its computers and software. 
+
+The company posted revenue of $30.6 billion in the quarter ending December 31, up 12% from a year earlier. Net income rose 38% to $8.4 billion, or $1.08 a share. Analysts had forecast earnings of $1.09 a share on revenue of $29.8 billion, according to FactSet.
+
+“We continue to see solid demand for our innovative commercial cloud offerings which drove another strong quarter of top and bottom line growth,” said Chief Financial Officer Amy Hood in a statement.
+
+Microsoft’s stock rose over 2% in after-hours trading following the earnings release. The shares have climbed about 23% over the past year, easily outpacing the market.
+
+The technology giant continues to transform into a cloud powerhouse under CEO Satya Nadella. Revenue from its Azure cloud computing service grew 76% in the latest quarter, while sales of its Office 365 productivity suite jumped 34%. The company’s other businesses, including its Windows operating system and Surface devices, remained flat or declined.
+
+Azure’s spectacular growth has propelled Microsoft into a strong second place in the cloud infrastructure market, behind Amazon Web Services. The fast-growing segment generates $46 billion in annual sales, according to Canalys estimates.
+
+Looking ahead, however, Microsoft cautioned that revenue growth may slow to just 5% in the fiscal third quarter and warned that sales of Windows software and Surface devices will likely continue to stagnate. 
+
+“As we saw in Q2, the macroeconomic environment remains steady, but the mix within our segments was more varied,” said Ms. Hood on a conference call with analysts. “Looking ahead, sustained demand for our commercial cloud and a stable environment for transactional licensing should continue to balance any potential weakening in consumer demand.”
+
+Microsoft continues to benefit from the digital transformation trend as more businesses move IT infrastructure and software to the cloud. Commercial cloud revenue, which includes business sales of Azure, Office 365 and Dynamics customer relationship management software, surged 48% to $12.5 billion in the second quarter. Revenue from personal computing, including Windows and Surface, dipped 4%. Gaming revenue increased 8% with the help of strong sales of third-party Xbox titles like Red Dead Redemption 2.
+
+On the conference call, Nadella emphasized Microsoft’s commitment to building advanced cloud technologies like artificial intelligence, and touted growth in new areas such as augmented reality headsets and automated driving systems. The future remains bright for Microsoft as it leads the world into the cloud- and AI-powered future.

@@ -1,0 +1,13 @@
+Sun Microsystems and Partners Launch New Initiatives to Boost Java Performance on a Range of Devices
+
+Sun Microsystems Inc. today announced new initiatives with key partners to significantly boost Java performance and functionality across a range of consumer electronic devices. 
+
+Sun and SAMSUNG Electro-Mechanics are working together to optimize Java for use on SAMSUNG's pacesetting NAND flash memory systems. SAMSUNG is the world's largest producer of NAND flash memory, and the collaboration is expected to yield up to a 10x increase in Java application performance on memory-constrained consumer devices. 
+
+"Java's 'write once, run anywhere' promise is more compelling than ever on highly capable yet affordable consumer devices," said Gil Vazquez, senior director of Java marketing at Sun. "With SAMSUNG, we plan to push the envelope of what's possible for multimedia-rich Java applications on a new generation of mobile and embedded systems."
+
+Sun and NTT DoCoMo, Japan's largest telecom network operator, are collaborating to extend and customize Java ME, a version of Java specifically designed for mobile phones and other resource-limited devices. The partnership will make it easier for developers to create innovative Java applications and services tailored for NTT DoCoMo's FOMA 3G network, which currently has over 30 million subscribers. 
+
+Finally, Sun announced the availability of Java Studio Creator 2, a tool for quickly building applications for Java-powered mobile phones, PDAs and other connected devices. The tool simplifies development of user interfaces for small-screen devices and provides built-in support for touchscreen, phone keypad and voice input technologies. It comes pre-integrated with Sun's NetBeans development platform and is available as a free download.
+
+With nearly 6 billion Java-enabled devices in the world today and approaching 12 billion devices forecast over the next few years, Sun is actively working to strengthen Java's position as the platform of choice for consumer electronics innovation. The initiatives with SAMSUNG, NTT DoCoMo and the release of Java Studio Creator 2 should provide tangible benefits for device manufacturers, telecom carriers, application developers and consumers alike.

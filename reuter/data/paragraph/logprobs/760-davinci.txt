@@ -1,0 +1,9 @@
+Computer 9.053541
+Ġcompanies 7.163439
+Ġand 3.421496
+Ġprivacy 4.2267985
+Ġadvocates 0.7266848
+Ġhailed 6.8759646
+Ġthe 1.1203444
+Ġbills 6.9589815
+. 4.296943

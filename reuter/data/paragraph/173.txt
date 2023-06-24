@@ -1,0 +1,1 @@
+Under the compromise policy announced in October and enacted in an executive order last month, companies would be able to export strong encryption but only if the products also contained a feature known as "key recovery" that would permit the government to decode scrambled data.

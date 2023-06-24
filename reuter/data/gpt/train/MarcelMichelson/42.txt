@@ -1,0 +1,13 @@
+Paris-based computer company, Bull, has been granted the freedom to deal with any computer group in Europe, following a ruling from the European Commission on Thursday.
+The ruling ends a long-standing investigation into Bull's business practices with other European computer companies, which many felt were stifling competition in the industry.
+Under the new agreement, Bull will be able to enter into partnerships with any other computer company in Europe, without fear of repercussions from the Commission.
+In a statement released following the ruling, Bull CEO, Philippe Vannier, expressed his delight at the decision:
+"We are thrilled to have been granted this freedom to work with any company we choose in Europe. This represents a significant step forward for us, and we believe it will create new opportunities for growth and innovation in the computer industry."
+The Commission's decision comes after a lengthy investigation into concerns that Bull was forcing other companies to use its proprietary software products, rather than open source alternatives, which may have been more beneficial to the industry as a whole.
+Many industry analysts argue that open source software is generally more cost-effective and adaptable than proprietary software, and therefore better suited to the needs of a rapidly-changing technology landscape.
+The Commission's investigation found that Bull had been engaging in anti-competitive practices in its dealings with other companies, and had been preventing them from accessing the benefits of open source software.
+Following the ruling, Bull has committed to increasing its support for open source, and working more closely with other companies to promote its use.
+Vannier added: "We believe that open source is the future of computing, and we are committed to doing our part to promote its adoption in the industry. We look forward to working with other companies to make this a reality."
+The ruling is seen as a major victory for proponents of open source software, who have long argued that its flexibility, accessibility, and cost-effectiveness make it the best option for companies looking to stay competitive in a rapidly-changing industry.
+It is expected that Bull will use its new freedom to form partnerships with a wide range of companies across Europe, and to promote the benefits of open source software to the wider industry.
+In conclusion, Bull's new agreement with the European Commission is a major step forward for the company, and for the wider computer industry. By embracing open source software and working more closely with other companies, Bull has positioned itself as a leader in the field, and a major force for positive change in the industry.

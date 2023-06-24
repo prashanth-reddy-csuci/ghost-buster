@@ -1,0 +1,25 @@
+Microsoft to Release Windows 95 for Hand-Held Consumer Devices This Year  
+
+Microsoft Corp. announced today that it will release a version of its Windows 95 operating system tailored for hand-held consumer electronic devices before the end of this year. The new Windows 95 “Pocket Edition” will allow people to access some familiar Windows applications and features on devices like personal digital assistants, smart watches, and other wearable gadgets.
+
+“We see an opportunity to bring the power and familiarity of Windows to the devices people carry with them every day,” said Microsoft CEO Satya Nadella in a statement. “Windows 95 Pocket Edition will provide a lightweight but powerful platform for people to stay connected, organized, and up-to-date while on the go.”
+
+The Pocket Edition will be a stripped-down version of Windows 95, Microsoft’s popular operating system for PCs, which was originally released in 1995. The Pocket Edition will focus on a few core functions useful for small mobile devices, including:
+
+•A contacts app for managing address books 
+
+•A calendar app for scheduling appointments and setting reminders
+
+•A notes app for jotting down quick thoughts or lists
+
+•Limited browsing capability to check email and basic web pages
+
+•Syncing of data between devices and with the full Windows 95 operating system for desktop PCs  
+
+The Pocket Edition will have a simple, touch-friendly interface suitable for the small screens found on many wearables and hand-helds. It will support wireless connectivity via Bluetooth and Wi-Fi to link multiple devices together and connect to the Internet when within range of a network. 
+
+Microsoft did not announce specific device partners that will run Windows 95 Pocket Edition but said it has been working closely with several leading consumer electronics makers. The software will be available as a free download for devices with at least 32 megabytes of storage and a 200 megahertz or faster processor.
+
+Nadella said Microsoft’s goal is to have the Pocket Edition running on more than 50 million hand-held devices within two years, which would make it the second most popular operating system for wearable and mobile gadgets behind Google’s Android software. The widespread adoption of Windows 95 more than 20 years ago helped cemented Microsoft’s dominance of the PC market, and the company hopes to replicate at least some of that success in today’s fragmented market for smart devices.
+
+Investors seem optimistic about Microsoft’s move, with shares up 3% on the news. But some analysts warn there will be significant challenges in adapting a desktop OS to much smaller devices and attracting users in a space now crowded with more established mobile platforms. If Microsoft pulls it off, however, Windows 95 could find a new generation of devotees. The Pocket Edition is set to launch in beta form this fall, with general availability expected before 2020 ends.

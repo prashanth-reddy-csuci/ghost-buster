@@ -1,0 +1,15 @@
+WebTV Network's Strong Encryption Challenges US Government's Policies 
+
+WebTV Network, the popular streaming media company, announced today that it will be enabling end-to-end encryption for all communications and content on its platform. The move is a direct challenge to recent attempts by US law enforcement agencies to gain backdoor access to encrypted communications.
+
+In a press conference, WebTV Network CEO Jenna Overton said "We believe users have a fundamental right to privacy and secure communications. Enabling strong encryption is the only way we can guarantee that right and protect our users."
+
+The announcement means that all messages, video chats, and other communications between WebTV Network users will be encrypted in a way that prevents anyone, including WebTV Network itself, from accessing the content. The only people who will have access are the sender and recipient.
+
+The policy is controversial and directly opposed to efforts from the FBI and other law enforcement agencies to require tech companies to build "backdoors" into encryption systems. The agencies argue they need access to encrypted communications in order to monitor criminal plans and prevent terrorist attacks. However, cybersecurity experts argue that any backdoor would weaken security for all users and be a target for malicious hackers.
+
+In recent Senate testimony, FBI Director Christopher Wray said "As a society, we need a thoughtful and open-minded discussion about lawful and appropriate access to data in the face of end-to-end encryption." Wray has argued that end-to-end encryption prevents the government from accessing even legally obtained data like court-approved wiretaps. The WebTV Network's policy will prevent any access to communications on its platform.
+
+Overton was defiant in the face of the FBI's requests. "We will not build backdoors or hand over encryption keys to any government agency. Our users trust us to protect their data and communications, not give unfettered access to unknown government officials."
+
+Cryptography experts have almost universally argued against providing government backdoors into encryption systems. A report from the MIT Technology Review said "There is wide agreement that backdoors give both hackers and hostile nation-states a way to access systems and information that would otherwise be secure. Once a backdoor is built, foreign powers could access U.S. systems just as easily as U.S. authorities."

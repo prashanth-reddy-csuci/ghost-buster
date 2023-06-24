@@ -1,0 +1,1 @@
+PRO-CODE would allow companies to export encryption technology with keys up to 64-bits in length. Current laws only allow 40-bit encryption.

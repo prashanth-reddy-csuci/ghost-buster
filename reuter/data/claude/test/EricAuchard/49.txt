@@ -1,0 +1,15 @@
+Bay Networks Unveils "Adaptive Networking" Strategy and High-Speed Networking Chip 
+
+Bay Networks today announced an "adaptive networking" strategy along with several new products, including a high-speed networking chip, aimed at helping customers build next-generation networks.
+
+The adaptive networking vision promises customers faster data delivery, superior video and voice capability, and dynamic optimization of network resources. The key enabling technologies behind the strategy are faster processors, denser and smarter software, and fatter network pipes.
+
+At the heart of the announcement is Bay Networks' new BAY1 1.2 gigabit-per-second networking chip. The BAY1 chip, which took three years and $30 million to develop, can handle data at speeds of 1.2 billion bits per second. This type of raw speed, combined with additional technologies for managing different types of data traffic, is essential for supporting advanced networked applications like real-time video, teleconferencing, and virtual private networks.
+
+Bay Networks expects to incorporate the BAY1 chip into a wide range of networking products, including desktop switches, chassis-based switches, routers, and remote access concentrators. The first products containing the new chip are expected to ship in the first half of next year. List prices will range from $995 to $50,000, depending on the configuration. 
+
+The high-performance BAY1 chip gives Bay Networks a speed and capacity advantage over competitors like Cisco Systems and 3Com, according to analysts. And adaptive networking is a vision that resonates with corporate customers looking to evolve their networks to handle high-bandwidth and multimedia applications. 
+
+However, Bay Networks still faces the challenge of translating technology vision and advantage into market dominance and profits. Bay Networks currently trails Cisco in the lucrative networking equipment market. And while the BAY1 chip provides a boost, some analysts believe faster silicon alone won't win Bay Networks more market share. The company must also continue to strengthen its software, consolidate its confusing lineup of products, and provide integrated networking solutions, not just point products.
+
+Bay Networks' announcement is an important step in delivering an end-to-end networking vision, but more work remains ahead. The data network of the future will require nearly every technology in Bay Networks' arsenal, from fast chips to intelligent software to programmable switches. The real test will be putting it all together in a way that is truly more than the sum of its parts. If Bay Networks can achieve that, customers and the company itself may be very pleased with the results of its "adaptive networking" evolution.

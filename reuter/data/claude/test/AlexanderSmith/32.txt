@@ -1,0 +1,13 @@
+British Firm Offers Software to Mitigate Operational Risks After MGAM Collapse  
+
+London-based financial technology firm Frasin Limited announced today the launch of a new software solution aimed at helping investment funds and other financial institutions avoid operational failures like the recent collapse of MG Asset Management (MGAM).
+
+MGAM, once a leading British hedge fund, ceased operations last month after a series of technology glitches and human errors caused the fund to lose over $500 million over a span of just three days. The failures were attributed to a combination of outdated systems, lack of investment in technology infrastructure, over-reliance on manual processes, and poor risk management practices.
+
+Frasin's new RegTech solution, dubbed OpRisk Manager, aims to address these kinds of issues and help financial firms put the proper systems and controls in place to mitigate operational risks. It offers an integrated platform to automate compliance and governance activities, enable robust risk assessment and reporting, and provide early warning systems to detect issues before they escalate into crises.
+
+"The MGAM case highlights how operational failures can have an outsized impact on financial firms and the broader economy. Yet many firms still lack the necessary technology infrastructure and risk management processes to prevent these kinds of events," said Simon Fraser, CEO of Frasin. "OpRisk Manager was designed specifically to address this gap and provide financial institutions, investment funds, and other firms the capabilities they need to manage operational risks in today's increasingly complex business environment."
+
+The cloud-based software solution offers modules for compliance management, risk analysis, process automation, and event monitoring. It uses machine learning and natural language processing to analyze policies, procedures, and past incidents; identify potential risks; and alert management to events that could lead to operational failures if left unaddressed. It also provides a centralized platform for documenting and implementing controls and oversight to meet regulatory requirements. 
+
+Continued...

@@ -1,0 +1,1 @@
+In the past, products could be exported using "keys" as long as 40 digital bits, a string of forty ones and zeros. But as the speed of computers has grown, 40-bit keys have become easy to crack and longer keys have come into general use.

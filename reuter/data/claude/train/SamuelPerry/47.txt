@@ -1,0 +1,13 @@
+Sun Microsystems Reports 41 Percent Profit Increase and Record Revenues in Latest Quarter
+
+Sun Microsystems, a maker of computer servers and software, reported a 41 percent increase in profit and record revenues for its latest quarter ended September 30. Net income rose to $432 million, or $0.13 per share, from $307 million, or $0.09 per share, in the same quarter last year. Revenue increased 17 percent to $3.33 billion from $2.85 billion last year. 
+
+The strong results beat Wall Street expectations and reflect Sun's recent focus on streamlining costs while also growing its software and services businesses. Sun has long been a Silicon Valley mainstay and pioneer in networking technologies but has struggled in recent years with the commoditization of servers and competition from lower-cost rivals. Under the leadership of CEO Jonathan Schwartz, who took over in 2006, Sun has cut roughly 6,000 jobs and shed less profitable parts of its business.
+
+"We continue to post strong financial results and gain market share, all while significantly lowering our cost structure," Schwartz said in a statement. "This validates Sun's position as a leading provider of open, cost effective and sustainable computing solutions."
+
+Sun said sales of its SPARC-based servers, its flagship product, grew 15 percent in the quarter. The company also posted double-digit growth in its software and services businesses, a key part of Sun's strategic shift. Sales in North America helped fuel the overall revenue increase, growing 22 percent. Sales in Europe, the Middle East and Africa were up 13 percent.
+
+Some analysts remain skeptical about Sun's ability to sustain its momentum, given a weakening economy and lingering concerns about its products competing in the long run. However, others see the latest results as evidence the company has turned a corner. "Sun's strong performance this quarter indicates the company's business is on a much better trajectory," said Daniel Morgan, a semiconductor analyst at Synovus Financial Corporation. If Sun continues to cut costs and push into higher-margin markets, Morgan said, "it is poised to do well even if the economy slows."
+
+The company's shares rose $0.43, or 12 percent, to $3.92 in after-hours trading following the earnings announcement. Sun said it expects revenue to grow 3 to 5 percent in the current quarter, demonstrating the company's newfound ability to expand its business even during tough economic times.

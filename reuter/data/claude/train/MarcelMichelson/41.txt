@@ -1,0 +1,15 @@
+Jet Multimedia aims to take on Netscape and Microsoft with its France Explorer browser as French standard 
+
+Paris-based software company Jet Multimedia today announced the launch of France Explorer, a new internet browser aimed at French speakers around the world. The company hopes to establish France Explorer as the default browser for French internet users, displacing browsers from American tech giants like Netscape and Microsoft's Internet Explorer.
+
+"The internet today is dominated by English language content and software," said Jean Lebeau, CEO of Jet Multimedia. "With France Explorer, we aim to provide an internet experience centered around the French language and culture."
+
+France Explorer will come pre-loaded with French language search engines, news sites, and other online services as its default settings. The user interface, menus, and all on-screen text will also be in French, though users will still be able to view and navigate English and other language websites if they choose. 
+
+"We think many French speakers will prefer an internet that feels more familiar and tailored to their needs," said Lebeau. "So we strived to create an environment in France Explorer that emulates that experience right out of the box with French-centric services and a fully French interface."
+
+The browser wars of the 1990s were largely fought between American companies, but Lebeau believes Jet Multimedia's local roots and focus on the French market give it an advantage to gain significant market share in France and other French-speaking regions of the world. However, industry analysts point out that Netscape and Internet Explorer are already dominant and deeply entrenched globally.
+
+"It's an uphill battle to displace established players like Netscape and IE," said François Martin, an analyst with Paris Tech Consulting. "While a French browser is an appealing concept, Jet Multimedia will need to produce a clearly superior product to overcome user inertia and gain mainstream adoption beyond francophone niches."
+
+France Explorer will be free to download starting next week. The company aims to partner with computer manufacturers to potentially pre-install the browser on PCs sold in France and other French markets around the world. Jet Multimedia hopes these moves will eventually make France Explorer the default for the majority of French internet users. But only time will tell if the new browser can truly take on the American tech giants that currently dominate the global internet.

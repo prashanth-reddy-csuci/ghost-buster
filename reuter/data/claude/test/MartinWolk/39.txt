@@ -1,0 +1,23 @@
+Microsoft Posts 85% Jump in Profits in Q3, Beating Analysts' Expectations 
+
+Microsoft Corp reported a 85% rise in quarterly profit on Tuesday, beating Wall Street estimates, as the technology giant's fast-growing cloud business more than offset lower demand for its Windows software. 
+
+The company posted third-quarter net income of $15.5 billion, or $2.03 per share, up from $8.4 billion, or $1.10 per share, a year earlier. Analysts on average had expected $1.78 per share, according to IBES data from Refinitiv.
+
+Revenue rose 25% to $41.7 billion, topping analysts' average estimate of $40.8 billion.
+
+Microsoft shares were up 3% in after-hours trading.
+
+"The results really highlight the benefits of Microsoft's diversified business model," said Haris Anwar, senior analyst at Investing.com. "Its commercial cloud segment is firing on all cylinders, offsetting any weakness in the legacy Windows business."
+
+Commercial cloud revenue rose 39% to $15.2 billion, driven by growth in its Azure cloud platform and Office 365 productivity suite. The commercial cloud business has pitted Microsoft against cloud rival Amazon.com Inc, which leads the fast-growing industry. Overall cloud revenue has risen sharply during the pandemic as more businesses adopt remote work and learning.
+
+"Demand for our cloud offerings drove a strong quarter, with Azure revenue growth of 50%," said Amy Hood, executive vice president and chief financial officer of Microsoft.
+
+The company's personal computing division, home to Windows software and still its largest by revenue, showed a 9% increase to $14.1 billion. The pandemic-fueled shift to remote work led to higher demand for new PCs that offset a decline in Windows for existing devices. An ongoing global chip shortage, however, has capped shipments of new PCs.
+
+Microsoft's gaming revenue rose 50% to $3.8 billion driven by strong sales of its new Xbox Series X and S consoles, though supply constraints remain. Hood said revenues could have been higher if not for the shortages.
+
+"We did see a reasonable share and reasonable demand, but we clearly could have sold more if we had had more supply," Hood told Reuters in an interview.
+
+The company's workplace messaging app Teams now has 145 million daily active users, up 100% year on year. Sales of Office 365 to businesses jumped 34% to $7 billion.Microsoft expects the strong demand for its services to continue as digital adoption accelerates, Hood said."We continue to see momentum in the government vertical and retail as they move to more digital operations," she said.

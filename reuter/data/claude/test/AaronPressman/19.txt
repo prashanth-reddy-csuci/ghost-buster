@@ -1,0 +1,9 @@
+Internet Society Announces Plan for Seven New Top-Level Domains, Major Companies Endorse While Online Service Providers Remain Skeptical 
+
+The Internet Society today announced plans to introduce seven new generic top-level domains (gTLDs) as early as next year. The new domains—.shop, .bank, .health, .food, .sport, .music, and .news—are intended to provide more domain name options for businesses and organizations. Several major companies, including Walmart, JP Morgan Chase, and the International Olympic Committee endorsed the plan. However, some online service providers and domain registrars expressed skepticism about demand for new gTLDs and concerns about potential consumer confusion.
+
+The new gTLDs would exist alongside established domains like .com, .org and .edu. According to the Internet Society, the new domains would "help more accurately categorize websites and provide consumers with a shortcut to sites that interest them." Walmart and other retailers announced plans to register .shop domains to provide an easy to remember web address for customers. Banks and healthcare organizations also praised the move, hoping to register .bank and .health domains.  
+
+Despite the support from some major brands, the announcement was met with criticism from other industry groups. GoDaddy, the world's largest domain registrar, argued that previous gTLD introductions like .xxx, .travel, and .museum have seen little uptake, indicating low interest in new domain types. The Coalition for Online Accountability, an advocacy group, warned about "domain name clutter" and the risk of scam sites using the new gTLDs to appear legitimate. 
+
+Continued on next page...

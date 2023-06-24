@@ -1,0 +1,5 @@
+unigram-logprobs v-> ada-logprobs s-var
+ada-logprobs v-sub davinci-logprobs s-avg
+unigram-logprobs v-mul ada-logprobs s-avg
+trigram-logprobs v-< ada-logprobs s-avg
+unigram-logprobs v-< trigram-logprobs s-var

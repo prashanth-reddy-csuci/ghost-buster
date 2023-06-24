@@ -1,0 +1,13 @@
+IBM Launches New Mainframe Computer Family Twice as Fast as Previous Models  
+
+Tech giant IBM today announced its new z15 mainframe computer, touting significant performance improvements over previous models. The z15 is designed for large organizations running mission-critical workloads that require high security, availability, and performance. 
+
+According to IBM, the z15 offers up to twice the per-core performance of the previous z14 model. The z15 can run up to 190 cores, enabling up to 40 billion transactions per day. The increased performance comes from IBM's next-generation z/Architecture processor and improved cache and memory designs. The z15 also offers up to 32 terabytes of memory, up from 8 terabytes in the z14.
+
+The faster speeds and larger memory capacity will allow businesses to run more workloads on a single mainframe system. Major IBM customers like banks, insurance companies, and healthcare organizations can run applications, power mobile banking or hospital systems, analyze business data, and more using the z15 platform. IBM says the z15 is ideal for workloads including blockchain, AI, and hyper-scale data serving.
+
+In addition to performance, IBM emphasized the security capabilities of the z15. The system uses IBM's pervasive encryption technology to encrypt all data associated with any application, cloud service, or database. The z15 also includes new security tools like Crypto Express7S, tamper-responding cryptographic keys, and Secure Execution. These tools are designed to protect against external attacks as well as insider threats.
+
+“The IBM z15 is the next generation of the world's most powerful and secure enterprise platform for trusted digital experiences,” said Ross Mauri, General Manager, IBM Z. “IBM Z continues to drive major workload, security and efficiencies for our enterprise customers. The new IBM z15 is designed to deliver the performance and capabilities to handle in-flight data encryption and AI inference at scale, enabling enterprises to become more resilient in the face of cyber threats and more efficient with in-flight data encryption.”
+
+The z15 will start shipping in September 2019, with entry-level pricing around $1 million. The z15 is the latest in IBM's line of mainframe computers that power critical infrastructure for major companies and government agencies around the world. The mainframes are known for their reliability, security, and cost efficiency for high-volume transaction workloads. With the z15 release, IBM aims to keep mainframes relevant for on-premises computing even as organizations adopt multi-cloud and hybrid cloud strategies.

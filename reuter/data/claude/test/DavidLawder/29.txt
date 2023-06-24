@@ -1,0 +1,13 @@
+Chrysler Develops New Method to Extract Hydrogen, Potentially Revolutionizing Electric Cars  
+
+Automaker Chrysler announced today that its researchers have developed an innovative new method for extracting hydrogen from water that could make fuel cell-powered electric vehicles far more practical and affordable. 
+
+The new technique uses electrolysis to split water molecules into hydrogen and oxygen gases. However, unlike traditional electrolysis methods that require rare and expensive catalysts like platinum, the Chrysler technique uses a newly-developed catalyst made from inexpensive materials like iron, nickel, and carbon. This breakthrough allowed Chrysler engineers to create electrolysis cells that are 50 times more efficient and 90% less expensive than current methods.
+
+If implemented commercially, Chrysler's technology could dramatically lower the cost of producing hydrogen for fuel cell vehicles. Fuel cells generate electricity through the chemical reaction of hydrogen and oxygen, with water as the only byproduct. They are considered a promising alternative to lithium-ion batteries, but the high cost of extracting and storing hydrogen has been a key barrier to widespread adoption. 
+
+"This could be a tipping point for fuel cell vehicles," said Emilia Ivanova, a chemist and Chrysler's head of sustainable energy research. "By lowering the cost of hydrogen, our new electrolysis technique helps solve one of the biggest challenges facing fuel cell technology. We believe this breakthrough can make fuel cell vehicles far more attractive and affordable for mainstream consumers."
+
+Chrysler demonstrated the new electrolysis system at its research lab in Auburn Hills, Michigan. The company says that with some refinement, the technology could be ready for vehicle use in 3 to 5 years. If Chrysler and other automakers adopt the technique, consumers could see the first fuel cell vehicles priced competitively with gas-powered cars by the mid-2020s, according to industry analysts.
+
+Wider adoption of fuel cell vehicles could help reduce global carbon emissions from the transportation sector. Although fuel cells still depend on hydrogen, the hydrogen can be extracted sustainably from water using renewable energy. Chrysler's breakthrough may be an important step toward a greener transportation future.

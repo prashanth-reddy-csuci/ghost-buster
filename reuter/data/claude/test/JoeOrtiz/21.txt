@@ -1,0 +1,15 @@
+NatWest Markets Faces Investigation Over $81.4 Million Hole in Options Trading Book  
+
+NatWest Markets, the investment bank subsidiary of the Royal Bank of Scotland (RBS), is under investigation by UK regulators over losses of $81.4 million from errors in its options trading book. The Financial Conduct Authority (FCA) is examining how the losses occurred and whether there were any control or risk management failures.
+
+The losses stem from NatWest Markets' equity options trading over the first three months of this year. According to sources, a series of errors in spread betting on major US technology stocks led to the mounting losses going unnoticed until March. By the time the losses were discovered and trading halted, they had reached $81.4 million.  
+
+The FCA and Prudential Regulation Authority (PRA) have had NatWest Markets under enhanced supervision since RBS’s taxpayer bailout during the financial crisis. The regulators are likely to scrutinize the bank's risk management practices and whether there were systems and controls failures that allowed the losses to accumulate over several weeks without detection.
+
+NatWest Markets' leadership has launched its own internal investigation into the events. The head of NatWest Markets, which was formerly called RBS Securities, has resigned according to sources. Several other staff involved with the options trading desk have also left or are under disciplinary review.
+
+Initial findings point to a lack of oversight and risk control of the options trading book. With markets particularly volatile in early 2020 amid the escalating COVID-19 crisis, the lack of oversight allowed certain spread bets to spiral into substantial losses. By the time the losses were detected, much of the damage had been done.   
+
+The episode is embarrassing for NatWest Markets which had regained more independence from RBS in recent years. After its financial crisis bailout, RBS was forced to sell or shutter parts of its investment bank.   NatWest Markets was meant to be a scaled-back investment bank focused on fixed-income trading and corporate lending. Options trading desks have caused substantial losses for global investment banks before, most notably the collapse of Barings Bank in 1995.
+
+The FCA and PRA are demanding urgent remedial action by NatWest Markets to plug any risk management gaps, ensure the lessons are learned, and take appropriate action against any individuals involved. RBS also faces ongoing scrutiny as majority shareholder. The further hit to NatWest Markets’ and RBS' reputation comes at a time both are working to improve their market image and boost returns to shareholders following years of restructuring.

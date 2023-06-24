@@ -1,0 +1,15 @@
+Computer Scientist Challenges Export Limits on Encryption Programming in Court
+
+Dr. Aisha Jones, a computer scientist and professor at Stanford University, filed a lawsuit today challenging federal restrictions on the export of encryption software code. Dr. Jones argues that the current limits on sharing encryption programming violate free speech rights and hamper scientific progress.
+
+For decades, the U.S. government has classified strong encryption software as "weapons" and restricted their export under arms control laws. Software developers have to obtain special permission to share encryption code with people outside the U.S. and Canada. 
+
+Dr. Jones has developed a new encryption algorithm that she believes is more secure and efficient than current standards. However, she has been unable to publish the details of her algorithm in scientific papers or share it with colleagues overseas due to export controls.
+
+"Encryption is a fundamental tool for privacy and security in the digital age," said Dr. Jones in a statement. "Classification of encryption as a weapon is an outdated concept that harms privacy rights and scientific discourse."
+
+The lawsuit, filed in federal district court, asks the court to declare that the export of encryption software code is protected as free speech under the First Amendment. It argues that code is a form of expression, like the written word, images, or music. By classifying encryption code as a "weapon" subject to arms controls, the government "has unjustifiably restrained speech and abused its authority," the lawsuit states.
+
+However, the government defends export controls on encryption, saying they are necessary to protect national security. Strong encryption can be used by malicious actors to conceal criminal plans or activities. Government officials argue that classification as a "weapon" is reasonable given the national security applications of encryption.   
+
+The case is likely to shape the future of encryption regulation and the open exchange of ideas in applied sciences. Two professional organizations, the Association for Computing Machinery and the Internet Society, have filed a joint amicus brief in support of Dr. Jones. But security experts remain divided on the right balance between privacy, security, and encryption controls. The federal judge presiding over the case did not indicate when a decision could be expected.

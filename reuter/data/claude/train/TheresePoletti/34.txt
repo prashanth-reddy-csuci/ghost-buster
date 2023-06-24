@@ -1,0 +1,17 @@
+Computer Programmer and Cryptographer Behind Controversial Encryption Software Goes Mainstream With New Venture and Security Products
+
+John Simmons, a computer programmer and cryptographer known for creating encryption software used by activists and journalists, is launching a new cybersecurity company aimed at mainstream customers. 
+
+Simmons is best known as the creator of the encryption app Silverline, which has been used by political dissidents, journalists, and whistleblowers around the world to communicate without government surveillance. However, Silverline has also attracted controversy. Law enforcement agencies argue the software has enabled criminal plans and activity. Some countries have banned the use of Silverline altogether.
+
+Despite the controversy, Silverline has established Simmons as an influential figure in encryption and online privacy circles. His expertise is now the basis for his new venture, Blackbriar Security. The company will offer a range of digital security services for businesses and individual computer users.
+
+“For years, I’ve worked to give people tools to protect their privacy and security online,” Simmons said in an interview. “I realized a lot of the same technology and techniques could be adapted to help companies and regular people defend their systems and sensitive data.” 
+
+Blackbriar Security launches this week with two flagship products: SmartGuard, an AI-based firewall and network monitoring system, and Titanium Key, a multi-factor authentication app. The company is also offering secure data storage and encrypted email services, with more products on the way in the coming months.
+
+“Businesses of all sizes have valuable intellectual property, financial information, and customer data to protect,” Simmons said. “And individuals have their own sensitive information, accounts, and devices to keep secure.” 
+
+“We want to make enterprise-level security solutions accessible and affordable for organizations of any scale, as well as useful and easy-to-use for individuals,” he said. Simmons added that strong, user-friendly encryption will be a hallmark of all Blackbriar Security products.
+
+While Simmons is positioning Blackbriar Security as a mainstream brand, his reputation as an icon of privacy advocates concerned with government overreach continues to draw attention. His vocal criticism of mass government surveillance programs has made him a target of criticism in some national security circles but also an inspiration to many in the cryptography field. Blackbriar Security is sure to be closely watched as the latest chapter in Simmons' compelling and consequential career.

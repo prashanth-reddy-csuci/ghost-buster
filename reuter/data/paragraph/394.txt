@@ -1,0 +1,1 @@
+A criteria listed as "public support for a key management infrastructure," was changed to "or other support for the key management infrastructure."

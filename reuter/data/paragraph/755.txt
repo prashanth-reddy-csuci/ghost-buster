@@ -1,0 +1,1 @@
+Under the current Clinton administration policy, a company may export strong encryption only if the product also includes a feature to allow the U.S. government to crack the code by recovering the software "key" when acting under a court order or similiar authority. The administration says it must be able to crack the codes to catch international criminals and terrorists.

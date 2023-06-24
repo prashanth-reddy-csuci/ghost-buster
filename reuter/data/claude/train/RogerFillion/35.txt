@@ -1,0 +1,11 @@
+Regulators Set Aside Portion of Airwaves for Local Wireless Networks  
+
+Federal regulators have voted to set aside a portion of unused airwaves for the development of local wireless networks. The Federal Communications Commission approved a plan to open up 150 MHz of spectrum in the 3.5 GHz band for networks of small neighborhood wireless hotspots that can be used for expanding broadband access.
+
+The move aims to spur innovation in wireless technology and provide high-speed connectivity in areas that currently lack broadband access. The airwaves, also known as the “citizens broadband radio service” band, can be used for small cell networks that provide connectivity over a radius of less than 1 mile. These networks could help fill in broadband gaps and relieve congestion on existing cellular networks in dense, metropolitan areas. 
+
+The FCC hopes that local communities, businesses, hospitals, and schools will deploy these networks to meet their connectivity needs. Companies including Google, Intel, and Qualcomm have expressed interest in partnering with municipalities and organizations to build out these hyper-local networks. Cities like New York and San Jose, as well as rural communities in Appalachia, have started testing the technology as a way to expand broadband in areas that lack fiber or cable access.
+
+Not all of the spectrum will be available immediately, however. The FCC’s plan sets aside 70 MHz of airwaves that will be auctioned to commercial network operators on a county-by-county basis, with bidding expected to start later this year. Another 80 MHz of spectrum will be reserved for locally-licensed networks with free, lightly-licensed use. Some wireless industry groups have argued that more of the spectrum should be auctioned, rather than reserved, in order to allocate it most efficiently.  
+
+The vote is a win for advocates who argue that reserving more unlicensed spectrum, especially at lower frequencies, spurs innovation. "Unlicensed spectrum is a sandbox for innovation," FCC Chairman Ajit Pai said at the commission's May meeting. "It lowers barriers to entry for new companies and allows for experimentation." The FCC’s move opens up a new chunk of prime mid-band spectrum for unlicensed use for the first time in 20 years.

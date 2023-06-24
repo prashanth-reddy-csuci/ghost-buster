@@ -1,0 +1,13 @@
+Statistics Canada Admits to Significant Error in Job Creation Figures, Delaying Release of Monthly Payroll Report
+
+In an embarrassing admission, Statistics Canada announced today that it has discovered a significant error in the methodology used to calculate monthly job creation figures in the country. The error calls into question the accuracy of the agency's Labour Force Survey, which provides estimates of employment and unemployment in Canada.
+
+The error was discovered during a regular internal review of statistical procedures, according to a statement issued by Statistics Canada. "We identified an inconsistency in the programming code used to calculate seasonal adjustments to the raw job numbers reported by businesses each month,” said Jane Doe, Chief Statistician of Canada. “We are conducting a full review of the procedures and code in question to determine the scope of the issue and ensure the accuracy and integrity of the Labour Force Survey going forward.”  
+
+Due to the discovery, Statistics Canada has delayed the release of the Labour Force Survey report for January, which was scheduled to be released this Friday. The report provides nationwide statistics on employment levels and trends, including the number of job gains or losses each month. It is closely watched by economists, policymakers, businesses, and the media for clues about the overall health of the economy.
+
+The exact nature or magnitude of the error was not specified by Statistics Canada. However, Ms. Doe acknowledged it could potentially mean that previous estimates of job creation in the country may be either overstated or understated. She cautioned data users that “preliminary analysis suggests some revisions may be required for recent Labour Force Survey results, but the full implications are still not known.”
+
+Any revisions to previously released employment statistics could have political implications for the government, as job creation is a key measure of economic success. Opposition parties are likely to seize on the admission as evidence the governing party has failed to properly steward the economy. However, economists urged caution in interpreting a single month’s data and said longer-term trends were more meaningful.   
+
+Statistics Canada has earned a reputation as an impartial government agency that provides accurate and methodologically rigorous data and analysis. Today’s surprise announcement is sure to raise questions about that reputation and the reliability of the agency’s other statistical reports and data products. Restoring faith in its Labour Force Survey will be a top priority in the months ahead according to observers.

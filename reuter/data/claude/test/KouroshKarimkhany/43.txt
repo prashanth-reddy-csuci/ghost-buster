@@ -1,0 +1,15 @@
+Citrix stock soars 69% as Microsoft licenses software technology for upcoming Windows NT versions 
+
+Shares of Citrix Systems Inc. rocketed up 69% today after the company announced an agreement with Microsoft Corp. to license key virtualization technology that will be incorporated into future versions of Windows NT Server. The multi-year licensing deal provides Microsoft with access to Citrix’s application virtualization and delivery technologies, which allow applications to run remotely on servers and be accessed from a wide range of devices.
+
+The surge in Citrix’s stock price added more than $3 billion in market capitalization for the company and highlights investors’ optimism around the growth of virtual computing technologies. The stock closed at $127.45, up $52.34 from the previous day’s close.
+
+“This strategic partnership is a major win for Citrix and recognition of our leadership in application and desktop virtualization,” said David Henshall, Citrix chief financial officer and chief operating officer. “Citrix technology and products will now be an embedded part of Microsoft’s server infrastructure, positioning us for strong, long-term growth.”
+
+The new licensing partnership significantly expands an existing relationship between Citrix and Microsoft around virtualization and the delivery of Windows apps. Industry analysts viewed the closer alliance as a blow to VMware, a Citrix competitor that also partners with Microsoft. VMware’s stock dropped 6% on the Citrix-Microsoft announcement.
+
+"Microsoft endorsing Citrix as their strategic app delivery partner over VMware is a material change in the competitive dynamics of the hybrid multi-cloud market," wrote analyst Pat Moorhead in a Forbes post. "This could fundamentally disrupt the balance of power in the broader virtualization market."
+
+Under the multi-year deal, Microsoft will license components of Citrix virtualization technology, including the Citrix Virtual Apps and Desktops product, to embed in Windows NT Server. The next versions of Windows Server will allow customers to virtualize and deliver apps and desktops in a unified manner using the Citrix platform. The tight integration is aimed at simplifying the adoption of hybrid and multi-cloud environments for Microsoft customers.
+
+The alliance strengthens Microsoft's virtualization and cloud strategies and supplements its own solutions like Windows Virtual Desktop. For Citrix, the deal provides a huge boost in reach and credibility by tying its flagship products directly into upcoming Microsoft server software. Citrix expects the partnership to drive strong revenue and earnings growth for years to come.

@@ -1,0 +1,13 @@
+3Com Corp's Merger with U.S. Robotics Corp Sparks Fears for Struggling Network Industry
+
+3Com Corp and U.S. Robotics Corp announced a $6.6 billion merger yesterday, a move that consolidates two major players in the networking equipment industry but also highlights the significant challenges facing the sector. The all-stock deal will combine 3Com, a leader in Ethernet and other networking technologies, with U.S. Robotics, a pioneer in modems and other connectivity products. 
+
+The merger comes at a time when the networking industry has been struggling with slowing sales growth and declining profits. Many technology companies have reported weak demand for routers, switches, modems and other networking gear as businesses have cut technology budgets. There is also increasing competition from low-cost Asian suppliers and a lack of new "must-have" products to drive upgrades.
+
+Analysts said the 3Com-U.S. Robotics deal appears to be largely a defensive move to help the companies cut costs, gain scale and shore up their finances during a difficult period. "This is more about survival than growth," said Kenneth Kraemer, a technology analyst at Dataquest. "Both companies were facing challenging market conditions and pricing pressure, so they found strength in numbers."
+
+The networking equipment industry went through a boom period in the late 1990s fueled by the dot-com bubble and widespread adoption of the Internet. But demand started to fade in 2000 and 2001 as the U.S. economy slowed and telecommunications companies, a major customer base, curtailed spending. Industry revenues are expected to decline 3 percent this year, according to Infonetics Research.
+
+Shares of 3Com fell 13 percent yesterday to $8.75, reflecting investor concerns about the outlook for the combined company. U.S. Robotics' stock plunged 18 percent to $11.13. The companies said they expect to achieve $150 million in annual cost savings within 18 months of merging but also forecast flat sales growth for the foreseeable future. 
+
+The deal requires regulatory approval but is expected to close within six months. If completed, 3Com shareholders will own 52.5 percent of the new company, and U.S. Robotics investors will own the remaining shares. The new entity will take the 3Com name but haven't specified the management team. U.S. Robotics CEO Casey Cowell and 3Com CEO Bruce Clafin said in a statement that the merger made strategic sense to gain scale and reduce costs during a time of industry consolidation. But whether the deal, and further potential consolidation, can revive the fortunes of the networking technology sector remains to be seen.

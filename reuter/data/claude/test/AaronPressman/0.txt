@@ -1,0 +1,11 @@
+U.S. Senators Criticize SEC Rule on Derivatives Disclosure 
+
+Two prominent U.S. Senators issued scathing criticism of a rule proposed by the Securities and Exchange Commission that would require publicly traded companies to disclose more details of their derivatives holdings. Senators Elizabeth Warren (D-Mass.) and Bernie Sanders (I-Vt.) argued in a letter to the SEC that the proposed rule does not go far enough to provide transparency into derivatives exposure that could pose risks to companies and the overall economy.
+
+The SEC rule would require companies to disclose summary information about their derivatives positions, including value of the positions, value of collateral posted against those positions, and other metrics. Supporters argue this could help investors better understand companies’ risk profiles. However, Senators Warren and Sanders contend the rule should require position-level disclosure, providing details about companies’ bets on interest rates, currency rates, commodity prices, and other market metrics. 
+
+“Position-level disclosure is necessary for investors to understand a company’s true financial situation,” the Senators wrote. They cited the examples of AIG, Lehman Brothers, and other companies that faced major losses during the 2008 financial crisis due to poor derivative risk management and overexposure to certain positions. With only summary disclosure, investors would lack critical details about companies’ vulnerabilities.
+
+SEC Chairman Jay Clayton has argued that requiring disclosure at the position level could reveal proprietary trading strategies and expose companies to “front-running” by other traders. The agency has also said position-level reporting may be overly complex and difficult for investors to interpret. Mr. Clayton said the SEC’s goal is to provide “meaningful transparency into derivatives exposure” while balancing companies’ need to protect sensitive information.
+
+Continued on next page...

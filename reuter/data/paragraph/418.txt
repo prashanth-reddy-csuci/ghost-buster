@@ -1,0 +1,1 @@
+Karn did not attempt to export "object" computer code, a working program that could be run on a computer to encrypt and decrypt data. Karn's disk contained "source" code, or directions that could be used to write such software.

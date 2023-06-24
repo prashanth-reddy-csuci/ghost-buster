@@ -1,0 +1,15 @@
+IBM's Fourth Quarter Earnings Slightly Better Than Expected, Boosted by Service Business and Software Sales  
+
+IBM reported fourth-quarter earnings that exceeded analysts' expectations, driven by growth in the company's high-margin service and software businesses.
+
+IBM said fourth-quarter revenue rose 6% to $21.8 billion, topping the $21.6 billion forecast by analysts surveyed by FactSet. Net income rose to $4.8 billion, or $5.25 a share, from $4.5 billion, or $4.95 a share, a year earlier. Excluding one-time items, IBM earned $5.18 a share, beating the average analyst estimate of $4.81 a share.
+
+"We again generated double-digit growth in our high-value businesses which is driving margin expansion and strong cash flow," said Ginni Rometty, IBM's chief executive.
+
+ IBM's two largest units—global business services and software—both posted higher revenue. In global business services, revenue climbed 6.8% to $4.72 billion, as the company won several large consulting deals during the quarter. In software, revenue increased 9.1% to $7.78 billion, driven by growth in offerings such as analytics and security.
+
+Hardware revenue slipped 1% to $8.93 billion, as mainframe and Power server revenue declined. Despite the drop, executives said IBM gained market share during the quarter in its UNIX server business, which competes with Oracle. Systems revenue, which includes servers, storage and technical support services, edged up 1% to $2.53 billion. 
+
+Since becoming CEO eight years ago, Ms. Rometty has steered IBM's focus toward higher-margin businesses like cloud computing, artificial intelligence, and data analytics and cyber security. That pivot has at times been painful, as the company has had to cut costs and jobs as revenue declined in older units like mainframes and enterprise services. But IBM ended 2018 on an upbeat note, as its strategic imperatives revenue rose 9% last year to $39.5 billion and now makes up more than half of total revenue.
+
+IBM shares, which climbed 7.5% so far this year, traded slightly higher after hours. If the stock maintains its after-hours gains in Thursday's trading, it will open at its highest level in over two years. The results cap an encouraging year for IBM in which a long-awaited turnaround seems to be taking hold.

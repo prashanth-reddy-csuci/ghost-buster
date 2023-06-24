@@ -1,0 +1,19 @@
+NatWest Bank Probes $81 Million Trading Hole
+
+NatWest Plc, a major U.K. retail and commercial bank, is investigating a £62.7 million ($81 million) trading error made last week, according to sources familiar with the matter. 
+
+The error occurred in the bank's rates trading unit, causing a loss that was discovered on March 26. Sources said an unknown trader made a mistake while inputting figures into a trading model, resulting in positions that had to be unwound at a loss. The loss was quickly identified and trading was halted to contain the impact. 
+
+However, the loss comes at a sensitive time for major banks that have been trying to overhaul their trading operations to avoid such errors. Global banks have paid more than $10 billion in regulatory penalties related to trading blunders and misconduct over the past decade, spurring pledges from CEOs to tighten compliance and risk controls.
+
+A spokeswoman for NatWest declined to comment. The bank, a subsidiary of Royal Bank of Scotland Group Plc, is the third largest retail and commercial bank in the U.K. with almost 19 million customers and over 1,500 branches across England and Wales.
+
+NatWest CEO Alison Rose has made improving the bank's risk and compliance controls a priority since taking over in November 2019. Earlier this year, Rose reorganized parts of the bank's trading unit and pledged to invest £1 billion over the next five years to enhance NatWest's risk management systems and controls.
+
+The trading loss comes less than a week before NatWest reports first-quarter results on March 31. The bank's shares were down 2.1% in London trading. The shares have declined 30% this year, compared with a 25% drop in the Stoxx Europe 600 Banks Index.
+
+While the loss is relatively modest for a major bank's trading unit, it raises questions about the effectiveness of the controls and risk systems that Rose has touted as a priority, analysts said. The error also highlights the ongoing challenges big banks face to prevent trading mistakes, even after years of investments in technology and compliance programs.
+
+"A loss of this magnitude from a basic human error clearly indicates there is still work to be done," said Edward Firth, a banks analyst at KBW in London. "The timing of this, just ahead of results and after a significant management overhaul, really undermines many of the messages they have been pushing to the market."
+
+The trading loss is a setback for Rose as she works to restructure the bank, cut costs and improve returns for shareholders. The RBS veteran and former commercial banker has sought to tighten oversight of investment banking operations and pledged to scale back riskier trading activity since becoming CEO in November.

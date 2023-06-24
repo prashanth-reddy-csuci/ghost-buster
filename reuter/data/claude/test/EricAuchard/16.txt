@@ -1,0 +1,15 @@
+WavePhore Launches New Service to Broadcast Data to Home Computers via Television Signals  
+
+WavePhore, a Silicon Valley technology startup, announced today the launch of a new service that allows companies and organizations to transmit data to home computers and other connected devices using television broadcast signals. The new "Datacasting" service leverages unused parts of the television spectrum to send digital data packets that can be received by devices equipped with WavePhore's proprietary receiver technology.
+
+The service opens up a range of new capabilities for broadcasters and other businesses, according to WavePhore's CEO Tom Wilks. "Datacasting represents an entirely new distribution channel for content and information," Wilks said at the launch event. "With the push of a button, our customers can now send data, software updates, videos, coupons, multimedia content, and more to virtually any home in their broadcast area."  
+
+WavePhore has been testing the Datacasting service with several local broadcasters and media companies over the past year. One early customer, WXZY-TV, an affiliate of MyNetworkTV, has been using the service to send weekly programming guides, supplemental video clips, and interactive polls to viewers. "We see Datacasting as a way to provide our viewers with an enhanced and more personalized experience," said WXZY station manager Jenny Cho. WavePhore also ran a trial with a major retailer who used Datacasting to distribute digital coupons and product information to customers.
+
+The Datacasting service works using WavePhore's proprietary receiver technology, which can be built into televisions, set-top boxes, DVRs, and other connected devices. The company is partnering with electronics manufacturers to embed the receivers into products. WavePhore-enabled devices can detect and capture data packets within the television broadcast and then decode and appropriately display the information on the device.  
+
+Wilks said WavePhore can insert data into virtually any standard definition or high definition television stream in real time without interrupting the broadcast or changing the video or audio. The technology also allows for targeting data to specific geographic areas based on factors like a station's broadcast footprint. "We have the ability to send different data to different locations so companies can tailor content based on location or audience," Wilks said.
+
+The service opens the door for innovative new business models, according to industry experts. "This could be a game changer," said Simon Murray, a digital media analyst with IDC. "The ability to leverage unused broadcast spectrum to send data to connected devices is a smart way to create a new data distribution channel." 
+
+Continued on page 2...

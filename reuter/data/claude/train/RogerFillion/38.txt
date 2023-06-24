@@ -1,0 +1,19 @@
+U.S. Appeals Court to Rule on Fate of FCC Order Opening Local Phone Market 
+
+A federal appeals court is set to issue a ruling that will determine the fate of a landmark Federal Communications Commission order aimed at boosting competition in local phone service.
+
+The FCC in 2015 voted to preempt state laws in North Carolina and Tennessee that restricted municipal broadband networks. The FCC said those laws inhibited competition and discouraged infrastructure investment. However, telecom industry groups sued and argued the FCC overstepped its authority. 
+
+Oral arguments were held in March before a three-judge panel of the U.S. Court of Appeals for the Sixth Circuit. During arguments, the judges signaled they may side with telecom industry groups who say the FCC lacks the power to preempt the state laws. However, it’s still unclear how broadly they may rule against the FCC.
+
+If the court strikes down the entire FCC preemption order, it would be a major blow to the agency's push to promote broadband competition. But the judges could also issue a narrower ruling that still gives the FCC room for other pro-competition policies. 
+
+The FCC preemption vote was a signature part of former Chairman Tom Wheeler’s strategy to spur consumer choice for broadband, especially in areas with little or no choice of providers. At the time, Wheeler said state laws limiting community broadband "should not stand in the way of consumer choice and competition.”
+
+Telecom industry groups argue the FCC lacks authority to override state laws under Section 706 of the Communications Act, which the agency cited in its preemption order. But supporters of the FCC decision say it's well within its power to preempt state laws that restrict competition and limit build-out of broadband networks.
+
+Billions of dollars are at stake in the case, which could impact other states with similar laws limiting municipal networks. Over 20 states have laws restricting publicly or community-owned telecom networks to some degree.  
+
+A ruling in favor of the telecom industry groups could embolden more states to pass laws limiting community broadband, while a ruling upholding the FCC order may discourage further efforts to curb municipal networks. The broader impact will also depend on how the FCC under Chairman Ajit Pai, who opposed the preemption order, chooses to apply the court's decision.
+
+The Sixth Circuit ruling could come at any time, though most expect a decision within the next few months based on typical timeframes. Both sides are likely to appeal any loss to the U.S. Supreme Court, so final resolution may still be over a year away. But the Sixth Circuit’s ruling will be pivotal in determining if the high court even takes up the issue.

@@ -1,0 +1,13 @@
+Intuit, Microsoft, and Checkfree partner to simplify online banking with new software standard
+
+Three of the largest software and financial services companies in the U.S. announced a partnership today to adopt a new open standard for online banking that will allow customers to access information from multiple accounts and services in one place. Intuit, the maker of Quicken and TurboTax software, Microsoft, the world's largest software company, and Checkfree, a major provider of electronic bill payment services, will jointly develop and promote the new Open Financial Exchange (OFX) 2.0 standard.
+
+The OFX 2.0 standard will allow customers to see balances, transaction histories, and other account information from their banks, brokerages, credit cards, and other financial institutions in one consolidated view using popular personal finance software like Quicken or Microsoft Money. Currently, most financial institutions only allow access to account information on their own websites using their own proprietary software. The new open standard will give customers more flexibility and convenience in how and where they access their important financial data.  
+
+"OFX 2.0 is all about putting power and information in the hands of consumers," said Scott Cook, founder and chairman of Intuit. "By adopting an open standard, we are enabling innovation that can reshape the way people do their personal banking and ultimately enrich their financial lives."
+
+The three companies will submit the OFX 2.0 standard for approval to standards organizations such as the Internet Engineering Task Force in the coming months. If approved, they expect many major banks, brokerages, and other financial firms in the U.S. and Canada to adopt the standard, though adoption will be voluntary. However, the companies hope the lure of providing a better customer experience and competitive pressure will motivate widespread industry acceptance of the standard.
+
+"This partnership is great news for consumers who are tired of having to visit multiple websites to stay on top of their finances," said Steve Ballmer, CEO of Microsoft. "An open, broadly adopted standard like OFX 2.0 will enable a new generation of powerful yet easy to use online financial services." 
+
+The three companies bring together the largest providers in personal finance software, online banking, and electronic bill payment and believe that will help accelerate the standard's adoption in the marketplace. They aim to foster innovation in online financial services to better meet the needs of an increasingly tech-savvy consumer base. By standardizing access to financial data, OFX 2.0 may just simplify customers' lives while enabling a range of new digital money management tools.

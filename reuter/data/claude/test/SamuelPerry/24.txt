@@ -1,0 +1,15 @@
+Eric Schmidt, Architect of Sun Microsystems’ Internet Strategy, Named CEO of Novell Inc. 
+
+Novell Inc. today named Eric Schmidt as its new chief executive officer. Schmidt, 49, was most recently chief technology officer at Sun Microsystems, where he led the company's Internet initiatives.
+
+"Eric Schmidt has a proven track record of identifying major technology trends early and building new, highly profitable businesses," said Robert J. Frankenberg, Novell's current chairman and CEO. "He's the perfect choice to lead Novell as we refocus the company on leadership in network computing and services."
+
+At Sun, Schmidt was responsible for the company's Internet software, network storage, and processor architecture strategies. He led the development of Java, Sun's platform-independent programming technology, and oversaw the company's participation in Internet standards bodies. 
+
+Prior to joining Sun in 1983, Schmidt was a member of the research staff at Xerox's Palo Alto Research Center, where he contributed to the invention of Ethernet networks and the development of laser printers. He holds a Ph.D. in computer science from the University of California, Berkeley, and a master's and bachelor's degree in electrical engineering from Princeton University.
+
+"I'm very excited to lead Novell into the network computing era," Schmidt said. "Novell has one of the technology industry's strongest and most loyal customer bases, world-class networking products, and a wealth of talent. By focusing those assets on open, standards-based solutions, Novell can regain its prominence as a driving force in the industry."
+
+Schmidt takes the helm at Novell during a challenging time. The company has posted financial losses for nine consecutive quarters as it transitions from its legacy NetWare networking software to open source-based Linux platforms and network services. Novell faces intense competition from larger rivals like Cisco Systems as well as a host of smaller companies focused on open source software and network consulting services.
+
+Schmidt succeeds Frankenberg, who has led Novell for the past decade. Frankenberg will remain chairman of Novell's board of directors. Schmidt's appointment is effective immediately, according to the company.

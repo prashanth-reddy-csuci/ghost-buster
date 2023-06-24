@@ -1,0 +1,13 @@
+Apple Consolidates Marketing and Development Units to Cut Costs and Focus on Key Markets
+
+In a bid to streamline operations and reduce costs, Apple announced today that it is consolidating its marketing and software engineering units into single worldwide organizations. The changes are aimed at improving collaboration across the company's various divisions and teams while also eliminating redundant positions.  
+
+"We are organizing Apple’s marketing and engineering teams to allow for tighter integration of hardware, software and services," said CEO Tim Cook in an internal memo obtained by TechCrunch. "Consolidating these teams will improve our agility, speed up decision making and help focus our efforts on the areas that will have the greatest impact."
+
+The new worldwide marketing organization will oversee product marketing, advertising, content and Apple's retail efforts. It will be led by Phil Schiller, Apple's longtime head of worldwide marketing. On the engineering side, the new worldwide software engineering team will bring together all software engineers working on Apple's operating systems, applications, cloud services, and machine learnings efforts. This group will be headed by Craig Federighi, Apple's senior vice president of software engineering. 
+
+The reorganization is the biggest structural change at the company since Jony Ive took control over product design for both software and hardware products in 2015 following the departure of iOS software head Scott Forstall. The marketing and software engineering units were previously split into separate organizations for each product line, like iOS, macOS and services.
+
+The restructuring comes as Apple shifts its focus to subscription services and recurring revenues to counter slowing iPhone sales. The company believes unifying its marketing and engineering units can help promote its service offerings more cohesively while also fostering more consistent software experiences across devices. The moves are also aimed at eliminating duplicate roles and increasing operational efficiency. Apple did not specify how many jobs would be cut as a result of the reorganization.
+
+While streamlining its organizational structure, Apple plans to continue investing in new product development and in its core capabilities like health, machine learning and augmented reality. "Our values of creativity, excellence, innovation and integrity will guide our way forward," Cook said in the memo.

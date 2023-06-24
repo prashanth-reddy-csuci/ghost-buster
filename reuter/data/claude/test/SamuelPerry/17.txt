@@ -1,0 +1,19 @@
+Netscape Unveils Vision for Extranet Market, Expects it to Outstrip E-commerce Projections 
+
+Netscape Communications unveiled its vision for the emerging "extranet" software market today, predicting explosive growth that will far surpass current e-commerce projections. Extranets are secure Web sites that allow companies to collaborate with their business partners over the Internet.
+
+Netscape CEO Jim Barksdale said the company expects the extranet market to reach $3.5 billion by 2002, more than triple the $1 billion projection for the broader e-commerce software market. "Extranets are a far bigger opportunity than simple e-commerce websites," Barksdale said. "Every company has a supply chain and business partnerships that can benefit from secure Web-based collaboration."
+
+Netscape's strategy is to establish its Netscape SuiteSpot line of servers and SuiteLink collaboration services as the de facto standard platform for building and managing extranets. The company will target major corporations looking to streamline supply chain management, connect to partners, and cut costs by moving business processes online.
+
+The extranet market is virtually untapped today but holds huge potential, said Kate O'Neill, an analyst with Forrester Research. "Extranets stand to transform how companies work with their suppliers, customers, and distributors," she said. "Any business with multiple external partnerships will see value and cost savings by moving inter-company processes to the Web."
+
+Netscape has a window of opportunity, O'Neill noted, as companies start to explore how extranets can impact their business. "The company that establishes itself as the extranet platform leader now will lock in key customers and drive the market," she said. Netscape's Barksdale said he aims to do just that. 
+
+The company's new SuiteSpot Extranet Server provides security, authentication, network management, and administration tools tailored for low-cost, easy-to-deploy extranets. Netscape will also offer consulting and custom integration services through its Professional Services division.
+
+Netscape's SuiteLink Data Integration service allows extranet administrators to tap into back-end corporate data in legacy systems like ERP, supply chain, and accounting platforms. This could allow, for example, a company to give suppliers access to certain inventory or demand forecast data to help streamline just-in-time manufacturing.
+
+"Extranets require more than just sticking a Web server outside the firewall," Barksdale said. "Companies have valuable information locked in different systems that they want to share selectively with business partners. SuiteLink makes it all Web-accessible in a secure fashion." 
+
+(Words: 740)

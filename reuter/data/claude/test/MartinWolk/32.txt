@@ -1,0 +1,11 @@
+Microsoft, Intel, and Compaq Propose New Standards for Advanced Television and Multimedia PCs   
+
+Microsoft Corp., Intel Corp., and Compaq Computer Corp. announced yesterday a new set of proposed computing standards aimed at bringing advanced television, multimedia, and PC applications into the mainstream. The new standards are designed to enable a new generation of PCs that can deliver sophisticated interactive TV, entertainment, and Internet services to consumers.  
+
+The standards, called the Advanced Television Enhancement Forum, or “ATVEF,” specify how interactive television content and Internet-based resources can be delivered to and accessed by “multimedia PCs” that are connected to regular televisions. The companies said the standards will allow entertainment companies, broadcasters, and Internet content providers to deliver interactive programming to the estimated 47 million U.S. households that currently own multimedia PCs.
+
+“These new standards will help ignite the market for interactive TV and usher in a new generation of compelling services to the PC and television,” said Craig Mundie, senior vice president of Microsoft. “Consumers will have access to a wealth of entertainment, educational, and e-commerce applications through a familiar and easy-to-use interface on their TVs or PCs.”  
+
+The heart of the ATVEF standards is the ability to deliver interactive TV content over the same broadcast signals as regular television programming. The standards will allow content providers to embed “triggers” into the broadcast signal that can activate Internet applications, activate devices connected to the multimedia PC like a DVD player, or present information or graphics on the screen. The standards will also allow for e-commerce transactions via the television.
+
+The companies said the ATVEF standards are non-proprietary, open, and royalty-free. They expect products and services based on the standards to be available to consumers as early as next year. The broad industry participation in the ATVEF forum suggests interactive television and multimedia PCs may finally be ready to transition from early hype to mainstream reality.

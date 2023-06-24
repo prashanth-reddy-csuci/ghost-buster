@@ -1,0 +1,15 @@
+IBM and Lotus go from hostile takeover to happy marriage
+
+In 1995, IBM's hostile takeover of Lotus Development Corporation shook the software world. At the time, Lotus was the leader in collaborative software and groupware applications, most famously for its Lotus Notes application. IBM was a traditional mainframe computing company looking to diversify into software and services. The $3.5 billion acquisition was seen as a way for Big Blue to buy its way into a growth market, though there were doubts about whether the staid IBM culture could mesh with the more freewheeling Lotus. 
+
+Those doubts, however, have been erased over the past 25 years. What could have been an awkward forced marriage has turned into a happy and fruitful long-term relationship. IBM has fully embraced Lotus's products and integrated them into its offerings. And Lotus employees have helped IBM become a more nimble, innovative company able to thrive in new markets beyond mainframes. 
+
+Within a year of the acquisition, IBM rolled out a new unified brand for communications software: Lotus SmartSuite. This bundle included Lotus 1-2-3, Word Pro, Freelance Graphics, Approach, and Organizer—tightly integrating the most popular Lotus applications. IBM also continued to invest in advancing Lotus Notes, releasing several major upgrades to the platform in the following years.
+
+Behind the scenes, IBM worked to blend its traditional bureaucratic culture with the more irreverent style of Lotus. While this change was challenging and slow, IBM came to adopt some of the practices that allowed Lotus to move fast and innovate quickly. Employees from Lotus also helped spur new thinking around collaboration, knowledge management, and social networking that anticipated key trends in business software.
+
+The success of the Lotus acquisition helped demonstrate that IBM could apply its scale and resources to new growth areas in business and technology. It paved the way for IBM to expand into areas like cloud computing, artificial intelligence, and blockchain. 
+
+Today, though the Lotus brand has faded, its products and legacy live on at IBM. Notes and Domino, the descendants of Lotus Notes, still have over 150 million users. Many of the social and collaborative concepts popularized in Lotus Notes, such as shared workspaces, feeds, and profiles, are now standard in enterprise software. 
+
+The Lotus takeover exemplifies how determined leadership and an openness to new thinking can turn an initially unpopular acquisition into a triumph. Two and a half decades later, IBM's decision to force its way into the collaboration software market has been thoroughly vindicated. With patience and vision, an unwanted marriage became a partnership that shaped the technology of the future.

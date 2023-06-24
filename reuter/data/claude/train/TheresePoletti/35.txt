@@ -1,0 +1,13 @@
+Genuity to Unveil New Internet Gateway to Break Phone Company Oligopoly 
+
+Genuity Systems, an internet infrastructure startup, announced today that it will unveil its Freedom Gateway, a new device aimed at providing broadband internet access to homes and businesses without requiring service from major phone companies. The Freedom Gateway is a small box that can be installed outside a home or office and receives a wireless internet signal from Genuity's network of transmitters and then distributes connectivity indoors.
+
+"For too long, most Americans have only had one choice for broadband internet—their local phone monopoly. We're changing that today," said Jill Thompson, Genuity's CEO. "With the Freedom Gateway, we're delivering an alternative that provides faster, more reliable internet without the bureaucracy, fees, and poor service that many have come to expect from the big telecoms."
+
+Genuity has spent the last three years building wireless internet infrastructure in 50 U.S. cities, with plans to expand to over 200 metro areas in the next two years. The company uses a network of transmission towers to broadcast signals over a distance of up to 30 miles using both licensed and unlicensed radio spectrum. The Freedom Gateway receives this signal and then uses in-home wiring or wifi to provide connectivity to all connected devices.  
+
+The gateway and access to Genuity's network will cost $50 per month for residential customers and $200 per month for businesses. The gateway device itself is free for those who pre-order and will cost $299 for those who buy after the service launches next month. Genuity's service will offer speeds up to 1 gigabit per second, which is faster than typical broadband plans available from most major internet service providers.
+
+Genuity's approach is the latest in a series of efforts to break up telecom monopolies and provide more consumer choice for internet access. Previous attempts at alternative broadband offerings, like municipal wifi and TV white spaces, have had limited success. However, Genuity believes its blend of wireless infrastructure and in-home hardware at an affordable price point will resonate with customers frustrated by a lack of competition. 
+
+(Continued on next page)

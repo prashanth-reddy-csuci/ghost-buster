@@ -1,0 +1,1 @@
+Under the rules, companies would be able to export products containing key lengths of up to 56 bits. The keys must be recoveryable, meaning the software would allow for the retreival of the password or key if a government, such as law enforcement, needed to do so in the course of an investigation.

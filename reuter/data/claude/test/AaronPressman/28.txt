@@ -1,0 +1,11 @@
+Senator Kerrey aims to break encryption deadlock with new legislation 
+
+Senator Bob Kerrey (D-NE) today introduced new legislation aimed at finding a compromise in the ongoing debate over encryption policy in the US. The Encryption Policy Act would allow companies to export encryption software and technology overseas after receiving a special license, while still restricting its export to a list of "sensitive" countries including China and Iran.
+
+"We need a balanced policy that protects both US business interests as well as national security," said Kerrey at a press conference on Capitol Hill. "My bill accomplishes this by loosening some export controls on encryption with key allies, but still restricting it for countries that threaten US security."
+
+The encryption debate has raged since the early 1990s, with privacy advocates arguing individuals and companies should have access to strong encryption, while law enforcement and intelligence agencies worry about "going dark" and losing access to intelligence and evidence. Multiple bills have failed in Congress over the years due to disagreements between the technology industry and law enforcement. 
+
+Kerrey's bill aims to find middle ground by allowing companies to sell some encryption technology overseas, but only after receiving a special license from the Commerce Department, and not to countries on a "sensitive list." US-based companies would still be able to use strong encryption domestically. However, the bill also expands law enforcement's ability to access encrypted data with a court order.
+
+The bill received a mix of reactions, with the tech industry praising some loosening of export controls but criticizing the sensitive list and backdoor access provisions. The law enforcement community was also lukewarm, with some saying it didn't go far enough. The path forward in the Senate and House remains unclear, but Kerrey urged his colleagues to consider a compromise. "Doing nothing is the worst option," said Kerrey. "We need action and consensus on this issue."

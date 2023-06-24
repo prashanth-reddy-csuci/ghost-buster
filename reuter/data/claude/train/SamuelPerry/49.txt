@@ -1,0 +1,19 @@
+Sun Microsystems sees 41% rise in profits, record revenues driven by server sales  
+
+Sun Microsystems reported a 41% surge in quarterly profits and record revenues, driven largely by a rise in sales of high-end servers used in corporate data centers and cloud computing.
+
+Sun said net income rose to $133 million, or 18 cents a share, in the three months ending Oct. 31, up from $94 million, or 13 cents a share, in the same period last year. Revenue increased 12% to $3.21 billion, a quarterly record for the company.
+
+The results were better than analysts had expected. They had forecast earnings of 16 cents a share on revenue of $3.17 billion, according to a survey conducted by FactSet.
+
+The company cited growing demand for its powerful Sparc servers that run on the Solaris operating system. The servers are designed for intensive computing tasks required by corporations and cloud computing data centers operated by companies like Amazon. Revenue from computer servers increased 18% to $2.3 billion.
+
+“We saw strength across geographies, products and sectors,” said Jonathan Schwartz, Sun’s chief executive. “Customers are increasingly turning to Sun to solve their most demanding computing problems.”
+
+Sales in North America, Sun’s biggest market, rose 13% while revenue from the Europe, Middle East and Africa region climbed 22% and from Asia increased 4%.
+
+Sun is making a stronger push into cloud computing, the fast-growing business of providing computer infrastructure and software as a service over the Internet. The company recently introduced new Sparc servers specifically aimed at the cloud computing market and announced deals with several companies to provide the technology infrastructure for their cloud services.
+
+The results provide more evidence that technology spending by businesses and governments has stabilized and is rebounding after last year's slowdown during the recession. “Corporations and governments are again investing in technology infrastructure,” said Crawford Del Prete, an analyst at IDC. “Sun is well positioned to benefit from the renewal in enterprise IT capital expenditures.”  
+
+Sun's shares rose 58 cents, or 3.7%, to $16.23 in after-hours trading. The stock is up 70% so far this year.

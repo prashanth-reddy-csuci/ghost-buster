@@ -1,0 +1,13 @@
+Storage Technology Corp Signs Deal with Swedish Patent Office and in Talks with Chinese Patent Office
+
+Storage Technology Corp (STC), a leader in data storage and management solutions, announced today that it has signed a multi-year licensing agreement with the Swedish Patent and Registration Office (SPRO) to provide data storage infrastructure and software. The deal is estimated to be worth $18 million over 3 years. 
+
+Under the agreement, STC will deploy its FlashArray all-flash storage platform to support the SPRO's data storage needs as it digitizes its records and improves its online services. STC's FlashArray is an enterprise storage system built for high performance, low latency workloads such as the document management system used by the SPRO.
+
+STC's CEO John Thompson said, "We are honored that the Swedish Patent and Registration Office, with its long and prestigious history, has chosen Storage Technology Corp as its trusted data storage partner. Our FlashArray solutions will enable significant improvements in access and delivery of information and services to the SPRO's customers."
+
+The SPRO receives and processes over 100,000 patent, trademark and design applications each year. The conversion of documents and records into digital copies is a major initiative to make the organization more efficient and provide better services to customers. "By modernizing our data storage infrastructure with STC's solutions, we will gain much faster access to information which will translate into a better experience for those who interact with our office," said Eva Hambach, Director General of the Swedish Patent and Registration Office. 
+
+STC is also reportedly in advanced talks with the Chinese Patent and Trademark Office (CPTO) to provide a large-scale storage solution for their nationwide operations. If a deal is signed, it would be a major win for STC as China represents a large untapped market for the data storage industry. The CPTO is aiming to improve its patent granting workflow and make the process more transparent, which would require advanced data storage capabilities to manage the high volume of applications.
+
+STC's data storage and management software, including its InfoGuardian data protection and AtomSphere cloud delivery platforms, have been key differentiators in winning large enterprise clients with mission-critical data needs. However, the company faces intense competition from much larger rivals like Dell EMC, NetApp and Hitachi Vantara. The deals with the SPRO and potentially the CPTO would mark significant milestones for STC in gaining credibility and market share in the enterprise data storage space.

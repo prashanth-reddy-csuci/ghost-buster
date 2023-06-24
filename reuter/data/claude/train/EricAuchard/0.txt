@@ -1,0 +1,13 @@
+Computer Associates to Acquire Cheyenne Software for $1.2 billion
+
+Computer Associates International, Inc. (CA) announced today that it has reached an agreement to acquire Cheyenne Software, Inc. for approximately $1.2 billion in an all-cash transaction. CA, based in Islandia, NY, develops management software and services. Cheyenne Software, based in Roswell, GA, develops data protection and recovery software and services.
+
+The acquisition will allow CA to expand its offerings in the data protection and disaster recovery space. Cheyenne Software is best known for its ARCserve backup and disaster recovery product line which is used by over 60,000 customers. By acquiring Cheyenne, CA will gain over 45% of the Windows NT-based backup and recovery market.  
+
+"The acquisition of Cheyenne Software will strengthen our competitive position in the storage management market and enable us to provide customers with the broadest range of innovative data protection solutions," said Charles B. Wang, chairman and CEO of CA. "Cheyenne's proven solutions, strong customer relationships and highly skilled employees will complement and extend our capabilities."
+
+Under the terms of the agreement, CA will make a cash tender offer to acquire all of the outstanding shares of Cheyenne Software common stock. The offer price represents a premium of approximately 59% over Cheyenne's average closing share price over the last 30 trading days. The transaction, which is subject to regulatory approvals and other customary closing conditions, is expected to close in CA's fiscal 2004 third quarter ending December 31, 2003.
+
+"We are very pleased to join forces with CA, an industry leader dedicated to delivering mission-critical solutions that help organizations maximize the value of their IT investments," said Arnie Bellini, chairman and CEO of Cheyenne Software. "By uniting Cheyenne's proven data protection solutions with CA's solutions, resources and value-added services, we will deliver greater value to our combined customers and gain significant competitive advantage."
+
+Cheyenne will operate as part of CA's Data Management business unit following the completion of the acquisition. CA expects that the transaction will be slightly dilutive to its fiscal 2004 non-GAAP earnings per share, and provide the opportunity for revenue and cost synergies in fiscal 2005 and beyond.

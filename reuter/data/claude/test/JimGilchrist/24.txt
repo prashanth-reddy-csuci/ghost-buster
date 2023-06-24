@@ -1,0 +1,11 @@
+Electronic Document Language Translator Set to Revolutionize Air Cargo Industry Within 18 Months  
+
+An artificial intelligence-powered electronic document language translator is poised to significantly improve efficiency in the air cargo industry. Dubai-based logistics software firm CargoSmart announced today the successful development and testing of its "Smart Doc" tool which can instantly translate shipping documents between Chinese, English, and Arabic.  
+
+The air cargo industry handles over $6 trillion of goods each year, but the process of sorting and moving cargo often requires the exchange of printed shipping documents that can span multiple languages. The need to manually translate these documents leads to delays, errors, and frustrated customers according to industry surveys.   
+
+CargoSmart CEO Steve Siu explained how Smart Doc works: "Our AI software uses machine learning and natural language processing to understand the structure and contents of air waybills, customs forms, and other shipping documents. It can then translate the documents accurately while keeping the original format and text layout. This allows for a seamless exchange of critical paperwork between partners who speak different languages."
+
+Initial testing of Smart Doc with participants like Emirates SkyCargo, Cargolux, and Qatar Airways Cargo led to a near 100% document translation accuracy rate and time savings of up to 4 hours per day according to CargoSmart. The firm expects Smart Doc to be commercially available to all interested air cargo carriers and freight forwarders within the next 18 months.  
+
+The international air cargo industry moves over 50 million metric tons of goods annually, but antiquated manual processes have long hampered its productivity and growth. New digital technologies like artificial intelligence are seen as key to modernizing the industry and addressing challenges from a globalized supply chain. Smart Doc aims to be at the forefront of this digital transformation. As Siu confidently stated, “This is the future of air cargo. The time for AI and automation is now.”

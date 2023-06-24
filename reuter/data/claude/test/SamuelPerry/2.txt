@@ -1,0 +1,23 @@
+Sun Microsystems enters $50 billion mainframe market with Ultra Enterprise 10000 server  
+
+Sun Microsystems today announced its entry into the $50 billion mainframe computer market with the unveiling of its new Ultra Enterprise 10000 server. The Ultra Enterprise 10000 is Sun’s most powerful and scalable server to date, capable of handling thousands of processors and petabytes of data.
+
+“The Ultra Enterprise 10000 ushers in a new era of computing power, availability, and efficiency for mission-critical data centers,” said John Fowler, executive vice president of Sun Microsystems. “This system will enable businesses and governments to run their most data-intensive and business-critical applications with ease while reducing data center costs and environmental impact.”
+
+Mainframe computers are large, powerful machines used by businesses, universities, and governments to run multiple critical operations and process huge amounts of data. They have traditionally been dominated by IBM, with its Z-series line of mainframes. Sun is hoping to provide competition in this market with the Ultra Enterprise 10000, which it has designed to meet the high computing demands required for applications like real-time data analysis, finances, healthcare, and social networking.
+
+The key features of the Ultra Enterprise 10000 include:
+
+•Modular architecture: The system can scale up to 256 eight-core SPARC64 X processors, for a total of 2,048 cores and 32 terabytes of memory. Additional processors and memory can be added while the system is still running.  
+
+•Virtualization: The Ultra Enterprise 10000 supports Solaris zones and can run multiple virtual servers on top of a single system. This enables organizations to consolidate existing servers and reduce costs.
+
+•Resiliency: The system includes multiple levels of redundancy and can withstand individual component failures with no disruption to computing services.  
+
+•Eco-efficiency: Although powerful, the Ultra Enterprise 10000 requires less space, energy, and cooling compared to mainframes. Its eco-efficient design can reduce data center costs by up to 50 percent.
+
+•Seamless data access: Information can be accessed and shared across thousands of cores instantaneously, enabling real-time analysis of massive data sets. 
+
+•Open software: The system runs on the open source Solaris 10 operating system and supports a variety of open software and interfaces. This provides more flexibility and control than the proprietary operating systems used on traditional mainframes.
+
+Pricing for the Ultra Enterprise 10000 starts at $500,000. Sun expects the system to be available in the third quarter of this year. The company hopes the combination of power, value, and environmental friendliness in the Ultra Enterprise 10000 will help make it a viable alternative to the mainframe systems currently dominating the high end of enterprise computing.

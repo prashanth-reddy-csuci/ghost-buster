@@ -1,0 +1,13 @@
+Regulators to Approve New CD-Quality Digital Audio Radio Service for Nationwide Broadcast 
+
+   Federal regulators are poised to approve a new nationwide digital audio radio service that would offer CD-quality sound and the potential for more stations in some markets. The Federal Communications Commission is expected to authorize a technology developed by a company called Jump Technologies that allows for digital transmission of radio signals with minimal interference. 
+
+   Unlike current HD Radio technology, which is built atop traditional FM radio signals, Jump's system would operate on a swath of spectrum in the 1500-megahertz range set aside by the FCC for digital audio broadcasting. That could open up more bandwidth for additional stations in some markets. The new system is also designed to overcome some of the interference issues that have hampered the rollout of HD Radio.
+
+   Jump says its technology will deliver "studiolike audio quality" with minimal dropout or interference, even in dense urban areas or mountainous terrain. The company expects to begin launching stations and receiver equipment as soon as the FCC grants approval, which could come next month.
+
+   Digital radio has been slow to take off in the U.S. despite its promise of better sound and more programming choices. HD Radio, which still has limited market penetration, operates via a hybrid analog-digital broadcast, with stations' primary signals remaining in the traditional FM band. Critics argue this setup introduces too much interference to achieve significantly better audio quality. 
+
+   Australia and much of Western Europe have adopted a different digital radio standard that operates via dedicated spectrum allocations. Jump wants to bring a similar fully digital system to the U.S., starting with a nationwide roll-out of 100 stations in major markets. The company says its technology can operate alongside existing FM stations with minimal interference but will require most listeners to purchase new receivers. 
+
+   Jump's system and proposed station line-up still need final FCC approval. But regulators are eager to foster more digital options for radio to match the broader digital transition under way in television broadcasting. If approved, Jump's new technology and stations would represent the biggest shake-up in American radio since the rise of FM stereo in the 1970s. The prospect of CD-quality sound over the airwaves could entice some listeners to rediscover radio's potential in the streaming era.
