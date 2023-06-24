@@ -1,0 +1,34 @@
+Introduction
+Metals and semiconductors are essential components of electronic devices. Electrical resistance and conductivity are two essential properties of these materials. Electrical resistance refers to the resistance of a material to the flow of electricity, while conductivity refers to the ease with which electricity can flow through a material. Electrical resistance and conductivity are affected by various factors, including temperature, impurities, crystal defects, and magnetic fields. In this essay, we will discuss various factors impacting electrical resistance and conductivity in metals and semiconductors and how they can be measured.
+Factors Affecting Electrical Resistance and Conductivity in Metals
+Temperature
+Temperature plays a vital role in determining electrical conductivity and resistance in metals. When temperature increases, the resistance increases while conductivity decreases. This is because as the temperature increases, the kinetic energy of the atoms in the metal also increases. As a result, the atoms start to vibrate, leading to the collision of electrons with metal atoms. The increased collisions lead to a decrease in the average drift velocity of electrons, resulting in an increase in resistance.
+Impurities
+Impurities in metal can also affect electrical resistance and conductivity. For instance, the addition of impurities such as carbon to metals decreases the electrical conductivity while increasing resistance. This is because such impurities displace some of the original metal atoms, leading to a change in the number of electrons available for conduction. Additionally, impurities can lead to the formation of microstructural defects, leading to a change in the electron scattering rate. As a result, impurities increase the resistance of the metal.
+Crystal defects
+Crystal defects such as vacancies, interstitials, dislocations, and grain boundaries can significantly impact the electrical resistance and conductivity of metals. These defects can increase resistance by making it harder for the electrons to move freely through the crystal. Dislocations, for instance, can lead to a change in the lattice structure and impede the migration of dislocated atoms. As a result, resistance increases. Grain boundaries, on the other hand, can lead to scattering of conduction electrons, and as a result, increase the resistance.
+Magnetic fields
+Finally, magnetic fields can also influence the electrical resistance and conductivity of metals. When a metal is placed in a magnetic field, the free electrons are deflected from their path leading to an increase in resistance. The effect increases with an increase in the strength of the magnetic field.
+Factors Affecting Electrical Resistance and Conductivity in Semiconductors
+Intrinsic Factors
+Intrinsic factors refer to those factors that are inherent in the semiconductor, including the number and mobility of charge carriers, intrinsic doping, and crystal structure.
+Number and mobility of charge carriers
+The number and mobility of charge carriers are vital factors in determining the conductivity and resistance of semiconductors. The number of charge carriers increases with temperature, leading to increased conductivity and decreased resistance. The mobility of charge carriers can also be affected by extrinsic factors such as impurities.
+Intrinsic doping
+Intrinsic doping is a process where impurity atoms are added intentionally to a semiconductor. Intrinsic doping can significantly impact the conductivity and resistance of semiconductors. N-type dopants, such as phosphorus, introduce extra electrons into the conduction band, leading to higher conductivity and lower resistance. On the other hand, P-type dopants such as boron create holes in the valence band, leading to lower conductivity and higher resistance.
+Crystal structure
+The crystal structure of semiconductors also plays a vital role in determining their electrical properties. The structure can be either crystalline or amorphous. Crystalline semiconductors, such as silicon, have well-ordered atoms, leading to increased electrical conductivity and lower electrical resistance. Amorphous semiconductors, on the other hand, have a disordered atomic structure, leading to lower conductivity and higher resistance.
+Extrinsic Factors
+Extrinsic factors are those factors introduced externally, affecting the electrical properties of semiconductors.
+Temperature
+As with metals, temperature also affects the electrical properties of semiconductors. Increasing temperature increases the number of free carriers, leading to increased conductivity and decreased resistance.
+Impurities
+Impurities in semiconductors can have a significant impact on electrical conductivity and resistance. Similar to metals, impurities can introduce additional particles, leading to changes in the electrical properties of semiconductors.
+Measuring Electrical Resistance and Conductivity
+Electrical resistance and conductivity can be measured using various techniques such as four-point probe measurements and Hall Effect measurements.
+Four-point probe measurements
+The four-point probe technique involves passing a constant current through a material, while the potential difference is measured across two points along the path of the current. The four-point configuration ensures that the electrodes' resistance does not affect the measurements, providing accurate and precise results.
+Hall Effect measurements
+The Hall effect measurement technique involves passing a current through a sample while a magnetic field is applied perpendicular to the current. By measuring the voltage drop across the sample, one can calculate the carrier concentration and mobility.
+Conclusion
+In conclusion, electrical resistance and conductivity are essential properties of metals and semiconductors. The factors affecting these electrical properties include temperature, impurities, crystal defects, and magnetic fields. The electrical properties of metals and semiconductors can be measured using various techniques such as four-point probe measurements and Hall effect measurements, providing accurate and precise results. Understanding the factors affecting electrical resistance and conductivity in metals and semiconductors is crucial in designing electronic devices.

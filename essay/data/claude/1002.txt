@@ -1,0 +1,11 @@
+A Winogradsky column is a miniature ecosystem consisting of diverse microbial communities living in stratified yet interdependent zones. The column contains enriched mud and water, as well as added substrates like cellulose, calcium carbonate, and sulphur, which create chemical gradients that support the growth of different bacterial populations at various depths.
+
+The top aerobic zone is exposed to oxygen from the air and contains aerobic bacteria. Common genera found here include Bacillus, Micrococcus, and Flavobacterium. These bacteria break down the organic material added to the column, producing carbon dioxide as a byproduct. 
+
+Below the aerobic zone is the anaerobic zone, which lacks oxygen. Anaerobic bacteria such as Clostridium and Desulfovibrio thrive here by fermenting pyruvate and other organic molecules into volatile fatty acids and hydrogen gas. The anaerobic zone is essential for recycling nutrients and providing substrates for other bacterial populations.
+
+At the next level down is the sulphate reduction zone, populated by sulphate-reducing bacteria such as Desulfovibrio. These bacteria use sulphate as an electron acceptor to anaerobically oxidize organic compounds like volatile fatty acids produced by fermenting bacteria above. The sulphate-reducing bacteria release hydrogen sulphide gas as a byproduct.
+
+The deepest level is the methane production zone, inhabited by methanogenic archaea such as Methanosarcina and Methanobrevibacter. These methane producers generate methane gas by reducing carbon dioxide with hydrogen gas produced by the sulphate-reducing bacteria. The methane escapes from the column as a gas.
+
+The addition of sodium sulphate and salt provides essential nutrients and electron acceptors for the sulphate-reducing bacteria, stimulating their growth. An overabundance of sulphate-reducing bacteria, however, can produce excess hydrogen sulphide, which is toxic to most other bacteria. When the sulphate runs out, the sulphate reducers die off, and the methanogens take over, producing methane from the leftover hydrogen. This balance of populations maintains the health and productivity of the Winogradsky column ecosystem.

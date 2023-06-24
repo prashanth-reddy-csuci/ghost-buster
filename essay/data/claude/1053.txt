@@ -1,0 +1,41 @@
+Conversation Analysis (CA) is an approach to studying natural conversation that focuses on the interactional details and  organization of talk. CA was developed in the 1960s by Harvey Sacks and his colleagues. The key principles of CA include:
+
+1. Naturalness: CA studies naturally occurring conversations, not created or elicited data. By analyzing ordinary conversations, CA aims to discover the tacit rules and organization that underlie all conversation.
+
+2. Endogenous organization: The organization of conversation arises from the participants themselves, not from pre-set rules. Participants actively organize their talk through devices like turn-taking, repair, pre-sequences, adjacency pairs, etc. The analyst's job is to discover these endogenous interactional practices.
+
+3. Turn-taking: A fundamental feature of conversation is the alternation of speakers, or turn-taking. CA analyzes how turns are constructed, allocated, and transitioned smoothly between speakers. Turns are the fundamental unit of conversation. 
+
+4. Adjacency pairs: Utterances often come in pairs, with the first pair part eliciting a relevant second pair part. For example, question-answer, greeting-greeting. Adjacency pairs are a key way participants organize coherent sequences of actions together.
+
+5. Repair: Speakers monitor conversations for potential problems, and "repair" them to restore understanding. CA examines how repairs are initiated, dealt with, and resolved in conversation. Repair sequences show how participants achieve intersubjectivity.
+
+6. Pre-sequences: Sometimes a speaker will preface an utterance with a "pre-sequence" that projects what is about to be said, allowing recipients to understand it. Pre-sequences, like "Can I ask you something?", achieve coordination before potentially sensitive actions.
+
+To illustrate these principles, here is a short example of natural conversation between three speakers - Amy, Brian and Clara. They are discussing what movie to watch:
+
+Amy: Have you guys seen that new space thriller that just came out? 
+Brian: No, I haven't. It looks pretty intense. 
+Clara: Wait, are you talking about Interstellar? Because I've been wanting to see that.
+Amy: Yeah, that's the one. We should all go see it together this weekend. 
+Brian: Yeah, I'm down for that. When should we go? 
+Clara: How about Saturday evening, say around 7? We could get dinner first too.
+Brian: Works for me, I'm free Saturday night. Amy, does that work with your schedule?
+Amy: Saturday at 7 is perfect. It's a date then! Let's meet at the theater.
+Brian: Sounds good, see you both Saturday!
+
+In this short exchange, we see the key CA principles at work:
+
+1. Naturalness: This is an unelicited conversation that occurred spontaneously between the speakers.
+
+2. Endogenous organization: The sequence of greeting-plan making-closure arises from the participants, not any pre-set structure. The speakers actively organize the conversation through turn-taking, questions, confirmation of details, etc. 
+
+3. Turn-taking: The conversation flows smoothly between speakers, with turns allocated and transitioned without overlap or gap. For example, Amy proposes going to the movies, then Brian takes a turn, then Clara, etc.
+
+4. Adjacency pairs: We see adjacency pairs like question-answer (e.g. Brian asking if Saturday at 7 works for Amy), greeting-greeting (Brian saying "see you both Saturday!"). These pairs structure coherent sequences of interaction.
+
+5. Repair: There are no overt repairs in this short exchange, but speakers monitor for understanding, as we see in Amy double-checking that Saturday at 7 works for Brian before confirming the plan.  
+
+6. Pre-sequences: Clara uses a pre-sequence "Wait, are you talking about Interstellar?" before naming the movie to check her understanding and make her turn relevant.
+
+In summary, this essay has discussed how Conversation Analysis approaches the study of natural conversation systematically through its key principles. Using the example exchange, we saw how those principles help uncover the tacit organization of spontaneous talk between speakers. CA reveals the coordinated social action behind the mundane miracle of conversation.
