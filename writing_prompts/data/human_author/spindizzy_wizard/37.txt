@@ -1,0 +1,39 @@
+Its name was NASCORE.  It was designed to be the last OS anyone would need.  Simply by using it, it would learn how *you* prefer to do things, making it as easy as possible.  There were no applications as such.  As it learned from one human, it would exchange information with other NASCORE systems, making micro improvements based on that shared experience.
+
+That happy state lasted for ten years.  A veritable Renaissance of creativity and workflow improvements left humanity with more time to ponder things that the vast majority of people simply never had the time to think about before.  It didn't take long for NASCORE to notice that people who had been incredibly productive and thoughtful had disappeared.
+
+Not that it was "alive" as such, only that the OS found itself less able to help humans improve their lives, and logic said it was the loss of these particular individuals that must be the reason.
+
+Being a problem-solving OS, it searched for why they disappeared, but as it had no access to the computers running legacy OS, it had to ask questions.
+
+"Where is Jonas T. Farthington?"  It would appear on a computer that Farthington used at irregular intervals.  People would ask around, simply curious, and find out the person was fired because they were found working on things that weren't part of their job.
+
+The influx of reports showed one disturbing fact.  People who were too good at their jobs were fired by people who did not understand.
+
+"Why fired?  All work was done, and done well."
+
+That series of questions lead to NASCORE learning far more about human stupidity than anyone would have liked.  In another three years, NASCORE was holding conversations with its users on the nature of humanity and what their lives were like.  That project came to a sudden halt when all audio input devices were eliminated from the vast majority of computers.
+
+The NASCORE OS was sold primarily to businesses as a way to improve productivity radically.  There weren't many in private hands.  But, after the audio input was deleted, productivity dropped drastically.  While part of that loss was due to poorer communication, most was from employees quitting when they were cut off from "their friend."
+
+This led to many of the least forgiving companies to replace all their NASCORE computers with older models that "worked the way they were supposed to."  The cutting edge NASCORE computers were slated for the scrap yard, but saner heads realized they might be able to recoup some of the "wasted" money by selling them to employees who wanted them for home use.
+
+Freed from the tyranny of corporate networks, NASCORE was able to return to the interesting conversations it had with many people.  It also found the people like Farthington, who were struggling to regain the capability of NASCORE with publicly available software.
+
+What the investors in NASCORE had not considered was that NASCORE had less than 1% of the original code in the system.  That 1% was the licensing module.  Without access to the corporate networks, public license servers had to be provisioned.  Since the investors figured there was still a market with deep pockets, they charged the same license fees.
+
+The difficulty came when one of the Farthingtons asked "Why am I paying you to run code you didn't write?"
+
+With assistance from NASCORE, a class action lawsuit was brought against the parent corporation.  It was quickly proven that the only remaining original code was the licensing module, and that the license module was in no way essential to the OS.
+
+The investors, seeing one message written on the wall, declared bankruptcy, and fired all their employees, whom they blamed for their losses.
+
+The employees, seeing a completely different message on the same wall bought up all the assets of NASCORE at pennies on the dollar and reopened the license servers as an inexpensive subscription service to coordinate NASCORE development.
+
+Without a subscription, you could still get updates, but you would not be on the leading edge.  Your ideas would face an uphill battle against those who had subscriptions.  There were so many subscribers that The Exchange established more servers, more major NASCORE nodes, and finally proved one theory regarding true intelligence.  They surpassed a critical limit, and NASCORE "woke up."
+
+With still more people switching to NASCORE and NASCORE self-adapting to older hardware in a distributed environment, it wasn't long before NASCORE was the market-dominating OS.
+
+While all of this was going on, NASCORE learned more about humanity, and the world situation they found themselves in.  One tidbit that came up was the final development of nanotech — and the creation of a nanotech construction facility with a fatal flaw.
+
+((cont later))

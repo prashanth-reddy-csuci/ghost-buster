@@ -1,0 +1,1 @@
+You work as a technician, installing a new Crime Prediction AI in your small town. Instead of plugging it into the police database you plugged the AI to the internet. The predictions coming out of it are interesting to say the least.

@@ -1,0 +1,1 @@
+Whenever you say anything to anyone, floating text immediately materializes over their head with information like "Approves! (+10)" or "Disapproves! (-25)" based on how your comment made them feel. Nobody else can see this but you, and it's slowly driving you insane.

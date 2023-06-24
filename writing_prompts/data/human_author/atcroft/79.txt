@@ -1,0 +1,13 @@
+Actually, shift+enter did not work for me, but the following did: place two normal spaces after a line to prevent it from being run together.
+
+No space suffix:
+
+Line 1, no space
+Line 2, no space
+
+Space suffix:  
+
+Line 1, 2-space suffix  
+Line 2, 2-space suffix  
+
+Hope that helps.
