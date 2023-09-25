@@ -1,0 +1,18 @@
+started:  2023-09-10 23:17:46.241689
+Tokenizing corpus...
+
+Training n-gram model...
+Tokenizing corpus...
+
+Training n-gram model...
+Loading logprobs into memory
+
+Total # of Features: 19635.
+Sampling 5 features:
+ada-logprobs v-sub davinci-logprobs v-div unigram-logprobs v-sub davinci-logprobs s-avg
+trigram-logprobs v-div unigram-logprobs v-mul trigram-logprobs v-add davinci-logprobs s-var
+trigram-logprobs v-div ada-logprobs v-< davinci-logprobs s-avg-top-25
+unigram-logprobs v-add ada-logprobs v-div unigram-logprobs v-> ada-logprobs s-var
+trigram-logprobs v-< ada-logprobs v-div trigram-logprobs v-> davinci-logprobs s-l2
+
+Generating datasets...
